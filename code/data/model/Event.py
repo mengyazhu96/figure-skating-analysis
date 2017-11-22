@@ -1,3 +1,4 @@
+from bs4 import BeautifulSoup
 from lxml import html, etree
 import requests
 import subprocess
@@ -25,53 +26,34 @@ class Event:
 
     def get_event_info(self, fetch_files=False):
         page = requests.get(self.url)
-        try:
-            tree = html.fromstring(page.content)
-        except etree.ParserError:
-            print 'Event not found: % s' % event
-            return
-
-        if not list(tree.iter('title')):
-            print 'Event not found: % s' % event
-            return
-        else:
-            print list(tree.iter('title'))[0].text
-
-        # Drill down to the table part.
-        table = tree.getchildren()[1].getchildren()[2].getchildren()
-        elts = self._flatten_html_children(table)
-        elts = self._flatten_html_children(elts)
-        elts = self._flatten_html_children(elts)
-        elts = self._flatten_html_children(elts)
-        
-        # 12 rows of actual table: cut out header and juniors
-        rows = elts[2].getchildren()[0].getchildren()[1:13]
-
+        soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []
-        for i, discipline_type in enumerate(list(DisciplineType)):
-            
-            discipline = Discipline(self.season, self, discipline_type)
-            
-            # Get entries and results pages.
-            entries, results = self._flatten_html_children(rows[i * 3])
-            discipline.entries_url = self.url + entries.attrib['href']
-            discipline.results_url = self.url + results.attrib['href']
-            if fetch_files:
-                discipline.get_entries_results_pages()
-            
-            # Get segment files.
-            for prog in (SegmentType.short, SegmentType.free):
-                j = prog.value
-                panel, detailed, scorecards = self._flatten_html_children(rows[i * 3 + j + 1])
-                segment = Segment(self.url + scorecards.attrib['href'], self.season, self, discipline_type, prog)
-                
-                if fetch_files:
-                    segment.get_page()
-                discipline.segments.append(segment)
 
-                panel = JudgePanel(self.url + panel.attrib['href'], self.season, self, discipline_type, segment)                
-                if fetch_files:
-                    panel.get_page()
+        links = soup.find_all('a')
+        num_links = len(links)
+        cur_link = 0
+        for discipline_type in list(DisciplineType):
+            discipline = Discipline(self.season, self, discipline_type)
+            while cur_link < num_links:
+                link = links[cur_link]
+                if not link.text:
+                    cur_link += 1
+                    continue
+                href = link['href']
+                if 'Entries' in link.text and discipline.entries_url is not None:
+                    break
+                elif 'Entries' in link.text:
+                    discipline.entries_url = self.url + href
+                elif 'Result' in link.text:
+                    discipline.results_url = self.url + href
+                elif 'Panel' in link.text:
+                    discipline.panel_urls.append(self.url + href)
+                elif 'Scores' in link.text:
+                    discipline.score_urls.append(self.url + href)
+                cur_link += 1
+            discipline.create_segments()
+            if fetch_files:
+                discipline
             self.disciplines.append(discipline)
 
     def _flatten_html_children(self, elts):

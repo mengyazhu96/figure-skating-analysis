@@ -2,6 +2,7 @@ import csv
 from enum import Enum
 import re
 
+from Judge import JudgePanel
 from Scorecard import Scorecard
 from Skater import Skater
 from util import get_fpath, get_page
@@ -28,7 +29,7 @@ deduction_re = re.compile('Deductions:\s+(\S+: -\d.\d\d[^-]*)+')
 
 
 class Segment:
-    def __init__(self, url, season, event, discipline, segment):
+    def __init__(self, url, season, event, discipline, segment, panel_url):
         self.url = url  # url to scores
         self.season = season
         self.event = event
@@ -41,7 +42,7 @@ class Segment:
         self.csv_fname = self.fname + '.csv'
         self.fpath = get_fpath(season, event, self.pdf_fname)
         self.csv_path = get_fpath(season, event, self.csv_fname)
-        self.panel = None    
+        self.panel = JudgePanel(panel_url, self.season, self.event, self.discipline, self)
         self.scorecards = []
         
         num_judges = '9'
@@ -64,6 +65,7 @@ class Segment:
 
     def get_page(self):
         get_page(self.url, self.season, self.event, self.pdf_fname)
+        self.panel.get_page()
     
     def get_raw_csv_rows(self):
         rows = []
