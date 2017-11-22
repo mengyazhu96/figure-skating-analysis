@@ -32,5 +32,9 @@ class Season:
 
         self.events = [Event(self, event_name) for event_name in event_names]
 
+    def fetch_info(self, fetch_files=False):
+        for event in self.events:
+            event.fetch_info(fetch_files)
+
     def __repr__(self):
         return '\'' + self.year[:2] + '-\'' + self.year[2:]

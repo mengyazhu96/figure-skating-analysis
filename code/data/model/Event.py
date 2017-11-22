@@ -1,10 +1,9 @@
 from bs4 import BeautifulSoup
-from lxml import html, etree
 import requests
 import subprocess
 
 from Discipline import Discipline, DisciplineType
-from Judge import JudgePanel
+from Panel import Panel
 from Segment import Segment, SegmentType
 from util import get_page
 
@@ -24,7 +23,7 @@ class Event:
     def pdfs_to_csvs(self):
         subprocess.Popen('java -jar ' + tabula_path + ' -p all -b ' + self.dirpath, shell=True)
 
-    def get_event_info(self, fetch_files=False):
+    def fetch_info(self, fetch_files=False):
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []
@@ -53,12 +52,5 @@ class Event:
                 cur_link += 1
             discipline.create_segments()
             if fetch_files:
-                discipline
+                discipline.get_page()
             self.disciplines.append(discipline)
-
-    def _flatten_html_children(self, elts):
-        children = []
-        for elt in elts:
-            for child in elt.getchildren():
-                children.append(child)
-        return children

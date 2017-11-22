@@ -2,7 +2,7 @@ import csv
 from enum import Enum
 import re
 
-from Judge import JudgePanel
+from Panel import Panel
 from Scorecard import Scorecard
 from Skater import Skater
 from util import get_fpath, get_page
@@ -42,24 +42,9 @@ class Segment:
         self.csv_fname = self.fname + '.csv'
         self.fpath = get_fpath(season, event, self.pdf_fname)
         self.csv_path = get_fpath(season, event, self.csv_fname)
-        self.panel = JudgePanel(panel_url, self.season, self.event, self.discipline, self)
+        self.panel = Panel(panel_url, self.season, self.event, self.discipline, self)
         self.scorecards = []
         
-        num_judges = '9'
-        self.elt_re = re.compile('(\d)\s*' +                  # element order
-                                 '(\S+)\s*' +                 # element name
-                                 '(\D*?)\s*' +                # info (i.e. UR)
-                                 points + '\s*' +             # base value
-                                 '(x?)\s*' +                  # bonus marker
-                                 '(-?\d.\d\d)\s*' +           # goe
-                                 '((?:-?\d\s*|-){' + num_judges + '})\s*' +  # goes
-                                 '(\d?\d.\d\d)')              # element score
-
-        self.component_re = re.compile('(\D+?)\s*' +          # component name
-                                       '(\d.\d\d)\s*' +       # factor
-                                       '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
-                                       '(\d?\d.\d\d)')        # aggregated judges marks
-
     def __repr__(self):
         return self.event.name + ' ' + self.name
 
@@ -77,6 +62,22 @@ class Segment:
     
     def parse_raw_csv(self):
         assert not self.scorecards
+
+        num_judges = str(self.panel.num_judges)
+        elt_re = re.compile('(\d)\s*' +                  # element order
+                            '(\S+)\s*' +                 # element name
+                            '(\D*?)\s*' +                # info (i.e. UR)
+                            points + '\s*' +             # base value
+                            '(x?)\s*' +                  # bonus marker
+                            '(-?\d.\d\d)\s*' +           # goe
+                            '((?:-?\d\s*|-){' + num_judges + '})\s*' +  # goes
+                            '(\d?\d.\d\d)')              # element score
+
+        component_re = re.compile('(\D+?)\s*' +          # component name
+                                  '(\d.\d\d)\s*' +       # factor
+                                  '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
+                                  '(\d?\d.\d\d)')        # aggregated judges marks
+
         rows = self.get_raw_csv_rows()
         skater = None
         scorecard = None
@@ -85,8 +86,8 @@ class Segment:
             line = line.strip()
             
             skater_match = skater_re.match(line)
-            elt_match = self.elt_re.match(line)
-            component_match = self.component_re.match(line)
+            elt_match = elt_re.match(line)
+            component_match = component_re.match(line)
             
             # Skater + summary info.
             if skater_match:
