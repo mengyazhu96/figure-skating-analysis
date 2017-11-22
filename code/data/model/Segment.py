@@ -17,7 +17,7 @@ points = '(\d\d?\d?.\d\d)'
 skater_re = re.compile('(\d+)\s*' +              # rank
                        '(\D+ \D+?)\s*' +         # skater name
                        '([A-Z][A-Z][A-Z])\s*' +  # country
-                       '(\d\d?)\s*' +            # starting number
+                       '([12]?\d)\s*' +            # starting number
                        '(\d\d\d?.\d\d)\s*' +     # total score
                        points + '\s*' +          # tes
                        points + '\s*' +          # pcs
@@ -36,14 +36,17 @@ class Segment:
         self.discipline = discipline
         self.type = segment
         self.name = discipline.name + '_' + segment.name
+        self.panel = Panel(panel_url, self.season, self.event, self.discipline, self)
+        self.scorecards = []
         
+        # Associated file names and paths.
         self.fname = discipline.name + '_' + segment.name
         self.pdf_fname = self.fname + '.pdf'
         self.csv_fname = self.fname + '.csv'
+        self.parsed_csv_fname = self.fname + '_parsed.csv'
         self.fpath = get_fpath(season, event, self.pdf_fname)
         self.csv_path = get_fpath(season, event, self.csv_fname)
-        self.panel = Panel(panel_url, self.season, self.event, self.discipline, self)
-        self.scorecards = []
+        self.parsed_csv_fpath = get_fpath(season, event, self.parsed_csv_fname)
         
     def __repr__(self):
         return self.event.name + ' ' + self.name
@@ -64,7 +67,7 @@ class Segment:
         assert not self.scorecards
 
         num_judges = str(self.panel.num_judges)
-        elt_re = re.compile('(\d)\s*' +                  # element order
+        elt_re = re.compile('(\d\d?)\s+' +               # element order
                             '(\S+)\s*' +                 # element name
                             '(\D*?)\s*' +                # info (i.e. UR)
                             points + '\s*' +             # base value
@@ -81,7 +84,7 @@ class Segment:
         rows = self.get_raw_csv_rows()
         skater = None
         scorecard = None
-        
+        self.mistakes = []
         for line in rows:
             line = line.strip()
             
@@ -92,6 +95,7 @@ class Segment:
             # Skater + summary info.
             if skater_match:
                 if scorecard:
+                    self.mistakes += scorecard.check_total()
                     self.scorecards.append(scorecard)
                     scorecard = None
                 
@@ -123,6 +127,11 @@ class Segment:
                     scorecard.aggregate_pcs(line[-5:])
                 elif deduction_match:
                     scorecard.add_deduction(deduction_match)
-        
+
         if scorecard:
+            self.mistakes += scorecard.check_total()
             self.scorecards.append(scorecard)
+
+    # def write_to_csv(self):
+    #     if not self.scorecards:
+    #         self.parse_raw_csv()
