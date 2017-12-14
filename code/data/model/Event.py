@@ -53,4 +53,8 @@ class Event:
             discipline.create_segments()
             if fetch_files:
                 discipline.get_page()
+            for segment in discipline.segments:
+                segment.panel.parse_html()
             self.disciplines.append(discipline)
+        if fetch_files:
+            self.pdfs_to_csvs()

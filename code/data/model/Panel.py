@@ -14,9 +14,8 @@ class Panel:
         self.event = event
         self.discipline = discipline
         self.segment = segment
-        self.html_fname = segment.name + '_panel.html'
-        self.fpath = get_fpath(season, event, self.html_fname)
-        self.parse_html()
+        self.fname = segment.name + '_panel.html'
+        self.fpath = get_fpath(season, event, self.fname)
 
     def parse_html(self):
         with open(self.fpath, 'rb') as f:

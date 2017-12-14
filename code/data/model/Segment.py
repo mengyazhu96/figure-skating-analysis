@@ -17,7 +17,7 @@ points = '(\d\d?\d?.\d\d)'
 skater_re = re.compile('(\d+)\s*' +              # rank
                        '(\D+ \D+?)\s*' +         # skater name
                        '([A-Z][A-Z][A-Z])\s*' +  # country
-                       '([12]?\d)\s*' +            # starting number
+                       '([123]?\d)\s*' +            # starting number
                        '(\d\d\d?.\d\d)\s*' +     # total score
                        points + '\s*' +          # tes
                        points + '\s*' +          # pcs
@@ -54,7 +54,7 @@ class Segment:
     def get_page(self):
         get_page(self.url, self.season, self.event, self.pdf_fname)
         self.panel.get_page()
-    
+
     def get_raw_csv_rows(self):
         rows = []
         with open(self.csv_path, 'rb') as f:
