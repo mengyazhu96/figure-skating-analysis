@@ -5,7 +5,7 @@ import re
 from Panel import Panel
 from Scorecard import Scorecard
 from Skater import Skater
-from util import get_fpath, get_page
+from util import clear_and_make_dir, get_fpath, get_page
 
 class SegmentType(Enum):
     short = 0
@@ -132,6 +132,55 @@ class Segment:
             self.mistakes += scorecard.check_total()
             self.scorecards.append(scorecard)
 
-    # def write_to_csv(self):
-    #     if not self.scorecards:
-    #         self.parse_raw_csv()
+    def write_to_csv(self):
+        if not self.scorecards:
+            self.parse_raw_csv()
+
+        directory = get_fpath(self.season, self.event, self.name)
+        clear_and_make_dir(directory)
+
+        judge_numbers = list(xrange(1, self.panel.num_judges + 1))
+        judge_space = ['' for _ in xrange(self.panel.num_judges)]
+
+        for scorecard in self.scorecards:
+            fname = '{0}/{1}_{2}.csv'.format(directory, scorecard.rank,
+                                             scorecard.skater.name.replace(' ', '_'))
+            with open(fname, 'w') as csvfile:
+                writer = csv.writer(csvfile)
+
+                writer.writerow(['Rank', 'Name', 'Nation',
+                                 'Starting Number', 'Total Segment Score',
+                                 'Total Element Score',
+                                 'Total Program Component Score (factored)',
+                                 'Total Deductions'])
+                writer.writerow([scorecard.rank, scorecard.skater.name, scorecard.skater.country,
+                                 scorecard.starting_number, scorecard.total_score,
+                                 scorecard.tes,
+                                 scorecard.pcs,
+                                 scorecard.total_deductions])
+
+                # Write technical scores.
+                writer.writerow(['#', 'Executed Elements', 'Info', 'Base Value', 'Bonus', 'GOE'] + 
+                                judge_numbers + ['Ref', 'Scores of Panel'])
+                for elt in scorecard.elements:
+                    writer.writerow([elt.number, elt.name, elt.info, elt.base_value, elt.bonus, elt.goe] +
+                                     elt.goes +
+                                     ['', elt.points])
+                writer.writerow(['', '', '', scorecard.base_value, '', ''] +
+                                judge_space + ['', scorecard.tes])
+
+                # Write component scores.
+                writer.writerow(['', 'Program Components', '', '', '', 'Factor'])
+                for comp in scorecard.components:
+                    writer.writerow(['', comp.name, '', '', '', comp.factor] +
+                                    comp.scores + ['', comp.points])
+                writer.writerow(['', '', '', '', '', ''] + judge_space + ['', scorecard.pcs])
+
+                for reason, value in scorecard.deductions.iteritems():
+                    writer.writerow(['Deduction', reason, value])
+
+        # Rank, Name, Nation, Starting Number, Total Score, TES, PCS, Total Deductions
+        # Number, Executed Elements, Info, Base Value, Bonus, GOE, 1 - num_judges, ref, score
+        # PCS, Component Name, empty, empty, Factor, 1 - num_judges, empty, score
+        # Deduction: point value
+
