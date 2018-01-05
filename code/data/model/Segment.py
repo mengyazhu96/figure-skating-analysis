@@ -1,9 +1,10 @@
 import csv
 from enum import Enum
+import os
 import re
 
 from Panel import Panel
-from Scorecard import Scorecard
+from Scorecard import Element, ProgramComponent, Scorecard
 from Skater import Skater
 from util import clear_and_make_dir, get_fpath, get_page
 
@@ -47,6 +48,7 @@ class Segment:
         self.fpath = get_fpath(season, event, self.pdf_fname)
         self.csv_path = get_fpath(season, event, self.csv_fname)
         self.parsed_csv_fpath = get_fpath(season, event, self.parsed_csv_fname)
+        self.directory = get_fpath(self.season, self.event, self.name)
         
     def __repr__(self):
         return self.event.name + ' ' + self.name
@@ -66,7 +68,7 @@ class Segment:
     def parse_raw_csv(self):
         assert not self.scorecards
 
-        num_judges = str(self.panel.num_judges)
+        num_judges = str(self.num_judges)
         elt_re = re.compile('(\d\d?)\s+' +               # element order
                             '(\S+)\s*' +                 # element name
                             '(\D*?)\s*' +                # info (i.e. UR)
@@ -107,7 +109,7 @@ class Segment:
                 scorecard = Scorecard(self.url, self.season, self.event, self.discipline, self, skater,
                                       skater_info['rank'], skater_info['starting_number'],
                                       skater_info['total_score'], skater_info['tes'],
-                                      skater_info['pcs'],skater_info['deductions'])
+                                      skater_info['pcs'], skater_info['deductions'])
             # A technical element.
             elif elt_match:
                 scorecard.add_element(elt_match)
@@ -136,14 +138,13 @@ class Segment:
         if not self.scorecards:
             self.parse_raw_csv()
 
-        directory = get_fpath(self.season, self.event, self.name)
-        clear_and_make_dir(directory)
+        clear_and_make_dir(self.directory)
 
-        judge_numbers = list(xrange(1, self.panel.num_judges + 1))
-        judge_space = ['' for _ in xrange(self.panel.num_judges)]
+        judge_numbers = list(xrange(1, self.num_judges + 1))
+        judge_space = ['' for _ in xrange(self.num_judges)]
 
         for scorecard in self.scorecards:
-            fname = '{0}/{1}_{2}.csv'.format(directory, scorecard.rank,
+            fname = '{0}/{1}_{2}.csv'.format(self.directory, scorecard.rank,
                                              scorecard.skater.name.replace(' ', '_'))
             with open(fname, 'w') as csvfile:
                 writer = csv.writer(csvfile)
@@ -184,3 +185,55 @@ class Segment:
         # PCS, Component Name, empty, empty, Factor, 1 - num_judges, empty, score
         # Deduction: point value
 
+    def read_from_csv(self):
+        if not os.path.isdir(self.directory):
+            self.write_to_csv()
+            return
+
+        for fname in os.listdir(self.directory):
+            with open(self.directory + '/' + fname) as csvfile:
+                reader = csv.reader(csvfile)
+                reader.next()  # Skip labels row
+
+                rank, name, nation, starting_number, total_score, tes, pcs, total_deductions = reader.next()
+                skater = Skater(name, nation, self.discipline)
+                scorecard = Scorecard(self.url, self.season, self.event,
+                                      self.discipline, self, skater,
+                                      rank, starting_number, total_score,
+                                      tes, pcs, total_deductions)
+
+                reader.next()  # Skip elements label row
+                elt_row = reader.next()
+                while elt_row[0].isdigit():
+                    number = int(elt_row[0])
+                    name = elt_row[1]
+                    info = elt_row[2]
+                    base_value = float(elt_row[3])
+                    bonus = bool(elt_row[4])
+                    goe = float(elt_row[5])
+                    goes = map(float, elt_row[6:6+self.num_judges])
+                    points = float(elt_row[-1])
+                    scorecard.elements.append(
+                        Element(number, name, info, base_value, bonus, goe, goes, points))
+                    elt_row = reader.next()
+                scorecard.base_value = float(elt_row[3])
+                scorecard.tes = float(elt_row[-1])
+
+                reader.next()  # Skip PCS label row
+                comp_row = reader.next()
+                while comp_row[1]:
+                    name = comp_row[1]
+                    factor = float(comp_row[5])
+                    scores = map(float, comp_row[6:6+self.num_judges])
+                    points = float(comp_row[-1])
+                    scorecard.components.append(
+                        ProgramComponent(name, factor, scores, points))
+                    comp_row = reader.next()
+                scorecard.pcs = float(comp_row[-1])
+
+                for deduction_row in reader:
+                    _, reason, value = deduction_row
+                    scorecard.deductions[reason] = float(value)
+
+                self.scorecards.append(scorecard)
+        self.scorecards.sort(key=lambda scorecard: scorecard.rank)

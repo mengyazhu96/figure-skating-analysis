@@ -55,6 +55,7 @@ class Event:
                 discipline.get_page()
             for segment in discipline.segments:
                 segment.panel.parse_html()
+                segment.num_judges = segment.panel.num_judges
             self.disciplines.append(discipline)
         if fetch_files:
             self.pdfs_to_csvs()
