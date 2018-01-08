@@ -18,7 +18,7 @@ points = '(\d\d?\d?.\d\d)'
 skater_re = re.compile('(\d+)\s*' +              # rank
                        '(\D+ \D+?)\s*' +         # skater name
                        '([A-Z][A-Z][A-Z])\s*' +  # country
-                       '([123]?\d)\s*' +            # starting number
+                       '([123]?\d)\s*' +         # starting number
                        '(\d\d\d?.\d\d)\s*' +     # total score
                        points + '\s*' +          # tes
                        points + '\s*' +          # pcs
@@ -62,7 +62,7 @@ class Segment:
         with open(self.csv_path, 'rb') as f:
             reader = csv.reader(f)
             for row in reader:
-                rows.append(''.join(row))
+                rows.append(' '.join(row))
         return rows
     
     def parse_raw_csv(self):
@@ -145,7 +145,7 @@ class Segment:
 
         for scorecard in self.scorecards:
             fname = '{0}/{1}_{2}.csv'.format(self.directory, scorecard.rank,
-                                             scorecard.skater.name.replace(' ', '_'))
+                                             scorecard.skater.name.replace(' / ', '_').replace(' ', '_'))
             with open(fname, 'w') as csvfile:
                 writer = csv.writer(csvfile)
 
