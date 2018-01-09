@@ -12,6 +12,10 @@ def clear_and_make_dir(target_dir):
         shutil.rmtree(target_dir)
     os.makedirs(target_dir)
 
+# Convert string to float, allowing for commas.
+def float_of(str_float):
+    return float(str_float.replace(',', '.'))
+
 def get_fpath(season, event, fname):
     return season.year + '/' + event.name + '/' + fname
 

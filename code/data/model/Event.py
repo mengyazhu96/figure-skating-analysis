@@ -23,6 +23,11 @@ class Event:
     def pdfs_to_csvs(self):
         subprocess.Popen('java -jar ' + tabula_path + ' -p all -b ' + self.dirpath, shell=True)
 
+    def parse_csvs(self):
+        for discipline in self.disciplines:
+            for segment in discipline.segments:
+                segment.read_from_csv()
+
     def fetch_info(self, fetch_files=False):
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -49,6 +54,8 @@ class Event:
                     discipline.panel_urls.append(self.url + href)
                 elif 'Scores' in link.text:
                     discipline.score_urls.append(self.url + href)
+                    if 'Preliminary' in href:  # Skip over preliminary rounds.
+                        discipline = Discipline(self.season, self, discipline_type)
                 cur_link += 1
             discipline.create_segments()
             if fetch_files:

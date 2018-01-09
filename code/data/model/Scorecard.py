@@ -1,6 +1,8 @@
 from collections import namedtuple
 import re
 
+from util import float_of
+
 Element = namedtuple('Element', ['number',       # order in program
                                  'name',         # e.g. 3A
                                  'info',         # e.g. UR
@@ -26,10 +28,10 @@ class Scorecard:
         self.skater = skater
         self.rank = int(rank)
         self.starting_number = int(starting_number)
-        self.tes = float(tes)
-        self.pcs = float(pcs)
-        self.total_deductions = float(deductions)
-        self.total_score = float(total_score)
+        self.tes = float_of(tes)
+        self.pcs = float_of(pcs)
+        self.total_deductions = float_of(deductions)
+        self.total_score = float_of(total_score)
         
         self.elements = []
         self.components = []
@@ -44,9 +46,9 @@ class Scorecard:
     def add_element(self, elt_match):
         number, name, info, base_value, bonus, goe, goes, points = elt_match.groups()
         number = int(number)
-        base_value = float(base_value)
+        base_value = float_of(base_value)
         bonus = bonus == 'x'
-        goe = float(goe)
+        goe = float_of(goe)
         
         # Split out individual judges' GOEs
         goe_re = re.compile('(-?[0123]\s*|-\s*)')
@@ -55,19 +57,19 @@ class Scorecard:
             raise Exception(goes)
         goes = map(int, goe_match)
         
-        points = float(points)
+        points = float_of(points)
         self.elements.append(Element(number, name, info, base_value, bonus, goe, goes, points))
 
     def add_component(self, component_match):
         name, factor, scores, points = component_match.groups()
-        factor = float(factor)
+        factor = float_of(factor)
         comp_mark_re = re.compile('(\d?\d.\d\d\s*)')
         comp_match = comp_mark_re.findall(scores)
         if not comp_match:
             raise Exception(scores)
-        scores = map(float, comp_match)
+        scores = map(lambda comp: float_of(comp), comp_match)
         
-        points = float(points)
+        points = float_of(points)
         self.components.append(ProgramComponent(name, factor, scores, points))
 
     def add_deduction(self, deduction_match):
@@ -78,12 +80,12 @@ class Scorecard:
             if fall_re.match(value):
                 value, num_falls = fall_re.match(value).groups()
                 reason += num_falls
-            value = float(value)
+            value = float_of(value)
             self.deductions[reason] = value
     
     def aggregate_elements(self, tes_match):
         mistakes = []
-        self.base_value, tes = map(float, tes_match.groups())
+        self.base_value, tes = map(float_of, tes_match.groups())
         self.goe_total = sum([elt.goe for elt in self.elements])
         for (num1, num2, description) in (
             (sum([elt.base_value for elt in self.elements]), self.base_value, 'base value'),
@@ -99,7 +101,7 @@ class Scorecard:
                         'bv + goe = elt points ' + str(i+1))
 
     def aggregate_pcs(self, pcs):
-        self.pcs = float(pcs)
+        self.pcs = float_of(pcs)
         pcs_count = 0.
         for component in self.components:
             points = (sum(component.scores) - min(component.scores) - max(component.scores)) / (len(component.scores) - 2)
