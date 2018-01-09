@@ -39,9 +39,9 @@ class Season:
                 continue
             event.fetch_info(fetch_files)
 
-    def load_scores(self):
+    def load_scores(self, reparse=False):
         for event in self.events:
-            event.parse_csvs()
+            event.parse_csvs(reparse)
 
     def __repr__(self):
         return '\'' + self.year[:2] + '-\'' + self.year[2:]

@@ -23,9 +23,11 @@ class Event:
     def pdfs_to_csvs(self):
         subprocess.Popen('java -jar ' + tabula_path + ' -p all -b ' + self.dirpath, shell=True)
 
-    def parse_csvs(self):
+    def parse_csvs(self, reparse=False):
         for discipline in self.disciplines:
             for segment in discipline.segments:
+                if reparse:
+                    segment.write_to_csv()
                 segment.read_from_csv()
 
     def fetch_info(self, fetch_files=False):

@@ -1,0 +1,3 @@
+fc2015 men_free
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 45.45, 47.45 != base value
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 38.36, 40.36 != sum of elts = tes

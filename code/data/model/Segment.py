@@ -6,7 +6,7 @@ import re
 from Panel import Panel
 from Scorecard import Element, ProgramComponent, Scorecard
 from Skater import Skater
-from util import clear_and_make_dir, get_fpath, get_page
+from util import clear_and_make_dir, float_of, get_fpath, get_page
 
 class SegmentType(Enum):
     short = 0
@@ -25,7 +25,7 @@ skater_re = re.compile('(\d+)\s*' +              # rank
                        '(-?\d.\d\d)')            # deductions
 tes_re = re.compile('^' + points + '\s*' +       # total base value
                     points + '\s*$')             # total tes
-deduction_re = re.compile('Deductions:\s+(\S+: -\d.\d\d[^-]*)+')
+deduction_re = re.compile('[^-\d:]+: -\d.\d\d')
 # pcs_re = re.compile('Program\s+Component\D*' + points)
 
 
@@ -76,11 +76,15 @@ class Segment:
                             '(x?)\s*' +                  # bonus marker
                             '(-?\d.\d\d)\s*' +           # goe
                             '((?:-?\d\s*|-){' + num_judges + '})\s*' +  # goes
+                            '(?:-\s*)*\s*'               # why on earth is this here
+                                                         # see gpusa2010, gpchn2014
                             '(\d?\d.\d\d)')              # element score
 
         component_re = re.compile('(\D+?)\s*' +          # component name
                                   '(\d.\d\d)\s*' +       # factor
                                   '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
+                                  '(?:-\s*)*\s*'         # why on earth is this here
+                                                         # see gpusa2010
                                   '(\d?\d.\d\d)')        # aggregated judges marks
 
         rows = self.get_raw_csv_rows()
@@ -124,15 +128,20 @@ class Segment:
 
             # Bottom of the scorecard, either PCS summary or deductions.
             elif scorecard and len(scorecard.components) == 5:
-                deduction_match = deduction_re.match(line)
                 if 'Program Component' in line:
                     scorecard.aggregate_pcs(line[-5:])
-                elif deduction_match:
-                    scorecard.add_deduction(deduction_match)
+                elif 'Deduction' in line:
+                    scorecard.add_deduction(deduction_re.findall(line))
 
         if scorecard:
             self.mistakes += scorecard.check_total()
             self.scorecards.append(scorecard)
+
+        if self.mistakes:
+            print self
+            for mistake in self.mistakes:
+                print mistake
+            print
 
     def write_to_csv(self):
         if not self.scorecards:
@@ -208,32 +217,32 @@ class Segment:
                     number = int(elt_row[0])
                     name = elt_row[1]
                     info = elt_row[2]
-                    base_value = float(elt_row[3])
+                    base_value = float_of(elt_row[3])
                     bonus = bool(elt_row[4])
-                    goe = float(elt_row[5])
-                    goes = map(float, elt_row[6:6+self.num_judges])
-                    points = float(elt_row[-1])
+                    goe = float_of(elt_row[5])
+                    goes = map(float_of, elt_row[6:6+self.num_judges])
+                    points = float_of(elt_row[-1])
                     scorecard.elements.append(
                         Element(number, name, info, base_value, bonus, goe, goes, points))
                     elt_row = reader.next()
-                scorecard.base_value = float(elt_row[3])
-                scorecard.tes = float(elt_row[-1])
+                scorecard.base_value = float_of(elt_row[3])
+                scorecard.tes = float_of(elt_row[-1])
 
                 reader.next()  # Skip PCS label row
                 comp_row = reader.next()
                 while comp_row[1]:
                     name = comp_row[1]
-                    factor = float(comp_row[5])
-                    scores = map(float, comp_row[6:6+self.num_judges])
-                    points = float(comp_row[-1])
+                    factor = float_of(comp_row[5])
+                    scores = map(float_of, comp_row[6:6+self.num_judges])
+                    points = float_of(comp_row[-1])
                     scorecard.components.append(
                         ProgramComponent(name, factor, scores, points))
                     comp_row = reader.next()
-                scorecard.pcs = float(comp_row[-1])
+                scorecard.pcs = float_of(comp_row[-1])
 
                 for deduction_row in reader:
                     _, reason, value = deduction_row
-                    scorecard.deductions[reason] = float(value)
+                    scorecard.deductions[reason] = float_of(value)
 
                 self.scorecards.append(scorecard)
         self.scorecards.sort(key=lambda scorecard: scorecard.rank)

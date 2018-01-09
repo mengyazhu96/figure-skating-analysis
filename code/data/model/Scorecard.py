@@ -72,8 +72,7 @@ class Scorecard:
         points = float_of(points)
         self.components.append(ProgramComponent(name, factor, scores, points))
 
-    def add_deduction(self, deduction_match):
-        deductions = deduction_match.groups()
+    def add_deduction(self, deductions):
         for deduction in deductions:
             reason, value = deduction.split(':')
             fall_re = re.compile('(-\d.\d\d)\s*(\(\d\))')
