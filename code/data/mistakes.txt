@@ -1,0 +1,20 @@
+RESOLVED
+========
+fc2015 men_free
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 45.45, 47.45 != base value
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 38.36, 40.36 != sum of elts = tes
+
+WEIRD JUDGING PANELS
+====================
+weird extra one or two dashes at end of GOEs/components
+- gpusa2010 ice dance
+- gpfra2010 ice dance
+- gpcan2011 ice dance
+- gpusa2012 ladies
+- gpusa2012 ice dance
+- gpchn2012 ice dance
+- gpcan2013 ice dance
+- gpchn2014 ice dance
+
+removed judge (dash in GOE, 0.00 in components)
+- gpusa2016 pairs short (removed judge)
