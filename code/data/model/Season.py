@@ -34,9 +34,6 @@ class Season:
 
     def fetch_info(self, fetch_files=False):
         for event in self.events:
-            if event.name == 'gpfra2015':
-                print 'GP France 2015 was cancelled partway through.'
-                continue
             event.fetch_info(fetch_files)
 
     def load_scores(self, reparse=False):
