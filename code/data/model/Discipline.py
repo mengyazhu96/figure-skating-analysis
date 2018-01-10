@@ -28,6 +28,8 @@ class Discipline:
 
     def create_segments(self):
         num_segments = len(self.panel_urls)
+        if self.event.name == 'gpfra2015':
+            num_segments = 1
 
         for i in xrange(num_segments):
             segment_type = SegmentType(i)

@@ -15,6 +15,8 @@ weird extra one or two dashes at end of GOEs/components
 - gpchn2012 ice dance
 - gpcan2013 ice dance
 - gpchn2014 ice dance
+- gpusa2015 ice dance
+- gpcan2015 ice dance
 
 removed judge (dash in GOE, 0.00 in components)
 - gpusa2016 pairs short (removed judge)
