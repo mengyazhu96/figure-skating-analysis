@@ -3,14 +3,16 @@ from Event import Event
 class Season:
     def __init__(self, spring_str_rep):
         champ_year = spring_str_rep
-        gp_year = str(int(spring_str_rep) - 1)
         two_digit_season = int(spring_str_rep[2:])
-        if two_digit_season <= 9:
-            twotwo_year = '0' + str(two_digit_season - 1) + '0' + str(two_digit_season)
-        elif two_digit_season <= 10:
-            twotwo_year = '0' + str(two_digit_season - 1) + str(two_digit_season)
-        else:
+        gp_year = '0' + str(two_digit_season - 1)
+        if two_digit_season > 10:
             twotwo_year = str(two_digit_season - 1) + str(two_digit_season)
+            gp_year = str(int(spring_str_rep) - 1)
+        elif two_digit_season <= 9:
+            twotwo_year = gp_year + '0' + str(two_digit_season)
+        else:
+            twotwo_year = gp_year + str(two_digit_season)
+
         gpf_year = twotwo_year
         
         if int(spring_str_rep) % 4 == 2:

@@ -90,7 +90,10 @@ class Scorecard:
                 value, num_falls = fall_re.match(value).groups()
                 reason += num_falls
             value = float_of(value)
-            self.deductions[reason] = value
+
+            # Ignore deductions of zero value.
+            if not self._is_close(0.00, value):
+                self.deductions[reason] = value
     
     def aggregate_elements(self, tes_match):
         mistakes = []

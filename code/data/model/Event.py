@@ -31,6 +31,8 @@ class Event:
                 segment.read_from_csv()
 
     def fetch_info(self, fetch_files=False):
+        print self.url
+
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []
@@ -56,8 +58,13 @@ class Event:
                     discipline.panel_urls.append(self.url + href)
                 elif 'Scores' in link.text:
                     discipline.score_urls.append(self.url + href)
-                    if 'Preliminary' in href:  # Skip over preliminary rounds.
+
+                    # Skip over preliminary/qualifying rounds.
+                    if 'Preliminary' in href:           # wc2011
                         discipline = Discipline(self.season, self, discipline_type)
+                    elif 'QB' in href or 'QA' in href:  # wc2005
+                        discipline.panel_urls = []
+                        discipline.score_urls = []
                 cur_link += 1
             discipline.create_segments()
             if fetch_files:
