@@ -49,6 +49,8 @@ class Segment:
         self.csv_path = get_fpath(season, event, self.csv_fname)
         self.parsed_csv_fpath = get_fpath(season, event, self.parsed_csv_fname)
         self.directory = get_fpath(self.season, self.event, self.name)
+
+        self.num_removed_judges = 0
         
     def __repr__(self):
         return self.event.name + ' ' + self.name
@@ -75,8 +77,8 @@ class Segment:
                             points + '\s*' +             # base value
                             '(x?)\s*' +                  # bonus marker
                             '(-?\d.\d\d)\s*' +           # goe
-                            '((?:-?\d\s*|-){' + num_judges + '})\s*' +  # goes
-                            '(?:-\s*)*\s*'               # why on earth is this here
+                            '((?:-?\d\s*|-\s*){' + num_judges + '})\s*' +  # goes
+                            '(-\s*)*\s*'                 # why on earth is this here
                                                          # see gpusa2010, gpchn2014
                             '(\d?\d.\d\d)')              # element score
 
@@ -116,7 +118,7 @@ class Segment:
                                       skater_info['pcs'], skater_info['deductions'])
             # A technical element.
             elif elt_match:
-                scorecard.add_element(elt_match)
+                self.num_removed_judges += scorecard.add_element(elt_match)
 
             # The TES summary row.
             elif scorecard and scorecard.elements and tes_re.match(line):
@@ -141,6 +143,9 @@ class Segment:
             print self
             for mistake in self.mistakes:
                 print mistake
+            if self.num_removed_judges:
+                print 'Removed judges: ' + str(self.num_removed_judges)
+                self.num_judges -= self.num_removed_judges
             print
 
     def write_to_csv(self):
@@ -157,6 +162,8 @@ class Segment:
                                              scorecard.skater.name.replace(' / ', '_').replace(' ', '_'))
             with open(fname, 'w') as csvfile:
                 writer = csv.writer(csvfile)
+
+                writer.writerow([self.num_judges])
 
                 writer.writerow(['Rank', 'Name', 'Nation',
                                  'Starting Number', 'Total Segment Score',
@@ -202,6 +209,9 @@ class Segment:
         for fname in os.listdir(self.directory):
             with open(self.directory + '/' + fname) as csvfile:
                 reader = csv.reader(csvfile)
+
+                self.num_judges = int(reader.next()[0])
+
                 reader.next()  # Skip labels row
 
                 rank, name, nation, starting_number, total_score, tes, pcs, total_deductions = reader.next()

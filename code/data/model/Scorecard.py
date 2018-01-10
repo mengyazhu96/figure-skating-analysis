@@ -39,26 +39,36 @@ class Scorecard:
         self.deductions = {}
 
         self.mistakes = []
-        
+
     def __repr__(self):
         return '{0} {1}: {2}'.format(self.season, self.segment, self.skater)
         
     def add_element(self, elt_match):
-        number, name, info, base_value, bonus, goe, goes, points = elt_match.groups()
+        extra_judges = 0
+
+        number, name, info, base_value, bonus, goe, goes, extra, points = elt_match.groups()
         number = int(number)
         base_value = float_of(base_value)
         bonus = bonus == 'x'
         goe = float_of(goe)
-        
+
         # Split out individual judges' GOEs
         goe_re = re.compile('(-?[0123]\s*|-\s*)')
         goe_match = goe_re.findall(goes)
         if not goe_match:
             raise Exception(goes)
-        goes = map(int, goe_match)
-        
+
+        if self._is_zeroed_element(base_value):
+            goes = [0.00 for _ in xrange(len(goe_match))]
+        else:
+            goes, extra_judges = self._parse_goes(goe_match)
+
+        if extra and self._is_first_elt_of_segment():
+            self.mistakes.append('Extra Judges: ' + extra)
+
         points = float_of(points)
         self.elements.append(Element(number, name, info, base_value, bonus, goe, goes, points))
+        return extra_judges
 
     def add_component(self, component_match):
         name, factor, scores, points = component_match.groups()
@@ -67,7 +77,7 @@ class Scorecard:
         comp_match = comp_mark_re.findall(scores)
         if not comp_match:
             raise Exception(scores)
-        scores = map(lambda comp: float_of(comp), comp_match)
+        scores = self._parse_components(comp_match)
         
         points = float_of(points)
         self.components.append(ProgramComponent(name, factor, scores, points))
@@ -93,7 +103,7 @@ class Scorecard:
             (tes, self.tes, 'summary tes = computed tes')
             ):
             self._check(num1, num2, description)
-        
+
         # Check the GOEs for sanity.
         for i, elt in enumerate(self.elements):
             self._check(elt.base_value + elt.goe, elt.points, 
@@ -121,10 +131,42 @@ class Scorecard:
             print element
         for component in self.components:
             print component
-            
+
     def _is_close(self, float1, float2):
         return abs(float1 - float2) < 0.02
 
     def _check(self, num1, num2, description):
         if not self._is_close(num1, num2):
             self.mistakes.append('{0}: {1}, {2} != {3}'.format(self.skater, num1, num2, description))
+
+    def _parse_goes(self, goe_match):
+        """Sometimes judges are removed, resulting in a - for a GOE."""
+        goes = []
+        extra_judges = 0
+        for goe in goe_match:
+            try:
+                goes.append(int(goe))
+            except:
+                if self._is_first_elt_of_segment():
+                    extra_judges += 1
+                # This guy's scorecard is weird.
+                elif self.skater.name == 'Harry Hau Yin LEE' and self.event.name == 'fc2015':
+                    goes.append(0)
+        return goes, extra_judges
+
+    def _parse_components(self, comp_match):
+        """When a judge is removed, the component mark becomes 0.00."""
+        scores = []
+        for score in map(float_of, comp_match):
+            if not self._is_close(0.00, score):
+                scores.append(score)
+            elif not self.components:
+                self.mistakes.append('Zero component mark for {0}: {1}'.format(self, score))
+        return scores
+
+    def _is_first_elt_of_segment(self):
+        return not self.elements and self.rank == 1
+
+    def _is_zeroed_element(self, base_value):
+        """Sometimes a skater receives no credit for an element when it is invalidated."""
+        return self._is_close(0.00, base_value)
