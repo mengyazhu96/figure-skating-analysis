@@ -35,13 +35,14 @@ class Scorecard:
         self.pcs = float_of(pcs)
         self.total_deductions = float_of(deductions)
         self.total_score = float_of(total_score)
-        
+
         self.elements = []
         self.components = []
         self.total_deductions = deductions
         self.deductions = {}
 
         self.mistakes = []
+        self.pre10 = int(self.season.champ_year) <= 2010
 
     def __repr__(self):
         return '{0} {1}: {2}'.format(self.season, self.segment, self.skater)
@@ -93,6 +94,8 @@ class Scorecard:
                 value, num_falls = fall_re.match(value).groups()
                 reason += num_falls
             value = float_of(value)
+            if value > 0.:      # Sometimes deductions are captured as positive.
+                value = -value
 
             # Ignore deductions of zero value.
             if not self._is_close(0.00, value):
@@ -119,8 +122,10 @@ class Scorecard:
         pcs_count = 0.
         for component in self.components:
             points = (sum(component.scores) - min(component.scores) - max(component.scores)) / (len(component.scores) - 2)
-            self._check(points, component.points, 'aggregated component: ' + component.name)
+            self._check(points, component.points, 'aggregated component: ' + component.name, True)
             pcs_count += round(points, 2) * component.factor
+        if self.pre10:
+            pcs_count = sum([comp.points * comp.factor for comp in self.components])
         self._check(pcs_count, self.pcs, 'summary pcs = computed pcs')
 
     def check_total(self):
@@ -140,8 +145,8 @@ class Scorecard:
     def _is_close(self, float1, float2):
         return abs(float1 - float2) < 0.02
 
-    def _check(self, num1, num2, description):
-        if not self._is_close(num1, num2):
+    def _check(self, num1, num2, description, no_check_pre10=False):
+        if not (self.pre10 and no_check_pre10) and not self._is_close(num1, num2):
             self.mistakes.append('{0}: {1}, {2} != {3}'.format(self.skater, num1, num2, description))
 
     def _parse_goes(self, goe_match):

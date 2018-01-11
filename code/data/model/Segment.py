@@ -16,21 +16,21 @@ class SegmentType(Enum):
 
 # sorry not sorry
 points = '(\d\d?\d?.\d\d)'
-base_value_re = '(\d\d?\.\d\d?)\s+'
+base_value_re = '(\d\d?\.\d\d?)\s*'
 
 class Segment:
 
     skater_re = re.compile('(\d+)\s*' +              # rank
                            '(\D+ \D+?)\s*' +         # skater name
                            '([A-Z][A-Z][A-Z])\s*' +  # country
-                           '([123]?\d)?\s*' +        # starting number
-                           '(\d\d\d?.\d\d)\s*' +     # total score
-                           points + '\s*' +          # tes
+                           '([123]?\d)?\s+' +        # starting number
+                           '(\d\d\d?\.\d\d)\s*' +    # total score
+                           points + '\s+' +          # tes
                            points + '\s*' +          # pcs
                            '(-?\d.\d\d)')            # deductions
     tes_re = re.compile('^' + base_value_re +        # total base value
                         points + '\s*$')             # total tes
-    deduction_re = re.compile('[^-\d:]+: -\d.\d\d')
+    deduction_re = re.compile('[^-\d:]+:\s+-?\d.\d\d')
     # pcs_re = re.compile('Program\s+Component\D*' + points)
 
 
@@ -77,7 +77,7 @@ class Segment:
         num_judges = str(self.num_judges)
         self.elt_re = re.compile(
                         '(\d\d?)\s+' +               # element order
-                        '(\S+)\s*' +                 # element name
+                        '(\S+)\s+' +                 # element name
                         '(\D*?)\s*' +                # info (i.e. UR)
                         base_value_re +              # base value
                         '(x?)\s*' +                  # bonus marker
@@ -133,10 +133,10 @@ class Segment:
                 scorecard.add_component(component_match)
 
             # Bottom of the scorecard, either PCS summary or deductions.
-            elif scorecard and len(scorecard.components) == 5:
+            elif scorecard and scorecard.components:
                 if 'Program Component' in line:
                     scorecard.aggregate_pcs(line[-5:])
-                elif 'Deduction' in line:
+                else:
                     scorecard.add_deduction(self.deduction_re.findall(line))
 
         if scorecard:

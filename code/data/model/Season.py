@@ -32,6 +32,7 @@ class Season:
         if int(spring_str_rep) >= 2016:
             self.url += 'season'+ twotwo_year + '/'
 
+        self.champ_year = int(champ_year)
         self.events = [Event(self, event_name) for event_name in event_names]
 
     def fetch_info(self, fetch_files=False):
