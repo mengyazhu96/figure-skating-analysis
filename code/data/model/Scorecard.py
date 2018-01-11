@@ -27,7 +27,10 @@ class Scorecard:
         self.segment = segment
         self.skater = skater
         self.rank = int(rank)
-        self.starting_number = int(starting_number)
+        try:
+            self.starting_number = int(starting_number)
+        except:
+            self.starting_number = 0
         self.tes = float_of(tes)
         self.pcs = float_of(pcs)
         self.total_deductions = float_of(deductions)
@@ -96,7 +99,6 @@ class Scorecard:
                 self.deductions[reason] = value
     
     def aggregate_elements(self, tes_match):
-        mistakes = []
         self.base_value, tes = map(float_of, tes_match.groups())
         self.goe_total = sum([elt.goe for elt in self.elements])
         for (num1, num2, description) in (

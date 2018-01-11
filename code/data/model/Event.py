@@ -54,7 +54,7 @@ class Event:
                     discipline.entries_url = self.url + href
                 elif 'Result' in link.text:
                     discipline.results_url = self.url + href
-                elif 'Panel' in link.text:
+                elif 'Panel' in link.text or 'Officials' in link.text:
                     discipline.panel_urls.append(self.url + href)
                 elif 'Scores' in link.text:
                     discipline.score_urls.append(self.url + href)
@@ -72,6 +72,13 @@ class Event:
             for segment in discipline.segments:
                 segment.panel.parse_html()
                 segment.num_judges = segment.panel.num_judges
+
+                # fc2005 pairs short is missing the panel page.
+                if (segment.event.name == 'fc2006' and
+                    segment.discipline == DisciplineType.pairs and
+                    segment.type == SegmentType.short):
+                    segment.num_judges = 12
+
             self.disciplines.append(discipline)
         if fetch_files:
             self.pdfs_to_csvs()

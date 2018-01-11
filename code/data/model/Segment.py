@@ -13,23 +13,27 @@ class SegmentType(Enum):
     free = 1
     original_dance = 2
 
+
 # sorry not sorry
 points = '(\d\d?\d?.\d\d)'
-skater_re = re.compile('(\d+)\s*' +              # rank
-                       '(\D+ \D+?)\s*' +         # skater name
-                       '([A-Z][A-Z][A-Z])\s*' +  # country
-                       '([123]?\d)\s*' +         # starting number
-                       '(\d\d\d?.\d\d)\s*' +     # total score
-                       points + '\s*' +          # tes
-                       points + '\s*' +          # pcs
-                       '(-?\d.\d\d)')            # deductions
-tes_re = re.compile('^' + points + '\s*' +       # total base value
-                    points + '\s*$')             # total tes
-deduction_re = re.compile('[^-\d:]+: -\d.\d\d')
-# pcs_re = re.compile('Program\s+Component\D*' + points)
-
+base_value_re = '(\d\d?\.\d\d?)\s+'
 
 class Segment:
+
+    skater_re = re.compile('(\d+)\s*' +              # rank
+                           '(\D+ \D+?)\s*' +         # skater name
+                           '([A-Z][A-Z][A-Z])\s*' +  # country
+                           '([123]?\d)?\s*' +        # starting number
+                           '(\d\d\d?.\d\d)\s*' +     # total score
+                           points + '\s*' +          # tes
+                           points + '\s*' +          # pcs
+                           '(-?\d.\d\d)')            # deductions
+    tes_re = re.compile('^' + base_value_re +        # total base value
+                        points + '\s*$')             # total tes
+    deduction_re = re.compile('[^-\d:]+: -\d.\d\d')
+    # pcs_re = re.compile('Program\s+Component\D*' + points)
+
+
     def __init__(self, url, season, event, discipline, segment, panel_url):
         self.url = url  # url to scores
         self.season = season
@@ -71,23 +75,23 @@ class Segment:
         assert not self.scorecards
 
         num_judges = str(self.num_judges)
-        elt_re = re.compile('(\d\d?)\s+' +               # element order
-                            '(\S+)\s*' +                 # element name
-                            '(\D*?)\s*' +                # info (i.e. UR)
-                            points + '\s*' +             # base value
-                            '(x?)\s*' +                  # bonus marker
-                            '(-?\d.\d\d)\s*' +           # goe
-                            '((?:-?\d\s*|-\s*){' + num_judges + '})\s*' +  # goes
-                            '(-\s*)*\s*'                 # why on earth is this here
-                                                         # see gpusa2010, gpchn2014
-                            '(\d?\d.\d\d)')              # element score
+        self.elt_re = re.compile(
+                        '(\d\d?)\s+' +               # element order
+                        '(\S+)\s*' +                 # element name
+                        '(\D*?)\s*' +                # info (i.e. UR)
+                        base_value_re +              # base value
+                        '(x?)\s*' +                  # bonus marker
+                        '(-?\d.\d\d)\s*' +           # goe
+                        '((?:(?:-?\d|-)\s*){' + num_judges + '})\s*' +  # goes
+                        '([0-]\s*)*\s*'              # extra judges...?
+                        '(\d?\d.\d\d)')              # element score
 
-        component_re = re.compile('(\D+?)\s*' +          # component name
-                                  '(\d.\d\d)\s*' +       # factor
-                                  '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
-                                  '(?:-\s*)*\s*'         # why on earth is this here
-                                                         # see gpusa2010
-                                  '(\d?\d.\d\d)')        # aggregated judges marks
+        self.component_re = re.compile(
+                                '(\D+)\s*' +             # component name
+                                '(\d.\d\d)\s*' +         # factor
+                                '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
+                                '(?:(?:-|0.00)\s*)*\s*'  # extra judges...?
+                                '(\d?\d.\d\d)')          # aggregated judges marks
 
         rows = self.get_raw_csv_rows()
         skater = None
@@ -96,9 +100,9 @@ class Segment:
         for line in rows:
             line = line.strip()
             
-            skater_match = skater_re.match(line)
-            elt_match = elt_re.match(line)
-            component_match = component_re.match(line)
+            skater_match = self.skater_re.match(line)
+            elt_match = self.elt_re.match(line)
+            component_match = self.component_re.match(line)
             
             # Skater + summary info.
             if skater_match:
@@ -121,8 +125,8 @@ class Segment:
                 self.num_removed_judges += scorecard.add_element(elt_match)
 
             # The TES summary row.
-            elif scorecard and scorecard.elements and tes_re.match(line):
-                scorecard.aggregate_elements(tes_re.match(line))
+            elif scorecard and scorecard.elements and self.tes_re.match(line):
+                scorecard.aggregate_elements(self.tes_re.match(line))
 
             # A PCS line.
             elif component_match:
@@ -133,7 +137,7 @@ class Segment:
                 if 'Program Component' in line:
                     scorecard.aggregate_pcs(line[-5:])
                 elif 'Deduction' in line:
-                    scorecard.add_deduction(deduction_re.findall(line))
+                    scorecard.add_deduction(self.deduction_re.findall(line))
 
         if scorecard:
             self.mistakes += scorecard.check_total()
