@@ -44,6 +44,15 @@ class Event:
                         print mistake
                     print
 
+    def create_results(self):
+        for discipline in self.disciplines:
+            discipline.create_results()
+
+    def write_results(self):
+        for discipline in self.disciplines:
+            discipline.create_results()
+            discipline.write_results()
+
     def fetch_info(self, fetch_files=False):
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
@@ -71,8 +80,8 @@ class Event:
                 elif 'Scores' in link.text:
                     discipline.score_urls.append(self.url + href)
 
-                    # Skip over preliminary/qualifying rounds.
-                    if 'Preliminary' in href:           # wc2011
+                    # Skip over preliminary/qualifying/junior rounds.
+                    if 'Preliminary' in href or 'Junior' in href:  # wc2011, gpf0910
                         discipline = Discipline(self.season, self, discipline_type)
                     elif 'QB' in href or 'QA' in href:  # wc2005
                         discipline.panel_urls = []
