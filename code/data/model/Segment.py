@@ -16,7 +16,7 @@ class SegmentType(Enum):
 
 # sorry not sorry
 points = '(\d\d?\d?.\d\d)'
-base_value_re = '(\d\d?\.\d\d?)\s*'
+base_value_re = '(\d\d?\d?\.\d\d?)\s*'
 
 class Segment:
 
@@ -28,9 +28,9 @@ class Segment:
                            points + '\s+' +          # tes
                            points + '\s*' +          # pcs
                            '(-?\d.\d\d)')            # deductions
-    tes_re = re.compile('^' + base_value_re +        # total base value
+    tes_re = re.compile('^\s*' + base_value_re +     # total base value
                         points + '\s*$')             # total tes
-    deduction_re = re.compile('[^-\d:]+:\s+-?\d.\d\d')
+    deduction_re = re.compile('[^-\d:]+:\s+-?\d\.\d\d')
     # pcs_re = re.compile('Program\s+Component\D*' + points)
 
 
@@ -53,8 +53,6 @@ class Segment:
         self.csv_path = get_fpath(season, event, self.csv_fname)
         self.parsed_csv_fpath = get_fpath(season, event, self.parsed_csv_fname)
         self.directory = get_fpath(self.season, self.event, self.name)
-
-        self.num_removed_judges = 0
         
     def __repr__(self):
         return self.event.name + ' ' + self.name
@@ -89,7 +87,7 @@ class Segment:
         self.component_re = re.compile(
                                 '(\D+)\s*' +             # component name
                                 '(\d.\d\d)\s*' +         # factor
-                                '((?:\d?\d.\d\d\s*){' + num_judges + '})\s*' +  # judges marks
+                                '((?:(?:\d?\d.\d\d|-)\s+){' + num_judges + '})\s*' +  # judges marks
                                 '(?:(?:-|0.00)\s*)*\s*'  # extra judges...?
                                 '(\d?\d.\d\d)')          # aggregated judges marks
 
@@ -122,7 +120,7 @@ class Segment:
                                       skater_info['pcs'], skater_info['deductions'])
             # A technical element.
             elif elt_match:
-                self.num_removed_judges += scorecard.add_element(elt_match)
+                scorecard.add_element(elt_match)
 
             # The TES summary row.
             elif scorecard and scorecard.elements and self.tes_re.match(line):
@@ -147,9 +145,6 @@ class Segment:
             print self
             for mistake in self.mistakes:
                 print mistake
-            if self.num_removed_judges:
-                print 'Removed judges: ' + str(self.num_removed_judges)
-                self.num_judges -= self.num_removed_judges
             print
 
     def write_to_csv(self):
@@ -214,7 +209,7 @@ class Segment:
             with open(self.directory + '/' + fname) as csvfile:
                 reader = csv.reader(csvfile)
 
-                self.num_judges = int(reader.next()[0])
+                num_judges = int(reader.next()[0])
 
                 reader.next()  # Skip labels row
 
@@ -234,10 +229,17 @@ class Segment:
                     base_value = float_of(elt_row[3])
                     bonus = bool(elt_row[4])
                     goe = float_of(elt_row[5])
-                    goes = map(float_of, elt_row[6:6+self.num_judges])
+                    goes = []
+                    parsed_goes = []
+                    for mark in elt_row[6:6+self.num_judges]:
+                        if mark == '-':
+                            goes.append(mark)
+                        else:
+                            goes.append(float_of(mark))
+                            parsed_goes.append(float_of(mark))
                     points = float_of(elt_row[-1])
                     scorecard.elements.append(
-                        Element(number, name, info, base_value, bonus, goe, goes, points))
+                        Element(number, name, info, base_value, bonus, goe, goes, parsed_goes, points))
                     elt_row = reader.next()
                 scorecard.base_value = float_of(elt_row[3])
                 scorecard.tes = float_of(elt_row[-1])
@@ -247,10 +249,17 @@ class Segment:
                 while comp_row[1]:
                     name = comp_row[1]
                     factor = float_of(comp_row[5])
-                    scores = map(float_of, comp_row[6:6+self.num_judges])
+                    scores = []
+                    parsed_scores = []
+                    for score in comp_row[6:6+self.num_judges]:
+                        if score == '-':
+                            scores.append(score)
+                        else:
+                            scores.append(float_of(score))
+                            parsed_scores.append(float_of(score))
                     points = float_of(comp_row[-1])
                     scorecard.components.append(
-                        ProgramComponent(name, factor, scores, points))
+                        ProgramComponent(name, factor, scores, parsed_scores, points))
                     comp_row = reader.next()
                 scorecard.pcs = float_of(comp_row[-1])
 

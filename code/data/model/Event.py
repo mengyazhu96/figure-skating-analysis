@@ -28,7 +28,8 @@ class Event:
             for segment in discipline.segments:
                 if reparse:
                     segment.write_to_csv()
-                segment.read_from_csv()
+                else:
+                    segment.read_from_csv()
 
     def fetch_info(self, fetch_files=False):
         print self.url

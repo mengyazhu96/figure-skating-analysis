@@ -21,6 +21,8 @@ weird extra one or two dashes at end of GOEs/components
 removed judge (dash in GOE, 0.00 in components)
 - gpusa2016 pairs short (removed judge)
 
+gpchn2006 mens free has a redacted judge for some skaters but not others...
+
 IGNORED EVENTS
 ==============
 - gps of 0405: every scorecard has one more judge than the panel reports (but champs seem ok)
