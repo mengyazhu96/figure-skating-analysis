@@ -97,10 +97,8 @@ class Segment:
         self.mistakes = []
         for line in rows:
             line = line.strip()
-            
+
             skater_match = self.skater_re.match(line)
-            elt_match = self.elt_re.match(line)
-            component_match = self.component_re.match(line)
             
             # Skater + summary info.
             if skater_match:
@@ -118,8 +116,15 @@ class Segment:
                                       skater_info['rank'], skater_info['starting_number'],
                                       skater_info['total_score'], skater_info['tes'],
                                       skater_info['pcs'], skater_info['deductions'])
+                continue
+            else:
+                line = self._remove_info(line)
+
+            elt_match = self.elt_re.match(line)
+            component_match = self.component_re.match(line)
+
             # A technical element.
-            elif elt_match:
+            if elt_match:
                 scorecard.add_element(elt_match)
 
             # The TES summary row.
@@ -269,3 +274,18 @@ class Segment:
 
                 self.scorecards.append(scorecard)
         self.scorecards.sort(key=lambda scorecard: scorecard.rank)
+
+    @staticmethod
+    def _remove_info(line):
+        """In 2008-2010, many events (see gpjpn2007 pairs short) have the
+           'Info' keyword in the wrong row (in an element row)."""
+        if line[0].isdigit():           # This usually occurs in the second element.
+            words = line.split()        # Space-delimited 'words'
+            new_words = []              # Construct the new line
+            for i, word in enumerate(words):
+                new_word = word
+                if i >= 2:              # The second 'word' is the element name and can contain alphabetic characters
+                    new_word = ''.join([char for char in list(word) if char not in 'Info'])
+                new_words.append(new_word)
+            return ' '.join(new_words)
+        return line
