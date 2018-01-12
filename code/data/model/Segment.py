@@ -23,7 +23,7 @@ class Segment:
     skater_re = re.compile('(\d+)\s*' +              # rank
                            '(\D+ \D+?)\s*' +         # skater name
                            '([A-Z][A-Z][A-Z])\s*' +  # country
-                           '([123]?\d)?\s+' +        # starting number
+                           '([12345]?\d)?\s+' +      # starting number
                            '(\d\d\d?\.\d\d)\s*' +    # total score
                            points + '\s+' +          # tes
                            points + '\s*' +          # pcs
@@ -97,9 +97,12 @@ class Segment:
         self.mistakes = []
         for line in rows:
             line = line.strip()
+            line = self._remove_info(line)
 
             skater_match = self.skater_re.match(line)
-            
+            elt_match = self.elt_re.match(line)
+            component_match = self.component_re.match(line)
+
             # Skater + summary info.
             if skater_match:
                 if scorecard:
@@ -117,14 +120,9 @@ class Segment:
                                       skater_info['total_score'], skater_info['tes'],
                                       skater_info['pcs'], skater_info['deductions'])
                 continue
-            else:
-                line = self._remove_info(line)
-
-            elt_match = self.elt_re.match(line)
-            component_match = self.component_re.match(line)
 
             # A technical element.
-            if elt_match:
+            elif elt_match:
                 scorecard.add_element(elt_match)
 
             # The TES summary row.
@@ -279,12 +277,14 @@ class Segment:
     def _remove_info(line):
         """In 2008-2010, many events (see gpjpn2007 pairs short) have the
            'Info' keyword in the wrong row (in an element row)."""
-        if line[0].isdigit():           # This usually occurs in the second element.
+        if line[0].isdigit():
             words = line.split()        # Space-delimited 'words'
             new_words = []              # Construct the new line
             for i, word in enumerate(words):
                 new_word = word
-                if i >= 2:              # The second 'word' is the element name and can contain alphabetic characters
+                if word in 'Info':
+                    continue
+                if i > 1 and any(char.isdigit() or char == '-' for char in word):
                     new_word = ''.join([char for char in list(word) if char not in 'Info'])
                 new_words.append(new_word)
             return ' '.join(new_words)
