@@ -31,9 +31,20 @@ class Event:
                 else:
                     segment.read_from_csv()
 
-    def fetch_info(self, fetch_files=False):
-        print self.url
+    def load_and_validate_scores(self):
+        for discipline in self.disciplines:
+            for segment in discipline.segments:
+                segment.read_from_csv()
+                mistakes = []
+                for scorecard in segment.scorecards:
+                    mistakes += scorecard.check_total()
+                if mistakes:
+                    print segment
+                    for mistake in mistakes:
+                        print mistake
+                    print
 
+    def fetch_info(self, fetch_files=False):
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []

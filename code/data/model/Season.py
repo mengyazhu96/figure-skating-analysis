@@ -43,5 +43,9 @@ class Season:
         for event in self.events:
             event.parse_csvs(reparse)
 
+    def load_and_validate_scores(self):
+        for event in self.events:
+            event.load_and_validate_scores()
+
     def __repr__(self):
         return '\'' + self.year[:2] + '-\'' + self.year[2:]
