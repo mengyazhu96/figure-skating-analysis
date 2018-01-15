@@ -1,6 +1,7 @@
 import csv
 from enum import Enum
 import os
+import pickle
 import re
 
 from Panel import Panel
@@ -70,6 +71,9 @@ class Segment:
         return rows
     
     def parse_raw_csv(self):
+        if self._load_gpcan05_pairs_short():
+            return
+
         assert not self.scorecards
 
         num_judges = str(self.num_judges)
@@ -151,6 +155,9 @@ class Segment:
             print
 
     def write_to_csv(self):
+        if self._load_gpcan05_pairs_short():
+            return
+
         if not self.scorecards:
             self.parse_raw_csv()
 
@@ -217,7 +224,7 @@ class Segment:
                 reader.next()  # Skip labels row
 
                 rank, name, nation, starting_number, total_score, tes, pcs, total_deductions = reader.next()
-                skater = Skater(name, nation, self.discipline)
+                skater = Skater(name.strip(), nation, self.discipline)
                 scorecard = Scorecard(self.url, self.season, self.event,
                                       self.discipline, self, skater,
                                       rank, starting_number, total_score,
@@ -262,7 +269,7 @@ class Segment:
                             parsed_scores.append(float_of(score))
                     points = float_of(comp_row[-1])
                     scorecard.components.append(
-                        ProgramComponent(name, factor, scores, parsed_scores, points))
+                        ProgramComponent(name.strip(), factor, scores, parsed_scores, points))
                     comp_row = reader.next()
                 scorecard.pcs = float_of(comp_row[-1])
 
@@ -289,3 +296,10 @@ class Segment:
                 new_words.append(new_word)
             return ' '.join(new_words)
         return line
+
+    def _load_gpcan05_pairs_short(self):
+        if self.event.name == 'gpcan05' and self.name == 'pairs_short':
+            with open('0506/gpcan05/pairs_short.pickle') as f:
+                self.scorecards = pickle.load(f)
+            return True
+        return False

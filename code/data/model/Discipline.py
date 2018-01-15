@@ -84,7 +84,10 @@ class Discipline:
                 row = [i + 1, result.skater.name, result.skater.country, result.total_score,
                        result.short_rank, result.short_score]
                 if has_od:
-                    row += [result.original_rank, result.original_score]
+                    if not result.original_rank:
+                        row += ['WD', 'WD']
+                    else:
+                        row += [result.original_rank, result.original_score]
                 if has_free:
                     row += [result.free_rank, result.free_score]
                 writer.writerow(row)

@@ -6,7 +6,8 @@ class Result:
         self.rank = None
         self.short_rank = None
         self.short_score = None
-        self.free_rank = None
+        self.free_rank = 'DNQ'
+        self.free_score = 'DNQ'
         self.original_rank = None
         self.total_score = 0.00
 
@@ -15,7 +16,7 @@ class Result:
         self.short_rank = self.short_scorecard.rank
         self.short_score = self.short_scorecard.total_score
         self.total_score = self.short_score
-        
+
     def add_free(self, free_scorecard):
         self.free_scorecard = free_scorecard
         self.free_rank = self.free_scorecard.rank
@@ -49,10 +50,7 @@ class Result:
         rep += '\n  Short {0} {1}'.format(self.short_rank, self.short_score)
         if self.original_rank:
             rep += '\n  OD {0} {1}'.format(self.original_rank, self.original_score)
-        if self.free_rank:
-            rep += '\n  Free {0} {1}'.format(self.free_rank, self.free_score)
-        else:
-            rep += '\n  Free DNQ'
+        rep += '\n  Free {0} {1}'.format(self.free_rank, self.free_score)
         return rep
 
 def create_discipline_results(discipline):

@@ -41,7 +41,6 @@ class Scorecard:
 
         self.elements = []
         self.components = []
-        self.total_deductions = deductions
         self.deductions = {}
 
         self.extra_judges = 0
@@ -84,9 +83,9 @@ class Scorecard:
         if not comp_match:
             raise Exception(scores)
         scores, parsed_scores = self._parse_components(comp_match)
-        
+
         points = float_of(points)
-        self.components.append(ProgramComponent(name, factor, scores, parsed_scores, points))
+        self.components.append(ProgramComponent(name.strip(), factor, scores, parsed_scores, points))
 
     def add_deduction(self, deductions):
         for deduction in deductions:
