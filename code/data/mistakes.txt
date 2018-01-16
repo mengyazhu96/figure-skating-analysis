@@ -4,6 +4,9 @@ fc2015 men_free
 Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 45.45, 47.45 != base value
 Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 38.36, 40.36 != sum of elts = tes
 
+fc2012 Sandra Khopon name mispelled in short
+fc2013 Pilar MAEKAWA / Leonardo MAEKAWA have MORENO in short
+
 WEIRD JUDGING PANELS
 ====================
 weird extra one or two dashes at end of GOEs/components
