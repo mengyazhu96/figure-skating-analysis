@@ -38,6 +38,7 @@ class Season:
     def fetch_info(self, fetch_files=False):
         for event in self.events:
             event.fetch_info(fetch_files)
+        self.events.sort(key=lambda event: event.date)
 
     def load_scores(self, reparse=False):
         for event in self.events:
@@ -48,4 +49,4 @@ class Season:
             event.load_and_validate_scores()
 
     def __repr__(self):
-        return '\'' + self.year[:2] + '-\'' + self.year[2:]
+        return 'Season \'' + self.year[:2] + '-\'' + self.year[2:]

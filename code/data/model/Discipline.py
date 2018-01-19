@@ -72,7 +72,10 @@ class Discipline:
         has_free = len(self.segments) > 1
         if not self.results:
             self.create_results()
-        columns = ['Rank', 'Name', 'Nation', 'Points', 'Short Rank', 'Short Score']
+        columns = ['Rank', 'Event', 'Date',
+                   'Name', 'Nation',
+                   'Points',
+                   'Short Rank', 'Short Score']
         if has_od:
             columns += ['OD Rank', 'OD Score']
         if has_free:
@@ -81,7 +84,9 @@ class Discipline:
             writer = csv.writer(f)
             writer.writerow(columns)
             for i, result in enumerate(self.results):
-                row = [i + 1, result.skater.name, result.skater.country, result.total_score,
+                row = [i + 1, self.event.name, self.event.date,
+                       result.skater.name, result.skater.country,
+                       result.total_score,
                        result.short_rank, result.short_score]
                 if has_od:
                     if not result.original_rank:

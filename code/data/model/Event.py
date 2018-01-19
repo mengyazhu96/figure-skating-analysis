@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup
+from datetime import date
+import re
 import requests
 import subprocess
 
@@ -11,6 +13,8 @@ from util import get_page
 tabula_path = 'tabula-1.0.1-jar-with-dependencies.jar'
 
 class Event:
+    date_re = re.compile('(\d\d?).(\d\d?).(20\d\d)')
+
     def __init__(self, season, name):
         self.name = name      # the abbreviation + year
         self.season = season  # season object
@@ -57,6 +61,16 @@ class Event:
         page = requests.get(self.url)
         soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []
+
+        date_matches = self.date_re.findall(soup.get_text())
+        day = int(date_matches[1][0])
+        month = int(date_matches[1][1])
+        year = int(date_matches[1][2])
+        if month not in (10, 11, 12, 1, 2, 3, 4):
+            month_save = month
+            month = day
+            day = month_save
+        self.date = date(year, month, day)
 
         links = soup.find_all('a')
         num_links = len(links)

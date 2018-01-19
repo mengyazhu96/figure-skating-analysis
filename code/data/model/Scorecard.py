@@ -48,7 +48,9 @@ class Scorecard:
         self.pre10 = int(self.season.champ_year) <= 2010
 
     def __repr__(self):
-        return '{0} {1}: {2}'.format(self.season, self.segment, self.skater)
+        return '{0}: {1}, {2} + {3} - {4} = {5}'.format(
+            self.segment, self.skater,
+            self.tes, self.pcs, self.total_deductions, self.total_score)
         
     def add_element(self, elt_match):
         number, name, info, base_value, bonus, goe, goes, extra, points = elt_match.groups()

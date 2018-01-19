@@ -7,6 +7,11 @@ Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 
 fc2012 Sandra Khopon name mispelled in short
 fc2013 Pilar MAEKAWA / Leonardo MAEKAWA have MORENO in short
 
+fc2009 SHIH Wu-Chang is mispelled (should be SHIH Wun-Chang)
+fc2010, wc2010 Stephen Li-Chug KUO should be Stephen Li-Chung KUO
+
+gpcan05 missing pairs short detailed protocols
+
 WEIRD JUDGING PANELS
 ====================
 weird extra one or two dashes at end of GOEs/components
