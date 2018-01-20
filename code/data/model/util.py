@@ -12,8 +12,8 @@ def clear_and_make_dir(target_dir):
         shutil.rmtree(target_dir)
     os.makedirs(target_dir)
 
-# Convert string to float, allowing for commas.
 def float_of(str_float):
+    """Convert string to float, allowing for commas."""
     return float(str_float.replace(',', '.'))
 
 def get_fpath(season, event, fname):
@@ -26,7 +26,9 @@ def get_page(url, season, event, fname):
     with open(target_dir + fname, 'w+') as f:
         f.write(page.content)
 
+
 def levenshtein(s1, s2):
+    """Edit distance."""
     if len(s1) < len(s2):
         return levenshtein(s2, s1)
 
@@ -47,3 +49,30 @@ def levenshtein(s1, s2):
         previous_row = current_row
     
     return previous_row[-1]
+
+
+def get_similar_names(skaters):
+    """Returns similar and first-last swaps of skaters."""
+    def get_first_last(single_skater):
+        split = single_skater.split()
+        if len(split) != 2:
+            return None
+        return split[0].lower(), split[1].lower()
+    similar = []
+    first_last = {}
+    num_skaters = len(skaters)
+    for i in xrange(num_skaters):
+        split_i = get_first_last(skaters[i])
+        for j in xrange(i + 1, num_skaters):
+            added = False
+            split_j = get_first_last(skaters[j])
+            if split_i and split_j:
+                if levenshtein(split_i[0], split_j[1]) < 3 and levenshtein(split_i[1], split_j[0]) < 3:
+                    if skaters[j][-1].islower():
+                        first_last[skaters[j]] = skaters[i]
+                    else:
+                        first_last[skaters[i]] = skaters[j]
+                    added = True
+            if not added and levenshtein(skaters[i], skaters[j]) < 7:
+                similar.append((skaters[i], skaters[j]))     
+    return similar, first_last
