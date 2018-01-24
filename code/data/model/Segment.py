@@ -237,7 +237,12 @@ class Segment:
                     name = elt_row[1]
                     info = elt_row[2]
                     base_value = float_of(elt_row[3])
-                    bonus = bool(elt_row[4])
+                    if elt_row[4].lower() == 'true':
+                        bonus = True
+                    elif elt_row[4].lower() == 'false':
+                        bonus = False
+                    else:
+                        print skater, number, self, elt_row[4]
                     goe = float_of(elt_row[5])
                     goes = []
                     parsed_goes = []
