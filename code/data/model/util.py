@@ -52,7 +52,7 @@ def levenshtein(s1, s2):
 
 
 def get_similar_names(skaters):
-    """Returns similar and first-last swaps of skaters."""
+    """Returns similar and first-last swaps of judges or skaters."""
     def get_first_last(single_skater):
         split = single_skater.split()
         if len(split) != 2:
@@ -76,3 +76,17 @@ def get_similar_names(skaters):
             if not added and levenshtein(skaters[i], skaters[j]) < 7:
                 similar.append((skaters[i], skaters[j]))     
     return similar, first_last
+
+
+def ascii_encode_dict(data):
+    ascii_encode = lambda x: x.encode('ascii')
+    return dict(map(ascii_encode, pair) for pair in data.items())
+
+
+def remove_mr_ms(name):
+    name = name.replace('Mr. ', '')
+    name = name.replace('Mr ', '')
+    name = name.replace('Ms. ', '')
+    name = name.replace('Ms ', '')
+    name = name.replace('Mrs. ', '')
+    return name
