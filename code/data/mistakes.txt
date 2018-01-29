@@ -38,3 +38,10 @@ IGNORED EVENTS
 WITHDRAWS
 =========
 - before competing at all: ignored when there were qualifying rounds (e.g. wc2006)
+
+JUDGE COUNTRY CHANGES
+=====================
+Irina MEDVEDEVA: UKR -> AZE, 1314 -> 1415
+Garry HOPPE: ISR -> GBR, 0708 -> 0910
+Irina ABSALIAMOVA: BLR -> ARM, 0506 -> 0708
+Lolita LABUNSKAIYA: UKR -> RUS, gprus05 -> 1112
