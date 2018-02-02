@@ -29,829 +29,847 @@ sVTodd SAND
 p17
 g2
 ((lp18
-tp19
-Rp20
-sVReinhard MIRMSEKER
-p21
-g2
-((lp22
-tp23
-Rp24
-sVSimon BRIGGS
-p25
-g2
-((lp26
-tp27
-Rp28
-sVPeter DURNEV
-p29
-g2
-((lp30
 VISU
-p31
-atp32
-Rp33
-sVRoland WEHINGER
+p19
+atp20
+Rp21
+sVReinhard MIRMSEKER
+p22
+g2
+((lp23
+VISU
+p24
+atp25
+Rp26
+sVSimon BRIGGS
+p27
+g2
+((lp28
+VISU
+p29
+atp30
+Rp31
+sVPeter DURNEV
+p32
+g2
+((lp33
+VISU
 p34
+atp35
+Rp36
+sVRoland WEHINGER
+p37
 g2
-((lp35
+((lp38
 VSUI
-p36
-atp37
-Rp38
-sVKarin EHRHARDT
 p39
+atp40
+Rp41
+sVKarin EHRHARDT
+p42
 g2
-((lp40
+((lp43
 VAUT
-p41
-atp42
-Rp43
-sVXixia LIU
 p44
+atp45
+Rp46
+sVXixia LIU
+p47
 g2
-((lp45
+((lp48
 VCHN
-p46
-atp47
-Rp48
-sVJimmy YOUNG
 p49
+atp50
+Rp51
+sVJimmy YOUNG
+p52
 g2
-((lp50
-tp51
-Rp52
-sVOsman SIRVAN
-p53
-g2
-((lp54
-tp55
+((lp53
+VISU
+p54
+atp55
 Rp56
-sVValerie LAMBERT
+sVOsman SIRVAN
 p57
 g2
 ((lp58
-VFRA
+VISU
 p59
 atp60
 Rp61
-sVClaire SHEPHERD
+sVValerie LAMBERT
 p62
 g2
 ((lp63
-VGBR
+VFRA
 p64
 atp65
 Rp66
-sVElisabeth LOUESDON
+sVClaire SHEPHERD
 p67
 g2
 ((lp68
-VFRA
+VGBR
 p69
 atp70
 Rp71
-sVDan FANG
+sVElisabeth LOUESDON
 p72
 g2
 ((lp73
-VCHN
+VFRA
 p74
 atp75
 Rp76
-sVDavid MOLINA
+sVDan FANG
 p77
 g2
 ((lp78
-VFRA
+VCHN
 p79
 atp80
 Rp81
-sVLaimute KRAUZIENE
+sVDavid MOLINA
 p82
 g2
 ((lp83
-VLTU
+VFRA
 p84
 atp85
 Rp86
-sVTomiko YAMADA
+sVLaimute KRAUZIENE
 p87
 g2
 ((lp88
-VJPN
+VLTU
 p89
 atp90
 Rp91
-sVRobert J. HOREN
+sVTomiko YAMADA
 p92
 g2
 ((lp93
-tp94
-Rp95
+VJPN
+p94
+atp95
+Rp96
+sVRobert J. HOREN
+p97
+g2
+((lp98
+VISU
+p99
+atp100
+Rp101
 sVPrisca BINZ-MOSER
-p96
+p102
 g2
-((lp97
+((lp103
 VSUI
-p98
-atp99
-Rp100
-sVIrina MEDVEDEVA
-p101
-g2
-((lp102
-VUKR
-p103
-aVAZE
 p104
 atp105
 Rp106
-sVKrunoslava CUMIC
+sVIrina MEDVEDEVA
 p107
 g2
 ((lp108
-tp109
-Rp110
-sVNatalia LEBEDEVA
-p111
+VUKR
+p109
+aVAZE
+p110
+atp111
+Rp112
+sVKrunoslava CUMIC
+p113
 g2
-((lp112
-tp113
-Rp114
-sVKvetoslava MATEJOVA
+((lp114
+VISU
 p115
+atp116
+Rp117
+sVNatalia LEBEDEVA
+p118
 g2
-((lp116
-tp117
-Rp118
-sVVladimir CUCHRAN
-p119
-g2
-((lp120
-tp121
+((lp119
+VISU
+p120
+atp121
 Rp122
-sVAnne G. SHEAN
+sVKvetoslava MATEJOVA
 p123
 g2
 ((lp124
-VUSA
+VISU
 p125
 atp126
 Rp127
-sVThomas BIEGLER
+sVVladimir CUCHRAN
 p128
 g2
 ((lp129
-tp130
-Rp131
-sVAlexander KOENIG
-p132
+VISU
+p130
+atp131
+Rp132
+sVAnne G. SHEAN
+p133
 g2
-((lp133
-tp134
-Rp135
-sVAlexander KUZNETSOV
-p136
+((lp134
+VUSA
+p135
+atp136
+Rp137
+sVThomas BIEGLER
+p138
 g2
-((lp137
-tp138
-Rp139
-sVIgor ZAVOZIN
+((lp139
+VISU
 p140
+atp141
+Rp142
+sVAlexander KOENIG
+p143
 g2
-((lp141
-VARM
-p142
-atp143
-Rp144
-sVTanay OZKAN
+((lp144
+VISU
 p145
+atp146
+Rp147
+sVAlexander KUZNETSOV
+p148
 g2
-((lp146
-VTUR
-p147
-atp148
-Rp149
-sVOlga KOZHEMIAKINA
+((lp149
+VISU
 p150
+atp151
+Rp152
+sVIgor ZAVOZIN
+p153
 g2
-((lp151
-VRUS
-p152
-atp153
-Rp154
-sVDavid SANTEE
+((lp154
+VARM
 p155
+atp156
+Rp157
+sVTanay OZKAN
+p158
 g2
-((lp156
-tp157
-Rp158
-sVAgita ABELE
-p159
+((lp159
+VTUR
+p160
+atp161
+Rp162
+sVOlga KOZHEMIAKINA
+p163
 g2
-((lp160
-VLAT
-p161
-atp162
-Rp163
-sVLeena LAAKSONEN
-p164
+((lp164
+VRUS
+p165
+atp166
+Rp167
+sVDavid SANTEE
+p168
 g2
-((lp165
-VFIN
-p166
-atp167
-Rp168
-sVDavid KIRBY
-p169
-g2
-((lp170
-tp171
+((lp169
+VISU
+p170
+atp171
 Rp172
-sVAlexander LAKERNIK
+sVAgita ABELE
 p173
 g2
 ((lp174
-tp175
-Rp176
-sVHailan JIANG
-p177
+VLAT
+p175
+atp176
+Rp177
+sVLeena LAAKSONEN
+p178
 g2
-((lp178
-VCHN
-p179
-atp180
-Rp181
-sVRichard KOSINA
-p182
+((lp179
+VFIN
+p180
+atp181
+Rp182
+sVDavid KIRBY
+p183
 g2
-((lp183
-VCZE
-p184
-atp185
-Rp186
-sVGarry HOPPE
-p187
+((lp184
+VISU
+p185
+atp186
+Rp187
+sVAlexander LAKERNIK
+p188
 g2
-((lp188
-VISR
-p189
-aVGBR
+((lp189
+VISU
 p190
 atp191
 Rp192
-sVJarmila PORTOVA
+sVHailan JIANG
 p193
 g2
 ((lp194
-VCZE
+VCHN
 p195
 atp196
 Rp197
-sVSlobodan DELIC
+sVRichard KOSINA
 p198
 g2
 ((lp199
-VGRE
+VCZE
 p200
 atp201
 Rp202
-sVHilary SELBY
+sVGarry HOPPE
 p203
 g2
 ((lp204
-VGBR
+VISR
 p205
-atp206
-Rp207
-sVAnn FINDLAY
-p208
+aVGBR
+p206
+atp207
+Rp208
+sVJarmila PORTOVA
+p209
 g2
-((lp209
-tp210
-Rp211
-sVOdette COULSON
-p212
-g2
-((lp213
-tp214
-Rp215
-sVRichard GRAINGE
-p216
-g2
-((lp217
-VGBR
-p218
-atp219
-Rp220
-sVAnne FAGERSTROM
-p221
-g2
-((lp222
-tp223
-Rp224
-sVJulia SEMJONOVA
-p225
-g2
-((lp226
-VEST
-p227
-atp228
-Rp229
-sVMarketa HORKLOVA
-p230
-g2
-((lp231
+((lp210
 VCZE
-p232
-atp233
-Rp234
-sVIsabella MICHELI
-p235
+p211
+atp212
+Rp213
+sVSlobodan DELIC
+p214
 g2
-((lp236
-VITA
-p237
-atp238
-Rp239
-sVTsuguhiko KOZUKA
-p240
+((lp215
+VGRE
+p216
+atp217
+Rp218
+sVHilary SELBY
+p219
 g2
-((lp241
-VJPN
-p242
-atp243
-Rp244
-sVRoxane PETETIN
-p245
+((lp220
+VGBR
+p221
+atp222
+Rp223
+sVAnn FINDLAY
+p224
 g2
-((lp246
-tp247
+((lp225
+VISU
+p226
+atp227
+Rp228
+sVOdette COULSON
+p229
+g2
+((lp230
+VISU
+p231
+atp232
+Rp233
+sVRichard GRAINGE
+p234
+g2
+((lp235
+VGBR
+p236
+atp237
+Rp238
+sVAnne FAGERSTROM
+p239
+g2
+((lp240
+VISU
+p241
+atp242
+Rp243
+sVJulia SEMJONOVA
+p244
+g2
+((lp245
+VEST
+p246
+atp247
 Rp248
-sVIgor PASHKEVICH
+sVMarketa HORKLOVA
 p249
 g2
 ((lp250
-tp251
-Rp252
-sVRaimo REINSALU
-p253
+VCZE
+p251
+atp252
+Rp253
+sVIsabella MICHELI
+p254
 g2
-((lp254
-VEST
-p255
-atp256
-Rp257
-sVMichela MALINGAMBI
-p258
-g2
-((lp259
+((lp255
 VITA
-p260
-atp261
-Rp262
-sVAnna SIEROCKA
-p263
+p256
+atp257
+Rp258
+sVTsuguhiko KOZUKA
+p259
 g2
-((lp264
-VPOL
-p265
-atp266
-Rp267
-sVOlga GILARDINI
-p268
+((lp260
+VJPN
+p261
+atp262
+Rp263
+sVRoxane PETETIN
+p264
 g2
-((lp269
-tp270
-Rp271
-sVJohn COLE
-p272
-g2
-((lp273
-VUSA
-p274
-atp275
-Rp276
-sVRita ZONNEKEYN
-p277
-g2
-((lp278
-VBEL
-p279
-atp280
-Rp281
-sVJan HOFFMANN
-p282
-g2
-((lp283
-VGER
-p284
-atp285
-Rp286
-sVIkuko ISHIKAWA
-p287
-g2
-((lp288
-tp289
-Rp290
-sVHelle CARLSEN
-p291
-g2
-((lp292
+((lp265
 VISU
-p293
-atp294
-Rp295
-sVSergei PONOMARENKO
+p266
+atp267
+Rp268
+sVIgor PASHKEVICH
+p269
+g2
+((lp270
+VISU
+p271
+atp272
+Rp273
+sVRaimo REINSALU
+p274
+g2
+((lp275
+VEST
+p276
+atp277
+Rp278
+sVMichela MALINGAMBI
+p279
+g2
+((lp280
+VITA
+p281
+atp282
+Rp283
+sVAnna SIEROCKA
+p284
+g2
+((lp285
+VPOL
+p286
+atp287
+Rp288
+sVOlga GILARDINI
+p289
+g2
+((lp290
+VISU
+p291
+atp292
+Rp293
+sVJohn COLE
+p294
+g2
+((lp295
+VUSA
 p296
+atp297
+Rp298
+sVRita ZONNEKEYN
+p299
 g2
-((lp297
-tp298
-Rp299
-sVJiasheng YANG
-p300
-g2
-((lp301
-VCHN
-p302
-atp303
-Rp304
-sVKristina HOUWING
-p305
-g2
-((lp306
-VSWE
-p307
-atp308
-Rp309
-sVFrancoise DE RAPPARD
-p310
-g2
-((lp311
+((lp300
 VBEL
-p312
-atp313
-Rp314
-sVMika SAARELAINEN
-p315
+p301
+atp302
+Rp303
+sVJan HOFFMANN
+p304
 g2
-((lp316
-VFIN
-p317
-atp318
-Rp319
-sVGalit CHAIT-MORACCI
-p320
+((lp305
+VGER
+p306
+atp307
+Rp308
+sVIkuko ISHIKAWA
+p309
 g2
-((lp321
-tp322
+((lp310
+VISU
+p311
+atp312
+Rp313
+sVHelle CARLSEN
+p314
+g2
+((lp315
+VISU
+p316
+atp317
+Rp318
+sVSergei PONOMARENKO
+p319
+g2
+((lp320
+VISU
+p321
+atp322
 Rp323
-sVAyako HIGASHINO
+sVJiasheng YANG
 p324
 g2
 ((lp325
-tp326
-Rp327
-sVEvgeny MARTYNOV
-p328
+VCHN
+p326
+atp327
+Rp328
+sVKristina HOUWING
+p329
 g2
-((lp329
-tp330
-Rp331
-sVHanna THEN
-p332
+((lp330
+VSWE
+p331
+atp332
+Rp333
+sVFrancoise DE RAPPARD
+p334
 g2
-((lp333
-tp334
-Rp335
-sVLorrie PARKER
+((lp335
+VBEL
 p336
+atp337
+Rp338
+sVMika SAARELAINEN
+p339
 g2
-((lp337
-VUSA
-p338
-atp339
-Rp340
-sVAntica GRUBISIC
+((lp340
+VFIN
 p341
+atp342
+Rp343
+sVGalit CHAIT-MORACCI
+p344
 g2
-((lp342
-VCRO
-p343
-atp344
-Rp345
-sVKylie Anne YACOPETTI
+((lp345
+VISU
 p346
+atp347
+Rp348
+sVAyako HIGASHINO
+p349
 g2
-((lp347
-VAUS
-p348
-atp349
-Rp350
-sVJason DUNGJEN
+((lp350
+VISU
 p351
+atp352
+Rp353
+sVEvgeny MARTYNOV
+p354
 g2
-((lp352
-tp353
-Rp354
-sVCsaba BALINT
-p355
+((lp355
+VISU
+p356
+atp357
+Rp358
+sVHanna THEN
+p359
 g2
-((lp356
-VHUN
-p357
-atp358
-Rp359
-sVDingding LIU
-p360
-g2
-((lp361
-tp362
+((lp360
+VISU
+p361
+atp362
 Rp363
-sVAndrea TRNKOVA-KUNCOVA
+sVLorrie PARKER
 p364
 g2
 ((lp365
-tp366
-Rp367
-sVYing ZHAO
-p368
-g2
-((lp369
-VCHN
-p370
-atp371
-Rp372
-sVSusanne WAHLSTROM
-p373
-g2
-((lp374
-VSWE
-p375
-atp376
-Rp377
-sVUbavka KUTINOU-NOVAKOVIC
-p378
-g2
-((lp379
-tp380
-Rp381
-sVDaniela CAVELLI
-p382
-g2
-((lp383
-tp384
-Rp385
-sVJana BAUDYSOVA
-p386
-g2
-((lp387
-VCZE
-p388
-atp389
-Rp390
-sVTeri SEDEJ
-p391
-g2
-((lp392
-VSLO
-p393
-atp394
-Rp395
-sVWilliam S. SMITH
-p396
-g2
-((lp397
 VUSA
-p398
-atp399
-Rp400
-sVAndre-Marc ALLAIN
+p366
+atp367
+Rp368
+sVAntica GRUBISIC
+p369
+g2
+((lp370
+VCRO
+p371
+atp372
+Rp373
+sVKylie Anne YACOPETTI
+p374
+g2
+((lp375
+VAUS
+p376
+atp377
+Rp378
+sVJason DUNGJEN
+p379
+g2
+((lp380
+VISU
+p381
+atp382
+Rp383
+sVCsaba BALINT
+p384
+g2
+((lp385
+VHUN
+p386
+atp387
+Rp388
+sVDingding LIU
+p389
+g2
+((lp390
+VISU
+p391
+atp392
+Rp393
+sVAndrea TRNKOVA-KUNCOVA
+p394
+g2
+((lp395
+VISU
+p396
+atp397
+Rp398
+sVYing ZHAO
+p399
+g2
+((lp400
+VCHN
 p401
+atp402
+Rp403
+sVSusanne WAHLSTROM
+p404
 g2
-((lp402
-VCAN
-p403
-atp404
-Rp405
-sVKelly CRUICKSHANK
+((lp405
+VSWE
 p406
+atp407
+Rp408
+sVUbavka KUTINOU-NOVAKOVIC
+p409
 g2
-((lp407
-tp408
-Rp409
-sVStefan GRAMPELHUBER
-p410
+((lp410
+VISU
+p411
+atp412
+Rp413
+sVDaniela CAVELLI
+p414
 g2
-((lp411
-VAUT
-p412
-atp413
-Rp414
-sVYoshiko KOBAYASHI
-p415
+((lp415
+VISU
+p416
+atp417
+Rp418
+sVJana BAUDYSOVA
+p419
 g2
-((lp416
-VJPN
-p417
-atp418
-Rp419
-sVJoanna MILLER
-p420
-g2
-((lp421
-tp422
+((lp420
+VCZE
+p421
+atp422
 Rp423
-sVReaghan FAWCETT
+sVTeri SEDEJ
 p424
 g2
 ((lp425
-VCAN
+VSLO
 p426
 atp427
 Rp428
-sVLovorka KODRIN
+sVWilliam S. SMITH
 p429
 g2
 ((lp430
-tp431
-Rp432
-sVDavid MOELLENKAMP
-p433
+VUSA
+p431
+atp432
+Rp433
+sVAndre-Marc ALLAIN
+p434
 g2
-((lp434
-tp435
-Rp436
-sVLynne DEY
-p437
-g2
-((lp438
+((lp435
 VCAN
+p436
+atp437
+Rp438
+sVKelly CRUICKSHANK
 p439
-atp440
-Rp441
-sVHelle LYNGBERG
-p442
 g2
-((lp443
-tp444
-Rp445
-sVAniela HEBEL-SZMAK
+((lp440
+VISU
+p441
+atp442
+Rp443
+sVStefan GRAMPELHUBER
+p444
+g2
+((lp445
+VAUT
 p446
+atp447
+Rp448
+sVYoshiko KOBAYASHI
+p449
 g2
-((lp447
-VPOL
-p448
-atp449
-Rp450
-sVAnna KANTOR
-p451
-g2
-((lp452
-VISR
-p453
-atp454
-Rp455
-sVJozica PODBEVESEK
-p456
-g2
-((lp457
-tp458
-Rp459
-sVAkira YOSHIZAWA
-p460
-g2
-((lp461
+((lp450
 VJPN
-p462
-atp463
-Rp464
-sVTatiana SHARKINA
-p465
+p451
+atp452
+Rp453
+sVJoanna MILLER
+p454
 g2
-((lp466
-VRUS
-p467
-atp468
-Rp469
-sVErica SONDEREGGER
-p470
+((lp455
+VISU
+p456
+atp457
+Rp458
+sVReaghan FAWCETT
+p459
 g2
-((lp471
-tp472
+((lp460
+VCAN
+p461
+atp462
+Rp463
+sVLovorka KODRIN
+p464
+g2
+((lp465
+VISU
+p466
+atp467
+Rp468
+sVDavid MOELLENKAMP
+p469
+g2
+((lp470
+VISU
+p471
+atp472
 Rp473
-sVEkrem MALKOC
+sVLynne DEY
 p474
 g2
 ((lp475
-VTUR
+VCAN
 p476
 atp477
 Rp478
-sVZsofia KULCZAR
+sVHelle LYNGBERG
 p479
 g2
 ((lp480
-tp481
-Rp482
-sVValerie GREUGNY-HUART
-p483
+VISU
+p481
+atp482
+Rp483
+sVAniela HEBEL-SZMAK
+p484
 g2
-((lp484
-VFRA
-p485
-atp486
-Rp487
-sVRoger GLENN
-p488
+((lp485
+VPOL
+p486
+atp487
+Rp488
+sVAnna KANTOR
+p489
 g2
-((lp489
-VUSA
-p490
-atp491
-Rp492
-sVEva MARTINEK
-p493
+((lp490
+VISR
+p491
+atp492
+Rp493
+sVJozica PODBEVESEK
+p494
 g2
-((lp494
-tp495
-Rp496
-sVSakiko OKANO
-p497
-g2
-((lp498
-VJPN
+((lp495
+VISU
+p496
+atp497
+Rp498
+sVAkira YOSHIZAWA
 p499
-atp500
-Rp501
-sVDoug WILLIAMS
-p502
 g2
-((lp503
-VUSA
+((lp500
+VJPN
+p501
+atp502
+Rp503
+sVTatiana SHARKINA
 p504
-atp505
-Rp506
-sVValery MAKSAEV
-p507
 g2
-((lp508
-tp509
-Rp510
-sVIrina NECHKINA
+((lp505
+VRUS
+p506
+atp507
+Rp508
+sVErica SONDEREGGER
+p509
+g2
+((lp510
+VISU
 p511
+atp512
+Rp513
+sVEkrem MALKOC
+p514
 g2
-((lp512
-VAZE
-p513
-atp514
-Rp515
-sVHermi OTTEMANN
+((lp515
+VTUR
 p516
+atp517
+Rp518
+sVZsofia KULCZAR
+p519
 g2
-((lp517
-tp518
-Rp519
-sVTatiana YORDANOVA
-p520
+((lp520
+VISU
+p521
+atp522
+Rp523
+sVValerie GREUGNY-HUART
+p524
 g2
-((lp521
-VBUL
-p522
-atp523
-Rp524
-sVZoltan JANOSI
-p525
-g2
-((lp526
-tp527
+((lp525
+VFRA
+p526
+atp527
 Rp528
-sVKari-Anne OLSEN
+sVRoger GLENN
 p529
 g2
 ((lp530
-VNOR
+VUSA
 p531
 atp532
 Rp533
-sVJohn MILLIER
+sVEva MARTINEK
 p534
 g2
 ((lp535
-VUSA
+VISU
 p536
 atp537
 Rp538
-sVDaniel DE PAIX DE COEUR
+sVSakiko OKANO
 p539
 g2
 ((lp540
-VFRA
+VJPN
 p541
 atp542
 Rp543
-sVShawn RETTSTATT
+sVDoug WILLIAMS
 p544
 g2
 ((lp545
@@ -859,791 +877,807 @@ VUSA
 p546
 atp547
 Rp548
-sVSzilard TOTH
+sVValery MAKSAEV
 p549
 g2
 ((lp550
-VHUN
+VISU
 p551
 atp552
 Rp553
-sVEvelyn ROSSOUKHI-SCHNEIDER
+sVIrina NECHKINA
 p554
 g2
 ((lp555
-tp556
-Rp557
-sVAdriana ORDEANU
-p558
+VAZE
+p556
+atp557
+Rp558
+sVHermi OTTEMANN
+p559
 g2
-((lp559
-VROM
-p560
-atp561
-Rp562
-sVAgnes MORVAI-KOVECSES
-p563
-g2
-((lp564
-VHUN
-p565
-atp566
-Rp567
-sVKadi ZVIRIK
-p568
-g2
-((lp569
-VEST
-p570
-atp571
-Rp572
-sVMariusz SIUDEK
-p573
-g2
-((lp574
-tp575
-Rp576
-sVJodi ABBOTT
-p577
-g2
-((lp578
-VCAN
-p579
-atp580
-Rp581
-sVAlexandra FORD
-p582
-g2
-((lp583
-VAUS
-p584
-atp585
-Rp586
-sVRichard DALLEY
-p587
-g2
-((lp588
-VUSA
-p589
-atp590
-Rp591
-sVDeborah NOYES
-p592
-g2
-((lp593
-tp594
-Rp595
-sVMarjo KANKAANRANTA
-p596
-g2
-((lp597
-VFIN
-p598
-atp599
-Rp600
-sVNadezhda PARETSKAIA
-p601
-g2
-((lp602
-VKAZ
-p603
-atp604
-Rp605
-sVJanet COTON
-p606
-g2
-((lp607
-VGBR
-p608
-atp609
-Rp610
-sVNeil GARRARD
-p611
-g2
-((lp612
-tp613
-Rp614
-sVFrancois WAITZMAN
-p615
-g2
-((lp616
-VFRA
-p617
-atp618
-Rp619
-sVMarion KRIJGSMAN
-p620
-g2
-((lp621
+((lp560
 VISU
-p622
-atp623
-Rp624
-sVSteve MUFF
-p625
+p561
+atp562
+Rp563
+sVTatiana YORDANOVA
+p564
 g2
-((lp626
-tp627
+((lp565
+VBUL
+p566
+atp567
+Rp568
+sVZoltan JANOSI
+p569
+g2
+((lp570
+VISU
+p571
+atp572
+Rp573
+sVKari-Anne OLSEN
+p574
+g2
+((lp575
+VNOR
+p576
+atp577
+Rp578
+sVJohn MILLIER
+p579
+g2
+((lp580
+VUSA
+p581
+atp582
+Rp583
+sVDaniel DE PAIX DE COEUR
+p584
+g2
+((lp585
+VFRA
+p586
+atp587
+Rp588
+sVShawn RETTSTATT
+p589
+g2
+((lp590
+VUSA
+p591
+atp592
+Rp593
+sVSzilard TOTH
+p594
+g2
+((lp595
+VHUN
+p596
+atp597
+Rp598
+sVEvelyn ROSSOUKHI-SCHNEIDER
+p599
+g2
+((lp600
+VISU
+p601
+atp602
+Rp603
+sVAdriana ORDEANU
+p604
+g2
+((lp605
+VROM
+p606
+atp607
+Rp608
+sVAgnes MORVAI-KOVECSES
+p609
+g2
+((lp610
+VHUN
+p611
+atp612
+Rp613
+sVKadi ZVIRIK
+p614
+g2
+((lp615
+VEST
+p616
+atp617
+Rp618
+sVMariusz SIUDEK
+p619
+g2
+((lp620
+VISU
+p621
+atp622
+Rp623
+sVJodi ABBOTT
+p624
+g2
+((lp625
+VCAN
+p626
+atp627
 Rp628
-sVWalter ZUCCARO
+sVAlexandra FORD
 p629
 g2
 ((lp630
-VITA
+VAUS
 p631
 atp632
 Rp633
-sVLisa ERVIN-BAUDO
+sVRichard DALLEY
 p634
 g2
 ((lp635
-tp636
-Rp637
-sVMartin PAULMICHL
-p638
-g2
-((lp639
-tp640
-Rp641
-sVRicardo OLAVARRIETA
-p642
-g2
-((lp643
-tp644
-Rp645
-sVUlla FAIG
-p646
-g2
-((lp647
-VGER
-p648
-atp649
-Rp650
-sVKitty DELIO-LAFORTE
-p651
-g2
-((lp652
 VUSA
-p653
-atp654
-Rp655
-sVKyung-Won SAKONG
+p636
+atp637
+Rp638
+sVDeborah NOYES
+p639
+g2
+((lp640
+VISU
+p641
+atp642
+Rp643
+sVMarjo KANKAANRANTA
+p644
+g2
+((lp645
+VFIN
+p646
+atp647
+Rp648
+sVNadezhda PARETSKAIA
+p649
+g2
+((lp650
+VKAZ
+p651
+atp652
+Rp653
+sVJanet COTON
+p654
+g2
+((lp655
+VGBR
 p656
+atp657
+Rp658
+sVNeil GARRARD
+p659
 g2
-((lp657
-VKOR
-p658
-atp659
-Rp660
-sVVladimir PETRENKO
+((lp660
+VISU
 p661
+atp662
+Rp663
+sVFrancois WAITZMAN
+p664
 g2
-((lp662
-tp663
-Rp664
-sVYu WANG
-p665
+((lp665
+VFRA
+p666
+atp667
+Rp668
+sVMarion KRIJGSMAN
+p669
 g2
-((lp666
-VCHN
-p667
-atp668
-Rp669
-sVTed BARTON
-p670
-g2
-((lp671
-tp672
+((lp670
+VISU
+p671
+atp672
 Rp673
-sVVanessa RILEY
+sVSteve MUFF
 p674
 g2
 ((lp675
-tp676
-Rp677
-sVIgor DOLGUSHIN
-p678
+VISU
+p676
+atp677
+Rp678
+sVWalter ZUCCARO
+p679
 g2
-((lp679
-VRUS
-p680
-atp681
-Rp682
-sVJudy BLUMBERG
-p683
+((lp680
+VITA
+p681
+atp682
+Rp683
+sVLisa ERVIN-BAUDO
+p684
 g2
-((lp684
-tp685
-Rp686
-sVAngelique CLYDE-SMITH
-p687
-g2
-((lp688
-VAUS
+((lp685
+VISU
+p686
+atp687
+Rp688
+sVMartin PAULMICHL
 p689
-atp690
-Rp691
-sVMieko FUJIMORI
-p692
 g2
-((lp693
-VJPN
+((lp690
+VISU
+p691
+atp692
+Rp693
+sVRicardo OLAVARRIETA
 p694
-atp695
-Rp696
-sVAlan BLINN
-p697
 g2
-((lp698
-VAUS
+((lp695
+VISU
+p696
+atp697
+Rp698
+sVUlla FAIG
 p699
-atp700
-Rp701
-sVEmilie BILLOW
-p702
 g2
-((lp703
-VSWE
-p704
-atp705
-Rp706
-sVJia YAO
-p707
-g2
-((lp708
-VCHN
-p709
-atp710
-Rp711
-sVRolf PIPOH
-p712
-g2
-((lp713
+((lp700
 VGER
+p701
+atp702
+Rp703
+sVKitty DELIO-LAFORTE
+p704
+g2
+((lp705
+VUSA
+p706
+atp707
+Rp708
+sVKyung-Won SAKONG
+p709
+g2
+((lp710
+VKOR
+p711
+atp712
+Rp713
+sVVladimir PETRENKO
 p714
-atp715
-Rp716
-sVThomas RAUER
-p717
 g2
-((lp718
-tp719
-Rp720
-sVVirpi KUNNAS-HELMINEN
+((lp715
+VISU
+p716
+atp717
+Rp718
+sVYu WANG
+p719
+g2
+((lp720
+VCHN
 p721
+atp722
+Rp723
+sVTed BARTON
+p724
 g2
-((lp722
-tp723
-Rp724
-sVBirgit FOELL
-p725
-g2
-((lp726
-tp727
+((lp725
+VISU
+p726
+atp727
 Rp728
-sVRaisa GAGARINA
+sVVanessa RILEY
 p729
 g2
 ((lp730
-VUZB
+VISU
 p731
 atp732
 Rp733
-sVMargo PAUW
+sVIgor DOLGUSHIN
 p734
 g2
 ((lp735
-tp736
-Rp737
-sVMeiko SASAKI
-p738
+VRUS
+p736
+atp737
+Rp738
+sVJudy BLUMBERG
+p739
 g2
-((lp739
-VJPN
-p740
-atp741
-Rp742
-sVAnn SHAW
-p743
+((lp740
+VISU
+p741
+atp742
+Rp743
+sVAngelique CLYDE-SMITH
+p744
 g2
-((lp744
-VCAN
-p745
-atp746
-Rp747
-sVNobuhiko YOSHIOKA
-p748
-g2
-((lp749
-VJPN
-p750
-atp751
-Rp752
-sVPeter RANKIN
-p753
-g2
-((lp754
+((lp745
 VAUS
-p755
-atp756
-Rp757
-sVDenis SAMOKHIN
-p758
+p746
+atp747
+Rp748
+sVMieko FUJIMORI
+p749
 g2
-((lp759
-VISU
-p760
-atp761
-Rp762
-sVCamilla FREDMAN
-p763
+((lp750
+VJPN
+p751
+atp752
+Rp753
+sVAlan BLINN
+p754
 g2
-((lp764
+((lp755
+VAUS
+p756
+atp757
+Rp758
+sVEmilie BILLOW
+p759
+g2
+((lp760
 VSWE
-p765
-atp766
-Rp767
-sVMagdalena RUSIECKA
-p768
+p761
+atp762
+Rp763
+sVJia YAO
+p764
 g2
-((lp769
-tp770
-Rp771
-sVClaudia FASSORA
-p772
+((lp765
+VCHN
+p766
+atp767
+Rp768
+sVRolf PIPOH
+p769
 g2
-((lp773
-VSUI
+((lp770
+VGER
+p771
+atp772
+Rp773
+sVThomas RAUER
 p774
-atp775
-Rp776
-sVLaura MCNAIR
-p777
 g2
-((lp778
-tp779
-Rp780
-sVCoco SHEAN
+((lp775
+VISU
+p776
+atp777
+Rp778
+sVVirpi KUNNAS-HELMINEN
+p779
+g2
+((lp780
+VISU
 p781
+atp782
+Rp783
+sVBirgit FOELL
+p784
 g2
-((lp782
+((lp785
 VISU
-p783
-atp784
-Rp785
-sVLorenzo MAGRI
 p786
+atp787
+Rp788
+sVRaisa GAGARINA
+p789
 g2
-((lp787
-tp788
-Rp789
-sVAnn HARDY-THOMAS
-p790
+((lp790
+VUZB
+p791
+atp792
+Rp793
+sVMargo PAUW
+p794
 g2
-((lp791
+((lp795
 VISU
-p792
-atp793
-Rp794
-sVEugen LARASSER
-p795
-g2
-((lp796
-tp797
+p796
+atp797
 Rp798
-sVJamie MCGRIGOR
+sVMeiko SASAKI
 p799
 g2
 ((lp800
-tp801
-Rp802
-sVSissy KRICK
-p803
+VJPN
+p801
+atp802
+Rp803
+sVAnn SHAW
+p804
 g2
-((lp804
-VGER
-p805
-atp806
-Rp807
-sVLeslie KEEN
-p808
-g2
-((lp809
+((lp805
 VCAN
-p810
-atp811
-Rp812
-sVAndrea DERBY
-p813
+p806
+atp807
+Rp808
+sVNobuhiko YOSHIOKA
+p809
 g2
-((lp814
-VCAN
-p815
-atp816
-Rp817
-sVPeeter LAUR
-p818
+((lp810
+VJPN
+p811
+atp812
+Rp813
+sVPeter RANKIN
+p814
 g2
-((lp819
-tp820
-Rp821
-sVRaia BISSEROVA-BAKALOVA
-p822
+((lp815
+VAUS
+p816
+atp817
+Rp818
+sVDenis SAMOKHIN
+p819
 g2
-((lp823
-VBUL
+((lp820
+VISU
+p821
+atp822
+Rp823
+sVCamilla FREDMAN
 p824
-atp825
-Rp826
-sVAnja RIST
-p827
 g2
-((lp828
-VGER
+((lp825
+VSWE
+p826
+atp827
+Rp828
+sVMagdalena RUSIECKA
 p829
-atp830
-Rp831
-sVNicole ENDRESS
-p832
 g2
-((lp833
-tp834
-Rp835
-sVBeatrice PFISTER
-p836
+((lp830
+VISU
+p831
+atp832
+Rp833
+sVClaudia FASSORA
+p834
 g2
-((lp837
+((lp835
 VSUI
-p838
-atp839
-Rp840
-sVRock LEMAY
+p836
+atp837
+Rp838
+sVLaura MCNAIR
+p839
+g2
+((lp840
+VISU
 p841
+atp842
+Rp843
+sVCoco SHEAN
+p844
 g2
-((lp842
-tp843
-Rp844
-sVJean SENFT
-p845
+((lp845
+VISU
+p846
+atp847
+Rp848
+sVLorenzo MAGRI
+p849
 g2
-((lp846
-VCAN
-p847
-atp848
-Rp849
-sVAngelo DOLFINI
-p850
-g2
-((lp851
-tp852
+((lp850
+VISU
+p851
+atp852
 Rp853
-sVHalina GORDON-POLTORAK
+sVAnn HARDY-THOMAS
 p854
 g2
 ((lp855
-VPOL
+VISU
 p856
 atp857
 Rp858
-sVVolker WALDECK
+sVEugen LARASSER
 p859
 g2
 ((lp860
-VGER
+VISU
 p861
 atp862
 Rp863
-sVWilliam THOMPSON
+sVJamie MCGRIGOR
 p864
 g2
 ((lp865
-VCAN
+VISU
 p866
 atp867
 Rp868
-sVAlexei BELETSKI
+sVSissy KRICK
 p869
 g2
 ((lp870
-VISR
+VGER
 p871
 atp872
 Rp873
-sVReiko OGAWA
+sVLeslie KEEN
 p874
 g2
 ((lp875
-VJPN
+VCAN
 p876
 atp877
 Rp878
-sVBerit AARNES
+sVAndrea DERBY
 p879
 g2
 ((lp880
-tp881
-Rp882
-sVIgor PROKOP
-p883
-g2
-((lp884
-tp885
-Rp886
-sVSusan HEFFERNAN
-p887
-g2
-((lp888
 VCAN
+p881
+atp882
+Rp883
+sVPeeter LAUR
+p884
+g2
+((lp885
+VISU
+p886
+atp887
+Rp888
+sVRaia BISSEROVA-BAKALOVA
 p889
-atp890
-Rp891
-sVSimonetta SPALLUTO
-p892
 g2
-((lp893
-VITA
+((lp890
+VBUL
+p891
+atp892
+Rp893
+sVAnja RIST
 p894
-atp895
-Rp896
-sVElizabeth RYAN
-p897
 g2
-((lp898
-VAUS
-p899
-atp900
-Rp901
-sVAdriana DOMANSKA
-p902
-g2
-((lp903
-VSVK
-p904
-atp905
-Rp906
-sVDagmar LURZ-PROTT
-p907
-g2
-((lp908
+((lp895
 VGER
+p896
+atp897
+Rp898
+sVNicole ENDRESS
+p899
+g2
+((lp900
+VISU
+p901
+atp902
+Rp903
+sVBeatrice PFISTER
+p904
+g2
+((lp905
+VSUI
+p906
+atp907
+Rp908
+sVRock LEMAY
 p909
-atp910
-Rp911
-sVMonika KUSTAROVA
-p912
 g2
-((lp913
-tp914
-Rp915
-sVJeff LUKASIK
-p916
+((lp910
+VISU
+p911
+atp912
+Rp913
+sVJean SENFT
+p914
 g2
-((lp917
+((lp915
 VCAN
-p918
-atp919
-Rp920
-sVSenem AHISKAL
+p916
+atp917
+Rp918
+sVAngelo DOLFINI
+p919
+g2
+((lp920
+VISU
 p921
+atp922
+Rp923
+sVHalina GORDON-POLTORAK
+p924
 g2
-((lp922
-tp923
-Rp924
-sVMichael HOPFES
-p925
-g2
-((lp926
-tp927
+((lp925
+VPOL
+p926
+atp927
 Rp928
-sVMona JONSSON
+sVVolker WALDECK
 p929
 g2
 ((lp930
-VSWE
+VGER
 p931
 atp932
 Rp933
-sVFranca BIANCONI
+sVWilliam THOMPSON
 p934
 g2
 ((lp935
-tp936
-Rp937
-sVAlexandr GORSHKOV
-p938
+VCAN
+p936
+atp937
+Rp938
+sVAlexei BELETSKI
+p939
 g2
-((lp939
-tp940
-Rp941
-sVAndrzej DOSTATNI
-p942
+((lp940
+VISR
+p941
+atp942
+Rp943
+sVReiko OGAWA
+p944
 g2
-((lp943
-tp944
-Rp945
-sVAigul KUANISHEVA
+((lp945
+VJPN
 p946
+atp947
+Rp948
+sVBerit AARNES
+p949
 g2
-((lp947
-VKAZ
-p948
-atp949
-Rp950
-sVLudmila MIKHAILOVSKAYA
+((lp950
+VISU
 p951
+atp952
+Rp953
+sVIgor PROKOP
+p954
 g2
-((lp952
-VUKR
-p953
-atp954
-Rp955
-sVAlice WALDER
+((lp955
+VISU
 p956
+atp957
+Rp958
+sVSusan HEFFERNAN
+p959
 g2
-((lp957
-VSUI
-p958
-atp959
-Rp960
-sVTarja RISTANEN
+((lp960
+VCAN
 p961
+atp962
+Rp963
+sVSimonetta SPALLUTO
+p964
 g2
-((lp962
-VFIN
-p963
-atp964
-Rp965
-sVElisabeth BINDER
+((lp965
+VITA
 p966
+atp967
+Rp968
+sVElizabeth RYAN
+p969
 g2
-((lp967
-tp968
-Rp969
-sVMarika HUMPHREYS-BARANOVA
-p970
-g2
-((lp971
-tp972
+((lp970
+VAUS
+p971
+atp972
 Rp973
-sVRichard OSTIGUY
+sVAdriana DOMANSKA
 p974
 g2
 ((lp975
-tp976
-Rp977
-sVMerja KOSONEN
-p978
-g2
-((lp979
-VFIN
-p980
-atp981
-Rp982
-sVVladislav PETUKHOV
-p983
-g2
-((lp984
-VUKR
-p985
-atp986
-Rp987
-sVNatalia KRUGLOVA
-p988
-g2
-((lp989
-VUKR
-p990
-atp991
-Rp992
-sVElena FOMINA
-p993
-g2
-((lp994
-VRUS
-p995
-atp996
-Rp997
-sVJunko HIRAMATSU
-p998
-g2
-((lp999
-tp1000
-Rp1001
-sVNatalie TAYLOR
-p1002
-g2
-((lp1003
-VAUS
-p1004
-atp1005
-Rp1006
-sVLenka BOHUNICKA
-p1007
-g2
-((lp1008
 VSVK
+p976
+atp977
+Rp978
+sVDagmar LURZ-PROTT
+p979
+g2
+((lp980
+VGER
+p981
+atp982
+Rp983
+sVMonika KUSTAROVA
+p984
+g2
+((lp985
+VISU
+p986
+atp987
+Rp988
+sVJeff LUKASIK
+p989
+g2
+((lp990
+VCAN
+p991
+atp992
+Rp993
+sVSenem AHISKAL
+p994
+g2
+((lp995
+VISU
+p996
+atp997
+Rp998
+sVMichael HOPFES
+p999
+g2
+((lp1000
+VISU
+p1001
+atp1002
+Rp1003
+sVMona JONSSON
+p1004
+g2
+((lp1005
+VSWE
+p1006
+atp1007
+Rp1008
+sVFranca BIANCONI
 p1009
-atp1010
-Rp1011
-sVLinda LEAVER
-p1012
 g2
-((lp1013
-VUSA
+((lp1010
+VISU
+p1011
+atp1012
+Rp1013
+sVAlexandr GORSHKOV
 p1014
-atp1015
-Rp1016
-sVJan CEJVAN
-p1017
 g2
-((lp1018
-tp1019
-Rp1020
-sVSteve WINKLER
+((lp1015
+VISU
+p1016
+atp1017
+Rp1018
+sVAndrzej DOSTATNI
+p1019
+g2
+((lp1020
+VISU
 p1021
+atp1022
+Rp1023
+sVAigul KUANISHEVA
+p1024
 g2
-((lp1022
-VUSA
-p1023
-atp1024
-Rp1025
-sVJun OKADA
+((lp1025
+VKAZ
 p1026
+atp1027
+Rp1028
+sVLudmila MIKHAILOVSKAYA
+p1029
 g2
-((lp1027
-tp1028
-Rp1029
-sVSamuel AUXIER
-p1030
+((lp1030
+VUKR
+p1031
+atp1032
+Rp1033
+sVAlice WALDER
+p1034
 g2
-((lp1031
-VUSA
-p1032
-atp1033
-Rp1034
-sVVeronique VERRUE
-p1035
+((lp1035
+VSUI
+p1036
+atp1037
+Rp1038
+sVTarja RISTANEN
+p1039
 g2
-((lp1036
-VFRA
-p1037
-atp1038
-Rp1039
-sVSvetlana KANDIBA
-p1040
+((lp1040
+VFIN
+p1041
+atp1042
+Rp1043
+sVElisabeth BINDER
+p1044
 g2
-((lp1041
-VRUS
-p1042
-atp1043
-Rp1044
-sVJulia SEBESTYEN
-p1045
-g2
-((lp1046
-tp1047
+((lp1045
+VISU
+p1046
+atp1047
 Rp1048
-sVEva SZILAGYI
+sVMarika HUMPHREYS-BARANOVA
 p1049
 g2
 ((lp1050
@@ -1651,133 +1685,135 @@ VISU
 p1051
 atp1052
 Rp1053
-sVJoyce D. KOMPERDA
+sVRichard OSTIGUY
 p1054
 g2
 ((lp1055
-VUSA
+VISU
 p1056
 atp1057
 Rp1058
-sVLisa JELINEK
+sVMerja KOSONEN
 p1059
 g2
 ((lp1060
-VAUS
+VFIN
 p1061
 atp1062
 Rp1063
-sVPatricia HOUGHTON
+sVVladislav PETUKHOV
 p1064
 g2
 ((lp1065
-VGBR
+VUKR
 p1066
 atp1067
 Rp1068
-sVKonstantin KOSTIN
+sVNatalia KRUGLOVA
 p1069
 g2
 ((lp1070
-tp1071
-Rp1072
-sVLudwig CZOCZEK
-p1073
-g2
-((lp1074
-VGER
-p1075
-atp1076
-Rp1077
-sVMasako KUBOTA
-p1078
-g2
-((lp1079
-VJPN
-p1080
-atp1081
-Rp1082
-sVSlavka GRINCOVA
-p1083
-g2
-((lp1084
-tp1085
-Rp1086
-sVEddy WU
-p1087
-g2
-((lp1088
-VTPE
-p1089
-atp1090
-Rp1091
-sVIgor FEDCHENKO
-p1092
-g2
-((lp1093
 VUKR
-p1094
-atp1095
-Rp1096
-sVChihee RHEE
-p1097
+p1071
+atp1072
+Rp1073
+sVElena FOMINA
+p1074
 g2
-((lp1098
-VKOR
-p1099
-atp1100
-Rp1101
-sVNobuo WAKITA
-p1102
+((lp1075
+VRUS
+p1076
+atp1077
+Rp1078
+sVJunko HIRAMATSU
+p1079
 g2
-((lp1103
-VJPN
-p1104
-atp1105
-Rp1106
-sVSandra WILLIAMSON-LEADLEY
-p1107
-g2
-((lp1108
-VNZL
-p1109
-atp1110
-Rp1111
-sVLone CHRISTENSEN AMSTRUP
-p1112
-g2
-((lp1113
+((lp1080
 VISU
+p1081
+atp1082
+Rp1083
+sVNatalie TAYLOR
+p1084
+g2
+((lp1085
+VAUS
+p1086
+atp1087
+Rp1088
+sVLenka BOHUNICKA
+p1089
+g2
+((lp1090
+VSVK
+p1091
+atp1092
+Rp1093
+sVLinda LEAVER
+p1094
+g2
+((lp1095
+VUSA
+p1096
+atp1097
+Rp1098
+sVJan CEJVAN
+p1099
+g2
+((lp1100
+VISU
+p1101
+atp1102
+Rp1103
+sVSteve WINKLER
+p1104
+g2
+((lp1105
+VUSA
+p1106
+atp1107
+Rp1108
+sVJun OKADA
+p1109
+g2
+((lp1110
+VISU
+p1111
+atp1112
+Rp1113
+sVSamuel AUXIER
 p1114
-atp1115
-Rp1116
-sVJulia REY
-p1117
 g2
-((lp1118
-tp1119
-Rp1120
-sVAndreas WALDECK
+((lp1115
+VUSA
+p1116
+atp1117
+Rp1118
+sVVeronique VERRUE
+p1119
+g2
+((lp1120
+VFRA
 p1121
+atp1122
+Rp1123
+sVSvetlana KANDIBA
+p1124
 g2
-((lp1122
-VGER
-p1123
-atp1124
-Rp1125
-sVDaniel HUGENTOBLER
+((lp1125
+VRUS
 p1126
+atp1127
+Rp1128
+sVJulia SEBESTYEN
+p1129
 g2
-((lp1127
-tp1128
-Rp1129
-sVXander GIJTENBEEK
-p1130
-g2
-((lp1131
-tp1132
+((lp1130
+VISU
+p1131
+atp1132
 Rp1133
-sVTomas KIKA
+sVEva SZILAGYI
 p1134
 g2
 ((lp1135
@@ -1785,265 +1821,271 @@ VISU
 p1136
 atp1137
 Rp1138
-sVAlfred KORYTEK
+sVJoyce D. KOMPERDA
 p1139
 g2
 ((lp1140
-tp1141
-Rp1142
-sVAnna CHATZIATHANASSIOU
-p1143
+VUSA
+p1141
+atp1142
+Rp1143
+sVLisa JELINEK
+p1144
 g2
-((lp1144
-tp1145
-Rp1146
-sVJulia ANDREEVA
-p1147
-g2
-((lp1148
-VRUS
+((lp1145
+VAUS
+p1146
+atp1147
+Rp1148
+sVPatricia HOUGHTON
 p1149
-atp1150
-Rp1151
-sVKaren BUTCHER
-p1152
 g2
-((lp1153
-VCAN
+((lp1150
+VGBR
+p1151
+atp1152
+Rp1153
+sVKonstantin KOSTIN
 p1154
-atp1155
-Rp1156
-sVGabor KOLECSANSZKY
-p1157
 g2
-((lp1158
+((lp1155
 VISU
+p1156
+atp1157
+Rp1158
+sVLudwig CZOCZEK
 p1159
-atp1160
-Rp1161
-sVElizabeth LITTLER
-p1162
 g2
-((lp1163
-tp1164
-Rp1165
-sVYukiko OKABE
-p1166
+((lp1160
+VGER
+p1161
+atp1162
+Rp1163
+sVMasako KUBOTA
+p1164
 g2
-((lp1167
+((lp1165
 VJPN
-p1168
-atp1169
-Rp1170
-sVYury BALKOV
+p1166
+atp1167
+Rp1168
+sVSlavka GRINCOVA
+p1169
+g2
+((lp1170
+VISU
 p1171
+atp1172
+Rp1173
+sVEddy WU
+p1174
 g2
-((lp1172
-VUKR
-p1173
-atp1174
-Rp1175
-sVTiziana MORANDI
+((lp1175
+VTPE
 p1176
+atp1177
+Rp1178
+sVIgor FEDCHENKO
+p1179
 g2
-((lp1177
-VITA
-p1178
-atp1179
-Rp1180
-sVMarina SANAIA
+((lp1180
+VUKR
 p1181
+atp1182
+Rp1183
+sVChihee RHEE
+p1184
 g2
-((lp1182
-VRUS
-p1183
-atp1184
-Rp1185
-sVMyriam LORIOL-OBERWYLER
+((lp1185
+VKOR
 p1186
+atp1187
+Rp1188
+sVNobuo WAKITA
+p1189
 g2
-((lp1187
-tp1188
-Rp1189
-sVMarcin KOZUBEK
-p1190
+((lp1190
+VJPN
+p1191
+atp1192
+Rp1193
+sVSandra WILLIAMSON-LEADLEY
+p1194
 g2
-((lp1191
-VPOL
-p1192
-atp1193
-Rp1194
-sVGavril VELCHEV
-p1195
-g2
-((lp1196
-tp1197
+((lp1195
+VNZL
+p1196
+atp1197
 Rp1198
-sVChristine HURTH
+sVLone CHRISTENSEN AMSTRUP
 p1199
 g2
 ((lp1200
-VFRA
+VISU
 p1201
 atp1202
 Rp1203
-sVGeorgi DIMKOV
+sVJulia REY
 p1204
 g2
 ((lp1205
-tp1206
-Rp1207
-sVGeorg KRUMMENACHER
-p1208
+VISU
+p1206
+atp1207
+Rp1208
+sVAndreas WALDECK
+p1209
 g2
-((lp1209
-VSUI
-p1210
-atp1211
-Rp1212
-sVEdith SCHILLER
-p1213
+((lp1210
+VGER
+p1211
+atp1212
+Rp1213
+sVDaniel HUGENTOBLER
+p1214
 g2
-((lp1214
-tp1215
-Rp1216
-sVSarkis TEWANIAN
-p1217
+((lp1215
+VISU
+p1216
+atp1217
+Rp1218
+sVXander GIJTENBEEK
+p1219
 g2
-((lp1218
-tp1219
-Rp1220
-sVLionel AVOT
+((lp1220
+VISU
 p1221
+atp1222
+Rp1223
+sVTomas KIKA
+p1224
 g2
-((lp1222
-tp1223
-Rp1224
-sVOlga ZAKOVA
-p1225
+((lp1225
+VISU
+p1226
+atp1227
+Rp1228
+sVAlfred KORYTEK
+p1229
 g2
-((lp1226
-VCZE
-p1227
-atp1228
-Rp1229
-sVFlorence VUYLSTEKER
-p1230
+((lp1230
+VISU
+p1231
+atp1232
+Rp1233
+sVAnna CHATZIATHANASSIOU
+p1234
 g2
-((lp1231
-VFRA
-p1232
-atp1233
-Rp1234
-sVClaudia UNGER
-p1235
-g2
-((lp1236
-tp1237
+((lp1235
+VISU
+p1236
+atp1237
 Rp1238
-sVChristel BORGHI
+sVJulia ANDREEVA
 p1239
 g2
 ((lp1240
-tp1241
-Rp1242
-sVKaren HOWARD
-p1243
+VRUS
+p1241
+atp1242
+Rp1243
+sVKaren BUTCHER
+p1244
 g2
-((lp1244
+((lp1245
 VCAN
-p1245
-atp1246
-Rp1247
-sVFernand FEDRONIC
-p1248
+p1246
+atp1247
+Rp1248
+sVGabor KOLECSANSZKY
+p1249
 g2
-((lp1249
-tp1250
-Rp1251
-sVRavi WALIA
-p1252
+((lp1250
+VISU
+p1251
+atp1252
+Rp1253
+sVElizabeth LITTLER
+p1254
 g2
-((lp1253
-tp1254
-Rp1255
-sVTianyi ZHANG
+((lp1255
+VISU
 p1256
+atp1257
+Rp1258
+sVYukiko OKABE
+p1259
 g2
-((lp1257
-VCHN
-p1258
-atp1259
-Rp1260
-sVUlf DENZER
+((lp1260
+VJPN
 p1261
+atp1262
+Rp1263
+sVYury BALKOV
+p1264
 g2
-((lp1262
-VGER
-p1263
-atp1264
-Rp1265
-sVWieland LUEDERS
+((lp1265
+VUKR
 p1266
+atp1267
+Rp1268
+sVTiziana MORANDI
+p1269
 g2
-((lp1267
-tp1268
-Rp1269
-sVZuzana PLESNIKOVA
-p1270
+((lp1270
+VITA
+p1271
+atp1272
+Rp1273
+sVMarina SANAIA
+p1274
 g2
-((lp1271
-VCZE
-p1272
-atp1273
-Rp1274
-sVBrett DRURY
-p1275
+((lp1275
+VRUS
+p1276
+atp1277
+Rp1278
+sVMyriam LORIOL-OBERWYLER
+p1279
 g2
-((lp1276
-VUSA
-p1277
-atp1278
-Rp1279
-sVZanna KULIK
-p1280
+((lp1280
+VISU
+p1281
+atp1282
+Rp1283
+sVMarcin KOZUBEK
+p1284
 g2
-((lp1281
-VEST
-p1282
-atp1283
-Rp1284
-sVHeide MARITCZAK
-p1285
+((lp1285
+VPOL
+p1286
+atp1287
+Rp1288
+sVGavril VELCHEV
+p1289
 g2
-((lp1286
-VAUT
-p1287
-atp1288
-Rp1289
-sVHelene CUCUPHAT
-p1290
+((lp1290
+VISU
+p1291
+atp1292
+Rp1293
+sVChristine HURTH
+p1294
 g2
-((lp1291
+((lp1295
 VFRA
-p1292
-atp1293
-Rp1294
-sVMarianne HUGUENIN
-p1295
+p1296
+atp1297
+Rp1298
+sVGeorgi DIMKOV
+p1299
 g2
-((lp1296
-VSUI
-p1297
-atp1298
-Rp1299
-sVOlga MARKOVA
-p1300
-g2
-((lp1301
-tp1302
+((lp1300
+VISU
+p1301
+atp1302
 Rp1303
-sVDiana BARBACCI LEVY
+sVGeorg KRUMMENACHER
 p1304
 g2
 ((lp1305
@@ -2051,1891 +2093,1923 @@ VSUI
 p1306
 atp1307
 Rp1308
-sVDeveny DECK
+sVEdith SCHILLER
 p1309
 g2
 ((lp1310
-VUSA
+VISU
 p1311
 atp1312
 Rp1313
-sVAnthony LEROY
+sVSarkis TEWANIAN
 p1314
 g2
 ((lp1315
-VFRA
+VISU
 p1316
 atp1317
 Rp1318
-sVStanislava SMIDOVA
+sVLionel AVOT
 p1319
 g2
 ((lp1320
-VCZE
+VISU
 p1321
 atp1322
 Rp1323
-sVSylvain GUIBORD
+sVOlga ZAKOVA
 p1324
 g2
 ((lp1325
-VCAN
+VCZE
 p1326
 atp1327
 Rp1328
-sVMichael WEBSTER
+sVFlorence VUYLSTEKER
 p1329
 g2
 ((lp1330
-tp1331
-Rp1332
-sVWalter TOIGO
-p1333
+VFRA
+p1331
+atp1332
+Rp1333
+sVClaudia UNGER
+p1334
 g2
-((lp1334
-VITA
-p1335
-atp1336
-Rp1337
-sVKerstin KIMMINUS
-p1338
-g2
-((lp1339
-VGER
-p1340
-atp1341
-Rp1342
-sVSeppo KURTTI
-p1343
-g2
-((lp1344
-VFIN
-p1345
-atp1346
-Rp1347
-sVOlga BARANOVA
-p1348
-g2
-((lp1349
-tp1350
-Rp1351
-sVNaotsugu YOSHIHIRO
-p1352
-g2
-((lp1353
-VJPN
-p1354
-atp1355
-Rp1356
-sVTineke POSNO
-p1357
-g2
-((lp1358
+((lp1335
 VISU
+p1336
+atp1337
+Rp1338
+sVChristel BORGHI
+p1339
+g2
+((lp1340
+VISU
+p1341
+atp1342
+Rp1343
+sVKaren HOWARD
+p1344
+g2
+((lp1345
+VCAN
+p1346
+atp1347
+Rp1348
+sVFernand FEDRONIC
+p1349
+g2
+((lp1350
+VISU
+p1351
+atp1352
+Rp1353
+sVRavi WALIA
+p1354
+g2
+((lp1355
+VISU
+p1356
+atp1357
+Rp1358
+sVTianyi ZHANG
 p1359
-atp1360
-Rp1361
-sVSharon ROGERS
-p1362
 g2
-((lp1363
-VUSA
-p1364
-atp1365
-Rp1366
-sVPeter CAIN
-p1367
-g2
-((lp1368
-tp1369
-Rp1370
-sVScott DAVIS
-p1371
-g2
-((lp1372
-tp1373
-Rp1374
-sVYumin WANG
-p1375
-g2
-((lp1376
+((lp1360
 VCHN
-p1377
-atp1378
-Rp1379
-sVFranco BENINI
-p1380
+p1361
+atp1362
+Rp1363
+sVUlf DENZER
+p1364
 g2
-((lp1381
-VITA
-p1382
-atp1383
-Rp1384
-sVSoltan KOKOEV
-p1385
+((lp1365
+VGER
+p1366
+atp1367
+Rp1368
+sVWieland LUEDERS
+p1369
 g2
-((lp1386
-tp1387
+((lp1370
+VISU
+p1371
+atp1372
+Rp1373
+sVZuzana PLESNIKOVA
+p1374
+g2
+((lp1375
+VCZE
+p1376
+atp1377
+Rp1378
+sVBrett DRURY
+p1379
+g2
+((lp1380
+VUSA
+p1381
+atp1382
+Rp1383
+sVZanna KULIK
+p1384
+g2
+((lp1385
+VEST
+p1386
+atp1387
 Rp1388
-sVRisa HAYAKAWA
+sVHeide MARITCZAK
 p1389
 g2
 ((lp1390
-tp1391
-Rp1392
-sVChristopher BUCHANAN
-p1393
+VAUT
+p1391
+atp1392
+Rp1393
+sVHelene CUCUPHAT
+p1394
 g2
-((lp1394
-VGBR
-p1395
-atp1396
-Rp1397
-sVFabrizio PEDRAZZINI
-p1398
-g2
-((lp1399
-tp1400
-Rp1401
-sVAnna BURVALL
-p1402
-g2
-((lp1403
-VISU
-p1404
-atp1405
-Rp1406
-sVGuenther TEICHMANN
-p1407
-g2
-((lp1408
-VGER
-p1409
-atp1410
-Rp1411
-sVWilhelmina VAN VEEN
-p1412
-g2
-((lp1413
-tp1414
-Rp1415
-sVGuona ZHAO
-p1416
-g2
-((lp1417
-VCHN
-p1418
-atp1419
-Rp1420
-sVNikolai SALNIKOV
-p1421
-g2
-((lp1422
-VEST
-p1423
-atp1424
-Rp1425
-sVKatalin ALPERN
-p1426
-g2
-((lp1427
-VISR
-p1428
-atp1429
-Rp1430
-sVSasha MARTINEZ
-p1431
-g2
-((lp1432
-VMEX
-p1433
-atp1434
-Rp1435
-sVFrederic AVOT
-p1436
-g2
-((lp1437
-tp1438
-Rp1439
-sVClaudia STAHNKE
-p1440
-g2
-((lp1441
-VGER
-p1442
-atp1443
-Rp1444
-sVIrina ABSALIAMOVA
-p1445
-g2
-((lp1446
-VARM
-p1447
-aVBLR
-p1448
-atp1449
-Rp1450
-sVKaterina MRAZOVA
-p1451
-g2
-((lp1452
-tp1453
-Rp1454
-sVInessa MATVEEVA
-p1455
-g2
-((lp1456
-VISU
-p1457
-atp1458
-Rp1459
-sVZsofia WAGNER
-p1460
-g2
-((lp1461
-VHUN
-p1462
-atp1463
-Rp1464
-sVJezabel DABOUIS
-p1465
-g2
-((lp1466
+((lp1395
 VFRA
-p1467
-atp1468
-Rp1469
-sVPatrick IBENS
-p1470
+p1396
+atp1397
+Rp1398
+sVMarianne HUGUENIN
+p1399
 g2
-((lp1471
-VBEL
-p1472
-atp1473
-Rp1474
-sVPaula M. NAUGHTON
-p1475
+((lp1400
+VSUI
+p1401
+atp1402
+Rp1403
+sVOlga MARKOVA
+p1404
 g2
-((lp1476
+((lp1405
+VISU
+p1406
+atp1407
+Rp1408
+sVDiana BARBACCI LEVY
+p1409
+g2
+((lp1410
+VSUI
+p1411
+atp1412
+Rp1413
+sVDeveny DECK
+p1414
+g2
+((lp1415
 VUSA
-p1477
-atp1478
-Rp1479
-sVMatteo BALLABIO
-p1480
+p1416
+atp1417
+Rp1418
+sVAnthony LEROY
+p1419
 g2
-((lp1481
-tp1482
+((lp1420
+VFRA
+p1421
+atp1422
+Rp1423
+sVStanislava SMIDOVA
+p1424
+g2
+((lp1425
+VCZE
+p1426
+atp1427
+Rp1428
+sVSylvain GUIBORD
+p1429
+g2
+((lp1430
+VCAN
+p1431
+atp1432
+Rp1433
+sVMichael WEBSTER
+p1434
+g2
+((lp1435
+VISU
+p1436
+atp1437
+Rp1438
+sVWalter TOIGO
+p1439
+g2
+((lp1440
+VITA
+p1441
+atp1442
+Rp1443
+sVKerstin KIMMINUS
+p1444
+g2
+((lp1445
+VGER
+p1446
+atp1447
+Rp1448
+sVSeppo KURTTI
+p1449
+g2
+((lp1450
+VFIN
+p1451
+atp1452
+Rp1453
+sVOlga BARANOVA
+p1454
+g2
+((lp1455
+VISU
+p1456
+atp1457
+Rp1458
+sVNaotsugu YOSHIHIRO
+p1459
+g2
+((lp1460
+VJPN
+p1461
+atp1462
+Rp1463
+sVTineke POSNO
+p1464
+g2
+((lp1465
+VISU
+p1466
+atp1467
+Rp1468
+sVSharon ROGERS
+p1469
+g2
+((lp1470
+VUSA
+p1471
+atp1472
+Rp1473
+sVPeter CAIN
+p1474
+g2
+((lp1475
+VISU
+p1476
+atp1477
+Rp1478
+sVScott DAVIS
+p1479
+g2
+((lp1480
+VISU
+p1481
+atp1482
 Rp1483
-sVMargus HERNITS
+sVYumin WANG
 p1484
 g2
 ((lp1485
-tp1486
-Rp1487
-sVZuzana HOROSCAKOVA
-p1488
+VCHN
+p1486
+atp1487
+Rp1488
+sVFranco BENINI
+p1489
 g2
-((lp1489
-VISU
-p1490
-atp1491
-Rp1492
-sVSandor GALAMBOS
-p1493
-g2
-((lp1494
-tp1495
-Rp1496
-sVSuzanne LINDSEY
-p1497
-g2
-((lp1498
-VGBR
-p1499
-atp1500
-Rp1501
-sVAkos PETHES
-p1502
-g2
-((lp1503
-VHUN
-p1504
-atp1505
-Rp1506
-sVSaioa SANCHO
-p1507
-g2
-((lp1508
-VESP
-p1509
-atp1510
-Rp1511
-sVPaolo PIZZOCARI
-p1512
-g2
-((lp1513
+((lp1490
 VITA
-p1514
-atp1515
-Rp1516
-sVAnett POETZSCH
-p1517
+p1491
+atp1492
+Rp1493
+sVSoltan KOKOEV
+p1494
 g2
-((lp1518
-tp1519
-Rp1520
-sVRonny BANFI
-p1521
+((lp1495
+VISU
+p1496
+atp1497
+Rp1498
+sVRisa HAYAKAWA
+p1499
 g2
-((lp1522
-tp1523
-Rp1524
-sVKaren ARCHER
-p1525
+((lp1500
+VISU
+p1501
+atp1502
+Rp1503
+sVChristopher BUCHANAN
+p1504
 g2
-((lp1526
+((lp1505
 VGBR
-p1527
-atp1528
-Rp1529
-sVNikolai IANEV
-p1530
+p1506
+atp1507
+Rp1508
+sVFabrizio PEDRAZZINI
+p1509
 g2
-((lp1531
-VBUL
-p1532
-atp1533
-Rp1534
-sVMarkus GERMANN
-p1535
+((lp1510
+VISU
+p1511
+atp1512
+Rp1513
+sVAnna BURVALL
+p1514
 g2
-((lp1536
-VSUI
-p1537
-atp1538
-Rp1539
-sVJulia DEGENHARDT
-p1540
+((lp1515
+VISU
+p1516
+atp1517
+Rp1518
+sVGuenther TEICHMANN
+p1519
 g2
-((lp1541
-tp1542
+((lp1520
+VGER
+p1521
+atp1522
+Rp1523
+sVWilhelmina VAN VEEN
+p1524
+g2
+((lp1525
+VISU
+p1526
+atp1527
+Rp1528
+sVGuona ZHAO
+p1529
+g2
+((lp1530
+VCHN
+p1531
+atp1532
+Rp1533
+sVNikolai SALNIKOV
+p1534
+g2
+((lp1535
+VEST
+p1536
+atp1537
+Rp1538
+sVKatalin ALPERN
+p1539
+g2
+((lp1540
+VISR
+p1541
+atp1542
 Rp1543
-sVMarie BOWNESS
+sVSasha MARTINEZ
 p1544
 g2
 ((lp1545
-tp1546
-Rp1547
-sVMarta OLOZAGARRE
-p1548
+VMEX
+p1546
+atp1547
+Rp1548
+sVFrederic AVOT
+p1549
 g2
-((lp1549
-VESP
-p1550
-atp1551
-Rp1552
-sVJung-Sue LEE
-p1553
-g2
-((lp1554
-VKOR
-p1555
-atp1556
-Rp1557
-sVMelody Tan Tan YIP
-p1558
-g2
-((lp1559
-VHKG
-p1560
-atp1561
-Rp1562
-sVMark STORTON
-p1563
-g2
-((lp1564
-VAUS
-p1565
-atp1566
-Rp1567
-sVMarta SENRA
-p1568
-g2
-((lp1569
-tp1570
-Rp1571
-sVBruno MARCOTTE
-p1572
-g2
-((lp1573
+((lp1550
 VISU
-p1574
-atp1575
-Rp1576
-sVNicolae BELLU
-p1577
+p1551
+atp1552
+Rp1553
+sVClaudia STAHNKE
+p1554
 g2
-((lp1578
-tp1579
-Rp1580
-sVWendy LANGTON
-p1581
+((lp1555
+VGER
+p1556
+atp1557
+Rp1558
+sVIrina ABSALIAMOVA
+p1559
 g2
-((lp1582
-VAUS
-p1583
-atp1584
-Rp1585
-sVAttila SOOS
-p1586
+((lp1560
+VARM
+p1561
+aVBLR
+p1562
+atp1563
+Rp1564
+sVKaterina MRAZOVA
+p1565
 g2
-((lp1587
+((lp1566
+VISU
+p1567
+atp1568
+Rp1569
+sVInessa MATVEEVA
+p1570
+g2
+((lp1571
+VISU
+p1572
+atp1573
+Rp1574
+sVZsofia WAGNER
+p1575
+g2
+((lp1576
 VHUN
-p1588
-atp1589
-Rp1590
-sVVeronique FLEURY
-p1591
+p1577
+atp1578
+Rp1579
+sVJezabel DABOUIS
+p1580
 g2
-((lp1592
-tp1593
+((lp1581
+VFRA
+p1582
+atp1583
+Rp1584
+sVPatrick IBENS
+p1585
+g2
+((lp1586
+VBEL
+p1587
+atp1588
+Rp1589
+sVPaula M. NAUGHTON
+p1590
+g2
+((lp1591
+VUSA
+p1592
+atp1593
 Rp1594
-sVAndrea GMELIN
+sVMatteo BALLABIO
 p1595
 g2
 ((lp1596
-VROM
+VISU
 p1597
 atp1598
 Rp1599
-sVSalome CHIGOGIDZE
+sVMargus HERNITS
 p1600
 g2
 ((lp1601
-VGEO
+VISU
 p1602
 atp1603
 Rp1604
-sVHal MARRON
+sVZuzana HOROSCAKOVA
 p1605
 g2
 ((lp1606
-VUSA
+VISU
 p1607
 atp1608
 Rp1609
-sVRaffaella LOCATELLI
+sVSandor GALAMBOS
 p1610
 g2
 ((lp1611
-VITA
+VISU
 p1612
 atp1613
 Rp1614
-sVFelicitas BABUSIKOVA
+sVSuzanne LINDSEY
 p1615
 g2
 ((lp1616
-VISU
+VGBR
 p1617
 atp1618
 Rp1619
-sVTomoaki KOYAMA
+sVAkos PETHES
 p1620
 g2
 ((lp1621
-tp1622
-Rp1623
-sVInger ANDERSSON
-p1624
+VHUN
+p1622
+atp1623
+Rp1624
+sVSaioa SANCHO
+p1625
 g2
-((lp1625
-VSWE
-p1626
-atp1627
-Rp1628
-sVIgor BICH
-p1629
+((lp1626
+VESP
+p1627
+atp1628
+Rp1629
+sVPaolo PIZZOCARI
+p1630
 g2
-((lp1630
-tp1631
-Rp1632
-sVYanghong ZHAO
-p1633
-g2
-((lp1634
-VCHN
+((lp1631
+VITA
+p1632
+atp1633
+Rp1634
+sVAnett POETZSCH
 p1635
-atp1636
-Rp1637
-sVPirjo UIMONEN
-p1638
 g2
-((lp1639
-tp1640
-Rp1641
-sVFabio BIANCHETTI
+((lp1636
+VISU
+p1637
+atp1638
+Rp1639
+sVRonny BANFI
+p1640
+g2
+((lp1641
+VISU
 p1642
+atp1643
+Rp1644
+sVKaren ARCHER
+p1645
 g2
-((lp1643
-tp1644
-Rp1645
-sVMargaret WORSFOLD
-p1646
-g2
-((lp1647
-tp1648
+((lp1646
+VGBR
+p1647
+atp1648
 Rp1649
-sVCynthia BENSON
+sVNikolai IANEV
 p1650
 g2
 ((lp1651
-VCAN
+VBUL
 p1652
 atp1653
 Rp1654
-sVLaurene COLLIN-KNOBLAUCH
+sVMarkus GERMANN
 p1655
 g2
 ((lp1656
-tp1657
-Rp1658
-sVBreda MARINSEK
-p1659
+VSUI
+p1657
+atp1658
+Rp1659
+sVJulia DEGENHARDT
+p1660
 g2
-((lp1660
-VSLO
-p1661
-atp1662
-Rp1663
-sVFeng HUANG
-p1664
+((lp1661
+VISU
+p1662
+atp1663
+Rp1664
+sVMarie BOWNESS
+p1665
 g2
-((lp1665
-VCHN
-p1666
-atp1667
-Rp1668
-sVEmiko KITAJI
-p1669
+((lp1666
+VISU
+p1667
+atp1668
+Rp1669
+sVMarta OLOZAGARRE
+p1670
 g2
-((lp1670
-tp1671
-Rp1672
-sVVessela POPOVA
-p1673
+((lp1671
+VESP
+p1672
+atp1673
+Rp1674
+sVJung-Sue LEE
+p1675
 g2
-((lp1674
-tp1675
-Rp1676
-sVJohn GREENWOOD
+((lp1676
+VKOR
 p1677
+atp1678
+Rp1679
+sVMelody Tan Tan YIP
+p1680
 g2
-((lp1678
-VCAN
-p1679
-atp1680
-Rp1681
-sVEbru ANILDI
+((lp1681
+VHKG
 p1682
+atp1683
+Rp1684
+sVMark STORTON
+p1685
 g2
-((lp1683
-tp1684
-Rp1685
-sVAnne HARDY-THOMAS
-p1686
+((lp1686
+VAUS
+p1687
+atp1688
+Rp1689
+sVMarta SENRA
+p1690
 g2
-((lp1687
-VFRA
-p1688
-atp1689
-Rp1690
-sVPhilippe MERIGUET
-p1691
+((lp1691
+VISU
+p1692
+atp1693
+Rp1694
+sVBruno MARCOTTE
+p1695
 g2
-((lp1692
-VFRA
-p1693
-atp1694
-Rp1695
-sVZuzana ZACKOVA
-p1696
-g2
-((lp1697
-tp1698
+((lp1696
+VISU
+p1697
+atp1698
 Rp1699
-sVChristiane MILES
+sVNicolae BELLU
 p1700
 g2
 ((lp1701
-VSUI
+VISU
 p1702
 atp1703
 Rp1704
-sVMaira ABASOVA
+sVWendy LANGTON
 p1705
 g2
 ((lp1706
-VRUS
+VAUS
 p1707
 atp1708
 Rp1709
-sVYibing JIANG
+sVAttila SOOS
 p1710
 g2
 ((lp1711
-VCHN
+VHUN
 p1712
 atp1713
 Rp1714
-sVNa Young AHN
+sVVeronique FLEURY
 p1715
 g2
 ((lp1716
-VKOR
+VISU
 p1717
 atp1718
 Rp1719
-sVAlexei SHIRSHOV
+sVAndrea GMELIN
 p1720
 g2
 ((lp1721
-VBLR
+VROM
 p1722
 atp1723
 Rp1724
-sVNicole LEBLANC-RICHARD
+sVSalome CHIGOGIDZE
 p1725
 g2
 ((lp1726
-VCAN
+VGEO
 p1727
 atp1728
 Rp1729
-sVTerry KUBICKA
+sVHal MARRON
 p1730
 g2
 ((lp1731
-tp1732
-Rp1733
-sVLeanna CARON
-p1734
+VUSA
+p1732
+atp1733
+Rp1734
+sVRaffaella LOCATELLI
+p1735
 g2
-((lp1735
-VCAN
-p1736
-atp1737
-Rp1738
-sVKatarina HENRIKSSON
-p1739
+((lp1736
+VITA
+p1737
+atp1738
+Rp1739
+sVFelicitas BABUSIKOVA
+p1740
 g2
-((lp1740
-VSWE
-p1741
-atp1742
-Rp1743
-sVAgnieszka SWIDERSKA
-p1744
+((lp1741
+VISU
+p1742
+atp1743
+Rp1744
+sVTomoaki KOYAMA
+p1745
 g2
-((lp1745
-tp1746
-Rp1747
-sVSo-Young AN
-p1748
-g2
-((lp1749
-VKOR
+((lp1746
+VISU
+p1747
+atp1748
+Rp1749
+sVInger ANDERSSON
 p1750
-atp1751
-Rp1752
-sVTroy GOLDSTEIN
-p1753
 g2
-((lp1754
-tp1755
-Rp1756
-sVFlorin GAFENCU
-p1757
-g2
-((lp1758
-tp1759
-Rp1760
-sVElizabeth CLARK
-p1761
-g2
-((lp1762
-VCAN
-p1763
-atp1764
-Rp1765
-sVPeter LEVIN
-p1766
-g2
-((lp1767
+((lp1751
 VSWE
-p1768
-atp1769
-Rp1770
-sVRanko HIRAI
-p1771
+p1752
+atp1753
+Rp1754
+sVIgor BICH
+p1755
 g2
-((lp1772
-tp1773
+((lp1756
+VISU
+p1757
+atp1758
+Rp1759
+sVYanghong ZHAO
+p1760
+g2
+((lp1761
+VCHN
+p1762
+atp1763
+Rp1764
+sVPirjo UIMONEN
+p1765
+g2
+((lp1766
+VISU
+p1767
+atp1768
+Rp1769
+sVFabio BIANCHETTI
+p1770
+g2
+((lp1771
+VISU
+p1772
+atp1773
 Rp1774
-sVSaodat NUMANOVA
+sVMargaret WORSFOLD
 p1775
 g2
 ((lp1776
-VUZB
+VISU
 p1777
 atp1778
 Rp1779
-sVCharles Z. CYR
+sVCynthia BENSON
 p1780
 g2
 ((lp1781
-VUSA
+VCAN
 p1782
 atp1783
 Rp1784
-sVAriadna MORONES NEGRETE
+sVLaurene COLLIN-KNOBLAUCH
 p1785
 g2
 ((lp1786
-tp1787
-Rp1788
-sVApril SARGENT
-p1789
+VISU
+p1787
+atp1788
+Rp1789
+sVBreda MARINSEK
+p1790
 g2
-((lp1790
-tp1791
-Rp1792
-sVWeiguang CHEN
-p1793
-g2
-((lp1794
-VCHN
+((lp1791
+VSLO
+p1792
+atp1793
+Rp1794
+sVFeng HUANG
 p1795
-atp1796
-Rp1797
-sVMona ADOLFSEN
-p1798
 g2
-((lp1799
-tp1800
-Rp1801
-sV-
+((lp1796
+VCHN
+p1797
+atp1798
+Rp1799
+sVEmiko KITAJI
+p1800
+g2
+((lp1801
+VISU
 p1802
+atp1803
+Rp1804
+sVVessela POPOVA
+p1805
 g2
-((lp1803
-V-
-p1804
-atp1805
-Rp1806
-sVSally REHORICK
+((lp1806
+VISU
 p1807
+atp1808
+Rp1809
+sVJohn GREENWOOD
+p1810
 g2
-((lp1808
+((lp1811
 VCAN
-p1809
-atp1810
-Rp1811
-sVDarja GABROVSEK-POLAJNAR
 p1812
+atp1813
+Rp1814
+sVEbru ANILDI
+p1815
 g2
-((lp1813
-tp1814
-Rp1815
-sVSviatoslav BABENKO
-p1816
+((lp1816
+VISU
+p1817
+atp1818
+Rp1819
+sVAnne HARDY-THOMAS
+p1820
 g2
-((lp1817
-VRUS
-p1818
-atp1819
-Rp1820
-sVClaudia BRAMBATI
-p1821
+((lp1821
+VFRA
+p1822
+atp1823
+Rp1824
+sVPhilippe MERIGUET
+p1825
 g2
-((lp1822
-VITA
-p1823
-atp1824
-Rp1825
-sVYuri KLIUSHNIKOV
-p1826
+((lp1826
+VFRA
+p1827
+atp1828
+Rp1829
+sVZuzana ZACKOVA
+p1830
 g2
-((lp1827
-VUKR
-p1828
-atp1829
-Rp1830
-sVNadezhda FIODOROVA
-p1831
-g2
-((lp1832
-tp1833
+((lp1831
+VISU
+p1832
+atp1833
 Rp1834
-sVNenad ORBAN
+sVChristiane MILES
 p1835
 g2
 ((lp1836
-VISU
+VSUI
 p1837
 atp1838
 Rp1839
-sVTiziana MIORINI
+sVMaira ABASOVA
 p1840
 g2
 ((lp1841
-VITA
+VRUS
 p1842
 atp1843
 Rp1844
-sVSakae YAMAMOTO
+sVYibing JIANG
 p1845
 g2
 ((lp1846
-VJPN
+VCHN
 p1847
 atp1848
 Rp1849
-sVSusan JOHNSON
+sVNa Young AHN
 p1850
 g2
 ((lp1851
-VUSA
+VKOR
 p1852
 atp1853
 Rp1854
-sVOlga ALEXEEVA
+sVAlexei SHIRSHOV
 p1855
 g2
 ((lp1856
-VISU
+VBLR
 p1857
 atp1858
 Rp1859
-sVJanis ENGEL
+sVNicole LEBLANC-RICHARD
 p1860
 g2
 ((lp1861
-VUSA
+VCAN
 p1862
 atp1863
 Rp1864
-sVEvgeni ROKHIN
+sVTerry KUBICKA
 p1865
 g2
 ((lp1866
-VUZB
+VISU
 p1867
 atp1868
 Rp1869
-sVYuri GUSKOV
+sVLeanna CARON
 p1870
 g2
 ((lp1871
-VKAZ
+VCAN
 p1872
 atp1873
 Rp1874
-sVSusan PETRICEVIC
+sVKatarina HENRIKSSON
 p1875
 g2
 ((lp1876
-tp1877
-Rp1878
-sVRoumen JORDANOV
-p1879
+VSWE
+p1877
+atp1878
+Rp1879
+sVAgnieszka SWIDERSKA
+p1880
 g2
-((lp1880
-tp1881
-Rp1882
-sVNicole VAN GERWEN-MAAS
-p1883
+((lp1881
+VISU
+p1882
+atp1883
+Rp1884
+sVSo-Young AN
+p1885
 g2
-((lp1884
-tp1885
-Rp1886
-sVMateja AVBREHT
+((lp1886
+VKOR
 p1887
+atp1888
+Rp1889
+sVTroy GOLDSTEIN
+p1890
 g2
-((lp1888
-VSLO
-p1889
-atp1890
-Rp1891
-sVKaren JONES
+((lp1891
+VISU
 p1892
+atp1893
+Rp1894
+sVFlorin GAFENCU
+p1895
 g2
-((lp1893
-VGBR
-p1894
-atp1895
-Rp1896
-sVLarisa FEDOSEEVA
+((lp1896
+VISU
 p1897
+atp1898
+Rp1899
+sVElizabeth CLARK
+p1900
 g2
-((lp1898
-tp1899
-Rp1900
-sVEkaterina SEROVA
-p1901
-g2
-((lp1902
-tp1903
+((lp1901
+VCAN
+p1902
+atp1903
 Rp1904
-sVValerie GRELET LAMBERT
+sVPeter LEVIN
 p1905
 g2
 ((lp1906
-VFRA
+VSWE
 p1907
 atp1908
 Rp1909
-sVSergei BARANOV
+sVRanko HIRAI
 p1910
 g2
 ((lp1911
-tp1912
-Rp1913
-sVAya YOSHIMURA
-p1914
+VISU
+p1912
+atp1913
+Rp1914
+sVSaodat NUMANOVA
+p1915
 g2
-((lp1915
-tp1916
-Rp1917
-sVLori DUNN
-p1918
-g2
-((lp1919
-VUSA
+((lp1916
+VUZB
+p1917
+atp1918
+Rp1919
+sVCharles Z. CYR
 p1920
-atp1921
-Rp1922
-sVBrigitte WENDT
-p1923
 g2
-((lp1924
-VGER
+((lp1921
+VUSA
+p1922
+atp1923
+Rp1924
+sVAriadna MORONES NEGRETE
 p1925
-atp1926
-Rp1927
-sVRobyn BURLEY
-p1928
 g2
-((lp1929
-tp1930
-Rp1931
-sVSteven HSU
+((lp1926
+VISU
+p1927
+atp1928
+Rp1929
+sVApril SARGENT
+p1930
+g2
+((lp1931
+VISU
 p1932
+atp1933
+Rp1934
+sVWeiguang CHEN
+p1935
 g2
-((lp1933
-tp1934
-Rp1935
-sVZsuzsanna VIKARNE-HOMOLYA
-p1936
+((lp1936
+VCHN
+p1937
+atp1938
+Rp1939
+sVMona ADOLFSEN
+p1940
 g2
-((lp1937
-VHUN
-p1938
-atp1939
-Rp1940
-sVMichael WALDVOGEL
-p1941
-g2
-((lp1942
-tp1943
+((lp1941
+VISU
+p1942
+atp1943
 Rp1944
-sVVanessa GUSMEROLI
+sV-
 p1945
 g2
 ((lp1946
-tp1947
-Rp1948
-sVDzianis SAROKIN
-p1949
+V-
+p1947
+atp1948
+Rp1949
+sVSally REHORICK
+p1950
 g2
-((lp1950
-tp1951
-Rp1952
-sVChristl HEIDLER
-p1953
+((lp1951
+VCAN
+p1952
+atp1953
+Rp1954
+sVDarja GABROVSEK-POLAJNAR
+p1955
 g2
-((lp1954
-tp1955
-Rp1956
-sVKristina LUNDGREN
+((lp1956
+VISU
 p1957
+atp1958
+Rp1959
+sVSviatoslav BABENKO
+p1960
 g2
-((lp1958
-VUSA
-p1959
-atp1960
-Rp1961
-sVAnnette BOEREN-MAAS
+((lp1961
+VRUS
 p1962
+atp1963
+Rp1964
+sVClaudia BRAMBATI
+p1965
 g2
-((lp1963
-tp1964
-Rp1965
-sVKazuya SAWADA
-p1966
-g2
-((lp1967
-tp1968
+((lp1966
+VITA
+p1967
+atp1968
 Rp1969
-sVGuangying QIN
+sVYuri KLIUSHNIKOV
 p1970
 g2
 ((lp1971
-VCHN
+VUKR
 p1972
 atp1973
 Rp1974
-sVWanda STANKOVIANSKA
+sVNadezhda FIODOROVA
 p1975
 g2
 ((lp1976
-tp1977
-Rp1978
-sVMalgorzata SOBKOW
-p1979
+VISU
+p1977
+atp1978
+Rp1979
+sVNenad ORBAN
+p1980
 g2
-((lp1980
-VPOL
-p1981
-atp1982
-Rp1983
-sVChristian BAUMANN
-p1984
+((lp1981
+VISU
+p1982
+atp1983
+Rp1984
+sVTiziana MIORINI
+p1985
 g2
-((lp1985
-VGER
-p1986
-atp1987
-Rp1988
-sVAnne SARASKIN
-p1989
-g2
-((lp1990
-tp1991
-Rp1992
-sVLone VILLEFRANCE
-p1993
-g2
-((lp1994
-VDEN
-p1995
-atp1996
-Rp1997
-sVBenoit LAVOIE
-p1998
-g2
-((lp1999
-VCAN
-p2000
-atp2001
-Rp2002
-sVMaria MILLER
-p2003
-g2
-((lp2004
-VPOL
-p2005
-atp2006
-Rp2007
-sVKersten BELLMANN
-p2008
-g2
-((lp2009
-tp2010
-Rp2011
-sVRoberts KRUTKRAMELIS
-p2012
-g2
-((lp2013
-tp2014
-Rp2015
-sVMassimo ORLANDINI
-p2016
-g2
-((lp2017
+((lp1986
 VITA
-p2018
-atp2019
-Rp2020
-sVMaria HRACHOVCOVA
-p2021
+p1987
+atp1988
+Rp1989
+sVSakae YAMAMOTO
+p1990
 g2
-((lp2022
-tp2023
+((lp1991
+VJPN
+p1992
+atp1993
+Rp1994
+sVSusan JOHNSON
+p1995
+g2
+((lp1996
+VUSA
+p1997
+atp1998
+Rp1999
+sVOlga ALEXEEVA
+p2000
+g2
+((lp2001
+VISU
+p2002
+atp2003
+Rp2004
+sVJanis ENGEL
+p2005
+g2
+((lp2006
+VUSA
+p2007
+atp2008
+Rp2009
+sVEvgeni ROKHIN
+p2010
+g2
+((lp2011
+VUZB
+p2012
+atp2013
+Rp2014
+sVYuri GUSKOV
+p2015
+g2
+((lp2016
+VKAZ
+p2017
+atp2018
+Rp2019
+sVSusan PETRICEVIC
+p2020
+g2
+((lp2021
+VISU
+p2022
+atp2023
 Rp2024
-sVWendy ENZMANN
+sVRoumen JORDANOV
 p2025
 g2
 ((lp2026
-VUSA
+VISU
 p2027
 atp2028
 Rp2029
-sVSung-Jin BYUN
+sVNicole VAN GERWEN-MAAS
 p2030
 g2
 ((lp2031
-tp2032
-Rp2033
-sVPeggy GRAHAM
-p2034
-g2
-((lp2035
-VUSA
-p2036
-atp2037
-Rp2038
-sVTomie FUKUDOME
-p2039
-g2
-((lp2040
-VJPN
-p2041
-atp2042
-Rp2043
-sVGale TANGER
-p2044
-g2
-((lp2045
-VUSA
-p2046
-atp2047
-Rp2048
-sVIrina KOMARNICKA
-p2049
-g2
-((lp2050
-VLAT
-p2051
-atp2052
-Rp2053
-sVAnastasia PAPAGIANNOPOULOU
-p2054
-g2
-((lp2055
-tp2056
-Rp2057
-sVSusan BLATZ
-p2058
-g2
-((lp2059
-VCAN
-p2060
-atp2061
-Rp2062
-sVDeborah ISLAM
-p2063
-g2
-((lp2064
-VCAN
-p2065
-atp2066
-Rp2067
-sVSonja MUELLENBACH
-p2068
-g2
-((lp2069
-VGER
-p2070
-atp2071
-Rp2072
-sVMichael SLIPCHUK
-p2073
-g2
-((lp2074
-tp2075
-Rp2076
-sVAndre BOURGEOIS
-p2077
-g2
-((lp2078
-tp2079
-Rp2080
-sVMerja HUTTUNEN
-p2081
-g2
-((lp2082
 VISU
-p2083
-atp2084
-Rp2085
-sVAnn MUSING
-p2086
+p2032
+atp2033
+Rp2034
+sVMateja AVBREHT
+p2035
 g2
-((lp2087
-VBEL
-p2088
-atp2089
-Rp2090
-sVJean-Bernard HAMEL
-p2091
+((lp2036
+VSLO
+p2037
+atp2038
+Rp2039
+sVKaren JONES
+p2040
 g2
-((lp2092
+((lp2041
+VGBR
+p2042
+atp2043
+Rp2044
+sVLarisa FEDOSEEVA
+p2045
+g2
+((lp2046
+VISU
+p2047
+atp2048
+Rp2049
+sVEkaterina SEROVA
+p2050
+g2
+((lp2051
+VISU
+p2052
+atp2053
+Rp2054
+sVValerie GRELET LAMBERT
+p2055
+g2
+((lp2056
 VFRA
-p2093
-atp2094
-Rp2095
-sVDaniela TACCANI
-p2096
+p2057
+atp2058
+Rp2059
+sVSergei BARANOV
+p2060
 g2
-((lp2097
-VITA
-p2098
-atp2099
-Rp2100
-sVShin AMANO
-p2101
+((lp2061
+VISU
+p2062
+atp2063
+Rp2064
+sVAya YOSHIMURA
+p2065
 g2
-((lp2102
-tp2103
+((lp2066
+VISU
+p2067
+atp2068
+Rp2069
+sVLori DUNN
+p2070
+g2
+((lp2071
+VUSA
+p2072
+atp2073
+Rp2074
+sVBrigitte WENDT
+p2075
+g2
+((lp2076
+VGER
+p2077
+atp2078
+Rp2079
+sVRobyn BURLEY
+p2080
+g2
+((lp2081
+VISU
+p2082
+atp2083
+Rp2084
+sVSteven HSU
+p2085
+g2
+((lp2086
+VISU
+p2087
+atp2088
+Rp2089
+sVZsuzsanna VIKARNE-HOMOLYA
+p2090
+g2
+((lp2091
+VHUN
+p2092
+atp2093
+Rp2094
+sVMichael WALDVOGEL
+p2095
+g2
+((lp2096
+VISU
+p2097
+atp2098
+Rp2099
+sVVanessa GUSMEROLI
+p2100
+g2
+((lp2101
+VISU
+p2102
+atp2103
 Rp2104
-sVRoland MAEDER
+sVDzianis SAROKIN
 p2105
 g2
 ((lp2106
-VSUI
+VISU
 p2107
 atp2108
 Rp2109
-sVNatan KFIR
+sVChristl HEIDLER
 p2110
 g2
 ((lp2111
-VISR
+VISU
 p2112
 atp2113
 Rp2114
-sVPierre de LACROIX
+sVKristina LUNDGREN
 p2115
 g2
 ((lp2116
-VFRA
+VUSA
 p2117
 atp2118
 Rp2119
-sVGyorgy ELEK
+sVAnnette BOEREN-MAAS
 p2120
 g2
 ((lp2121
-tp2122
-Rp2123
-sVAlexander PENCHEV
-p2124
-g2
-((lp2125
-VBUL
-p2126
-atp2127
-Rp2128
-sVNatalia PRIMACHENKO
-p2129
-g2
-((lp2130
-VRUS
-p2131
-atp2132
-Rp2133
-sVHea-Kyung KIM
-p2134
-g2
-((lp2135
-VKOR
-p2136
-atp2137
-Rp2138
-sVPekka LESKINEN
-p2139
-g2
-((lp2140
-VFIN
-p2141
-atp2142
-Rp2143
-sVSvetlana LYAPINA
-p2144
-g2
-((lp2145
 VISU
-p2146
-atp2147
-Rp2148
-sVMarylin KREUZINGER
-p2149
+p2122
+atp2123
+Rp2124
+sVKazuya SAWADA
+p2125
 g2
-((lp2150
-tp2151
-Rp2152
-sVTomislav CIZMESIJA
-p2153
-g2
-((lp2154
+((lp2126
 VISU
+p2127
+atp2128
+Rp2129
+sVGuangying QIN
+p2130
+g2
+((lp2131
+VCHN
+p2132
+atp2133
+Rp2134
+sVWanda STANKOVIANSKA
+p2135
+g2
+((lp2136
+VISU
+p2137
+atp2138
+Rp2139
+sVMalgorzata SOBKOW
+p2140
+g2
+((lp2141
+VPOL
+p2142
+atp2143
+Rp2144
+sVChristian BAUMANN
+p2145
+g2
+((lp2146
+VGER
+p2147
+atp2148
+Rp2149
+sVAnne SARASKIN
+p2150
+g2
+((lp2151
+VISU
+p2152
+atp2153
+Rp2154
+sVLone VILLEFRANCE
 p2155
-atp2156
-Rp2157
-sVLorna SCHRODER
-p2158
 g2
-((lp2159
-VCAN
+((lp2156
+VDEN
+p2157
+atp2158
+Rp2159
+sVBenoit LAVOIE
 p2160
-atp2161
-Rp2162
-sVEun-Hee LEE
-p2163
 g2
-((lp2164
-tp2165
-Rp2166
-sVFrancesca FERMI
+((lp2161
+VCAN
+p2162
+atp2163
+Rp2164
+sVMaria MILLER
+p2165
+g2
+((lp2166
+VPOL
 p2167
+atp2168
+Rp2169
+sVKersten BELLMANN
+p2170
 g2
-((lp2168
-tp2169
-Rp2170
-sVJennifer MAST
-p2171
+((lp2171
+VISU
+p2172
+atp2173
+Rp2174
+sVRoberts KRUTKRAMELIS
+p2175
 g2
-((lp2172
-VUSA
-p2173
-atp2174
-Rp2175
-sVAnastassia MAKAROVA
-p2176
+((lp2176
+VISU
+p2177
+atp2178
+Rp2179
+sVMassimo ORLANDINI
+p2180
 g2
-((lp2177
-VUKR
-p2178
-atp2179
-Rp2180
-sVSusan LYNCH
-p2181
-g2
-((lp2182
-tp2183
+((lp2181
+VITA
+p2182
+atp2183
 Rp2184
-sVGilberto VIADANA
+sVMaria HRACHOVCOVA
 p2185
 g2
 ((lp2186
-tp2187
-Rp2188
-sVNoriko SHIROTA
-p2189
+VISU
+p2187
+atp2188
+Rp2189
+sVWendy ENZMANN
+p2190
 g2
-((lp2190
-VJPN
-p2191
-atp2192
-Rp2193
-sVEniko BERKES
-p2194
+((lp2191
+VUSA
+p2192
+atp2193
+Rp2194
+sVSung-Jin BYUN
+p2195
 g2
-((lp2195
-tp2196
-Rp2197
-sVKaoru TAKINO
-p2198
-g2
-((lp2199
-VJPN
+((lp2196
+VISU
+p2197
+atp2198
+Rp2199
+sVPeggy GRAHAM
 p2200
-atp2201
-Rp2202
-sVElke TREITZ
-p2203
 g2
-((lp2204
-VGER
+((lp2201
+VUSA
+p2202
+atp2203
+Rp2204
+sVTomie FUKUDOME
 p2205
-atp2206
-Rp2207
-sVCatherine L. TAYLOR
-p2208
 g2
-((lp2209
-VAUS
+((lp2206
+VJPN
+p2207
+atp2208
+Rp2209
+sVGale TANGER
 p2210
-atp2211
-Rp2212
-sVFrancis BETSCH
-p2213
 g2
-((lp2214
-VFRA
+((lp2211
+VUSA
+p2212
+atp2213
+Rp2214
+sVIrina KOMARNICKA
 p2215
-atp2216
-Rp2217
-sVRobert ROSENBLUTH
-p2218
 g2
-((lp2219
-VUSA
+((lp2216
+VLAT
+p2217
+atp2218
+Rp2219
+sVAnastasia PAPAGIANNOPOULOU
 p2220
-atp2221
-Rp2222
-sVEvgenia KARNOLSKA
-p2223
 g2
-((lp2224
-VBUL
+((lp2221
+VISU
+p2222
+atp2223
+Rp2224
+sVSusan BLATZ
 p2225
-atp2226
-Rp2227
-sVTamie K. CAMPBELL
-p2228
 g2
-((lp2229
-VUSA
+((lp2226
+VCAN
+p2227
+atp2228
+Rp2229
+sVDeborah ISLAM
 p2230
-atp2231
-Rp2232
-sVMalgorzata GRAJCAR
-p2233
 g2
-((lp2234
-VISU
+((lp2231
+VCAN
+p2232
+atp2233
+Rp2234
+sVSonja MUELLENBACH
 p2235
-atp2236
-Rp2237
-sVIngrid Charlotte WOLTER
-p2238
 g2
-((lp2239
+((lp2236
 VGER
+p2237
+atp2238
+Rp2239
+sVMichael SLIPCHUK
 p2240
-atp2241
-Rp2242
-sVIris PAUL
-p2243
 g2
-((lp2244
+((lp2241
 VISU
+p2242
+atp2243
+Rp2244
+sVAndre BOURGEOIS
 p2245
-atp2246
-Rp2247
-sVKaterina KAMBERSKA
-p2248
 g2
-((lp2249
-tp2250
-Rp2251
-sVSandrine COLLEONI
+((lp2246
+VISU
+p2247
+atp2248
+Rp2249
+sVMerja HUTTUNEN
+p2250
+g2
+((lp2251
+VISU
 p2252
+atp2253
+Rp2254
+sVAnn MUSING
+p2255
 g2
-((lp2253
-VFRA
-p2254
-atp2255
-Rp2256
-sVMasako KAWAI
+((lp2256
+VBEL
 p2257
+atp2258
+Rp2259
+sVJean-Bernard HAMEL
+p2260
 g2
-((lp2258
-tp2259
-Rp2260
-sVPatrik BRECHT
-p2261
+((lp2261
+VFRA
+p2262
+atp2263
+Rp2264
+sVDaniela TACCANI
+p2265
 g2
-((lp2262
+((lp2266
+VITA
+p2267
+atp2268
+Rp2269
+sVShin AMANO
+p2270
+g2
+((lp2271
+VISU
+p2272
+atp2273
+Rp2274
+sVRoland MAEDER
+p2275
+g2
+((lp2276
 VSUI
-p2263
-atp2264
-Rp2265
-sVLeo  LENKOLA
-p2266
+p2277
+atp2278
+Rp2279
+sVNatan KFIR
+p2280
 g2
-((lp2267
-VFIN
-p2268
-atp2269
-Rp2270
-sVMaria OLESINSKA
-p2271
-g2
-((lp2272
-VPOL
-p2273
-atp2274
-Rp2275
-sVMayumi KATO
-p2276
-g2
-((lp2277
-VJPN
-p2278
-atp2279
-Rp2280
-sVZoia JORDANOVA
-p2281
-g2
-((lp2282
-VBUL
-p2283
-atp2284
-Rp2285
-sVHely ABBONDATI
-p2286
-g2
-((lp2287
-VFIN
-p2288
-atp2289
-Rp2290
-sVDavid MUNOZ
-p2291
-g2
-((lp2292
-VESP
-p2293
-atp2294
-Rp2295
-sVGloria MORANDI
-p2296
-g2
-((lp2297
-VITA
-p2298
-atp2299
-Rp2300
-sVAlla SHEKHOVTSEVA
-p2301
-g2
-((lp2302
-VRUS
-p2303
-atp2304
-Rp2305
-sVLolita LABUNSKAIYA
-p2306
-g2
-((lp2307
-VRUS
-p2308
-aVUKR
-p2309
-atp2310
-Rp2311
-sVAnu NIINIRANTA
-p2312
-g2
-((lp2313
-VISU
-p2314
-atp2315
-Rp2316
-sVKatarina GROF MITROVIC
-p2317
-g2
-((lp2318
-VISU
-p2319
-atp2320
-Rp2321
-sVDonatella LEONELLI
-p2322
-g2
-((lp2323
-tp2324
-Rp2325
-sVPirjo ELO
-p2326
-g2
-((lp2327
-VFIN
-p2328
-atp2329
-Rp2330
-sVAlbert ZAYDMAN
-p2331
-g2
-((lp2332
+((lp2281
 VISR
-p2333
-atp2334
-Rp2335
-sVMakoto KANO
-p2336
+p2282
+atp2283
+Rp2284
+sVPierre de LACROIX
+p2285
 g2
-((lp2337
-VJPN
-p2338
-atp2339
-Rp2340
-sVAna-Maria SARE
-p2341
+((lp2286
+VFRA
+p2287
+atp2288
+Rp2289
+sVGyorgy ELEK
+p2290
 g2
-((lp2342
-VCRO
-p2343
-atp2344
-Rp2345
-sVKathleen HARMON
-p2346
+((lp2291
+VISU
+p2292
+atp2293
+Rp2294
+sVAlexander PENCHEV
+p2295
 g2
-((lp2347
+((lp2296
+VBUL
+p2297
+atp2298
+Rp2299
+sVNatalia PRIMACHENKO
+p2300
+g2
+((lp2301
+VRUS
+p2302
+atp2303
+Rp2304
+sVHea-Kyung KIM
+p2305
+g2
+((lp2306
+VKOR
+p2307
+atp2308
+Rp2309
+sVPekka LESKINEN
+p2310
+g2
+((lp2311
+VFIN
+p2312
+atp2313
+Rp2314
+sVSvetlana LYAPINA
+p2315
+g2
+((lp2316
+VISU
+p2317
+atp2318
+Rp2319
+sVMarylin KREUZINGER
+p2320
+g2
+((lp2321
+VISU
+p2322
+atp2323
+Rp2324
+sVTomislav CIZMESIJA
+p2325
+g2
+((lp2326
+VISU
+p2327
+atp2328
+Rp2329
+sVLorna SCHRODER
+p2330
+g2
+((lp2331
+VCAN
+p2332
+atp2333
+Rp2334
+sVEun-Hee LEE
+p2335
+g2
+((lp2336
+VISU
+p2337
+atp2338
+Rp2339
+sVFrancesca FERMI
+p2340
+g2
+((lp2341
+VISU
+p2342
+atp2343
+Rp2344
+sVJennifer MAST
+p2345
+g2
+((lp2346
 VUSA
-p2348
-atp2349
-Rp2350
-sVAllan BOEHM
-p2351
+p2347
+atp2348
+Rp2349
+sVAnastassia MAKAROVA
+p2350
 g2
-((lp2352
-VSVK
-p2353
-atp2354
-Rp2355
-sVMami MAEDA
-p2356
+((lp2351
+VUKR
+p2352
+atp2353
+Rp2354
+sVSusan LYNCH
+p2355
 g2
-((lp2357
+((lp2356
+VISU
+p2357
+atp2358
+Rp2359
+sVGilberto VIADANA
+p2360
+g2
+((lp2361
+VISU
+p2362
+atp2363
+Rp2364
+sVNoriko SHIROTA
+p2365
+g2
+((lp2366
 VJPN
-p2358
-atp2359
-Rp2360
-sVRossella CECCATTINI
-p2361
+p2367
+atp2368
+Rp2369
+sVEniko BERKES
+p2370
 g2
-((lp2362
-VITA
-p2363
-atp2364
-Rp2365
-sVYaqin JI
-p2366
+((lp2371
+VISU
+p2372
+atp2373
+Rp2374
+sVKaoru TAKINO
+p2375
 g2
-((lp2367
-VCHN
-p2368
-atp2369
-Rp2370
-sVJoan H. GRUBER
-p2371
+((lp2376
+VJPN
+p2377
+atp2378
+Rp2379
+sVElke TREITZ
+p2380
 g2
-((lp2372
-VUSA
-p2373
-atp2374
-Rp2375
-sVMarina BESCHEA
-p2376
-g2
-((lp2377
-VROM
-p2378
-atp2379
-Rp2380
-sVHermann SCHULZ
-p2381
-g2
-((lp2382
+((lp2381
 VGER
-p2383
-atp2384
-Rp2385
-sVIrina KIREEVA
-p2386
+p2382
+atp2383
+Rp2384
+sVCatherine L. TAYLOR
+p2385
 g2
-((lp2387
-VAZE
-p2388
-atp2389
-Rp2390
-sVElena SAVOSTOVA
-p2391
+((lp2386
+VAUS
+p2387
+atp2388
+Rp2389
+sVFrancis BETSCH
+p2390
 g2
-((lp2392
-tp2393
+((lp2391
+VFRA
+p2392
+atp2393
 Rp2394
-sVYou-Hwa LEE
+sVRobert ROSENBLUTH
 p2395
 g2
 ((lp2396
-VKOR
+VUSA
 p2397
 atp2398
 Rp2399
-sVVeronique TOLAZZI
+sVEvgenia KARNOLSKA
 p2400
 g2
 ((lp2401
-VFRA
+VBUL
 p2402
 atp2403
 Rp2404
-sVBettina MEIER
+sVTamie K. CAMPBELL
 p2405
 g2
 ((lp2406
-VSUI
+VUSA
 p2407
 atp2408
 Rp2409
-sVIgor OBRAZTSOV
+sVMalgorzata GRAJCAR
 p2410
 g2
 ((lp2411
-VRUS
+VISU
 p2412
 atp2413
 Rp2414
-sVVera TAUCHMANOVA
+sVIngrid Charlotte WOLTER
 p2415
 g2
 ((lp2416
-VCZE
+VGER
 p2417
 atp2418
 Rp2419
-sVNicole MAAS
+sVIris PAUL
 p2420
 g2
 ((lp2421
-VNED
+VISU
 p2422
 atp2423
 Rp2424
-sVMaria TUMANOVSKAYA-CHAIKA
+sVKaterina KAMBERSKA
 p2425
 g2
 ((lp2426
-tp2427
-Rp2428
-sVChrista GUNSAM
-p2429
-g2
-((lp2430
 VISU
-p2431
-atp2432
-Rp2433
-sVNatasa SKOK
-p2434
+p2427
+atp2428
+Rp2429
+sVSandrine COLLEONI
+p2430
 g2
-((lp2435
-VSLO
-p2436
-atp2437
-Rp2438
-sVTaffy HOLLIDAY
-p2439
-g2
-((lp2440
-VUSA
-p2441
-atp2442
-Rp2443
-sVMonica MACDONALD
-p2444
-g2
-((lp2445
-tp2446
-Rp2447
-sVJanice HUNTER
-p2448
-g2
-((lp2449
-VCAN
-p2450
-atp2451
-Rp2452
-sVAnne CAMMETT
-p2453
-g2
-((lp2454
-VUSA
-p2455
-atp2456
-Rp2457
-sVMarco BUTTARELLI
-p2458
-g2
-((lp2459
-VITA
-p2460
-atp2461
-Rp2462
-sVIstvan SUGAR
-p2463
-g2
-((lp2464
-VHUN
-p2465
-atp2466
-Rp2467
-sVHeinz-Ulrich WALTHER
-p2468
-g2
-((lp2469
-VGER
-p2470
-atp2471
-Rp2472
-sVWei SHI
-p2473
-g2
-((lp2474
-VCHN
-p2475
-atp2476
-Rp2477
-sVLone AMSTRUP LINNEMANN
-p2478
-g2
-((lp2479
-VDEN
-p2480
-atp2481
-Rp2482
-sVRobyn S. NOTT
-p2483
-g2
-((lp2484
-tp2485
-Rp2486
-sVMatjaz KRUSEC
-p2487
-g2
-((lp2488
-VSLO
-p2489
-atp2490
-Rp2491
-sVFan YANG
-p2492
-g2
-((lp2493
-VCHN
-p2494
-atp2495
-Rp2496
-sVSophie SCHMITT
-p2497
-g2
-((lp2498
+((lp2431
 VFRA
-p2499
-atp2500
-Rp2501
-sVJae-Eun CHUNG
-p2502
+p2432
+atp2433
+Rp2434
+sVMasako KAWAI
+p2435
 g2
-((lp2503
-tp2504
+((lp2436
+VISU
+p2437
+atp2438
+Rp2439
+sVPatrik BRECHT
+p2440
+g2
+((lp2441
+VSUI
+p2442
+atp2443
+Rp2444
+sVLeo  LENKOLA
+p2445
+g2
+((lp2446
+VFIN
+p2447
+atp2448
+Rp2449
+sVMaria OLESINSKA
+p2450
+g2
+((lp2451
+VPOL
+p2452
+atp2453
+Rp2454
+sVMayumi KATO
+p2455
+g2
+((lp2456
+VJPN
+p2457
+atp2458
+Rp2459
+sVZoia JORDANOVA
+p2460
+g2
+((lp2461
+VBUL
+p2462
+atp2463
+Rp2464
+sVHely ABBONDATI
+p2465
+g2
+((lp2466
+VFIN
+p2467
+atp2468
+Rp2469
+sVDavid MUNOZ
+p2470
+g2
+((lp2471
+VESP
+p2472
+atp2473
+Rp2474
+sVGloria MORANDI
+p2475
+g2
+((lp2476
+VITA
+p2477
+atp2478
+Rp2479
+sVAlla SHEKHOVTSEVA
+p2480
+g2
+((lp2481
+VRUS
+p2482
+atp2483
+Rp2484
+sVLolita LABUNSKAIYA
+p2485
+g2
+((lp2486
+VRUS
+p2487
+aVUKR
+p2488
+atp2489
+Rp2490
+sVAnu NIINIRANTA
+p2491
+g2
+((lp2492
+VISU
+p2493
+atp2494
+Rp2495
+sVKatarina GROF MITROVIC
+p2496
+g2
+((lp2497
+VISU
+p2498
+atp2499
+Rp2500
+sVDonatella LEONELLI
+p2501
+g2
+((lp2502
+VISU
+p2503
+atp2504
 Rp2505
-sVLeena KURRI
+sVPirjo ELO
 p2506
 g2
 ((lp2507
@@ -3943,458 +4017,796 @@ VFIN
 p2508
 atp2509
 Rp2510
-sVJoseph L. INMAN
+sVAlbert ZAYDMAN
 p2511
 g2
 ((lp2512
-VUSA
+VISR
 p2513
 atp2514
 Rp2515
-sVMaria BAEKGAARD KJAER
+sVMakoto KANO
 p2516
 g2
 ((lp2517
-tp2518
-Rp2519
-sVIvana JAKUPCEVIC
-p2520
-g2
-((lp2521
-tp2522
-Rp2523
-sVTodd BROMLEY
-p2524
-g2
-((lp2525
-VUSA
-p2526
-atp2527
-Rp2528
-sVSylwia NOWAK-TREBACKA
-p2529
-g2
-((lp2530
-tp2531
-Rp2532
-sVFlorence CATRY DE SURMONT
-p2533
-g2
-((lp2534
-VFRA
-p2535
-atp2536
-Rp2537
-sVShizuko UGAKI
-p2538
-g2
-((lp2539
 VJPN
-p2540
-atp2541
-Rp2542
-sVRaoul LEBLANC
+p2518
+atp2519
+Rp2520
+sVAna-Maria SARE
+p2521
+g2
+((lp2522
+VCRO
+p2523
+atp2524
+Rp2525
+sVKathleen HARMON
+p2526
+g2
+((lp2527
+VUSA
+p2528
+atp2529
+Rp2530
+sVAllan BOEHM
+p2531
+g2
+((lp2532
+VSVK
+p2533
+atp2534
+Rp2535
+sVMami MAEDA
+p2536
+g2
+((lp2537
+VJPN
+p2538
+atp2539
+Rp2540
+sVRossella CECCATTINI
+p2541
+g2
+((lp2542
+VITA
 p2543
+atp2544
+Rp2545
+sVYaqin JI
+p2546
 g2
-((lp2544
-tp2545
-Rp2546
-sVMaria MCLEAN
-p2547
-g2
-((lp2548
-tp2549
+((lp2547
+VCHN
+p2548
+atp2549
 Rp2550
-sVHongguo REN
+sVJoan H. GRUBER
 p2551
 g2
 ((lp2552
-VCHN
+VUSA
 p2553
 atp2554
 Rp2555
-sVAlexei URMANOV
+sVMarina BESCHEA
 p2556
 g2
 ((lp2557
-tp2558
-Rp2559
-sVPamela CHISLETT
-p2560
+VROM
+p2558
+atp2559
+Rp2560
+sVHermann SCHULZ
+p2561
 g2
-((lp2561
-VISU
-p2562
-atp2563
-Rp2564
-sVDiana STEVENS
-p2565
+((lp2562
+VGER
+p2563
+atp2564
+Rp2565
+sVIrina KIREEVA
+p2566
 g2
-((lp2566
-tp2567
-Rp2568
-sVThierry MONMINOUX
-p2569
-g2
-((lp2570
-VFRA
+((lp2567
+VAZE
+p2568
+atp2569
+Rp2570
+sVElena SAVOSTOVA
 p2571
-atp2572
-Rp2573
-sVHye-Kyung LIM
-p2574
 g2
-((lp2575
-VKOR
+((lp2572
+VISU
+p2573
+atp2574
+Rp2575
+sVYou-Hwa LEE
 p2576
-atp2577
-Rp2578
-sVHelmut SIEBER
-p2579
 g2
-((lp2580
-tp2581
-Rp2582
-sVHerbert HOLIK
-p2583
+((lp2577
+VKOR
+p2578
+atp2579
+Rp2580
+sVVeronique TOLAZZI
+p2581
 g2
-((lp2584
-tp2585
-Rp2586
-sVPhilippe MAITROT
-p2587
-g2
-((lp2588
+((lp2582
 VFRA
-p2589
-atp2590
-Rp2591
-sVBernhard JUST
-p2592
+p2583
+atp2584
+Rp2585
+sVBettina MEIER
+p2586
 g2
-((lp2593
-tp2594
+((lp2587
+VSUI
+p2588
+atp2589
+Rp2590
+sVIgor OBRAZTSOV
+p2591
+g2
+((lp2592
+VRUS
+p2593
+atp2594
 Rp2595
-sVViktor PETRENKO
+sVVera TAUCHMANOVA
 p2596
 g2
 ((lp2597
-tp2598
-Rp2599
-sVWhitney GAYNOR
-p2600
+VCZE
+p2598
+atp2599
+Rp2600
+sVNicole MAAS
+p2601
 g2
-((lp2601
-tp2602
-Rp2603
-sVKatalin BALCZO
-p2604
-g2
-((lp2605
-VHUN
+((lp2602
+VNED
+p2603
+atp2604
+Rp2605
+sVMaria TUMANOVSKAYA-CHAIKA
 p2606
-atp2607
-Rp2608
-sVErnestien BAKKER
-p2609
 g2
-((lp2610
-tp2611
-Rp2612
-sVJyrina LORENZ
+((lp2607
+VISU
+p2608
+atp2609
+Rp2610
+sVChrista GUNSAM
+p2611
+g2
+((lp2612
+VISU
 p2613
+atp2614
+Rp2615
+sVNatasa SKOK
+p2616
 g2
-((lp2614
-tp2615
-Rp2616
-sVShae ZUKIWSKY
-p2617
-g2
-((lp2618
-tp2619
+((lp2617
+VSLO
+p2618
+atp2619
 Rp2620
-sVLaurent CARRIERE
+sVTaffy HOLLIDAY
 p2621
 g2
 ((lp2622
-VFRA
+VUSA
 p2623
 atp2624
 Rp2625
-sVJayson PEACE
+sVMonica MACDONALD
 p2626
 g2
 ((lp2627
-tp2628
-Rp2629
-sVMichelle COLLETT
-p2630
-g2
-((lp2631
-VGBR
-p2632
-atp2633
-Rp2634
-sVLise ROSTO JENSEN
-p2635
-g2
-((lp2636
-VNOR
-p2637
-atp2638
-Rp2639
-sVThomas HECK
-p2640
-g2
-((lp2641
-VGER
-p2642
-atp2643
-Rp2644
-sVSung-Hee KOH
-p2645
-g2
-((lp2646
-VKOR
-p2647
-atp2648
-Rp2649
-sVChristiane MOERTH
-p2650
-g2
-((lp2651
-VAUT
-p2652
-atp2653
-Rp2654
-sVMiroslav MISUREC
-p2655
-g2
-((lp2656
-VCZE
-p2657
-atp2658
-Rp2659
-sVPatricia MORITZ
-p2660
-g2
-((lp2661
-VAUS
-p2662
-atp2663
-Rp2664
-sVIsabel DUVAL DE NAVARRE
-p2665
-g2
-((lp2666
 VISU
-p2667
-atp2668
-Rp2669
-sVRonald BEAU
-p2670
+p2628
+atp2629
+Rp2630
+sVJanice HUNTER
+p2631
 g2
-((lp2671
-VFRA
-p2672
-atp2673
-Rp2674
-sVVirginia DE AGOSTINI
-p2675
+((lp2632
+VCAN
+p2633
+atp2634
+Rp2635
+sVAnne CAMMETT
+p2636
 g2
-((lp2676
-VITA
-p2677
-atp2678
-Rp2679
-sVVerena DIENER
-p2680
-g2
-((lp2681
-tp2682
-Rp2683
-sVDeborah CURRIE
-p2684
-g2
-((lp2685
+((lp2637
 VUSA
-p2686
-atp2687
-Rp2688
-sVKo-Man TING
-p2689
+p2638
+atp2639
+Rp2640
+sVMarco BUTTARELLI
+p2641
 g2
-((lp2690
+((lp2642
+VITA
+p2643
+atp2644
+Rp2645
+sVIstvan SUGAR
+p2646
+g2
+((lp2647
+VHUN
+p2648
+atp2649
+Rp2650
+sVHeinz-Ulrich WALTHER
+p2651
+g2
+((lp2652
+VGER
+p2653
+atp2654
+Rp2655
+sVWei SHI
+p2656
+g2
+((lp2657
+VCHN
+p2658
+atp2659
+Rp2660
+sVLone AMSTRUP LINNEMANN
+p2661
+g2
+((lp2662
+VDEN
+p2663
+atp2664
+Rp2665
+sVRobyn S. NOTT
+p2666
+g2
+((lp2667
 VISU
-p2691
-atp2692
-Rp2693
-sVAsa NORDBACK
-p2694
+p2668
+atp2669
+Rp2670
+sVMatjaz KRUSEC
+p2671
 g2
-((lp2695
-VSWE
-p2696
-atp2697
-Rp2698
-sVElena LISOVA
-p2699
+((lp2672
+VSLO
+p2673
+atp2674
+Rp2675
+sVFan YANG
+p2676
 g2
-((lp2700
-VUKR
-p2701
-atp2702
-Rp2703
-sVPatricia S. FRENCH
-p2704
+((lp2677
+VCHN
+p2678
+atp2679
+Rp2680
+sVSophie SCHMITT
+p2681
 g2
-((lp2705
-VISU
-p2706
-atp2707
-Rp2708
-sVKenji AMAKO
-p2709
-g2
-((lp2710
-VJPN
-p2711
-atp2712
-Rp2713
-sVAlexander KOGAN
-p2714
-g2
-((lp2715
-VRUS
-p2716
-atp2717
-Rp2718
-sVJeroen PRINS
-p2719
-g2
-((lp2720
-VNED
-p2721
-atp2722
-Rp2723
-sVGilles VANDENBROECK
-p2724
-g2
-((lp2725
+((lp2682
 VFRA
-p2726
-atp2727
-Rp2728
-sVYury KLIUSHNIKOV
-p2729
+p2683
+atp2684
+Rp2685
+sVJae-Eun CHUNG
+p2686
 g2
-((lp2730
-VUKR
-p2731
-atp2732
-Rp2733
-sVSimone MOORE
-p2734
-g2
-((lp2735
-tp2736
-Rp2737
-sVMakoto OKAZAKI
-p2738
-g2
-((lp2739
-tp2740
-Rp2741
-sVElizabeth CAIN
-p2742
-g2
-((lp2743
+((lp2687
 VISU
-p2744
-atp2745
-Rp2746
-sVAyumi KOZUKA
-p2747
+p2688
+atp2689
+Rp2690
+sVLeena KURRI
+p2691
 g2
-((lp2748
+((lp2692
+VFIN
+p2693
+atp2694
+Rp2695
+sVJoseph L. INMAN
+p2696
+g2
+((lp2697
+VUSA
+p2698
+atp2699
+Rp2700
+sVMaria BAEKGAARD KJAER
+p2701
+g2
+((lp2702
+VISU
+p2703
+atp2704
+Rp2705
+sVIvana JAKUPCEVIC
+p2706
+g2
+((lp2707
+VISU
+p2708
+atp2709
+Rp2710
+sVTodd BROMLEY
+p2711
+g2
+((lp2712
+VUSA
+p2713
+atp2714
+Rp2715
+sVSylwia NOWAK-TREBACKA
+p2716
+g2
+((lp2717
+VISU
+p2718
+atp2719
+Rp2720
+sVFlorence CATRY DE SURMONT
+p2721
+g2
+((lp2722
+VFRA
+p2723
+atp2724
+Rp2725
+sVShizuko UGAKI
+p2726
+g2
+((lp2727
 VJPN
-p2749
-atp2750
-Rp2751
-sVLine KALDESTAD
-p2752
+p2728
+atp2729
+Rp2730
+sVRaoul LEBLANC
+p2731
 g2
-((lp2753
-tp2754
+((lp2732
+VISU
+p2733
+atp2734
+Rp2735
+sVMaria MCLEAN
+p2736
+g2
+((lp2737
+VISU
+p2738
+atp2739
+Rp2740
+sVHongguo REN
+p2741
+g2
+((lp2742
+VCHN
+p2743
+atp2744
+Rp2745
+sVAlexei URMANOV
+p2746
+g2
+((lp2747
+VISU
+p2748
+atp2749
+Rp2750
+sVPamela CHISLETT
+p2751
+g2
+((lp2752
+VISU
+p2753
+atp2754
 Rp2755
-sVDanuta DUBROWKO
+sVDiana STEVENS
 p2756
 g2
 ((lp2757
-VPOL
+VISU
 p2758
 atp2759
 Rp2760
-sVBrad COX
+sVThierry MONMINOUX
 p2761
 g2
 ((lp2762
-tp2763
-Rp2764
-sVUrsula STAHL
-p2765
+VFRA
+p2763
+atp2764
+Rp2765
+sVHye-Kyung LIM
+p2766
 g2
-((lp2766
+((lp2767
+VKOR
+p2768
+atp2769
+Rp2770
+sVHelmut SIEBER
+p2771
+g2
+((lp2772
+VISU
+p2773
+atp2774
+Rp2775
+sVHerbert HOLIK
+p2776
+g2
+((lp2777
+VISU
+p2778
+atp2779
+Rp2780
+sVPhilippe MAITROT
+p2781
+g2
+((lp2782
+VFRA
+p2783
+atp2784
+Rp2785
+sVBernhard JUST
+p2786
+g2
+((lp2787
+VISU
+p2788
+atp2789
+Rp2790
+sVViktor PETRENKO
+p2791
+g2
+((lp2792
+VISU
+p2793
+atp2794
+Rp2795
+sVWhitney GAYNOR
+p2796
+g2
+((lp2797
+VISU
+p2798
+atp2799
+Rp2800
+sVKatalin BALCZO
+p2801
+g2
+((lp2802
+VHUN
+p2803
+atp2804
+Rp2805
+sVErnestien BAKKER
+p2806
+g2
+((lp2807
+VISU
+p2808
+atp2809
+Rp2810
+sVJyrina LORENZ
+p2811
+g2
+((lp2812
+VISU
+p2813
+atp2814
+Rp2815
+sVShae ZUKIWSKY
+p2816
+g2
+((lp2817
+VISU
+p2818
+atp2819
+Rp2820
+sVLaurent CARRIERE
+p2821
+g2
+((lp2822
+VFRA
+p2823
+atp2824
+Rp2825
+sVJayson PEACE
+p2826
+g2
+((lp2827
+VISU
+p2828
+atp2829
+Rp2830
+sVMichelle COLLETT
+p2831
+g2
+((lp2832
+VGBR
+p2833
+atp2834
+Rp2835
+sVLise ROSTO JENSEN
+p2836
+g2
+((lp2837
+VNOR
+p2838
+atp2839
+Rp2840
+sVThomas HECK
+p2841
+g2
+((lp2842
+VGER
+p2843
+atp2844
+Rp2845
+sVSung-Hee KOH
+p2846
+g2
+((lp2847
+VKOR
+p2848
+atp2849
+Rp2850
+sVChristiane MOERTH
+p2851
+g2
+((lp2852
 VAUT
-p2767
-atp2768
-Rp2769
-sVDaniel DELFA
-p2770
+p2853
+atp2854
+Rp2855
+sVMiroslav MISUREC
+p2856
 g2
-((lp2771
-VESP
-p2772
-atp2773
-Rp2774
-sVMichela CESARO
-p2775
+((lp2857
+VCZE
+p2858
+atp2859
+Rp2860
+sVPatricia MORITZ
+p2861
 g2
-((lp2776
+((lp2862
+VAUS
+p2863
+atp2864
+Rp2865
+sVIsabel DUVAL DE NAVARRE
+p2866
+g2
+((lp2867
+VISU
+p2868
+atp2869
+Rp2870
+sVRonald BEAU
+p2871
+g2
+((lp2872
+VFRA
+p2873
+atp2874
+Rp2875
+sVVirginia DE AGOSTINI
+p2876
+g2
+((lp2877
 VITA
-p2777
-atp2778
-Rp2779
+p2878
+atp2879
+Rp2880
+sVVerena DIENER
+p2881
+g2
+((lp2882
+VISU
+p2883
+atp2884
+Rp2885
+sVDeborah CURRIE
+p2886
+g2
+((lp2887
+VUSA
+p2888
+atp2889
+Rp2890
+sVKo-Man TING
+p2891
+g2
+((lp2892
+VISU
+p2893
+atp2894
+Rp2895
+sVAsa NORDBACK
+p2896
+g2
+((lp2897
+VSWE
+p2898
+atp2899
+Rp2900
+sVElena LISOVA
+p2901
+g2
+((lp2902
+VUKR
+p2903
+atp2904
+Rp2905
+sVPatricia S. FRENCH
+p2906
+g2
+((lp2907
+VISU
+p2908
+atp2909
+Rp2910
+sVKenji AMAKO
+p2911
+g2
+((lp2912
+VJPN
+p2913
+atp2914
+Rp2915
+sVAlexander KOGAN
+p2916
+g2
+((lp2917
+VRUS
+p2918
+atp2919
+Rp2920
+sVJeroen PRINS
+p2921
+g2
+((lp2922
+VNED
+p2923
+atp2924
+Rp2925
+sVGilles VANDENBROECK
+p2926
+g2
+((lp2927
+VFRA
+p2928
+atp2929
+Rp2930
+sVYury KLIUSHNIKOV
+p2931
+g2
+((lp2932
+VUKR
+p2933
+atp2934
+Rp2935
+sVSimone MOORE
+p2936
+g2
+((lp2937
+VISU
+p2938
+atp2939
+Rp2940
+sVMakoto OKAZAKI
+p2941
+g2
+((lp2942
+VISU
+p2943
+atp2944
+Rp2945
+sVElizabeth CAIN
+p2946
+g2
+((lp2947
+VISU
+p2948
+atp2949
+Rp2950
+sVAyumi KOZUKA
+p2951
+g2
+((lp2952
+VJPN
+p2953
+atp2954
+Rp2955
+sVLine KALDESTAD
+p2956
+g2
+((lp2957
+VISU
+p2958
+atp2959
+Rp2960
+sVDanuta DUBROWKO
+p2961
+g2
+((lp2962
+VPOL
+p2963
+atp2964
+Rp2965
+sVBrad COX
+p2966
+g2
+((lp2967
+VISU
+p2968
+atp2969
+Rp2970
+sVUrsula STAHL
+p2971
+g2
+((lp2972
+VAUT
+p2973
+atp2974
+Rp2975
+sVDaniel DELFA
+p2976
+g2
+((lp2977
+VESP
+p2978
+atp2979
+Rp2980
+sVMichela CESARO
+p2981
+g2
+((lp2982
+VITA
+p2983
+atp2984
+Rp2985
 sVChristine BLANC
-p2780
+p2986
 g2
-((lp2781
+((lp2987
 VSUI
-p2782
-atp2783
-Rp2784
+p2988
+atp2989
+Rp2990
 sVTatiana DANILENKO
-p2785
+p2991
 g2
-((lp2786
+((lp2992
 VRUS
-p2787
-atp2788
-Rp2789
+p2993
+atp2994
+Rp2995
 sVElena BURIAK
-p2790
+p2996
 g2
-((lp2791
+((lp2997
 VRUS
-p2792
-atp2793
-Rp2794
+p2998
+atp2999
+Rp3000
 sVDan CHEN
-p2795
+p3001
 g2
-((lp2796
+((lp3002
 VHKG
-p2797
-atp2798
-Rp2799
+p3003
+atp3004
+Rp3005
 s.

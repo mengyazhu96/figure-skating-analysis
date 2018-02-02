@@ -1,3 +1,5 @@
+from collections import OrderedDict
+
 from Event import Event
 
 class Season:
@@ -39,6 +41,9 @@ class Season:
         for event in self.events:
             event.fetch_info(fetch_files)
         self.events.sort(key=lambda event: event.date)
+        self.event_dict = OrderedDict()
+        for event in self.events:
+            self.event_dict[event.name] = event
 
     def load_scores(self, reparse=False):
         for event in self.events:

@@ -1,0 +1,94 @@
+INITIAL RESULTS
+===============
+
+Method: Take all men's scores. Take scores from before 2017 and call it "history";
+        the scores in 2017 will constitute our data set. Take personal best short
+        and free scores as a skater's "reputation." For skaters in the 2017
+        dataset missing reputation, take the median of all reputation values. We
+        normalize start numbers to be between 0 and 1; a higher start number is a
+        later skate (which we hypothesize to have a positive effect on scores).
+
+Model: segment_score = segment_reputation + start_order
+            (separately for short and free, because otherwise response variable is
+             clearly not normal)
+
+Short Program
+-------------
+170 data points, 76 skaters
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.617
+Model:                            OLS   Adj. R-squared:                  0.612
+Method:                 Least Squares   F-statistic:                     134.4
+Date:                Thu, 01 Feb 2018   Prob (F-statistic):           1.63e-35
+Time:                        23:54:42   Log-Likelihood:                -614.99
+No. Observations:                 170   AIC:                             1236.
+Df Residuals:                     167   BIC:                             1245.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [95.0% Conf. Int.]
+--------------------------------------------------------------------------------
+const           20.8236      3.619      5.754      0.000        13.679    27.968
+Reputation       0.6155      0.051     11.991      0.000         0.514     0.717
+Start Number    12.3222      2.710      4.546      0.000         6.971    17.673
+==============================================================================
+Omnibus:                       16.378   Durbin-Watson:                   1.627
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               37.143
+Skew:                           0.374   Prob(JB):                     8.60e-09
+Kurtosis:                       5.164   Cond. No.                         411.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+
+Free Program
+------------
+144 data points, 62 skaters
+
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.583
+Model:                            OLS   Adj. R-squared:                  0.577
+Method:                 Least Squares   F-statistic:                     98.40
+Date:                Thu, 01 Feb 2018   Prob (F-statistic):           1.78e-27
+Time:                        23:54:54   Log-Likelihood:                -607.37
+No. Observations:                 144   AIC:                             1221.
+Df Residuals:                     141   BIC:                             1230.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [95.0% Conf. Int.]
+--------------------------------------------------------------------------------
+const           72.3915      7.850      9.222      0.000        56.873    87.910
+Reputation       0.3983      0.058      6.918      0.000         0.284     0.512
+Start Number    35.2871      5.862      6.020      0.000        23.699    46.875
+==============================================================================
+Omnibus:                        9.173   Durbin-Watson:                   1.495
+Prob(Omnibus):                  0.010   Jarque-Bera (JB):               12.356
+Skew:                           0.368   Prob(JB):                      0.00207
+Kurtosis:                       4.232   Cond. No.                         945.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+
+Comments
+--------
+- Start number is very significant. The coefficient is large because the indicator
+  is between 0 and 1.
+- Skaters tend to earn at least 60% of their short PB and 40% of their free PB. (Note
+  again that "Reputation" is different in both regressions, since they're separated
+  by program to account for someone being better/worse at a program.)
+- Start number is much more significant in the free. Possible explanations:
+    - The free program tends to be more seeded than the short program. Seeding for the
+      short varies by competition, whereas the free order always depends on SP
+      placements.
+    - The free generally has higher variability, and it's easier to completely lose it.
+      Then skaters are less likely to achieve PBs and then the influence skews towards
+      start order.
+- This does not take consistency into account at all? R-squared are each about 0.6.
