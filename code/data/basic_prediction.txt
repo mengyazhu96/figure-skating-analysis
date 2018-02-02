@@ -92,3 +92,36 @@ Comments
       Then skaters are less likely to achieve PBs and then the influence skews towards
       start order.
 - This does not take consistency into account at all? R-squared are each about 0.6.
+
+
+
+
+ADD TWO PREVIOUS SCORES
+=======================
+segment score = last segment score + last last segment score
+                    (if missing data, 0.)
+Low R-squared.
+
+
+
+THEN PLUS START ORDER AGAIN
+===========================
+segment score = last segment score + last last segment score + normalized start order
+Bumps R-squared up to about 0.5.
+
+
+
+THEN PLUS REPUTATION AGAIN
+==========================
+segment score = last segment score + last last segment score + normalized start order + reputation
+As expected there are collinearity problems, prev scores become unimportant.
+
+
+
+
+NEXT STEPS
+==========
+Choices:
+- read about some different models
+- get the 2018 data and test these models on them
+- start diving into details (will have to brainstorm)
