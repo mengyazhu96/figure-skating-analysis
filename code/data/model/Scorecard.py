@@ -56,7 +56,7 @@ class Scorecard:
         number, name, info, base_value, bonus, goe, goes, extra, points = elt_match.groups()
         number = int(number)
         base_value = float_of(base_value)
-        bonus = bonus == 'x'
+        bonus = bonus != ''
         goe = float_of(goe)
 
         # Split out individual judges' GOEs
