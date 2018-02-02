@@ -1,4 +1,5 @@
 from collections import OrderedDict
+from datetime import date
 
 from Event import Event
 
@@ -38,8 +39,14 @@ class Season:
         self.events = [Event(self, event_name) for event_name in event_names]
 
     def fetch_info(self, fetch_files=False):
+        if self.champ_year == 2018:         # Remove events that haven't happened yet.
+            self.events = self.events[:-2]
+
         for event in self.events:
+            if fetch_files:
+                print event.url
             event.fetch_info(fetch_files)
+
         self.events.sort(key=lambda event: event.date)
         self.event_dict = OrderedDict()
         for event in self.events:
@@ -51,6 +58,7 @@ class Season:
 
     def load_and_validate_scores(self):
         for event in self.events:
+            print event.url
             event.load_and_validate_scores()
 
     def __repr__(self):

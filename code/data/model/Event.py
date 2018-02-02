@@ -62,10 +62,19 @@ class Event:
         soup = BeautifulSoup(page.content, 'html.parser')
         self.disciplines = []
 
-        date_matches = self.date_re.findall(soup.get_text())
-        day = int(date_matches[1][0])
-        month = int(date_matches[1][1])
-        year = int(date_matches[1][2])
+        if self.name == 'gpjpn2017':
+            day = 12
+            month = 11
+            year = 2017
+        elif self.name == 'gpf1718':
+            day = 10
+            month = 12
+            year = 2017
+        else:
+            date_matches = self.date_re.findall(soup.get_text())
+            day = int(date_matches[1][0])
+            month = int(date_matches[1][1])
+            year = int(date_matches[1][2])
         if month not in (10, 11, 12, 1, 2, 3, 4):
             month_save = month
             month = day
@@ -91,7 +100,7 @@ class Event:
                     discipline.results_url = self.url + href
                 elif 'Panel' in link.text or 'Officials' in link.text:
                     discipline.panel_urls.append(self.url + href)
-                elif 'Scores' in link.text:
+                elif 'Scores' in link.text or 'Judges Score' in link.text:
                     discipline.score_urls.append(self.url + href)
 
                     # Skip over preliminary/qualifying/junior rounds.

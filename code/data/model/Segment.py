@@ -82,7 +82,7 @@ class Segment:
                         '(\S+)\s+' +                 # element name
                         '(\D*?)\s*' +                # info (i.e. UR)
                         base_value_re +              # base value
-                        '(x?)\s*' +                  # bonus marker
+                        '((?:x|X)?)\s*' +            # bonus marker
                         '(-?\d.\d\d)\s*' +           # goe
                         '((?:(?:-?\d|-)\s*){' + num_judges + '})\s*' +  # goes
                         '([0-]\s*)*\s*'              # extra judges...?

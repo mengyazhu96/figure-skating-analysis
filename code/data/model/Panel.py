@@ -24,9 +24,10 @@ class Panel:
         self.officials = OrderedDict()
         self.judges = []
         for tr in soup.find_all(attrs={'class': True}, name='tr'):
-            if len(tr.contents) != 3 or tr.contents[0].name != 'td':
+            contents = [elt for elt in tr.contents if elt != '\n']
+            if len(contents) != 3 or contents[0].name != 'td':
                 continue
-            function, name, nation = map(lambda x: getattr(x, 'text').strip(), tr.contents)
+            function, name, nation = map(lambda x: getattr(x, 'text').strip(), contents)
             if not function or not name or not nation:
                 continue
 
