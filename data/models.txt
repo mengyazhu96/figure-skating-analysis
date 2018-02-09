@@ -1,0 +1,24 @@
+reputation * beta_{competition type} + alpha
+beta_gp ~ N(0.7, 0.1)
+beta_ec ~ N(0.8, 0.1)
+beta_champ ~ N(0.9, 0.15)  [wc, owg, gpf]
+
+
+so everything so far is based on aggregate program scores
+- chess
+- interesting b/c we actually have a measurement of what the judges believe to be good
+
+- Is it valid to evaluate models based on a different loss than what they’re designed for? (e.g. least squares)
+- time series
+- literature
+
+
+components are very related to what I've done so far
+- LogNormal?
+
+elements: jump, spin, steps
+- also usually skewed-left
+- would it be too much as a starting point to do every single kind of element?
+
+add them all up for planned program content (both)
+

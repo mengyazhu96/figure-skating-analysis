@@ -1,0 +1,47 @@
+RESOLVED
+========
+fc2015 men_free
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 45.45, 47.45 != base value
+Skater(name='Harry Hau Yin LEE', country='HKG', discipline=<DisciplineType.men: 0>): 38.36, 40.36 != sum of elts = tes
+
+fc2012 Sandra Khopon name mispelled in short
+fc2013 Pilar MAEKAWA / Leonardo MAEKAWA have MORENO in short
+
+fc2009 SHIH Wu-Chang is mispelled (should be SHIH Wun-Chang)
+fc2010, wc2010 Stephen Li-Chug KUO should be Stephen Li-Chung KUO
+
+gpcan05 missing pairs short detailed protocols
+
+WEIRD JUDGING PANELS
+====================
+weird extra one or two dashes at end of GOEs/components
+- gpusa2010 ice dance
+- gpfra2010 ice dance
+- gpcan2011 ice dance
+- gpusa2012 ladies
+- gpusa2012 ice dance
+- gpchn2012 ice dance
+- gpcan2013 ice dance
+- gpchn2014 ice dance
+- gpusa2015 ice dance
+- gpcan2015 ice dance
+
+removed judge (dash in GOE, 0.00 in components)
+- gpusa2016 pairs short (removed judge)
+
+gpchn2006 mens free has a redacted judge for some skaters but not others...
+
+IGNORED EVENTS
+==============
+- gps of 0405: every scorecard has one more judge than the panel reports (but champs seem ok)
+
+WITHDRAWS
+=========
+- before competing at all: ignored when there were qualifying rounds (e.g. wc2006)
+
+JUDGE COUNTRY CHANGES
+=====================
+Irina MEDVEDEVA: UKR -> AZE, 1314 -> 1415
+Garry HOPPE: ISR -> GBR, 0708 -> 0910
+Irina ABSALIAMOVA: BLR -> ARM, 0506 -> 0708
+Lolita LABUNSKAIYA: UKR -> RUS, gprus05 -> 1112
