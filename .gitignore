@@ -103,3 +103,22 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data files
+code/0506/
+code/0607/
+code/0708/
+code/0809/
+code/0910/
+code/1011/
+code/1112/
+code/1213/
+code/1314/
+code/1415/
+code/1516/
+code/1617/
+code/1718/
+code/data_backup/
+code/fits/
+reference/
+theses/
