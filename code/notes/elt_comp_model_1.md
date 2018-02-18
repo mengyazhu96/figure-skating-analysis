@@ -59,6 +59,8 @@ See [PyMC3](http://docs.pymc.io/notebooks/multilevel_modeling.html) for inspirat
   * same as above only no second indexing
   * prior: ~ N(7.0, 0.3)
 
+
+## Implementation Files
 [multi_elts_1.ipynb](../multi_elts_1.ipynb)
 * fits the men's elements as above
 * replaced unknown skaters with the skater group that had the median of that elt type
@@ -74,13 +76,19 @@ See [PyMC3](http://docs.pymc.io/notebooks/multilevel_modeling.html) for inspirat
   * `short = 20.8236 + 0.6155 * best_short + 12.3222 * normalized_short_start`
   * `long = 72.3915 + 0.3983 * best_free + 35.2871 * normalized_free_start`
 * this model assumes we know what elements they execute, including popped jumps!!
-* errors
-  * least squares distance from actual scores
-    * OLS: 50238
-    * this: 91053
-  * rank: sum of absolute distance from true rank
-    * OLS: 308
-    * this: 302
+
+## Results
+Error Metrics
+* Score: least squares distance from actual score
+* Rank: sum of absolute distance from true rank
+
+| Model      | Score     | Rank    |
+| -----------|-----------|---------|
+| OLS        | 50238     | 308     |
+| Partial    | 91053     | 302     |
+| Pooled     | 204946    | 376     |
+| Unpooled   | 140457657 | 380     |
+
 * thoughts
   * wow this is an improvement in at least rank prediction!
   * this model underpredicts, especially components
