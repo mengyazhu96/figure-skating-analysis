@@ -59,7 +59,7 @@ See [PyMC3](http://docs.pymc.io/notebooks/multilevel_modeling.html) for inspirat
   * same as above only no second indexing
   * prior: ~ N(7.0, 0.3)
 
-[multi_elt_1.ipynb](../multi_elt_1.ipynb)
+[multi_elts_1.ipynb](../multi_elts_1.ipynb)
 * fits the men's elements as above
 * replaced unknown skaters with the skater group that had the median of that elt type
   (probably should do group distribution instead)

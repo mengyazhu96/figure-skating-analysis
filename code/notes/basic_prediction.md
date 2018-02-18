@@ -1,5 +1,7 @@
-INITIAL RESULTS
-===============
+Running Random Linear Regressions
+=================================
+
+## Initial Results (Men)
 
 Method: Take all men's scores. Take scores from before 2017 and call it "history";
         the scores in 2017 will constitute our data set. Take personal best short
@@ -12,8 +14,8 @@ Model: segment_score = segment_reputation + start_order
             (separately for short and free, because otherwise response variable is
              clearly not normal)
 
-Code to Make Vectors
--------------------
+### Code to Make Vectors
+```
 individual_bests_short = {skater: np.max(map(float, history[history.Name == skater]['Short Score']))
                           for skater in history.Name.get_values()}
 
@@ -59,11 +61,11 @@ X = sm.add_constant(X)
 y_short = pd.Series(score).astype(float)
 mod_short = sm.OLS(y_short, X).fit()
 print mod_short.summary()
+```
 
-Short Program
--------------
+### Short Program
 170 data points, 76 skaters
-
+```
                             OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.617
@@ -90,13 +92,13 @@ Kurtosis:                       5.164   Cond. No.                         411.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
 
 
-
-Free Program
-------------
+### Free Program
 144 data points, 62 skaters
 
+```
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.583
@@ -123,33 +125,30 @@ Kurtosis:                       4.232   Cond. No.                         945.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
 
-
-Comments
---------
-- Start number is very significant. The coefficient is large because the indicator
+### Comments
+* Start number is very significant. The coefficient is large because the indicator
   is between 0 and 1.
-- Skaters tend to earn at least 60% of their short PB and 40% of their free PB. (Note
+* Skaters tend to earn at least 60% of their short PB and 40% of their free PB. (Note
   again that "Reputation" is different in both regressions, since they're separated
   by program to account for someone being better/worse at a program.)
-- Start number is much more significant in the free. Possible explanations:
-    - The free program tends to be more seeded than the short program. Seeding for the
+* Start number is much more significant in the free. Possible explanations:
+  * The free program tends to be more seeded than the short program. Seeding for the
       short varies by competition, whereas the free order always depends on SP
       placements.
-    - The free generally has higher variability, and it's easier to completely lose it.
+  * The free generally has higher variability, and it's easier to completely lose it.
       Then skaters are less likely to achieve PBs and then the influence skews towards
       start order.
-- This does not take consistency into account at all? R-squared are each about 0.6.
-- Outliers in the short: Nathan Chen (LOL in 2017), Daniel Samohin's terrible short
+* This does not take consistency into account at all? R-squared are each about 0.6.
+* Outliers in the short: Nathan Chen (LOL in 2017), Daniel Samohin's terrible short
 
 
 
-PAIRS
-=====
+## Pairs
 
-Short
------
-
+### Short
+```
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.509
@@ -176,12 +175,12 @@ Kurtosis:                       2.888   Cond. No.                         383.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
+* No real outliers, but Xiaoyu YU / Hao ZHANG are the smallest p-value
 
-- No real outliers, but Xiaoyu YU / Hao ZHANG are the smallest p-value
 
-
-Free
-----
+### Free
+```
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.656
@@ -208,51 +207,46 @@ Kurtosis:                       3.119   Cond. No.                         752.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
 
-- Outliers: ('Evgenia TARASOVA / Vladimir MOROZOV', '110.7') at gpusa2016 (bad)
+* Outliers: ('Evgenia TARASOVA / Vladimir MOROZOV', '110.7') at gpusa2016 (bad)
+* Note: pairs scores aren't as normally distributed as men's
 
-Note: pairs scores aren't as normal as men's
 
-
-ADD TWO PREVIOUS SCORES
-=======================
+## Model: Two Previous Scores
+```
 segment score = last segment score + last last segment score
                     (if missing data, 0.)
-- Low R-squared.
+```
+* Low R-squared.
 
-
-
-THEN PLUS START ORDER AGAIN
-===========================
+Then plus start order again:
+```
 segment score = last segment score + last last segment score + normalized start order
-- Bumps R-squared up to about 0.5.
+```
+* Bumps R-squared up to about 0.5.
 
-
-
-THEN PLUS REPUTATION AGAIN
-==========================
+Then Plus Reputation Again:
+```
 segment score = last segment score + last last segment score + normalized start order + reputation
-- As expected there are collinearity problems, prev scores become unimportant.
+```
+* As expected there are collinearity problems, prev scores become unimportant.
 
 
 
-
-NEXT STEPS
-==========
+## NEXT STEPS
 Choices:
-- read about some different models
-- get the 2018 data and test these models on them
-- start diving into details (will have to brainstorm)
+* read about some different models
+* get the 2018 data and test these models on them
+* start diving into details (will have to brainstorm)
 
 
 
-
-MED TES + MAX PCS
-=================
+## MED TES + MAX PCS
 (Pairs)
 
-Short
------
+### Short
+```
  OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.522
@@ -280,13 +274,13 @@ Kurtosis:                       2.931   Cond. No.                         297.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-
-- Increased R^2 from just reputation + start order. Interpretation could be that
+```
+* Increased R^2 from just reputation + start order. Interpretation could be that
   max PCS = reputation.
-- No reported outliers.
+* No reported outliers.
 
-Free
-----
+### Free
+```
 OLS Regression Results                            
 ==============================================================================
 Dep. Variable:                      y   R-squared:                       0.647
@@ -314,13 +308,12 @@ Kurtosis:                       3.297   Cond. No.                         661.
 
 Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
-
-- Actually decreased R^2 from just reputation + start order, and neither TES nor
+```
+* Actually decreased R^2 from just reputation + start order, and neither TES nor
   PCS shows up as significant.
-- Tarasova/Morozov gpusa free is again an outlier due to an unexpectedly bad performance.
+* Tarasova/Morozov gpusa free is again an outlier due to an unexpectedly bad performance.
 
-Notes
------
-- If you remove start number from both models, TES is not significant but PCS is.
-- "Reputation" as median TES + max PCS gives a similar (but actually worse) model
+### Notes
+* If you remove start number from both models, TES is not significant but PCS is.
+* "Reputation" as median TES + max PCS gives a similar (but actually worse) model
   to our original reputation + start order model.
