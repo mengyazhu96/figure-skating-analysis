@@ -21,9 +21,7 @@ Priors
 * `mu_2j` ~ N(4.0, 0.5)
 * `mu_3j` ~ N(6.0, 0.7)
 * `mu_4j` ~ N(10.5, 1.0)
-* `mu_comp` ~ N(7.0, 1e05)
-    * Originally wanted `mu_comp` ~ Beta(20, 6), but somehow it's really not
-      happy with that.
+* `mu_comp` ~ 10 * Beta(20, 6)
 
 
 ## Results
