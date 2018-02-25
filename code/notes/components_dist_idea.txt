@@ -1,0 +1,8 @@
+* `points_{comp type}` ~ Beta(a_skater, b_skater)
+* `a_{comp type, skater}` ~ N(mu_a, sigma)
+* `b_{comp type, skater}` ~ N(mu_b, sigma)
+* `mu_a` ~ N(3000, 500)
+* `mu_b` ~ N(1200, 300)
+* `a_{comp_type}` ~ Gamma(30, 100)
+* `b_{comp_type}` ~ Gamma(12, 100)
+    * Expect `mu_a` to be close to 3000 and `mu_b` 1200.

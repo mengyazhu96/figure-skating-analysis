@@ -1,6 +1,14 @@
 TODO
 ====
-* Oh no fancy model is worse than linear regression
+
+### 2/24
+* build prediction2, which performs strictly worse than OLS
+* tbh I think the most accurate components prediction is going to be the last
+  observed ones
+* improvements to make:
+    * add predictors
+    * weight recent results more heavily
+    * improve element grouping + assumptions
 
 ### 2/11 Weekend
 * Build a predictive model

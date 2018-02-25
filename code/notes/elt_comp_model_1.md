@@ -5,7 +5,8 @@ Fancy Model #1
 ```
 for each skater s:
     for each elt group e:
-        points_{s, e} ~ Normal
+        points_{s, e} ~ Normal(mu, sigma)
+        # learn mu, sigma
 ```
 elt groups
 * `ch`: choreo sequences ChSq or ChSt
@@ -20,6 +21,7 @@ elt groups
 * `pe`: performance
 * `co`: composition/choreo
 * `in`: interpretation
+
 note all jump groups include combos where the first jump is the group type
 
 Priors
@@ -97,3 +99,4 @@ Error Metrics
   * weighting recent results more heavily
   * improving element grouping + assumptions
   * fixing components
+  * can associate variance with skater too
