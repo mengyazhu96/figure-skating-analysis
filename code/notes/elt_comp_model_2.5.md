@@ -28,3 +28,11 @@ Priors
     * worse than OLS + fancy model
 * Score Difference: 44331
     * best yet
+
+### Ladies Results
+| Model      | Score     | Rank    |
+| -----------|-----------|---------|
+| OLS        | 58255     | 336     |
+| This       | 60781     | 432     |
+
+NO ONE SAW ALINA ZAGITOVA COMING. JK people did but my model did not.

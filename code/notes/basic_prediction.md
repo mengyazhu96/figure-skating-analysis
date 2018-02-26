@@ -317,3 +317,73 @@ Warnings:
 * If you remove start number from both models, TES is not significant but PCS is.
 * "Reputation" as median TES + max PCS gives a similar (but actually worse) model
   to our original reputation + start order model.
+
+
+## Start Order + Reputation for Ladies
+Note: normality is decent.
+
+### Short
+72 skaters, 169 data points
+```
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.446
+Model:                            OLS   Adj. R-squared:                  0.439
+Method:                 Least Squares   F-statistic:                     66.82
+Date:                Sun, 25 Feb 2018   Prob (F-statistic):           5.16e-22
+Time:                        21:06:37   Log-Likelihood:                -585.08
+No. Observations:                 169   AIC:                             1176.
+Df Residuals:                     166   BIC:                             1186.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [95.0% Conf. Int.]
+--------------------------------------------------------------------------------
+const           21.8275      3.362      6.492      0.000        15.189    28.466
+Reputation       0.5289      0.058      9.160      0.000         0.415     0.643
+Start Number    10.5243      2.123      4.957      0.000         6.332    14.716
+==============================================================================
+Omnibus:                        0.037   Durbin-Watson:                   1.283
+Prob(Omnibus):                  0.982   Jarque-Bera (JB):                0.151
+Skew:                           0.018   Prob(JB):                        0.927
+Kurtosis:                       2.858   Cond. No.                         334.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
+No outliers detected.
+
+### Free
+60 skaters, 144 data points
+
+```
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.486
+Model:                            OLS   Adj. R-squared:                  0.479
+Method:                 Least Squares   F-statistic:                     66.68
+Date:                Sun, 25 Feb 2018   Prob (F-statistic):           4.15e-21
+Time:                        21:11:35   Log-Likelihood:                -567.07
+No. Observations:                 144   AIC:                             1140.
+Df Residuals:                     141   BIC:                             1149.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [95.0% Conf. Int.]
+--------------------------------------------------------------------------------
+const           71.8259      6.684     10.746      0.000        58.612    85.040
+Reputation       0.1939      0.062      3.116      0.002         0.071     0.317
+Start Number    35.1033      3.867      9.078      0.000        27.459    42.748
+==============================================================================
+Omnibus:                       12.270   Durbin-Watson:                   1.454
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               16.509
+Skew:                          -0.498   Prob(JB):                     0.000260
+Kurtosis:                       4.326   Cond. No.                         742.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
+* Interesting that reputation's p-value is larger.
+* Outlier: ('Julia LIPNITSKAIA', '78.88') her terrible showing at gprus2016 
