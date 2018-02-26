@@ -1,6 +1,11 @@
 TODO
 ====
 
+### 2/25
+* build prediction2.5, which improves score loss but rank loss gets worse
+* test prediction 2 and prediction 2.5 on ladies. expectedly bad because
+  it didn't know Alina Zagitova was coming.
+
 ### 2/24
 * build prediction2, which performs strictly worse than OLS
 * tbh I think the most accurate components prediction is going to be the last
