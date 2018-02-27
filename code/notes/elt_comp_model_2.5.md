@@ -33,6 +33,10 @@ Priors
 | Model      | Score     | Rank    |
 | -----------|-----------|---------|
 | OLS        | 58255     | 336     |
-| This       | 60781     | 432     |
+| This (2.5) | 60781     | 432     |
+| Model 2    | 80983     | 428     |
 
 NO ONE SAW ALINA ZAGITOVA COMING. JK people did but my model did not.
+
+Hypothesis: OLS is better at predicting reputation. These models take into
+account the entire history, but reputation judging is huge.
