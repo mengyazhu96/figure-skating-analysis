@@ -119,3 +119,29 @@ for i, discipline in enumerate(('men', 'ladies', 'pairs', 'dance')):
     if discipline != 'dance':
 #         skaters[discipline]['OD Start'] = skaters[discipline].apply(dance_od_entries, axis=1)
         skaters[discipline]['Free Start'] = skaters[discipline].apply(lambda row: get_start(row, i, 1, 'Free Rank'), axis=1)
+
+# Regenerating results_nowd_..._ladies.csv
+all_ladies_results = []
+for season in seasons.values():
+    for event in season.events:
+        if event.name == 'gpfra2015':
+            continue
+        discipline = event.disciplines[1]
+        df = pd.read_csv(discipline.results_csv)
+        if df.dtypes['Short Rank'] != np.dtype('int64'):
+            df = df[df['Short Rank'] != 'WD']
+        num_short = len(df)
+        num_free = np.max([int(rank) for rank in df['Free Rank'] if rank not in ('DNQ', 'WD')])
+        df['Num Short Scorecards'] = pd.Series([num_short for _ in xrange(num_short)])
+        df['Num Free Scorecards'] = pd.Series([num_free for _ in xrange(num_short)])
+        df['Season'] = pd.Series([season.champ_year for _ in xrange(num_short)])
+        
+        df['Short Start'] = df.apply(lambda row: discipline.segments[0].scorecards[int(row['Short Rank']) - 1].starting_number, axis=1)
+        df['Free Start'] = df.apply(lambda row:
+                             None if str(row['Free Rank']).isalpha() else
+                             discipline.segments[1].scorecards[int(row['Free Rank']) - 1].starting_number, 
+                             axis=1)
+        
+        df.Name = df.apply(lambda row: name_fixes_ladies.get(row.Name, row.Name), axis=1)
+        
+        all_ladies_results.append(df)
