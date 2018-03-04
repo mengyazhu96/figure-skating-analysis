@@ -24,15 +24,16 @@ elt groups
 
 note all jump groups include combos where the first jump is the group type
 
-Priors
-* `points_{ch}` ~ N(2.0, 0.7)      [base value is 2.0]
-* `points_{st}` ~ N(3.0, 1.0)      [base values from 1.8 to 3.4]
-* `points_{sp}` ~ N(2.5, 0.6)
-* `points_{1j}` ~ Expo(1.5)        [a lot of 0's]
-* `points_{2j}` ~ N(4.0, 1.5)      [also some combos worth lots of points]
-* `points_{3j}` ~ N(6.0, 1.5)
-* `points_{4j}` ~ N(10.5, 2)
-* `points_{s, comp_type}` ~ N(7.0, 0.3)
+Group Distribution Priors
+* `mu_{ch}` ~ N(1.0, 1e5)
+* `mu_{st}` ~ N(3.0, 1e5)      [base values from 1.8 to 3.4]
+* `mu_{sp}` ~ N(2.5, 1e5)
+* `mu_{1j}` ~ Expo(1.5)        [a lot of 0's]
+* `mu_{2j}` ~ N(4.0, 1e5)      [also some combos worth lots of points]
+* `mu_{3j}` ~ N(6.0, 1e5)
+* `mu_{4j}` ~ N(10.5, 1e5)
+* `mu_{s, comp_type}` ~ N(7.0, 1e5)
+* `sigma_{any}` ~ HalfCauchy(5)
 
 how to fit
 * treat them all as independent distributions, with no predictors
