@@ -33,3 +33,14 @@ Priors
     * worse than OLS and other previous fancy models
 * overpredicts components for previously seen skaters (because we assume that
   components will always go up even when they've probably plauteaued)
+
+### Model 3.5
+* Replace components prediction with that of model 2.5 (highest historical
+  component score, per-category)
+* Score Difference: 84719.048589784914
+* Rank Difference: 318
+
+### Model 3.6
+* Replace components prediction with that of model 2
+* Score difference: 113863
+* Rank difference: 312
