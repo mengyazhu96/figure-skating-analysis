@@ -25,22 +25,24 @@ Priors
 * any `mu_b` ~ N(0, 1e5)
 * any `mu_c` ~ N(0, 1e5)
 
+### Subparts
+* Model 3.5: replace components prediction with that of model 2.5 (highest
+  historical component score, per-category)
+* Model 3.6: replace components prediction with that of model 2
+* Model 3.7: use log of week measures
+* Model 3.8: use log of week measures, don't index c per skater (only group
+  model)
+
 ## Results
 
-* Rank Difference: 304
-    * better than everything except initial partial pooling
-* Score Difference: 103961
-    * worse than OLS and other previous fancy models
-* overpredicts components for previously seen skaters (because we assume that
-  components will always go up even when they've probably plauteaued)
+| Model      | Rank | Score   |
+|------------|------|---------|
+| Model 3    | 304  | 103961  |
+| Model 3.5  | 318  | 84719   |
+| Model 3.6  | 312  | 113863  |
+| Model 3.7  | 302  | 125219  |
+| Model 3.8  | 318  | 181680  |
 
-### Model 3.5
-* Replace components prediction with that of model 2.5 (highest historical
-  component score, per-category)
-* Score Difference: 84719.048589784914
-* Rank Difference: 318
+* Model 3, 3.7 overpredict components for previously seen skaters (because we
+  assume that components will always go up even when they've probably plauteaued)
 
-### Model 3.6
-* Replace components prediction with that of model 2
-* Score difference: 113863
-* Rank difference: 312
