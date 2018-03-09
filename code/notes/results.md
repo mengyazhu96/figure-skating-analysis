@@ -19,6 +19,8 @@ Continents, but not Olympics yet).
 | Model 3             | 103961     | 304       |
 | Model 3.5           | 84719      | 318       |
 | Model 3.6           | 113863     | 312       |
+| Model 3.7           | 125219     | 302       |
+| Model 3.8           | 181680     | 318       |
 
 ### Ladies
 
@@ -48,10 +50,8 @@ segment_score = b0 + b1 * segment_reputation + b2 * start_order + normal noise
 |------------|---------|---------|---------|---------|
 | Men        | short   | 20.8236 | 0.6155  | 12.3222 |
 |            | free    | 72.3915 | 0.3983  | 35.2871 |
-|------------|---------|---------|---------|---------|
 | Ladies     | short   | 21.8275 | 0.5289  | 10.5243 |
 |            | free    | 71.8259 | 0.1939  | 35.1033 |
-|------------|---------|---------|---------|---------|
 | Pairs      | short   | 26.6549 | 0.5133  | 10.4161 |
 |            | free    | 57.2884 | 0.3892  | 28.9112 |
 
@@ -104,3 +104,6 @@ Small variants to this model include:
   component score, per-category).
 * Model 3.6: replace components prediction with that of Model 2 (train
   separate component types distributions on the last two years of data).
+* Model 3.7: use log of week measures
+* Model 3.8: use log of week measures, don't index c per skater (only group
+  model)
