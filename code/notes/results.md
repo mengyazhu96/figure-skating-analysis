@@ -21,6 +21,7 @@ Continents, but not Olympics yet).
 | Model 3.6           | 113863     | 312       |
 | Model 3.7           | 125219     | 302       |
 | Model 3.8           | 181680     | 318       |
+| Model 4             | 138112     | 308       |
 
 ### Ladies
 
@@ -107,3 +108,12 @@ Small variants to this model include:
 * Model 3.7: use log of week measures
 * Model 3.8: use log of week measures, don't index c per skater (only group
   model)
+
+### [Model 4](elt_comp_model_4.md)
+Uses model 3.7, adds linear predictors for type of competition:
+* regular Grand Prix (refeference)
+* GPF
+* EC or FC
+* WC
+* OWG
+
