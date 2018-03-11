@@ -37,12 +37,11 @@ Priors
 
 | Model      | Rank | Score   |
 |------------|------|---------|
-| Model 3    | 304  | 103961  |
-| Model 3.5  | 318  | 84719   |
-| Model 3.6  | 312  | 113863  |
-| Model 3.7  | 302  | 125219  |
-| Model 3.8  | 318  | 181680  |
+| Model 3    | 306  | 52140   |
+| Model 3.5  | 322  | 44896   |
+| Model 3.6  | 326  | 40925   |
+| Model 3.7  | 308  | 43757   |
+| Model 3.8  | 322  | 72915   |
 
-* Model 3, 3.7 overpredict components for previously seen skaters (because we
-  assume that components will always go up even when they've probably plauteaued)
+* I'm dumb
 

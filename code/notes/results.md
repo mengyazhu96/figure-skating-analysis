@@ -16,12 +16,12 @@ Continents, but not Olympics yet).
 | Model 1 (Unpooled)  | 140457657  | 380       |
 | Model 2             | 57356      | 316       |
 | Model 2.5           | 44331      | 330       |
-| Model 3             | 103961     | 304       |
-| Model 3.5           | 84719      | 318       |
-| Model 3.6           | 113863     | 312       |
-| Model 3.7           | 125219     | 302       |
-| Model 3.8           | 181680     | 318       |
-| Model 4             | 138112     | 308       |
+| Model 3             | 52140      | 306       |
+| Model 3.5           | 44896      | 322       |
+| Model 3.6           | 40925      | 326       |
+| Model 3.7           | 43757      | 308       |
+| Model 3.8           | 72915      | 322       |
+| Model 4             | 47217      | 312       |
 
 ### Ladies
 
