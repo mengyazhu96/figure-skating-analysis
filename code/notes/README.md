@@ -1,6 +1,15 @@
 TODO
 ====
 
+### Todo 3/12
+Options
+* start bias stuff
+* continue prediction
+  * hts
+  * apply model to pairs + dance
+  * look into tennis + golf ranking systems as inspiration
+
+
 ### 3/9 Meeting
 * overview of what I've done to this point
   * I haven't gotten any model to beat OLS on both metrics yet
