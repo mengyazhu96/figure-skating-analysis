@@ -9,16 +9,17 @@ Pairs
 |---------|-----------|------------|
 | OLS     | 58        | 9898       |
 | Model 1 | 82        | 34737      |
-| Model 2 | | |
-| Model 3 | | |
+| Model 2 | 72        | 15945      |
+| Model 3 | 78        | 16349      |
 
 Dance
 
 | Model   | Rank Loss | Score Loss |
 |---------|-----------|------------|
-| Model 1 | | |
-| Model 2 | | |
-| Model 3 | | |
+| OLS     | 134       | 10611      |
+| Model 1 | 170       | 46161      |
+| Model 2 | 184       | 22540      |
+| Model 3 | 170       | 20180      |
 
 
 ## Element Categories
@@ -75,3 +76,32 @@ Dance
 * `mu_l2` ~ N(8.0, 1e5)
 * `mu_sp` ~ N(4.0, 1e5)
 * `mu_ch` ~ N(2.0, 1e5)
+
+## Model 2
+Analogue of [Model 2.5](elt_comp_model_2.5.md)
+
+### Group Distribution Priors
+
+Pairs
+* `mu_st` ~ N(3.0, 0.5)
+* `mu_sp` ~ N(3.5, 0.5)
+* `mu_tw` ~ N(5.0, 1.0)
+* `mu_th` ~ N(4.0, 1.0)
+* `mu_li` ~ N(6.0, 0.7)
+* `mu_ds` ~ N(4.0, 0.5)
+* `mu_ch` ~ N(2.0, 0.5)
+* `mu_ju` ~ N(3.0, 1.0))
+
+Dance
+* `mu_tw` ~ N(6.0, 1.0)
+* `mu_st` ~ N(7.0, 1.0)
+* `mu_pd` ~ N(4.0, 0.5)
+* `mu_li` ~ N(4.0, 0.5)
+* `mu_l2` ~ N(8.0, 0.5)
+* `mu_sp` ~ N(4.0, 0.5)
+* `mu_ch` ~ N(2.0, 0.5)
+
+## Model 3
+Analogue of [Model 3.7](elt_comp_model_3.md).
+
+Same priors as Model 2, but with the components breakdwon of Model 3.7.

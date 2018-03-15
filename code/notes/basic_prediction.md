@@ -387,3 +387,76 @@ Warnings:
 ```
 * Interesting that reputation's p-value is larger.
 * Outlier: ('Julia LIPNITSKAIA', '78.88') her terrible showing at gprus2016 
+
+
+## Dance
+### Short
+57 skaters, 142 data points
+
+```
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.817
+Model:                            OLS   Adj. R-squared:                  0.815
+Method:                 Least Squares   F-statistic:                     310.9
+Date:                Thu, 15 Mar 2018   Prob (F-statistic):           4.93e-52
+Time:                        13:12:38   Log-Likelihood:                -421.20
+No. Observations:                 142   AIC:                             848.4
+Df Residuals:                     139   BIC:                             857.3
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           11.1460      2.121      5.256      0.000       6.953      15.339
+Reputation       0.8128      0.040     20.553      0.000       0.735       0.891
+Start Number     3.8923      1.545      2.519      0.013       0.837       6.947
+==============================================================================
+Omnibus:                        7.773   Durbin-Watson:                   1.473
+Prob(Omnibus):                  0.021   Jarque-Bera (JB):               11.200
+Skew:                           0.269   Prob(JB):                      0.00370
+Kurtosis:                       4.266   Cond. No.                         326.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+```
+
+Outliers (no appearances prior to 2016-2017):
+* Tiffany ZAHORSKI / Jonathan GUERREIRO: 64.28, 0.002527
+* Elliana POGREBINSKY / Alex BENOIT: 62.93, 0.001319
+* Kimberley HEW-LOW / Timothy MCKERNAN: 33.54, 0.001835
+* Olivia SMART / Adria DIAZ: 60.93, 0.004997
+
+### Free
+46 skaters, 120 data points
+
+```
+OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.828
+Model:                            OLS   Adj. R-squared:                  0.825
+Method:                 Least Squares   F-statistic:                     280.8
+Date:                Thu, 15 Mar 2018   Prob (F-statistic):           2.18e-45
+Time:                        13:24:46   Log-Likelihood:                -385.33
+No. Observations:                 120   AIC:                             776.7
+Df Residuals:                     117   BIC:                             785.0
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const           21.5212      4.946      4.351      0.000      11.725      31.317
+Reputation       0.7030      0.065     10.780      0.000       0.574       0.832
+Start Number    12.6694      3.234      3.917      0.000       6.264      19.075
+==============================================================================
+Omnibus:                       39.545   Durbin-Watson:                   1.767
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              108.904
+Skew:                          -1.217   Prob(JB):                     2.25e-24
+Kurtosis:                       6.981   Cond. No.                         951.
+==============================================================================
+```
+
+Outliers are unobserved previously, lower free dance score than median of 78.62:
+* Adele MORRISON / Demid ROKACHEV 58.48
+* Kimberley HEW-LOW / Timothy MCKERNAN 51.43
