@@ -40,7 +40,7 @@ class Season:
 
     def fetch_info(self, fetch_files=False):
         if self.champ_year == 2018:         # Remove events that haven't happened yet.
-            self.events = self.events[:-2]
+            self.events = self.events[:-1]
 
         for event in self.events:
             if fetch_files:

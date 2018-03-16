@@ -18,8 +18,10 @@ class Panel:
         self.fpath = get_fpath(season, event, self.fname)
 
     def parse_html(self):
-        with open(self.fpath, 'rb') as f:
-            soup = BeautifulSoup(f.read(), 'html.parser')
+        with open(self.fpath) as f:
+            contents = f.read()
+            contents = contents.replace('&nbsp;', ' ')
+            soup = BeautifulSoup(contents, 'html.parser')
 
         self.officials = OrderedDict()
         self.judges = []

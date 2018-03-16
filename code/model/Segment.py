@@ -31,7 +31,7 @@ class Segment:
                            '(-?\d.\d\d)')            # deductions
     tes_re = re.compile('^\s*' + base_value_re +     # total base value
                         points + '\s*$')             # total tes
-    deduction_re = re.compile('[^-\d:]+:\s+-?\d\.\d\d')
+    deduction_re = re.compile('[^-\d:]+:?\s+-?\d\.\d\d')
     # pcs_re = re.compile('Program\s+Component\D*' + points)
 
 
