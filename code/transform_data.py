@@ -145,3 +145,102 @@ for season in seasons.values():
         df.Name = df.apply(lambda row: name_fixes_ladies.get(row.Name, row.Name), axis=1)
         
         all_ladies_results.append(df)
+
+
+# Generating judge_scores.csv
+with open('pd_data/judge_nations.json') as f:
+    nations = json.load(f)
+
+with open('pd_data/name_fixes_all.json') as f:
+    all_name_fixes = json.load(f)
+
+def remove_mr_ms(judge):
+    judge = judge.replace('Mr. ', '')
+    judge = judge.replace('Mr ', '')
+    judge = judge.replace('Ms. ', '')
+    judge = judge.replace('Ms ', '')
+    judge = judge.replace('Mrs. ', '')
+    return judge
+
+def calculate_trimmed_mean(scores):
+    num_scores = len(scores)
+    return (sum(scores) - min(scores) - max(scores)) / (num_scores - 2.)
+
+elt_df_list = []
+comp_df_list = []
+for season in (seasons['2017'], seasons['2018']):
+    for event in season.events:
+        for discipline in event.disciplines:
+            discipline.create_results()
+            results = {}
+            for rank, result in enumerate(discipline.results):
+                skater = all_name_fixes.get(result.skater.name, result.skater.name)
+                results[skater] = rank + 1
+            num_entries = len(results)
+            for segment in discipline.segments:
+                for scorecard in segment.scorecards:
+                    skater = all_name_fixes.get(scorecard.skater.name, scorecard.skater.name)
+                    judges = [all_name_fixes.get(remove_mr_ms(judge.name), remove_mr_ms(judge.name))
+                              for judge in segment.panel.judges if judge.name != '-']
+                    for element in scorecard.elements:
+                        med_goe = np.median(element.parsed_goes)
+                        trimmed_mean = calculate_trimmed_mean(element.parsed_goes)
+                        goes_str = ','.join(map(str, element.parsed_goes))
+                        for i, judge in enumerate(judges):
+                            judge_num = i+1
+                            elt_df_list.append({
+                                'skater': skater,
+                                'country': scorecard.skater.country,
+                                'segment_name': event.name + '_' + segment.name,
+                                'season': season.champ_year,
+                                'discipline': discipline.discipline.name,
+                                'segment_rank': scorecard.rank,
+                                'overall_rank': results[skater],
+                                'num_entries': num_entries,
+                                'start_order': scorecard.starting_number,
+                                'elt_number': element.number,
+                                'elt_name': element.name,
+                                'elt_info': element.info,
+                                'elt_bv': element.base_value,
+                                'elt_bonus': element.bonus,
+                                'elt_score': element.goe,
+                                'elt_points': element.points,
+                                'judge': judge,
+                                'judge_num': judge_num,
+                                'judge_score': element.parsed_goes[i],
+                                'med_score': med_goe,
+                                'trimmed_mean': trimmed_mean,
+                                'all_scores': goes_str,
+                                'is_comp': 0
+                            })
+                    for comp in scorecard.components:
+                        med_score = np.median(comp.parsed_scores)
+                        trimmed_mean = calculate_trimmed_mean(comp.parsed_scores)
+                        scores_str = ','.join(map(str, comp.parsed_scores))
+                        for i, judge in enumerate(judges):
+                            judge_num = i+1
+                            comp_df_list.append({
+                                'skater': skater,
+                                'country': scorecard.skater.country,
+                                'segment_name': event.name + '_' + segment.name,
+                                'season': season.champ_year,
+                                'discipline': discipline.discipline.name,
+                                'segment_rank': scorecard.rank,
+                                'overall_rank': results[skater],
+                                'num_entries': num_entries,
+                                'start_order': scorecard.starting_number,
+                                'elt_name': all_name_fixes.get(comp.name, comp.name),
+                                'elt_score': comp.points,
+                                'judge': judge,
+                                'judge_num': judge_num,
+                                'judge_score': comp.parsed_scores[i],
+                                'med_score': med_score,
+                                'trimmed_mean': trimmed_mean,
+                                'all_scores': scores_str,
+                                'is_comp': 1
+                            })
+
+elts_df = pd.DataFrame(elt_df_list)
+comp_df = pd.DataFrame(comp_df_list)
+scores = pd.concat([elts_df, comp_df])
+scores['judge_country'] = scores.apply(lambda row: nations[row.judge], axis=1)
