@@ -2,24 +2,55 @@ Predicting Worlds 2018
 ======================
 
 ## Methods
-* Reputation only: prior to knowing the skate orders, this is the best we can
-  do with OLS.
-* Model 3: grab the elements of the last competition to predict on.
-* Reputation + start order: predict off of an updated model.
+At the World Championships, the top 24 ladies/men, top 16 pairs, and top 20
+dance couples after the short program will qualify to the free skate. Thus we
+will first predict short program scores, and then predict the free skate for
+the skaters that qualify to the free skate.
+
+* Personal Bests (PB): Predict each skater's personal best short program, and
+  then if they qualify predict their personal best total score.
+* Model 3: Assume a skater will repeat the same elements they last competed
+  with. Fit Model 3 [(model 3.7 here)](elt_comp_model_3.md) on all of the data
+  up to the 2018 Olympics.
+* Reputation + start order OLS: We need the start orders for this model, so we
+  will wait for the draws of start order and predict as the competition begins.
+
+## Missing data
+Ladies
+* Alisa STOMAKHINA: does not appear in any previous event
+* Elisabetta LECCARDI: does not appear in any previous event
+* Stanislava KONSTANTINOVA: does not appear in any previous event
+* Antonina DUBININA: has never qualified to the free skate
+
+Antonina DUBININA does not qualify to the free skate in any of our predictive
+scenarios, so we focus on the other three skaters, who all have junior results
+that I Googled:
+* Stanislava KONSTANTINOVA placed 4th at Junior Worlds 2018 and consistently
+  scores around 65 for the short program, so we would expect her to qualify for
+  the free skate. We predict 65 points for the short and 180 points overall
+  (even though her actual personal best is just under 200).
+* Elisabetta LECCARDI's personal best short program is around 53, but for
+  simplicity we will assume she does not qualify for the free skate and predict
+  her short program score to be 50.
+* Alisa STOMAKHINA's personal best short program is around 41, so we predict
+  her short program score to be 40.
+
+Pairs
+* Elizaveta KASHITSYNA / Mark MAGYAR: does not appear in any previous event
+I couldn't find them anywhere, but I watched a YouTube video and would
+expect them to score very low, so their short prediction is 45 points.
+
+Dance
+* Teodora MARKOVA / Simon DAZE: has never qualified to the free skate
+* Adel TANKOVA / Ronald ZILBERBERG: has never qualified to the free skate
+* Allison REED / Saulius AMBRULEVICIUS: does not appear in any previous event
+MARKOVA/DAZE and TANKOVA/ZILDERBERG do not qualify to the free skate in our
+predictions. REED/AMBRULEVICIUS beat TORN/PARTANEN at the 2017 Nebelhorn
+Trophy, so we assign them a short prediction of 58 points which does not
+qualify them for the free skate.
+
 
 ## Model 3
-Missing data:
-* ladies
-    * Alisa STOMAKHINA event
-    * Elisabetta LECCARDI event
-    * Stanislava KONSTANTINOVA event
-    * Antonina DUBININA free
-* pairs
-    * Elizaveta KASHITSYNA / Mark MAGYAR event
-* dance
-    * Teodora MARKOVA / Simon DAZE free
-    * Adel TANKOVA / Ronald ZILBERBERG free
-    * Allison REED / Saulius AMBRULEVICIUS event
 
 ### Men
 | Skater               | Score         | Rank |
@@ -106,13 +137,7 @@ Missing data:
 | Antonina DUBININA        | 40.8578141883 | 36   |
 | Alisa STOMAKHINA         | 40.0 (\*)     | 37   |
 
-(\*) no previous data in our dataset; all have junior results.
-* Stanislava KONSTANTINOVA placed 4th at Junior Worlds 2018 and consistently
-  scores around 65 for the short program, so we would expect her to qualify for
-  the free skate.
-* Elisabetta LECCARDI's personal best short program is around 53, but for
-  simplicity we will assume she does not qualify for the free skate.
-* Alisa STOMAKHINA's personal best short program is around 41.
+(\*) no previous data in our dataset
 
 ### Pairs
 | Skater                                     | Score         | Rank |
@@ -184,8 +209,7 @@ Missing data:
 | Adel TANKOVA / Ronald ZILBERBERG        | 45.720083833630 | 30   |
 | Teodora MARKOVA / Simon DAZE            | 45.558398006680 | 31   |
 
-(\*) no previous data in our dataset. At the 2017 Nebelhorn Trophy, they beat
-TORN/PARTANEN which suggests this kind of placement.
+(\*) no previous data in our dataset
 
 ## Predicting the PB Total Score
 For missing data, do the same guesses as in Model 3.
