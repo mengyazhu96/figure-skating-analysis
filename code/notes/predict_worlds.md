@@ -37,6 +37,7 @@ that I Googled:
 
 Pairs
 * Elizaveta KASHITSYNA / Mark MAGYAR: does not appear in any previous event
+
 I couldn't find them anywhere, but I watched a YouTube video and would
 expect them to score very low, so their short prediction is 45 points.
 
@@ -44,6 +45,7 @@ Dance
 * Teodora MARKOVA / Simon DAZE: has never qualified to the free skate
 * Adel TANKOVA / Ronald ZILBERBERG: has never qualified to the free skate
 * Allison REED / Saulius AMBRULEVICIUS: does not appear in any previous event
+
 MARKOVA/DAZE and TANKOVA/ZILDERBERG do not qualify to the free skate in our
 predictions. REED/AMBRULEVICIUS beat TORN/PARTANEN at the 2017 Nebelhorn
 Trophy, so we assign them a short prediction of 58 points which does not
