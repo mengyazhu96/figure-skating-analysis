@@ -3,6 +3,16 @@ Prediction for Pairs and Dance
 
 ## Results
 
+Ladies
+
+| Model   | Rank Loss | Score Loss |
+|---------|-----------|------------|
+| OLS     | 336       | 58255      |
+| Model 1 | 436       | 91204      |
+| Model 2 | 432       | 60781      |
+| Model 3 | 408       | 82094      |
+
+
 Pairs
 
 | Model   | Rank Loss | Score Loss |

@@ -154,6 +154,19 @@ with open('pd_data/judge_nations.json') as f:
 with open('pd_data/name_fixes_all.json') as f:
     all_name_fixes = json.load(f)
 
+def fix_ascii(name):
+    if name in all_name_fixes:
+        return all_name_fixes[name]
+    if 'Jussiville PARTANEN' in name:
+        return 'Cecilia TORN / Jussiville PARTANEN'
+    if 'Helery' in name:
+        return 'Helery HALVIN'
+    if name.startswith('Victoria MANNI'):
+        return 'Victoria MANNI / Carlo ROTHLISBERGER'
+    if name.startswith('Anita'):
+        return 'Anita OSTLUND'
+    return name
+
 def remove_mr_ms(judge):
     judge = judge.replace('Mr. ', '')
     judge = judge.replace('Mr ', '')
@@ -179,7 +192,7 @@ for season in (seasons['2017'], seasons['2018']):
             num_entries = len(results)
             for segment in discipline.segments:
                 for scorecard in segment.scorecards:
-                    skater = all_name_fixes.get(scorecard.skater.name, scorecard.skater.name)
+                    skater = fix_ascii(scorecard.skater.name)
                     judges = [all_name_fixes.get(remove_mr_ms(judge.name), remove_mr_ms(judge.name))
                               for judge in segment.panel.judges if judge.name != '-']
                     for element in scorecard.elements:
@@ -244,3 +257,117 @@ elts_df = pd.DataFrame(elt_df_list)
 comp_df = pd.DataFrame(comp_df_list)
 scores = pd.concat([elts_df, comp_df])
 scores['judge_country'] = scores.apply(lambda row: nations[row.judge], axis=1)
+scores.country = scores.apply(lambda row: 'RUS' if row.country == 'OAR' else row.country, axis=1)
+
+# Get the Olympics!
+def get_pair_elt_type(elt):
+    if 'St' in elt or 'SpSq' in elt:
+        return 'st'
+    if 'Sp' in elt:
+        return 'sp'
+    if 'Tw' in elt:
+        return 'tw'
+    if 'Th' in elt:
+        return 'th'
+    if 'Li' in elt:
+        return 'li'
+    if 'Ds' in elt:
+        return 'ds'
+    if 'ChSq' in elt:
+        return 'ch'
+    return 'ju'
+
+def get_dance_elt_type(elt):
+    if 'kp' in elt or 'GW' in elt:
+        return 'pd'
+    if 'Li' in elt and '+' in elt:
+        return 'l2'
+    if 'Ch' in elt:
+        return 'ch'
+    if 'Tw' in elt:
+        return 'tw'
+    if 'Li' in elt:
+        return 'li'
+    if 'St' in elt:
+        return 'st'
+    return 'sp'
+
+def get_singles_elt_type(elt):
+    if 'ChSq' in elt or 'ChSt' in elt:
+        return 'ch'
+    if 'St' in elt:
+        return 'st'
+    if 'Sp' in elt:
+        return 'sp'
+    if elt[0].isalpha() or elt[0] == '1':
+        return '1j'
+    return elt[0] + 'j'
+
+component_to_type = {
+    'Skating Skills': 'ss',
+    'Transitions': 'tr',
+    'Performance': 'pe',
+    'Composition': 'co',
+    'Interpretation': 'in'
+}
+
+elt_type_fns = {'men': get_singles_elt_type, 'ladies': get_singles_elt_type,
+                'pairs': get_pair_elt_type, 'dance': get_dance_elt_type}
+
+with open('pd_data/name_fixes_all.json') as f:
+    name_fixes = json.load(f)
+disciplines = ('men', 'ladies', 'pairs', 'dance')
+
+owg_elts = {}
+owg_comp = {}
+
+owg2018 = seasons['2018'].events[-1]
+for index, discipline in enumerate(disciplines):
+    elt_df_list = []
+    comp_df_list = []
+    for segment in owg2018.disciplines[index].segments:
+        for scorecard in segment.scorecards:
+            skater = name_fixes.get(scorecard.skater.name, scorecard.skater.name)
+            for elt in scorecard.elements:
+                elt_df_list.append({
+                    'bonus': elt.bonus,
+                    'date': owg2018.date,
+                    'element': elt.name,
+                    'elt_type': elt_type_fns[discipline](elt.name),
+                    'event': 'owg2018',
+                    'goe': elt.goe,
+                    'info': elt.info,
+                    'number': elt.number,
+                    'points': elt.points,
+                    'segment': segment.name,
+                    'segment_rank': scorecard.rank,
+                    'skater': skater,
+                    'start_order': scorecard.starting_number,
+                })
+            for comp in scorecard.components:
+                comp_name = name_fixes.get(comp.name, comp.name)
+                comp_df_list.append({
+                    'comp_type': component_to_type[comp_name],
+                    'component': comp_name,
+                    'date': owg2018.date,
+                    'event': 'owg2018',
+                    'points': comp.points,
+                    'segment': segment.name,
+                    'segment_rank': scorecard.rank,
+                    'skater': skater,
+                    'start_order': scorecard.starting_number
+                })
+    owg_elts[discipline] = pd.DataFrame(elt_df_list)
+    owg_comp[discipline] = pd.DataFrame(comp_df_list)
+
+for discipline in disciplines:
+    elements18 = pd.read_csv('pd_data/elements_' + discipline + '18.csv')
+    components18 = pd.read_csv('pd_data/components_summary_' + discipline + '18.csv')
+    unnamed = [label for label in elements18.columns if 'Unnamed' in label]
+    elements18.drop(unnamed, inplace=True, axis=1)
+    unnamed = [label for label in components18.columns if 'Unnamed' in label]
+    components18.drop(unnamed, inplace=True, axis=1)
+    elements18 = pd.concat([elements18, owg_elts[discipline]])
+    elements18.to_csv('pd_data/elements_' + discipline + '18all.csv')
+    components18 = pd.concat([components18, owg_comp[discipline]])
+    components18.to_csv('pd_data/components_summary_' + discipline + '18all.csv')

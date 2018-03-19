@@ -1,6 +1,15 @@
 Non-Parametric Test of Judging Bias
 ===================================
 
+tl;dr: "Strong evidence of small nationalistic bias." Note "bias" doesn't
+automatically mean that judges are intentionally manipulating scores around.
+Bias is actually more an indication of something not being a completely
+objective evaluation: maybe judges prefer styles of their home countries.
+Components scores, for instance, are probably more "subjective." The Olympics
+data breaks down our data into many categories. Generally there is more "bias"
+in the top-6 when compared to the bottom third of skaters. Ice dance also
+exhibits a lot more "bias," because objective goodness is harder to quantify.
+
 Campbell and Galbraith give a nonparametric test of judging bias for the 6.0
 system which can be easily applied to IJS when you consider the GOEs and
 component marks of each judge for each skater. It's like having 12-20 data
@@ -89,9 +98,13 @@ Pulling only the datapoints where skater-judge match:
 | dance            | x     | ""              | 1110  | 1194   | 0.930 |
 
 ### Olympics
+10078 not median scores, 23535 total scores
+
 Reported: p-value, p_hat, S, N
 
 p-value threshold: 0.05/100 = 5 x 10^(-4)
+
+Bolded things are **not statistically significant results**.
 
 men 1.61546491739e-08 0.550 1645 2989
 * top6 1.30417898703e-12 0.632 437 692
