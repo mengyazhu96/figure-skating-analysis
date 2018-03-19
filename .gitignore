@@ -122,3 +122,5 @@ code/data_backup/
 code/fits/
 reference/
 theses/
+code/pd_data/*.csv
+code/tabula-1.0.1-jar-with-dependencies.jar
