@@ -376,46 +376,80 @@ For missing data, do the same guesses as in Model 3.
 
 [Short Start Order](www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_SP_TimeSchedule.pdf)
 
-| PB    |                          | Normalized  | Predicted | Predicted | Start  |
-| Short | Skater                   | Start Order | Score     | Rank      | Number |
-|-------|--------------------------|-------------|-----------|-----------|--------|
-| 82.92 | Alina ZAGITOVA           | 0.918918919 | 73.94     | 1         | 34     |
-| 78.87 | Kaetlyn OSMOND           | 0.972972972 | 72.70     | 2         | 36     |
-| 75.94 | Satoko MIYAHARA          | 1.0         | 71.66     | 3         | 37     |
-| 78.30 | Carolina KOSTNER         | 0.891891892 | 71.52     | 4         | 33     |
-| 74.00 | Maria SOTSKOVA           | 0.945945946 | 70.16     | 5         | 35     |
-| 73.26 | Wakaba HIGUCHI           | 0.864864865 | 68.90     | 6         | 32     |
-| 70.40 | Mirai NAGASU             | 0.810810811 | 66.98     | 7         | 30     |
-| 72.70 | Gabrielle DALEMAN        | 0.702702703 | 66.81     | 8         | 26     |
-| 67.77 | Dabin CHOI               | 0.756756757 | 65.16     | 9         | 28     |
-| 66.87 | Elizabet TURSYNBAEVA     | 0.783783784 | 65.06     | 10        | 29     |
-| 63.85 | Mariah BELL              | 0.837837838 | 64.28     | 11        | 31     |
-| 66.61 | Laurine LECAVELIER       | 0.567567568 | 62.48     | 12        | 21     |
-| 67.01 | Bradie TENNELL           | 0.540540541 | 62.36     | 13        | 20     |
-| 61.01 | Nicole RAJICOVA          | 0.729729730 | 61.76     | 14        | 27     |
-| 61.49 | Ivett TOTH               | 0.675675676 | 61.37     | 15        | 25     |
-| 59.20 | Nicole SCHOTT            | 0.594594595 | 59.40     | 16        | 22     |
-| 57.54 | Loena HENDRICKX          | 0.621621622 | 58.94     | 17        | 23     |
-| 56.04 | Anita OSTLUND            | 0.513513514 | 57.03     | 18        | 19     |
-| 56.97 | Kailani CRAINE           | 0.432432432 | 56.54     | 19        | 16     |
-| 55.26 | Alexia PAGANINI          | 0.486486486 | 56.37     | 20        | 18     |
-| 57.50 | Amy LIN                  | 0.378378378 | 56.17     | 21        | 14     |
-| 58.99 | Angelina KUCHVALSKA      | 0.189189189 | 54.70     | 22        | 7      |
-| 52.06 | Eliska BREZINOVA         | 0.459459459 | 54.59     | 23        | 17     |
-| 61.15 | Hanul KIM                | 0.054054054 | 54.16     | 24        | 2      |
-| 55.74 | Isadora WILLIAMS         | 0.270270270 | 54.13     | 25        | 10     |
-| 46.18 | Stanislava KONSTANTINOVA | 0.648648649 | 54.05     | 26        | 24     |
-| 59.20 | Xiangning LI             | 0.081081081 | 53.57     | 27        | 3      |
-| 53.92 | Viveca LINDFORS          | 0.162162162 | 52.07     | 28        | 6      |
-| 49.80 | Anne Line GJERSEM        | 0.324324324 | 52.03     | 29        | 12     |
-| 51.42 | Larkyn AUSTMAN           | 0.243243243 | 51.85     | 30        | 9      |
-| 46.06 | Elzbieta KROPA           | 0.405405405 | 51.23     | 31        | 15     |
-| 50.10 | Natasha MCKAY            | 0.108108108 | 49.71     | 32        | 4      |
-| 44.46 | Gerli LIINAMAE           | 0.297297297 | 49.27     | 33        | 11     |
-| 46.18 | Alisa STOMAKHINA         | 0.216216216 | 49.14     | 34        | 8      |
-| 41.05 | Antonina DUBININA        | 0.351351351 | 48.32     | 35        | 13     |
-| 46.18 | Elisabetta LECCARDI      | 0.135135135 | 48.22     | 36        | 5      |
-| 47.40 | Dasa GRM                 | 0.027027027 | 47.56     | 37        | 1      |
+| PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |
+|-------|--------------------------|------|--------|----|----|
+| 82.92 | Alina ZAGITOVA           | 0.92 | 73.94  | 1  | 34 |
+| 78.87 | Kaetlyn OSMOND           | 0.97 | 72.70  | 2  | 36 |
+| 75.94 | Satoko MIYAHARA          | 1.0  | 71.66  | 3  | 37 |
+| 78.30 | Carolina KOSTNER         | 0.89 | 71.52  | 4  | 33 |
+| 74.00 | Maria SOTSKOVA           | 0.95 | 70.16  | 5  | 35 |
+| 73.26 | Wakaba HIGUCHI           | 0.86 | 68.90  | 6  | 32 |
+| 70.40 | Mirai NAGASU             | 0.81 | 66.98  | 7  | 30 |
+| 72.70 | Gabrielle DALEMAN        | 0.70 | 66.81  | 8  | 26 |
+| 67.77 | Dabin CHOI               | 0.76 | 65.16  | 9  | 28 |
+| 66.87 | Elizabet TURSYNBAEVA     | 0.78 | 65.06  | 10 | 29 |
+| 63.85 | Mariah BELL              | 0.84 | 64.28  | 11 | 31 |
+| 66.61 | Laurine LECAVELIER       | 0.57 | 62.48  | 12 | 21 |
+| 67.01 | Bradie TENNELL           | 0.54 | 62.36  | 13 | 20 |
+| 61.01 | Nicole RAJICOVA          | 0.73 | 61.76  | 14 | 27 |
+| 61.49 | Ivett TOTH               | 0.68 | 61.37  | 15 | 25 |
+| 59.20 | Nicole SCHOTT            | 0.59 | 59.40  | 16 | 22 |
+| 57.54 | Loena HENDRICKX          | 0.62 | 58.94  | 17 | 23 |
+| 56.04 | Anita OSTLUND            | 0.51 | 57.03  | 18 | 19 |
+| 56.97 | Kailani CRAINE           | 0.43 | 56.54  | 19 | 16 |
+| 55.26 | Alexia PAGANINI          | 0.49 | 56.37  | 20 | 18 |
+| 57.50 | Amy LIN                  | 0.38 | 56.17  | 21 | 14 |
+| 58.99 | Angelina KUCHVALSKA      | 0.19 | 54.70  | 22 | 7  |
+| 52.06 | Eliska BREZINOVA         | 0.46 | 54.59  | 23 | 17 |
+| 61.15 | Hanul KIM                | 0.05 | 54.16  | 24 | 2  |
+| 55.74 | Isadora WILLIAMS         | 0.27 | 54.13  | 25 | 10 |
+| 46.18 | Stanislava KONSTANTINOVA | 0.65 | 54.05  | 26 | 24 |
+| 59.20 | Xiangning LI             | 0.08 | 53.57  | 27 | 3  |
+| 53.92 | Viveca LINDFORS          | 0.16 | 52.07  | 28 | 6  |
+| 49.80 | Anne Line GJERSEM        | 0.32 | 52.03  | 29 | 12 |
+| 51.42 | Larkyn AUSTMAN           | 0.24 | 51.85  | 30 | 9  |
+| 46.06 | Elzbieta KROPA           | 0.41 | 51.23  | 31 | 15 |
+| 50.10 | Natasha MCKAY            | 0.11 | 49.71  | 32 | 4  |
+| 44.46 | Gerli LIINAMAE           | 0.30 | 49.27  | 33 | 11 |
+| 46.18 | Alisa STOMAKHINA         | 0.22 | 49.14  | 34 | 8  |
+| 41.05 | Antonina DUBININA        | 0.35 | 48.32  | 35 | 13 |
+| 46.18 | Elisabetta LECCARDI      | 0.14 | 48.22  | 36 | 5  |
+| 47.40 | Dasa GRM                 | 0.03 | 47.56  | 37 | 1  |
+
+### Pairs
+
+[Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Pairs_SP_TimeSchedule.pdf)
+
+| PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |
+|-------|--------------------------------------------|------|-------|----|----|
+| 81.68 | Evgenia TARASOVA / Vladimir MOROZOV        | 0.68 | 75.23 | 1  | 19 |
+| 79.84 | Aljona SAVCHENKO / Bruno MASSOT            | 0.70 | 74.28 | 2  | 20 |
+| 75.52 | Vanessa JAMES / Morgan CIPRES              | 0.76 | 72.00 | 3  | 21 |
+| 74.35 | Natalia ZABIIAKO / Alexander ENBERT        | 0.73 | 71.03 | 4  | 20 |
+| 75.58 | Xiaoyu YU / Hao ZHANG                      | 0.62 | 70.89 | 5  | 17 |
+| 74.00 | Nicole DELLA MONICA / Matteo GUARISE       | 0.65 | 70.12 | 6  | 18 |
+| 74.50 | Valentina MARCHEI / Ondrej HOTAREK         | 0.57 | 69.75 | 7  | 16 |
+| 73.33 | Cheng PENG / Yang JIN                      | 0.43 | 67.87 | 8  | 12 |
+| 71.16 | Julianne SEGUIN / Charlie BILODEAU         | 0.59 | 67.86 | 9  | 17 |
+| 72.17 | Alexa SCIMECA KNIERIM / Chris KNIERIM      | 0.49 | 67.59 | 10 | 14 |
+| 70.89 | Kirsten MOORE-TOWERS / Michael MARINARO    | 0.51 | 67.00 | 11 | 14 |
+| 70.52 | Kristina ASTAKHOVA / Alexei ROGONOV        | 0.41 | 65.86 | 12 | 11 |
+| 66.45 | Ekaterina ALEXANDROVSKAYA / Harley WINDSOR | 0.46 | 63.73 | 13 | 13 |
+| 69.40 | Tae Ok RYOM / Ju Sik KIM                   | 0.19 | 63.32 | 14 | 5  |
+| 63.94 | Miriam ZIEGLER / Severin KIEFER            | 0.54 | 62.82 | 15 | 15 |
+| 65.90 | Anna DUSKOVA / Martin BIDAR                | 0.14 | 60.64 | 16 | 4  |
+| 63.04 | Annika HOCKE / Ruben BLOMMAERT             | 0.11 | 58.59 | 17 | 3  |
+| 60.09 | Camille RUEST / Andrew WOLFE               | 0.27 | 58.09 | 18 | 8  |
+| 60.93 | Deanna STELLATO / Nathan BARTHOLOMAY       | 0.08 | 57.03 | 19 | 2  |
+| 57.74 | Miu SUZAKI / Ryuichi KIHARA                | 0.30 | 56.82 | 20 | 8  |
+| 60.35 | Paige CONNERS / Evgeni KRASNOPOLSKI        | 0.05 | 56.43 | 21 | 2  |
+| 57.48 | Lola ESBRAT / Andrei NOVOSELOV             | 0.24 | 56.20 | 22 | 7  |
+| 52.83 | Lana PETRANOVIC / Antonio SOUZA-KORDEIRU   | 0.32 | 53.93 | 23 | 9  |
+| 51.46 | Laura BARQUERO / Aritz MAESTU              | 0.35 | 53.29 | 24 | 10 |
+| 52.32 | Zoe JONES / Christopher BOYADJI            | 0.22 | 52.70 | 25 | 6  |
+| 51.76 | Elizaveta KASHITSYNA / Mark MAGYAR         | 0.03 | 50.74 | 26 | 1  |
+| 46.57 | Ioulia CHTCHETININA / Mikhail AKULOV       | 0.16 | 48.59 | 27 | 5  |
+| 42.93 | Kyueun KIM / Alex Kang Chan KAM            | 0.38 | 48.10 | 28 | 11 |
 
 
 
