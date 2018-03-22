@@ -15,7 +15,7 @@ program. Thus this is more of an as-you-go predictive scheme.
 [Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Men_SP_TimeSchedule.pdf)
 
 | PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |
-|--------|----------------------|------|-------|----|----|----|
+|--------|----------------------|------|-------|----|----|
 | 104.86 | Shoma UNO            | 1.0  | 97.07 | 1  | 37 |
 | 103.32 | Boyang JIN           | 0.97 | 95.87 | 2  | 36 |
 | 104.12 | Nathan CHEN          | 0.92 | 95.45 | 3  | 34 |
