@@ -52,6 +52,10 @@ program. Thus this is more of an as-you-go predictive scheme.
 
 
 ## Pre-Short Program Predictions
+* score loss: 1573.5799124360824
+* rank loss: 202
+* rank loss for top 10 actual results: 25
+
 [Short Start Order](www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_SP_TimeSchedule.pdf)
 
 | PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |

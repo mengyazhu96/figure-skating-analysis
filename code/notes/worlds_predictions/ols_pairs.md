@@ -49,6 +49,10 @@ It is expected that SAVCHENKO / MASSOT will win the competition over TARASOVA /
 MOROZOV. However |  SAVCHENKO / MASSOT have not skated a lights-out short program
 and thus have a lower PB; they have higher scoring potential, though.
 
+* score loss: 897.02168065138324
+* rank loss: 66
+* rank loss top 10: 16
+
 [Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Pairs_SP_TimeSchedule.pdf)
 
 | PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |
