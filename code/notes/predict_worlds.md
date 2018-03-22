@@ -372,7 +372,52 @@ For missing data, do the same guesses as in Model 3.
 
 ## OLS
 
+### Men
+[Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Men_SP_TimeSchedule.pdf)
+
 ### Ladies
+[Free Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_FS_TimeSchedule.pdf)
+
+| Predicted Final Rank | Skater | Predicted Free Score | Predicted Free Rank | Predicted Total Score | Start Order | PB Free Score | Short Score | Normalized Start Order |
+|----|--------------------------|--------------|
+| 1  | Alina ZAGITOVA           | 144.17 | 1  | 223.68 | 23 | 157.97 | 79.51 | 0.96 |
+| 2  | Carolina KOSTNER         | 141.16 | 2  | 221.44 | 24 | 142.61 | 80.27 | 1.0  |
+| 3  | Satoko MIYAHARA          | 139.25 | 3  | 213.61 | 22 | 146.44 | 74.36 | 0.92 |
+| 4  | Kaetlyn OSMOND           | 136.36 | 4  | 209.09 | 19 | 152.15 | 72.73 | 0.79 |
+| 5  | Gabrielle DALEMAN        | 136.22 | 5  | 207.83 | 21 | 141.33 | 71.61 | 0.88 |
+| 6  | Maria SOTSKOVA           | 134.97 | 6  | 206.77 | 20 | 142.28 | 71.80 | 0.83 |
+| 7  | Wakaba HIGUCHI           | 131.84 | 7  | 197.73 | 18 | 141.99 | 65.89 | 0.75 |
+| 8  | Bradie TENNELL           | 127.35 | 9  | 196.11 | 16 | 137.09 | 68.76 | 0.67 |
+| 9  | Mirai NAGASU             | 127.39 | 8  | 192.60 | 17 | 132.04 | 65.21 | 0.71 |
+| 10 | Elizabet TURSYNBAEVA     | 124.77 | 10 | 187.15 | 14 | 138.69 | 62.38 | 0.58 |
+| 11 | Loena HENDRICKX          | 118.27 | 12 | 182.34 | 13 | 121.78 | 64.07 | 0.54 |
+| 12 | Nicole SCHOTT            | 119.87 | 11 | 181.71 | 15 | 116.85 | 61.84 | 0.63 |
+| 13 | Hanul KIM                | 113.58 | 13 | 173.72 | 10 | 121.38 | 60.14 | 0.42 |
+| 14 | Viveca LINDFORS          | 111.14 | 16 | 171.32 | 12 | 102.75 | 60.18 | 0.5  |
+| 15 | Laurine LECAVELIER       | 111.39 | 15 | 171.18 | 8  | 124.29 | 59.79 | 0.33 |
+| 16 | Mariah BELL              | 111.75 | 14 | 170.90 | 7  | 130.67 | 59.15 | 0.29 |
+| 17 | Stanislava KONSTANTINOVA | 106.72 | 18 | 165.91 | 11 | 92.89  | 59.19 | 0.46 |
+| 18 | Dabin CHOI               | 108.94 | 17 | 164.24 | 5  | 131.49 | 55.30 | 0.21 |
+| 19 | Eliska BREZINOVA         | 105.06 | 19 | 163.43 | 9  | 97.63  | 58.37 | 0.38 |
+| 20 | Kailani CRAINE           | 100.11 | 21 | 157.01 | 3  | 111.84 | 56.90 | 0.13 |
+| 21 | Alexia PAGANINI          | 95.54  | 23 | 153.40 | 1  | 106.67 | 57.86 | 0.04 |
+| 22 | Ivett TOTH               | 101.43 | 20 | 152.06 | 4  | 111.16 | 50.63 | 0.17 |
+| 23 | Dasa GRM                 | 99.08  | 22 | 151.51 | 6  | 92.84  | 52.43 | 0.25 |
+| 24 | Elisabetta LECCARDI      | 93.00  | 24 | 144.13 | 2  | 92.89  | 51.13 | 0.08 |
+| 25 | Larkyn AUSTMAN           | DNQ    |    | 50.17  |    |        | 50.17 |      |
+| 26 | Xiangning LI             | DNQ    |    | 50.06  |    |        | 50.06 |      |
+| 27 | Nicole RAJICOVA          | DNQ    |    | 49.87  |    |        | 49.87 |      |
+| 28 | Amy LIN                  | DNQ    |    | 49.31  |    |        | 49.31 |      |
+| 29 | Anita OSTLUND            | DNQ    |    | 48.99  |    |        | 48.99 |      |
+| 30 | Alisa STOMAKHINA         | DNQ    |    | 48.71  |    |        | 48.71 |      |
+| 31 | Elzbieta KROPA           | DNQ    |    | 46.53  |    |        | 46.53 |      |
+| 32 | Natasha MCKAY            | DNQ    |    | 45.89  |    |        | 45.89 |      |
+| 33 | Anne Line GJERSEM        | DNQ    |    | 45.25  |    |        | 45.25 |      |
+| 34 | Gerli LIINAMAE           | DNQ    |    | 45.14  |    |        | 45.14 |      |
+| 35 | Isadora WILLIAMS         | DNQ    |    | 42.16  |    |        | 42.16 |      |
+| 36 | Antonina DUBININA        | DNQ    |    | 41.40  |    |        | 41.40 |      |
+| 37 | Angelina KUCHVALSKA      | DNQ    |    | 35.78  |    |        | 35.78 |      |
+
 
 [Short Start Order](www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_SP_TimeSchedule.pdf)
 
@@ -416,7 +461,11 @@ For missing data, do the same guesses as in Model 3.
 | 46.18 | Elisabetta LECCARDI      | 0.14 | 48.22  | 36 | 5  |
 | 47.40 | Dasa GRM                 | 0.03 | 47.56  | 37 | 1  |
 
+
+
 ### Pairs
+[Free Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Pairs_FS_TimeSchedule.pdf)
+
 
 [Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Pairs_SP_TimeSchedule.pdf)
 
