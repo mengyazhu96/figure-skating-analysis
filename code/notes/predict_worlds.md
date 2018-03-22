@@ -379,7 +379,7 @@ For missing data, do the same guesses as in Model 3.
 [Free Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_FS_TimeSchedule.pdf)
 
 | Predicted Final Rank | Skater | Predicted Free Score | Predicted Free Rank | Predicted Total Score | Start Order | PB Free Score | Short Score | Normalized Start Order |
-|----|--------------------------|--------------|
+|----|--------------------------|--------|----|--------|----|--------|-------|------|
 | 1  | Alina ZAGITOVA           | 144.17 | 1  | 223.68 | 23 | 157.97 | 79.51 | 0.96 |
 | 2  | Carolina KOSTNER         | 141.16 | 2  | 221.44 | 24 | 142.61 | 80.27 | 1.0  |
 | 3  | Satoko MIYAHARA          | 139.25 | 3  | 213.61 | 22 | 146.44 | 74.36 | 0.92 |
