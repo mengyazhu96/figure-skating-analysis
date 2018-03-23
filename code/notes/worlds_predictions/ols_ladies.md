@@ -8,6 +8,11 @@ program. Thus this is more of an as-you-go predictive scheme.
 
 ## Post Short Program Predictions
 
+Friday 3/23 EST morning update:
+[Dabin Choi has withdrawn](https://twitter.com/ISU_Figure/status/977137090659012608).
+We leave the start order predictors the same because it doesn't change the
+relative order, and does not represent a significant change.
+
 [Free Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_Ladies_FS_TimeSchedule.pdf)
 
 | Predicted Final Rank | Skater | Predicted Free Score | Predicted Free Rank | Predicted Total Score | Start Order | PB Free Score | Short Score | Normalized Start Order |
@@ -29,13 +34,13 @@ program. Thus this is more of an as-you-go predictive scheme.
 | 15 | Laurine LECAVELIER       | 111.39 | 15 | 171.18 | 8  | 124.29 | 59.79 | 0.33 |
 | 16 | Mariah BELL              | 111.75 | 14 | 170.90 | 7  | 130.67 | 59.15 | 0.29 |
 | 17 | Stanislava KONSTANTINOVA | 106.72 | 18 | 165.91 | 11 | 92.89  | 59.19 | 0.46 |
-| 18 | Dabin CHOI               | 108.94 | 17 | 164.24 | 5  | 131.49 | 55.30 | 0.21 |
-| 19 | Eliska BREZINOVA         | 105.06 | 19 | 163.43 | 9  | 97.63  | 58.37 | 0.38 |
-| 20 | Kailani CRAINE           | 100.11 | 21 | 157.01 | 3  | 111.84 | 56.90 | 0.13 |
-| 21 | Alexia PAGANINI          | 95.54  | 23 | 153.40 | 1  | 106.67 | 57.86 | 0.04 |
-| 22 | Ivett TOTH               | 101.43 | 20 | 152.06 | 4  | 111.16 | 50.63 | 0.17 |
-| 23 | Dasa GRM                 | 99.08  | 22 | 151.51 | 6  | 92.84  | 52.43 | 0.25 |
-| 24 | Elisabetta LECCARDI      | 93.00  | 24 | 144.13 | 2  | 92.89  | 51.13 | 0.08 |
+| 18 | Eliska BREZINOVA         | 105.06 | 19 | 163.43 | 9  | 97.63  | 58.37 | 0.38 |
+| 19 | Kailani CRAINE           | 100.11 | 21 | 157.01 | 3  | 111.84 | 56.90 | 0.13 |
+| 20 | Alexia PAGANINI          | 95.54  | 23 | 153.40 | 1  | 106.67 | 57.86 | 0.04 |
+| 21 | Ivett TOTH               | 101.43 | 20 | 152.06 | 4  | 111.16 | 50.63 | 0.17 |
+| 22 | Dasa GRM                 | 99.08  | 22 | 151.51 | 6  | 92.84  | 52.43 | 0.25 |
+| 23 | Elisabetta LECCARDI      | 93.00  | 24 | 144.13 | 2  | 92.89  | 51.13 | 0.08 |
+| 24 | Dabin CHOI               | WD     | WD | WD     | 5  |        | 55.30 | 0.21 |
 | 25 | Larkyn AUSTMAN           | DNQ    |    | 50.17  |    |        | 50.17 |      |
 | 26 | Xiangning LI             | DNQ    |    | 50.06  |    |        | 50.06 |      |
 | 27 | Nicole RAJICOVA          | DNQ    |    | 49.87  |    |        | 49.87 |      |

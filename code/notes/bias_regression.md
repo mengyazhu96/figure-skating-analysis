@@ -40,6 +40,37 @@ judge_score ~ C(skater, Treatment) * C(segment_name, Treatment) +
 
 ## Questions to Ask Glickman
 * Explain model
+  * score_ij = lam_i + mu_j + beta_j,C(i) + eps_ji
+  * \sum mu_j = 0
+  * \sum_j beta_j,c = 0
+  * \sum_c beta_j,c = 0
 * General collinearity issues with predictors
-* Is collinearity okay if I know how to combine the intercepts in a meaningful
-  way?
+  * lam_i will be correlated with beta_j, C(i)
+* Is collinearity okay if I know how to combine the coefficients in a
+  meaningful way?
+
+Helpful things!
+* ridge regression to overcome collinearity of skater + judge * country terms
+* use just skater terms
+* mixed linear effects model: s_ijk = lam_i + d_ik + beta_j,C(i)
+  * i = skater
+  * k = skater i's kth performance
+  * d_ik ~ N(0, tau^2) and estimate tau
+  * http://www.statsmodels.org/dev/mixed_linear.html ?
+
+## Simple Same Country
+
+### Reported Outliers
+
+| Index | Skater | Outlier Score | All Scores | Skater Country | Judge | Judge Country | Segment |
+|-------|--------|---------------|------------|----------------|-------|---------------|---------|
+| 181276 | Alexander MAJOROV | 3.50 | 6.75,6.75,6.25,3.5,6.25,6.0,7.0,6.25,6.5 | SWE | Philippe MERIGUET | FRA | gprus2016_men_free |
+| 181294 | Alexander MAJOROV | 4.25 | 7.0,7.25,6.5,4.25,6.25,6.25,7.25,6.75,6.75 | SWE | Philippe MERIGUET | FRA | gprus2016_men_free |
+| 181303 | Alexander MAJOROV | 4.25 | 6.75,7.0,6.5,4.25,5.75,5.5,6.0,6.5,6.5 | SWE | Philippe MERIGUET | FRA | gprus2016_men_free |
+| 231991 | Dabin CHOI        | 4.00 | 6.0,6.0,6.75,4.0,6.5,6.0,6.75,6.75,6.25 | KOR | Akos PETHES | HUN | gpchn2017_ladies_free |
+| 180961 | Keiji TANAKA      | 5.00 | 7.25,7.25,7.25,5.0,6.75,6.75,7.0,6.5,7.25 | JPN | Philippe MERIGUET | FRA | gprus2016_men_free |
+| 217739 | Anna POGORILAYA   | 5.75 | 7.0,7.25,7.5,7.5,7.5,7.5,7.75,5.75,6.5 | RUS | Mona ADOLFSEN | NOR | wc2017_ladies_free |
+| 228309 | Anna POGORILAYA   | 5.75 | 6.75,6.0,5.75,5.75,5.75,6.25,6.25,6.75,7.25 | RUS | Roger GLENN | USA | gpcan2017_ladies_free |
+| 228310 | Anna POGORILAYA   | 5.75 | 6.75,6.0,5.75,5.75,5.75,6.25,6.25,6.75,7.25 | RUS | Massimo ORLANDINI | ITA | gpcan2017_ladies_free |
+| 228311 | Anna POGORILAYA   | 5.75 | 6.75,6.0,5.75,5.75,5.75,6.25,6.25,6.75,7.25 | RUS | Francoise DE RAPPARD | BEL | gpcan2017_ladies_free |
+| 233410 | Lorraine MCNAMARA / Quinn CARPENTER | 4.50 | 4.5,8.25,7.75,7.5,7.75,7.5,8.5,7.25,7.25 | USA | Mark STORTON | AUS | gpchn2017_ice_dance_free |

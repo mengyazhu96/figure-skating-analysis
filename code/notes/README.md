@@ -1,6 +1,14 @@
 TODO
 ====
 
+### 3/23 Meeting with Jim
+* Make code available and see if I can put the data in the repo. Should be a
+  little cleaner but doesn't have to be beautiful.
+* Literature review just has to prove that you're doing something that hasn't
+  been done in this way before.
+* Should cite all data source links (woohoo bibliography is getting bigger).
+* Write bias chapter by Saturday, he will look at it over the weekend.
+
 ### Todo 3/12
 Options
 * start bias stuff
