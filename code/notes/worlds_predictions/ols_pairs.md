@@ -46,7 +46,7 @@ program. Thus this is more of an as-you-go predictive scheme.
 
 ## Pre-Short Program Predictions
 It is expected that SAVCHENKO / MASSOT will win the competition over TARASOVA /
-MOROZOV. However |  SAVCHENKO / MASSOT have not skated a lights-out short program
+MOROZOV. However SAVCHENKO / MASSOT have not skated a lights-out short program
 and thus have a lower PB; they have higher scoring potential, though.
 
 * score loss: 897.02168065138324
