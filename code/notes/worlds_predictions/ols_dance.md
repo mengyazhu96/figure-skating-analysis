@@ -16,8 +16,6 @@ to be ranked higher in reality. Though honestly, aside from PAPADAKIS / CIZERON
 winning, no one really knows what's going to happen.
 
 
-,reputation,skater,start_order,prediction,real_start_order
-
 | PB Short | Skater | Normalized Start Order | Predicted Score | Predicted Rank | Start |
 |-------|-----------------------------------------|------|-------|----|
 | 82.07 | Gabriella PAPADAKIS / Guillaume CIZERON | 1.0  | 80.49 | 31 |
