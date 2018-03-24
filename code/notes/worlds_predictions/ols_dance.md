@@ -9,7 +9,48 @@ program. Thus this is more of an as-you-go predictive scheme.
 The ice dance competition is the last to start: short dance is Friday 3/23, and
 free dance is Saturday 3/24 (the last event).
 
+## Post Short Program Predictions
+[Free Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_IceDance_FD_TimeSchedule.pdf)
+
+| Predicted Final Rank | Predicted Free Score | Predicted Free Rank | Predicted Total Score | Start Order | PB Free Score | Short Score | Skater | Normalized Start Order |
+|----|--------|----|--------|----|--------|-------|-----------------------------------------|------|
+| 1  | 120.06 | 1  | 203.79 | 18 | 123.35 | 83.73 | Gabriella PAPADAKIS / Guillaume CIZERON | 0.90 |
+| 2  | 115.57 | 2  | 195.99 | 20 | 113.35 | 80.42 | Madison HUBBELL / Zachary DONOHUE       | 1.00 |
+| 3  | 114.28 | 3  | 192.59 | 19 | 112.54 | 78.31 | Kaitlyn WEAVER / Andrew POJE            | 0.95 |
+| 4  | 111.60 | 5  | 189.06 | 16 | 112.07 | 77.46 | Anna CAPPELLINI / Luca LANOTTE          | 0.80 |
+| 5  | 113.15 | 4  | 188.81 | 17 | 113.31 | 75.66 | Madison CHOCK / Evan BATES              | 0.85 |
+| 6  | 109.01 | 6  | 183.52 | 14 | 110.45 | 74.51 | Piper GILLES / Paul POIRIER             | 0.70 |
+| 7  | 107.63 | 7  | 182.13 | 13 | 109.48 | 74.50 | Alexandra STEPANOVA / Ivan BUKIN        | 0.65 |
+| 8  | 105.34 | 8  | 177.79 | 15 | 103.10 | 72.45 | Tiffani ZAGORSKI / Jonathan GUERREIRO   | 0.75 |
+| 9  | 104.81 | 9  | 175.96 | 12 | 106.17 | 71.15 | Charlene GUIGNARD / Marco FABBRI        | 0.60 |
+| 10 | 99.40  | 11 | 165.05 | 11 | 98.59  | 65.65 | Kana MURAMOTO / Chris REED              | 0.55 |
+| 11 | 101.04 | 10 | 164.52 | 8  | 105.21 | 63.48 | Kaitlin HAWAYEK / Jean-Luc BAKER        | 0.40 |
+| 12 | 98.47  | 12 | 162.17 | 9  | 99.68  | 63.70 | Natalia KALISZEK / Maksym SPODYRIEV     | 0.45 |
+| 13 | 96.18  | 13 | 160.20 | 6  | 99.85  | 64.02 | Carolane SOUCISSE / Shane FIRUS         | 0.30 |
+| 14 | 94.06  | 14 | 157.56 | 7  | 95.05  | 63.50 | Marie-Jade LAURIAULT / Romain LE GAC    | 0.35 |
+| 15 | 93.66  | 15 | 157.39 | 10 | 90.47  | 63.73 | Olivia SMART / Adria DIAZ               | 0.50 |
+| 16 | 92.38  | 16 | 155.73 | 3  | 97.55  | 63.35 | Alexandra NAZAROVA / Maxim NIKITIN      | 0.15 |
+| 17 | 88.89  | 18 | 150.97 | 4  | 90.50  | 62.08 | Kavita LORENZ / Joti POLIZOAKIS         | 0.20 |
+| 18 | 89.75  | 17 | 150.93 | 1  | 95.85  | 61.18 | Shiyue WANG / Xinyu LIU                 | 0.05 |
+| 19 | 88.70  | 19 | 149.08 | 2  | 92.80  | 60.38 | Alisa AGAFONOVA / Alper UCAR            | 0.10 |
+| 20 | 84.48  | 20 | 145.81 | 5  | 81.94  | 61.33 | Allison REED / Saulius AMBRULEVICIUS    | 0.25 |
+| 21 | DNQ    | 21 | 58.82  |    |        | 58.82 | Yura MIN / Alexander GAMELIN            |      |
+| 22 | DNQ    | 22 | 58.64  |    |        | 58.64 | Tina GARABEDIAN / Simon PROULX SENECAL  |      |
+| 23 | DNQ    | 23 | 57.96  |    |        | 57.96 | Cecilia TORN / Jussiville PARTANEN      |      |
+| 24 | DNQ    | 24 | 57.56  |    |        | 57.56 | Lilah FEAR / Lewis GIBSON               |      |
+| 25 | DNQ    | 25 | 55.54  |    |        | 55.54 | Lucie MYSLIVECKOVA / Lukas CSOLLEY      |      |
+| 26 | DNQ    | 26 | 55.27  |    |        | 55.27 | Cortney MANSOUROVA / Michal CESKA       |      |
+| 27 | DNQ    | 27 | 54.11  |    |        | 54.11 | Anna YANOVSKAYA / Adam LUKACS           |      |
+| 28 | DNQ    | 28 | 50.40  |    |        | 50.40 | Viktoria KAVALIOVA / Yurii BIELIAIEV    |      |
+| 29 | DNQ    | 29 | 47.57  |    |        | 47.57 | Teodora MARKOVA / Simon DAZE            |      |
+| 30 | DNQ    | 30 | 46.05  |    |        | 46.05 | Chantelle KERRY / Andrew DODDS          |      |
+| 31 | DNQ    | 31 | 43.50  |    |        | 43.50 | Adel TANKOVA / Ronald ZILBERBERG        |      |
+
+
+
 ## Pre-Short Program Predictions
+[Short Start Order](http://www.isuresults.com/results/season1718/wc2018/wc2018_IceDance_SD_TimeSchedule.pdf)
+
 HUBBELL / DONOHUE and CHOCK / BATES have both consistently placed above
 WEAVER / POJE and CAPPELLINI / LANOTTE this season. Thus they are more likely
 to be ranked higher in reality. Though honestly, aside from PAPADAKIS / CIZERON
