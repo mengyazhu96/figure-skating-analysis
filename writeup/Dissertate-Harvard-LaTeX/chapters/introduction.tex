@@ -1,0 +1,23 @@
+%!TEX root = ../dissertation.tex
+\chapter{Introduction}
+\label{introduction}
+
+Figure skating typically comes into the public eye once every four years during the Winter Olympics. The drama of Nancy Kerrigan and Tonya Harding captivated the American public in 1994, when Harding was involved in an attack on Kerrigan following the national championships. A few years later, a young Michelle Kwan burst onto the scene and captured America’s heart. Since Sasha Cohen’s silver medal at the 2006 Torino Olympics, figure skating has mostly fallen out of the public eye in America.
+
+The country’s most popular sports — basketball, football, soccer, baseball — have huge followings, markets, and statistics dedicated to them. The National Basketball Association (NBA) has an entire website dedicated to player and team stats; many teams offer statistics analysis jobs. Literature has investigated win probabilities, player effectiveness, the hot-hand effect, and much more \cite{Knuth1968}.
+
+Figure skating no longer holds enough public attention to warrant a similar stats-driven craze. No one is aggregating a count of jumps landed per skater or produces win probabilities. Tickets for major international competitions rarely sell out, and elite skaters that are not at the top of the sport often struggle to make ends meet [cite Adam Rippon].
+
+The sport is also unique from games like basketball, football, and even chess in that success is not measured by pairwise matches. There is a serious lack of any sort of statistical analysis of even the highest levels of competitive figure skating.
+
+This thesis sets out to begin filling this void of analysis. The three major contributions of this paper are:
+\begin{itemize}
+    \item The first exhaustive collection of historical figure skating scores, with the detailed scores of every major international competition since 2005.
+    \item The creation and evaluation of a variety of predictive models, and the finding that a simple linear regression model outperforms many more nuanced predictive strategies.
+    \item Applying a variety of models to determine the existence of nationalistic bias and other score trends under the IJS system.
+\end{itemize}
+
+
+
+\section{Methods}
+The majority of the data collection and analysis was done in Python. Important libraries used include pandas, BeautifulSoup, pymc3, and statsmodels. Code is available in a (currently messy and private) GitHub repository.
