@@ -86,7 +86,7 @@
 \clubpenalty=300
 \setromanfont[Numbers=OldStyle, Ligatures={Common, TeX}, Scale=1.0]{Palatino}
 \newfontfamily{\smallcaps}[RawFeature={+c2sc,+scmp}]{EB Garamond}
-\setsansfont[Scale=MatchLowercase, BoldFont={Lato Bold}]{Lato Regular}
+\setsansfont[Scale=MatchLowercase, BoldFont={Lato Bold}]{Palatino}
 \setmonofont[Scale=MatchLowercase]{Source Code Pro}
 \RequirePackage[labelfont={bf,sf,footnotesize,singlespacing},
                 textfont={sf,footnotesize,singlespacing},
@@ -103,8 +103,26 @@
 \RequirePackage{fancyhdr}
 \RequirePackage[medium]{titlesec}
 \setlength{\headheight}{15pt}
-\pagestyle{plain}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
 \RequirePackage{titling}
+
+
+% Chapter title formatting.
+\RequirePackage[Lenny]{fncychap}
+\ChNameVar{\fontfamily{palatino}}
+\ChNameVar{\fontfamily{palatino}}
+\ChNameAsIs
+% \RequirePackage[palatino]{quotchap}
+% % \renewcommand*{\sectfont}{\bfseries}
+% \renewcommand*{\chapnumfont}{%
+%   \usefont{T1}{\@defaultcnfont}{b}{n}\fontsize{50}{65}\selectfont% Default: 100/130
+%   \color{chaptergrey}%
+% }
+% \renewcommand*{\chapterheadstartvskip}{\vspace*{-1.0\baselineskip}}
+% % \renewcommand*{\chapterheadendvskip}{\vspace{1.3\baselineskip}}
+
 
 
 % Front matter.
@@ -123,9 +141,6 @@
 \renewcommand\bibname{References}
 \RequirePackage[square,comma,numbers]{natbib}
 \renewcommand{\bibnumfmt}[1]{[#1]}
-\RequirePackage[palatino]{quotchap}
-\renewcommand*{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}}
-\renewcommand*{\chapterheadendvskip}{\vspace{1.3\baselineskip}}
 
 % An environment for paragraph-style section.
 \providecommand\newthought[1]{%
