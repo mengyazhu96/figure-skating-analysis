@@ -1,7 +1,9 @@
 Figure Skating Analysis
 =======================
 
-The code repo for Jessica Zhu's senior thesis, March 2018. 
+The code repo for Jessica Zhu's senior thesis, March 2018. **This repository
+is in the process of being organized.** For questions on the finding of the thesis,
+please feel free to email jessicazhu@college.harvard.edu.
 
 ## Predicting 2018 Worlds Timestamps
 Links that show predictions were completed before the competition times:
