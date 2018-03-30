@@ -2,7 +2,13 @@ Figure Skating Analysis
 =======================
 
 The code repo for Jessica Zhu's senior thesis, March 2018. **This repository
-is in the process of being organized.** For questions on the finding of the thesis,
+is in the process of being organized.** For now, the primary data files can be
+found in the numbered folders; "1617" for instance contains the data for the 2016-2017
+season. Pandas dataframes can be directly generated from this primary data. Relevant
+CSVs will either be added, or code files will be added to generate them to save
+repository space.
+
+For any questions about this repo or on the findings of the thesis,
 please feel free to email jessicazhu@college.harvard.edu.
 
 ## Predicting 2018 Worlds Timestamps
