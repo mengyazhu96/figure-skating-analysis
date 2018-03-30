@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+26,Ivett TOTH,HUN,7,43.47,25.87,19.6,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,-1.9,-3,-1,-3,-3,-3,-3,-2,-3,-2,,6.3
+2,3Lz<,<,4.2,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.1
+3,LSp4,,2.7,False,0.43,2,1,1,1,0,1,0,1,1,,3.13
+4,2A,,3.63,True,0.14,1,0,0,1,0,0,1,0,0,,3.77
+5,FCSp4,,3.2,False,0.14,0,0,1,0,0,0,1,0,1,,3.34
+6,StSq3,,3.3,False,0.0,1,0,0,0,0,0,0,0,0,,3.3
+7,CCoSp3p4,,3.5,False,0.43,1,1,1,1,1,1,0,0,1,,3.93
+,,,28.73,,,,,,,,,,,,,25.87
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,4.25,5.0,5.5,5.0,4.75,6.0,5.25,5.75,,5.18
+,Transition / Linking Footwork  ,,,,0.8,4.25,3.5,4.75,5.0,4.25,4.5,5.5,4.75,5.5,,4.71
+,Performance / Execution  ,,,,0.8,4.5,4.0,4.75,4.75,4.75,4.75,6.25,5.0,5.25,,4.82
+,Choreography / Composition  ,,,,0.8,4.75,4.75,5.0,5.25,5.0,5.0,6.25,5.25,4.75,,5.0
+,Interpretation  ,,,,0.8,4.5,4.5,4.5,5.25,4.75,4.75,6.0,5.0,4.75,,4.79
+,,,,,,,,,,,,,,,,19.6
+Deduction,Falls,-2.0

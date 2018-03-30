@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Andrei ROGOZINE,CAN,4,67.28,35.68,31.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,,9.4,False,0.3,0,0,1,1,0,0,1,0,1,,9.7
+2,3A,,8.5,False,0.29,0,1,1,0,-1,0,0,0,1,,8.79
+3,FCSp2,,2.3,False,0.36,0,1,1,0,1,1,1,0,1,,2.66
+4,3Lz,,6.0,False,1.1,2,1,2,1,0,2,1,2,2,,7.1
+5,CSSp2,,2.3,False,0.29,0,0,1,0,1,1,0,1,2,,2.59
+6,SlSt2,,2.6,False,0.5,1,1,2,0,1,1,1,0,2,,3.1
+7,CCoSp1,,2.0,False,-0.26,-1,-1,0,0,-1,-2,0,-1,-2,,1.74
+,,,33.1,,,,,,,,,,,,,35.68
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.0,6.5,6.5,6.0,6.75,7.0,6.0,6.0,6.75,,6.5
+,Transition / Linking Footwork  ,,,,1.0,6.5,6.5,6.75,5.5,6.0,6.0,5.5,5.75,5.5,,5.96
+,Performance / Execution  ,,,,1.0,7.25,6.25,7.0,5.5,6.75,7.0,6.25,5.75,6.5,,6.5
+,Choreography / Composition  ,,,,1.0,6.75,6.25,6.5,5.5,6.25,6.5,6.0,6.0,6.25,,6.25
+,Interpretation  ,,,,1.0,6.5,6.5,7.0,5.25,6.5,6.75,5.75,6.25,6.5,,6.39
+,,,,,,,,,,,,,,,,31.6

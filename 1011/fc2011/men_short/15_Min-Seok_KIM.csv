@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Min-Seok KIM,KOR,7,53.67,28.1,25.57,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,0.86,1,1,1,1,1,1,0,1,0,,9.36
+2,3Lz,,6.0,False,-0.3,0,-1,-1,1,-1,0,-1,0,0,,5.7
+3,FCSp3,,2.8,False,0.07,0,0,1,-1,0,0,1,0,0,,2.87
+4,3S<<+COMBO,<<,1.4,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.8
+5,CSSp4,,3.0,False,0.14,0,0,1,-1,1,1,0,0,0,,3.14
+6,SlSt2,,2.3,False,0.07,0,0,0,0,1,0,0,0,1,,2.37
+7,CCoSp4,,3.5,False,0.36,1,0,1,0,2,1,1,1,0,,3.86
+,,,27.5,,,,,,,,,,,,,28.1
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,5.5,5.5,5.25,6.0,6.0,5.5,5.25,4.25,,5.32
+,Transition / Linking Footwork  ,,,,1.0,4.5,4.75,5.0,4.75,5.5,5.5,5.25,4.25,3.0,,4.86
+,Performance / Execution  ,,,,1.0,4.0,5.5,5.25,5.0,5.75,5.25,5.25,5.75,3.75,,5.14
+,Choreography / Composition  ,,,,1.0,4.5,5.25,5.5,5.0,5.75,6.0,5.5,5.5,3.25,,5.29
+,Interpretation  ,,,,1.0,4.25,5.5,5.25,4.5,5.75,5.25,5.5,4.5,3.0,,4.96
+,,,,,,,,,,,,,,,,25.57

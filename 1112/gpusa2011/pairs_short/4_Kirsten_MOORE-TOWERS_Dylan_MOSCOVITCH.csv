@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Kirsten MOORE-TOWERS / Dylan MOSCOVITCH,CAN,5,59.6,32.2,27.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,-0.6,-1,-2,0,-2,0,-1,-1,1,-1,,4.4
+2,3T,,4.1,False,0.8,1,0,2,1,2,1,1,1,1,,4.9
+3,3LoTh,,5.0,False,0.7,1,1,1,1,1,0,1,1,1,,5.7
+4,3Li4,,4.0,False,0.64,1,1,1,1,2,1,2,0,2,,4.64
+5,FiDs3,,3.2,False,0.5,1,0,2,1,0,1,1,1,0,,3.7
+6,SlSt4,,3.9,False,0.4,0,0,1,1,0,1,2,0,1,,4.3
+7,PCoSp4,,4.5,False,0.06,-1,0,-1,1,0,-1,1,1,0,,4.56
+,,,29.7,,,,,,,,,,,,,32.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.0,7.0,5.75,7.0,7.0,7.25,7.25,6.25,6.5,,6.86
+,Transition / Linking Footwork  ,,,,0.8,6.75,6.5,5.75,7.0,6.75,6.75,7.25,6.0,6.0,,6.54
+,Performance / Execution  ,,,,0.8,7.0,7.0,6.25,7.5,7.0,7.5,7.5,6.0,6.25,,6.93
+,Choreography / Composition  ,,,,0.8,6.75,7.0,6.5,7.5,6.75,8.0,7.5,6.0,6.5,,6.93
+,Interpretation  ,,,,0.8,6.75,7.25,6.5,7.5,6.75,7.5,7.5,6.0,6.75,,7.0
+,,,,,,,,,,,,,,,,27.4

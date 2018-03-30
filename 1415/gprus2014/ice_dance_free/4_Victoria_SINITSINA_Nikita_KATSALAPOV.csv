@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Victoria SINITSINA / Nikita KATSALAPOV,RUS,5,89.59,41.45,48.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw1,,3.1,False,0.94,1,2,2,1,1,2,2,3,0,,4.04
+2,CiSt3,,7.1,False,1.73,1,2,1,2,2,1,2,2,1,,8.83
+3,CuLi4,,4.5,False,0.94,1,2,2,2,2,1,1,1,2,,5.44
+4,CoSp4,,5.6,False,0.77,2,1,1,1,1,2,1,2,1,,6.37
+5,DiSt2,,5.6,False,1.26,0,1,1,1,2,1,1,1,2,,6.86
+6,SlLi3,,4.0,False,1.11,1,2,2,2,2,2,2,2,1,,5.11
+7,RoLi2,,3.0,False,0.77,2,0,1,1,2,1,2,2,0,,3.77
+8,ChSp1,,0.6,False,0.43,1,0,1,1,1,1,0,1,0,,1.03
+,,,33.5,,,,,,,,,,,,,41.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,8.0,7.0,8.25,7.75,8.0,7.5,8.25,8.75,7.5,,7.89
+,Linking Footwork / Movement  ,,,,1.2,7.75,7.0,8.25,7.5,8.0,7.25,8.0,8.75,7.5,,7.75
+,Performance  ,,,,1.2,8.0,6.5,8.5,8.25,8.25,7.75,8.25,9.0,7.25,,8.04
+,Choreography  ,,,,1.2,8.5,7.5,8.5,8.5,8.25,7.5,8.5,9.0,8.0,,8.25
+,Interpretation / Timing  ,,,,1.2,8.5,7.25,8.25,8.0,8.5,8.0,8.25,9.0,7.75,,8.18
+,,,,,,,,,,,,,,,,48.14

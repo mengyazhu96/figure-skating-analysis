@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Amanda EVORA / Mark LADWIG,USA,9,60.75,32.47,28.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw2,,5.4,False,1.0,1,1,1,2,1,2,1,2,2,,6.4
+2,3T<,<,2.9,False,-1.0,-2,-1,-2,-1,-1,-2,-1,-1,-2,,1.9
+3,PCoSp4,,4.5,False,0.57,1,1,1,2,2,1,1,1,1,,5.07
+4,3LoTh,,5.0,False,1.4,2,2,2,2,2,2,2,2,1,,6.4
+5,SlSt2,,2.6,False,0.71,1,1,2,1,2,1,1,2,2,,3.31
+6,3Li4,,4.0,False,0.79,1,2,1,2,2,2,1,1,2,,4.79
+7,FiDs4,,3.5,False,1.1,2,2,1,2,1,2,1,2,1,,4.6
+,,,27.9,,,,,,,,,,,,,32.47
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,7.0,6.75,7.5,7.0,6.75,7.0,7.25,7.25,,7.0
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.75,7.0,7.25,7.0,6.5,7.5,6.5,7.5,,6.93
+,Performance / Execution  ,,,,0.8,6.75,7.0,6.75,7.5,7.5,6.75,7.25,7.5,7.5,,7.18
+,Choreography / Composition  ,,,,0.8,6.5,6.75,7.25,7.25,7.5,7.25,7.5,7.0,7.75,,7.21
+,Interpretation  ,,,,0.8,6.75,7.0,7.0,7.25,7.5,7.0,7.25,6.75,7.0,,7.04
+,,,,,,,,,,,,,,,,28.28

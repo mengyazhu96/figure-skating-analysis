@@ -1,0 +1,16 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+26,Jenette MAITZ / Alper UCAR,TUR,7,32.14,20.4,11.74,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SqTw4,,6.5,False,-0.5,-1,-1,0,-1,-1,0,-1,-1,-1,,6.0
+2,NtMiSt2,,6.0,False,-0.8,-1,-1,0,0,-2,-1,-1,-1,-1,,5.2
+3,SlLi4,,5.0,False,0.0,0,0,0,0,-1,0,0,0,-1,,5.0
+4,DiSt1,,5.6,False,-1.4,-2,-1,-1,-1,-2,-1,-2,-1,-1,,4.2
+,,,23.1,,,,,,,,,,,,,20.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.0,3.75,3.0,3.0,3.25,3.75,3.0,2.75,3.0,,3.05
+,Linking Footwork / Movement  ,,,,0.8,2.75,3.5,3.0,3.0,3.0,3.5,3.0,2.5,2.75,,2.95
+,Performance  ,,,,0.6,3.0,3.75,3.25,3.25,3.25,3.75,3.0,3.0,3.0,,3.15
+,Choreography  ,,,,0.6,2.75,4.0,3.5,3.5,3.0,4.0,3.25,3.0,3.25,,3.25
+,Interpretation / Timing  ,,,,1.0,3.0,4.0,3.0,3.5,2.75,3.75,3.0,3.0,3.25,,3.1
+,,,,,,,,,,,,,,,,11.74

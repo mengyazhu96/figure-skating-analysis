@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Zoe BLANC / Pierre-Lup BOUQUET,FRA,1,69.8,39.2,30.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,5.5,False,-0.3,0,0,0,-1,-1,0,0,-2,-1,,5.2
+2,RoLi4,,5.0,False,0.6,1,2,0,1,1,1,1,2,1,,5.6
+3,CiSt2,,6.4,False,0.0,0,1,0,0,0,0,0,0,0,,6.4
+4,CuLi4+RoLi4,,8.0,False,0.0,-1,0,0,1,0,0,0,-1,0,,8.0
+5,CoSp3,,4.0,False,-0.4,-1,0,0,-1,-2,0,-1,-1,-1,,3.6
+6,DiSt2,,5.4,False,0.0,-1,0,0,0,-1,0,0,0,0,,5.4
+7,CuLi4,,5.0,False,0.0,0,0,0,-1,-1,0,1,0,1,,5.0
+,,,39.3,,,,,,,,,,,,,39.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.0,5.25,5.5,5.5,5.0,5.5,5.25,5.0,5.0,,5.2
+,Linking Footwork / Movement  ,,,,1.75,4.0,4.5,5.25,5.25,4.75,5.25,4.75,4.75,4.5,,4.8
+,Performance  ,,,,1.0,5.5,5.25,5.5,5.5,5.25,5.5,5.0,5.0,5.0,,5.2
+,Choreography  ,,,,1.0,5.25,5.0,5.5,5.5,5.25,6.0,5.25,5.0,5.25,,5.25
+,Interpretation / Timing  ,,,,1.0,5.0,5.75,5.25,5.25,5.0,5.75,5.5,5.0,5.25,,5.25
+,,,,,,,,,,,,,,,,30.6

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Hwan-Jin KIM,KOR,5,36.95,15.73,21.22,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1F+2T,,1.8,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.2
+2,1Lz,,0.6,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,CCoSp4,,3.5,False,-0.04,0,-1,0,0,0,0,-1,0,0,,3.46
+4,SlSt2,,2.6,False,0.29,1,1,0,0,0,1,2,1,0,,2.89
+5,2A,,3.3,False,0.07,-1,0,0,0,0,0,1,1,0,,3.37
+6,CCSp2,,2.3,False,-0.13,0,-1,-2,0,0,0,-1,-1,0,,2.17
+7,FSSp3,,2.6,False,-0.26,-1,-1,-2,0,0,0,-1,-2,-1,,2.34
+,,,16.7,,,,,,,,,,,,,15.73
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,3.75,4.0,4.25,4.25,4.5,4.5,5.25,5.0,4.5,,4.43
+,Transition / Linking Footwork  ,,,,1.0,3.75,3.75,4.75,4.0,4.0,3.75,4.5,4.25,4.0,,4.04
+,Performance / Execution  ,,,,1.0,3.75,3.25,4.25,4.0,4.25,3.75,4.75,3.75,4.0,,3.96
+,Choreography / Composition  ,,,,1.0,4.0,4.5,5.25,4.25,4.5,4.25,5.0,4.5,4.0,,4.43
+,Interpretation  ,,,,1.0,4.0,4.25,4.75,4.0,4.25,4.25,4.75,4.75,4.25,,4.36
+,,,,,,,,,,,,,,,,21.22

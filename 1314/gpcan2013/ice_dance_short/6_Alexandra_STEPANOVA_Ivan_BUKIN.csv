@@ -1,0 +1,17 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Alexandra STEPANOVA / Ivan BUKIN,RUS,3,55.63,27.66,27.97,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,1FS4+kpYYY,,7.0,False,0.08,1,1,0,0,0,0,0,0,,7.08
+2,2FS2+kpNYN,,5.0,False,0.0,1,0,-1,0,0,0,0,0,,5.0
+3,STw3,,5.0,False,0.58,2,1,1,1,1,2,1,1,,5.58
+4,NtCiSt2,,5.0,False,0.67,1,1,1,0,1,1,0,0,,5.67
+5,SlLi4,,4.0,False,0.33,0,1,2,0,1,2,-1,0,,4.33
+,,,26.0,,,,,,,,,,,,27.66
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.0,7.25,7.5,6.25,7.0,7.25,7.25,7.25,,7.17
+,Linking Footwork / Movement  ,,,,0.7,6.75,7.25,6.75,6.0,7.25,7.0,7.0,7.0,,6.96
+,Performance  ,,,,0.7,6.5,7.25,7.25,6.5,6.75,7.5,7.0,7.25,,7.0
+,Choreography  ,,,,0.8,6.25,7.5,7.25,5.75,6.25,7.5,7.25,6.75,,6.88
+,Interpretation / Timing  ,,,,1.0,6.25,7.25,7.0,5.5,7.0,7.5,7.0,7.25,,6.96
+,,,,,,,,,,,,,,,27.97

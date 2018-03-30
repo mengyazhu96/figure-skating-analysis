@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Adel TANKOVA / Evgeni KRASNOPOLSKI,ISR,5,46.81,26.47,20.34,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.8,False,-1.4,-2,-2,-2,-2,-2,-2,-1,-2,-2,,4.4
+2,3S,,4.4,False,0.0,0,0,0,0,0,-1,0,0,0,,4.4
+3,3LoTh,,5.0,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.6
+4,BoDs3,,4.0,False,-0.1,-1,-1,0,0,0,0,1,0,0,,3.9
+5,4Li4,,4.5,False,0.0,0,0,0,0,0,1,0,0,0,,4.5
+6,StSq3,,3.3,False,-0.5,-2,-1,0,0,-1,-1,-1,0,-1,,2.8
+7,PCoSp2p3,,3.0,False,-0.13,-1,-1,0,0,0,0,-1,-1,0,,2.87
+,,,30.0,,,,,,,,,,,,,26.47
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,6.0,5.25,5.25,5.0,4.75,4.75,4.5,5.0,,5.14
+,Transition / Linking Footwork  ,,,,0.8,5.5,5.5,5.0,4.75,5.0,5.0,4.5,4.0,5.25,,5.0
+,Performance / Execution  ,,,,0.8,6.0,5.75,5.0,5.25,4.5,5.25,4.75,4.25,5.0,,5.07
+,Choreography / Composition  ,,,,0.8,5.75,5.75,5.25,5.25,5.0,5.25,4.75,4.25,5.0,,5.18
+,Interpretation  ,,,,0.8,5.75,5.75,5.0,5.0,4.75,5.0,4.5,4.0,5.25,,5.04
+,,,,,,,,,,,,,,,,20.34

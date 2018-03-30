@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Jason THOMPSON,GBR,1,51.42,29.67,21.75,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.07,0,0,1,0,0,0,1,0,0,,3.37
+2,3Lz+3T,,10.1,False,-0.1,-1,-1,0,1,0,0,0,0,0,,10.0
+3,FCSp2,,2.3,False,0.07,0,0,1,0,0,1,0,0,0,,2.37
+4,3F,e,5.3,False,-1.1,-1,-2,-1,-1,-2,-2,-1,-2,-2,,4.2
+5,SlSt3,,3.3,False,-0.1,0,0,0,-1,0,0,0,-1,0,,3.2
+6,CSSp3,,2.6,False,0.36,0,1,2,1,1,0,1,0,1,,2.96
+7,CCoSp4,,3.5,False,0.07,0,0,1,0,0,0,1,0,0,,3.57
+,,,30.4,,,,,,,,,,,,,29.67
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,4.25,4.5,5.25,4.5,4.75,4.75,4.75,4.5,,4.57
+,Transition / Linking Footwork  ,,,,1.0,3.75,4.5,4.75,4.0,4.0,4.25,4.25,3.5,3.75,,4.07
+,Performance / Execution  ,,,,1.0,4.0,3.75,4.75,5.0,4.5,4.75,4.5,4.25,4.25,,4.43
+,Choreography / Composition  ,,,,1.0,3.75,4.0,4.5,5.0,4.5,4.25,4.75,4.25,4.25,,4.36
+,Interpretation  ,,,,1.0,3.5,4.25,4.25,4.75,4.5,4.25,4.5,4.5,4.0,,4.32
+,,,,,,,,,,,,,,,,21.75

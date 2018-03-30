@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Nicole DELLA MONICA / Yannick KOCON,ITA,2,53.56,31.52,22.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S,,4.5,False,1.0,1,0,1,1,1,1,1,0,1,,5.5
+2,4Li4,,4.0,False,-0.1,1,1,0,-1,0,0,-1,0,0,,3.9
+3,3STh,,4.5,False,0.0,0,-1,0,0,0,0,0,0,1,,4.5
+4,BoDs3,,4.0,False,0.14,0,0,0,1,0,-1,0,0,1,,4.14
+5,2LzTw1,,3.0,False,-0.12,0,0,0,0,0,-1,0,-1,-1,,2.88
+6,FCCoSp4,,3.5,False,0.0,0,0,0,0,0,0,-1,1,0,,3.5
+7,PCoSp4,,4.5,False,0.3,1,0,0,1,0,1,0,1,0,,4.8
+8,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+,,,30.3,,,,,,,,,,,,,31.52
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,5.5,5.5,5.5,5.75,5.5,6.25,5.5,5.75,,5.65
+,Transition / Linking Footwork  ,,,,0.8,6.0,5.0,5.0,5.5,5.5,5.25,5.5,5.0,5.25,,5.3
+,Performance / Execution  ,,,,0.8,6.25,5.0,5.5,5.75,5.75,5.75,5.75,5.5,5.5,,5.65
+,Choreography / Composition  ,,,,0.8,6.0,5.25,5.5,5.75,5.5,5.5,5.5,5.5,5.5,,5.55
+,Interpretation  ,,,,0.8,5.5,5.25,5.25,5.5,5.5,5.75,5.5,5.25,5.0,,5.4
+,,,,,,,,,,,,,,,,22.04

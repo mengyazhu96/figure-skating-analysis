@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Cathy REED / Chris REED,JPN,2,80.33,42.45,38.88,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.5,False,0.6,1,1,1,1,1,1,1,1,1,,5.1
+2,CiSt3,,7.1,False,0.63,0,1,0,0,1,1,1,1,-1,,7.73
+3,Sp3,,4.6,False,0.34,0,1,1,1,0,1,0,1,0,,4.94
+4,STw3,,5.6,False,-0.21,-1,1,-1,-1,0,0,0,0,-1,,5.39
+5,DiSt3,,7.1,False,0.79,0,1,0,1,1,1,1,1,0,,7.89
+6,RoLi4,,4.5,False,0.69,0,2,1,1,1,0,1,2,2,,5.19
+7,SlLi4,,4.5,False,0.51,1,2,1,1,1,1,0,0,1,,5.01
+8,ChSp1,,0.6,False,0.6,1,1,1,2,1,1,1,1,1,,1.2
+,,,38.5,,,,,,,,,,,,,42.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,5.75,6.75,6.5,7.0,6.75,6.5,6.75,7.0,6.0,,6.61
+,Linking Footwork / Movement  ,,,,1.2,5.5,6.5,6.25,6.25,6.5,6.25,6.0,6.75,5.0,,6.18
+,Performance  ,,,,1.2,6.0,6.75,6.75,6.75,6.75,6.25,6.75,7.25,5.25,,6.57
+,Choreography  ,,,,1.2,5.5,7.0,6.5,6.5,7.0,6.5,6.5,7.0,5.75,,6.54
+,Interpretation / Timing  ,,,,1.2,4.5,7.0,6.5,6.75,7.0,6.5,6.75,7.25,5.0,,6.5
+,,,,,,,,,,,,,,,,38.88
+Deduction,Extended lifts,-1.0

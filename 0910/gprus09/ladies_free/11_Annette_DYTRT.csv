@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Annette DYTRT,GER,1,72.98,31.94,43.04,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F<,<,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+2,2F,,1.7,False,0.0,0,0,0,0,1,1,0,1,0,,1.7
+3,2T,,1.3,False,0.0,0,0,0,0,1,0,0,0,0,,1.3
+4,2A,,3.5,False,0.6,0,0,1,1,0,1,1,1,0,,4.1
+5,FSSp4,,3.0,False,0.1,0,0,0,1,0,-1,1,1,0,,3.1
+6,SpSq4,,3.4,False,0.8,1,0,0,1,1,1,1,1,1,,4.2
+7,2S,,1.43,True,0.0,0,0,0,0,1,0,0,0,0,,1.43
+8,2A+2T,,5.28,True,0.0,0,0,0,0,0,1,0,0,0,,5.28
+9,3S<,<,1.43,True,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.43
+10,SlSt3,,3.3,False,0.2,0,0,0,0,1,1,1,0,1,,3.5
+11,CCoSp4,,3.5,False,0.5,1,1,0,1,2,1,2,2,1,,4.0
+12,LSp2,,1.9,False,0.3,0,1,0,0,2,1,1,2,1,,2.2
+,,,31.44,,,,,,,,,,,,,31.94
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.0,5.25,5.75,6.0,5.25,4.75,6.0,5.0,5.5,,5.7
+,Transition / Linking Footwork  ,,,,1.6,5.5,4.5,5.0,5.5,4.5,4.75,5.25,5.0,5.0,,5.1
+,Performance / Execution  ,,,,1.6,5.25,4.75,5.25,5.75,5.5,5.25,5.5,5.0,5.25,,5.3
+,Choreography / Composition  ,,,,1.6,5.5,5.0,5.5,6.5,5.75,5.0,5.75,5.25,5.5,,5.45
+,Interpretation  ,,,,1.6,5.25,4.75,5.25,6.0,5.0,5.25,5.5,5.25,5.5,,5.35
+,,,,,,,,,,,,,,,,43.04
+Deduction,Falls,-2.0

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Maria BOROUNOV / Evgeni BOROUNOV,AUS,4,56.49,37.7,19.79,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,5.5,False,-0.4,-2,-1,-1,-1,0,-1,-1,0,-1,,5.1
+2,CuLi4,,5.0,False,0.2,0,0,1,1,1,0,0,0,0,,5.2
+3,DiSt1,,4.6,False,0.0,-1,0,-1,0,0,-1,0,0,0,,4.6
+4,SlLi4,,5.0,False,0.1,0,0,1,1,0,0,-1,0,0,,5.1
+5,CoSp4,,4.7,False,0.0,-1,0,0,0,1,0,-1,0,0,,4.7
+6,CiSt1,,5.6,False,-0.8,-1,-1,-1,0,0,-1,-2,-1,-1,,4.8
+7,RRoLi4,,8.0,False,0.2,0,0,0,1,1,0,-1,0,1,,8.2
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,38.4,,,,,,,,,,,,,37.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.25,3.75,3.75,3.75,3.5,3.5,3.0,4.0,3.25,,3.6
+,Linking Footwork / Movement  ,,,,1.75,3.0,2.5,3.25,3.0,2.75,3.25,3.25,3.75,3.0,,3.05
+,Performance  ,,,,1.0,3.5,3.25,3.5,3.75,3.5,3.75,3.25,4.0,2.75,,3.45
+,Choreography  ,,,,1.0,3.25,2.5,3.5,3.5,3.5,3.5,2.75,4.0,3.25,,3.3
+,Interpretation / Timing  ,,,,1.0,2.0,2.25,3.25,3.5,3.25,3.5,2.5,4.0,3.5,,3.2
+,,,,,,,,,,,,,,,,19.79
+Deduction,Extended lifts,-1.0

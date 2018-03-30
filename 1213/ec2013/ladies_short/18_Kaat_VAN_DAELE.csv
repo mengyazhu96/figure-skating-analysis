@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Kaat VAN DAELE,BEL,13,47.18,27.16,20.02,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,0.7,1,2,1,1,1,1,1,1,1,,4.8
+2,3S+2T,,5.5,False,0.3,1,0,0,1,1,0,0,1,0,,5.8
+3,CCoSp4,,3.5,False,0.07,1,0,0,1,0,0,0,0,0,,3.57
+4,StSq3,,3.3,False,0.0,0,0,0,0,0,0,0,0,1,,3.3
+5,2A,,3.63,True,0.43,1,1,0,1,1,1,0,1,2,,4.06
+6,FCSp4,,3.2,False,0.07,1,0,0,1,-1,0,0,0,0,,3.27
+7,LSp3,,2.4,False,-0.04,0,0,-1,0,0,0,0,-1,0,,2.36
+,,,25.63,,,,,,,,,,,,,27.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.5,4.5,4.75,5.25,4.5,5.5,5.5,5.25,,5.18
+,Transition / Linking Footwork  ,,,,0.8,5.5,5.0,4.75,4.5,4.5,4.25,5.25,5.25,5.0,,4.89
+,Performance / Execution  ,,,,0.8,5.75,5.75,4.5,4.5,4.75,4.75,5.25,5.25,5.25,,5.07
+,Choreography / Composition  ,,,,0.8,5.5,5.25,4.75,4.5,5.0,4.75,5.25,5.0,5.0,,5.0
+,Interpretation  ,,,,0.8,5.5,4.75,4.75,4.5,4.75,4.75,5.5,4.5,5.25,,4.89
+,,,,,,,,,,,,,,,,20.02

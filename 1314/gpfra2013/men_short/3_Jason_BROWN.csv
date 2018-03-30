@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Jason BROWN,USA,2,84.77,45.98,38.79,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.14,2,1,1,1,1,1,1,1,2,,9.64
+2,3F+3T,,9.4,False,1.1,2,1,2,2,1,2,1,1,2,,10.5
+3,FCSp4,,3.2,False,1.0,2,2,2,2,2,2,2,2,3,,4.2
+4,CSSp4,,3.0,False,0.57,1,1,1,1,0,1,1,2,2,,3.57
+5,3Lz,,6.6,True,1.4,2,2,1,2,2,2,2,2,3,,8.0
+6,StSq4,,3.9,False,1.6,3,3,2,1,2,2,2,2,3,,5.5
+7,CCoSp4,,3.5,False,1.07,2,2,2,2,2,2,2,3,3,,4.57
+,,,38.1,,,,,,,,,,,,,45.98
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.5,7.5,7.0,7.75,7.25,7.5,7.5,7.5,,7.46
+,Transition / Linking Footwork  ,,,,1.0,7.75,7.5,7.5,7.25,7.75,7.25,8.0,7.25,7.75,,7.54
+,Performance / Execution  ,,,,1.0,8.25,8.0,7.75,7.75,8.0,7.25,7.75,8.0,8.25,,7.93
+,Choreography / Composition  ,,,,1.0,7.75,8.25,7.5,7.0,8.0,7.5,7.5,7.75,8.25,,7.75
+,Interpretation  ,,,,1.0,8.0,8.5,7.75,8.0,8.25,8.0,8.25,8.0,8.25,,8.11
+,,,,,,,,,,,,,,,,38.79

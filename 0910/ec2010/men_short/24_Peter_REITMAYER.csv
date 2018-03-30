@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Peter REITMAYER,SVK,26,51.35,24.5,26.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1Lz,,0.6,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+2,2A,,3.5,False,0.4,0,1,1,0,1,0,0,0,0,,3.9
+3,3F+2T,,6.8,False,0.0,0,1,0,0,0,0,0,0,0,,6.8
+4,CSSp3,,2.6,False,0.1,1,0,1,0,0,0,0,0,0,,2.7
+5,CiSt2,,2.3,False,0.3,0,0,1,0,1,1,0,1,1,,2.6
+6,CCoSp2,,2.5,False,0.3,0,1,1,0,1,1,0,0,0,,2.8
+7,SlSt2,,2.3,False,0.4,1,0,1,0,0,1,1,1,1,,2.7
+8,FSSp3,,2.6,False,0.1,1,0,1,0,0,0,0,0,0,,2.7
+,,,23.2,,,,,,,,,,,,,24.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.75,5.75,6.75,6.25,5.5,6.0,5.0,5.25,5.5,,5.5
+,Transition / Linking Footwork  ,,,,1.0,4.5,5.5,6.0,5.75,5.25,5.5,4.5,5.0,5.0,,5.15
+,Performance / Execution  ,,,,1.0,5.25,5.5,6.75,6.25,5.25,6.0,4.75,5.25,5.5,,5.45
+,Choreography / Composition  ,,,,1.0,5.0,5.25,6.5,5.75,5.25,5.75,4.75,5.0,5.0,,5.25
+,Interpretation  ,,,,1.0,5.25,5.25,6.75,6.0,5.5,6.0,5.0,5.5,5.0,,5.5
+,,,,,,,,,,,,,,,,26.85

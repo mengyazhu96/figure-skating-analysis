@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Joanna SULEJ / Mateusz CHRUSCINSKI,POL,8,76.41,38.73,37.68,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+SEQ,,2.8,False,-1.6,-2,-2,-2,-2,-1,-2,-3,-2,-2,,1.2
+2,5ALi4,,6.5,False,0.2,0,0,1,1,0,0,0,1,0,,6.7
+3,3STh,,4.5,False,-0.42,-1,-1,-1,-1,0,1,0,-1,-1,,4.08
+4,2FTw3,,4.0,False,-0.06,0,-1,0,0,0,0,0,-1,0,,3.94
+5,2FTh,,3.0,False,0.0,0,0,0,0,0,-1,0,1,0,,3.0
+6,SpSq3,,3.1,False,0.0,0,0,0,1,1,0,0,0,0,,3.1
+7,5SLi,,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+8,BoDs1,,3.0,False,-0.42,-1,-1,-2,-1,0,-1,0,0,0,,2.58
+9,CCoSp4,,3.5,False,-0.3,-1,0,-1,-1,-1,-1,-2,-1,-1,,3.2
+10,2Lz,,2.09,True,0.0,0,0,0,0,0,0,0,-1,0,,2.09
+11,3Li4,,4.4,True,0.0,0,0,0,0,0,0,0,1,0,,4.4
+12,PCoSp4,,4.5,False,-0.06,0,0,0,0,0,-1,0,-1,0,,4.44
+,,,41.39,,,,,,,,,,,,,38.73
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.25,4.75,4.75,5.5,4.75,4.75,5.0,5.5,5.25,,4.9
+,Transition / Linking Footwork  ,,,,1.6,4.75,4.5,4.75,5.25,4.25,4.5,4.75,4.5,5.0,,4.6
+,Performance / Execution  ,,,,1.6,5.0,4.5,4.75,5.25,4.25,4.25,5.0,4.75,4.75,,4.65
+,Choreography / Composition  ,,,,1.6,5.25,4.75,5.0,5.25,4.5,4.5,4.75,5.25,5.25,,4.85
+,Interpretation  ,,,,1.6,5.0,4.5,4.5,5.0,4.25,4.25,4.75,4.75,5.0,,4.55
+,,,,,,,,,,,,,,,,37.68

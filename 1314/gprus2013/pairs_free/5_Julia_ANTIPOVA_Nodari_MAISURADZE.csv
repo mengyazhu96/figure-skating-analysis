@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Julia ANTIPOVA / Nodari MAISURADZE,RUS,5,118.63,58.91,59.72,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Tw1,,7.1,False,0.71,2,1,-1,0,1,1,0,1,1,,7.81
+2,2S+2T,,2.6,False,0.14,0,0,1,1,1,1,1,1,0,,2.74
+3,PCoSp3,,4.0,False,0.36,1,0,1,0,1,1,1,2,0,,4.36
+4,BoDs1,,3.0,False,0.4,0,1,1,0,1,1,0,1,0,,3.4
+5,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,1,1,1,,2.7
+6,3LzTh,,6.05,True,0.5,0,1,1,0,1,0,1,2,1,,6.55
+7,3T,,4.51,True,0.7,1,1,1,0,1,1,1,1,1,,5.21
+8,5ALi4,,7.15,True,1.2,2,2,2,2,2,1,1,1,2,,8.35
+9,3LoTh,,5.5,True,0.4,1,1,0,0,1,2,0,-1,1,,5.9
+10,CCoSp1,,2.0,False,0.43,1,1,1,0,1,1,0,1,1,,2.43
+11,4Li4,,4.4,True,0.64,2,2,2,1,1,1,0,1,1,,5.04
+12,3Li3,,3.85,True,0.57,1,2,1,-1,2,1,1,0,2,,4.42
+,,,52.16,,,,,,,,,,,,,58.91
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.25,7.5,7.75,7.0,7.25,7.5,7.25,8.0,7.25,,7.5
+,Transition / Linking Footwork  ,,,,1.6,8.0,6.75,7.75,7.0,7.0,7.25,7.0,7.0,7.5,,7.21
+,Performance / Execution  ,,,,1.6,8.25,7.0,8.0,7.5,7.25,7.75,7.25,7.75,7.25,,7.54
+,Choreography / Composition  ,,,,1.6,8.0,7.0,8.25,7.5,7.25,7.5,7.5,7.75,7.75,,7.61
+,Interpretation  ,,,,1.6,8.0,7.25,8.0,7.25,7.5,7.5,7.25,7.5,7.25,,7.46
+,,,,,,,,,,,,,,,,59.72

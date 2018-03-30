@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Sara HURTADO / Adria DIAZ,ESP,8,55.06,28.42,26.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1FS2+kpYNN,,5.0,False,0.14,0,0,0,-1,0,0,1,1,1,,5.14
+2,2FS3+kpYNY,,6.0,False,0.07,0,1,0,0,0,1,0,0,0,,6.07
+3,STw4,,6.0,False,0.71,2,2,1,2,1,2,1,1,1,,6.71
+4,NtCiSt2,,5.0,False,0.86,1,1,1,0,1,1,1,1,0,,5.86
+5,SlLi4,,4.0,False,0.64,2,2,1,1,1,2,1,1,1,,4.64
+,,,26.0,,,,,,,,,,,,,28.42
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.75,6.5,6.5,6.0,7.25,6.5,6.5,6.75,,6.54
+,Linking Footwork / Movement  ,,,,0.7,6.5,6.5,6.0,6.0,6.25,6.5,6.25,6.25,6.75,,6.32
+,Performance  ,,,,0.7,7.0,6.75,6.5,7.0,6.5,7.0,6.5,7.0,7.0,,6.82
+,Choreography  ,,,,0.8,7.0,6.25,6.25,7.75,6.25,6.25,6.5,6.75,7.0,,6.57
+,Interpretation / Timing  ,,,,1.0,7.0,7.0,6.25,8.0,6.5,7.0,6.75,7.25,7.25,,6.96
+,,,,,,,,,,,,,,,,26.64

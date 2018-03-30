@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,Cecilia TÖRN / Jussiville PARTANEN,FIN,11,56.51,30.06,26.45,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RW4+kpYYY,,5.0,False,0.26,1,0,1,1,0,0,0,0,1,,5.26
+2,2RW3+kpYNY,,4.4,False,0.17,1,1,0,0,0,0,0,0,1,,4.57
+3,STw4,,6.6,False,0.43,0,1,1,1,0,1,0,1,1,,7.03
+4,PSt3,,7.1,False,1.26,1,2,2,1,0,1,1,1,1,,8.36
+5,CuLi4,,4.5,False,0.34,1,0,1,1,1,0,0,1,0,,4.84
+,,,27.6,,,,,,,,,,,,,30.06
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.25,6.75,6.25,6.0,7.25,6.0,6.75,7.25,,6.46
+,Linking Footwork / Movement  ,,,,0.8,6.0,7.0,7.0,6.5,5.75,6.75,5.5,6.5,7.0,,6.5
+,Performance  ,,,,0.8,6.5,6.5,7.25,6.25,6.0,7.25,5.5,7.0,7.0,,6.64
+,Choreography  ,,,,0.8,6.5,7.0,7.25,6.5,6.0,7.0,6.25,6.75,7.25,,6.75
+,Interpretation / Timing  ,,,,0.8,6.5,7.25,7.0,6.5,5.75,7.0,5.75,7.0,7.25,,6.71
+,,,,,,,,,,,,,,,,26.45

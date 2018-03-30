@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Angelina KUCHVALSKA,LAT,5,95.8,53.1,43.7,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T+2Lo,,8.4,False,-0.6,-1,-1,-1,-1,0,-1,0,-1,-1,,7.8
+2,3Lz,,6.0,False,0.0,0,0,0,1,0,0,0,-1,0,,6.0
+3,2A+3T,,7.4,False,0.4,0,0,0,1,1,1,1,0,1,,7.8
+4,3S+2T,,5.5,False,0.2,0,0,0,1,1,0,0,0,1,,5.7
+5,FSSp4,,3.0,False,0.14,0,0,0,1,0,1,0,1,0,,3.14
+6,ChSq1,,2.0,False,0.3,0,1,0,0,1,1,1,0,0,,2.3
+7,3F<,<,4.07,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.97
+8,CCoSp3p4,,3.5,False,0.36,0,1,1,1,1,1,0,1,0,,3.86
+9,StSq3,,3.3,False,0.07,-1,0,0,0,0,0,1,0,1,,3.37
+10,3S,,4.62,True,0.0,0,0,0,1,0,0,0,0,0,,4.62
+11,2A,,3.63,True,0.0,0,0,0,0,0,0,0,0,0,,3.63
+12,LSp4,,2.7,False,0.21,0,0,1,0,1,1,0,0,1,,2.91
+,,,54.12,,,,,,,,,,,,,53.1
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.5,6.25,5.5,5.5,5.75,5.75,5.75,4.75,5.75,,5.54
+,Transition / Linking Footwork  ,,,,1.6,5.0,6.0,4.75,5.25,5.5,5.0,5.5,4.5,5.5,,5.21
+,Performance / Execution  ,,,,1.6,5.5,6.0,5.0,5.75,5.75,5.75,6.0,5.5,5.75,,5.71
+,Choreography / Composition  ,,,,1.6,5.5,6.0,5.0,5.5,5.5,5.75,5.25,4.0,5.75,,5.46
+,Interpretation  ,,,,1.6,4.75,6.0,5.0,5.5,5.75,5.5,5.5,5.0,5.5,,5.39
+,,,,,,,,,,,,,,,,43.7
+Deduction,Falls,-1.0

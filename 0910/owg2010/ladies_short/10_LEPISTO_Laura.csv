@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,LEPISTO Laura,FIN,21,61.36,32.88,28.48,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.3,False,1.0,1,1,2,1,1,1,2,1,1,,6.3
+2,3Lo,,5.0,False,1.0,0,1,0,1,1,1,1,1,1,,6.0
+3,FSSp4,,3.0,False,0.5,1,1,1,1,1,1,1,1,2,,3.5
+4,LSp3,,2.4,False,0.5,1,1,1,1,1,1,1,0,1,,2.9
+5,2A,,3.5,False,0.8,1,1,1,1,1,0,1,0,1,,4.3
+6,SpSq3,,3.1,False,0.6,0,1,2,1,1,0,1,1,2,,3.7
+7,SlSt2,,2.3,False,0.5,1,1,1,1,1,0,1,1,1,,2.8
+8,CCoSp4,,3.5,False,-0.12,0,0,0,-1,0,-1,0,-1,0,,3.38
+,,,28.1,,,,,,,,,,,,,32.88
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,8.0,7.0,7.25,7.25,6.75,7.0,6.75,7.75,,7.2
+,Transitions / Linking Footwork  ,,,,0.8,6.75,7.75,6.75,6.5,7.0,6.75,7.25,6.5,7.0,,6.8
+,Performance / Execution  ,,,,0.8,7.25,7.75,7.0,7.25,7.5,6.75,7.5,7.0,7.5,,7.25
+,Choreography / Composition  ,,,,0.8,7.0,7.5,7.0,7.0,7.25,7.0,7.25,6.75,7.5,,7.15
+,Interpretation  ,,,,0.8,7.25,7.75,6.75,7.0,7.25,7.0,7.0,7.0,7.75,,7.2
+,,,,,,,,,,,,,,,,28.48

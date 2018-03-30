@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Isabella PAJARDI / Stefano CARUSO,ITA,0,23.86,12.9,10.96,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.8,False,-0.06,0,-1,-1,0,-1,-1,0,0,0,,1.74
+2,1S2,,2.4,False,-0.4,-1,-1,-1,0,-1,0,-1,-1,-1,,2.0
+3,2S1,,2.4,False,-0.36,0,-1,-1,-1,0,-1,0,-1,0,,2.04
+4,2S2,,2.8,False,-0.36,-1,-2,-1,0,-1,0,0,-2,-1,,2.44
+5,3S1,,2.8,False,-0.7,-1,-2,-1,-1,0,-1,0,-1,-1,,2.1
+6,3S2,,3.3,False,-0.72,-1,-1,-2,-1,-1,0,0,-2,-1,,2.58
+,,,15.5,,,,,,,,,,,,,12.9
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.75,4.25,4.75,4.25,5.25,4.5,4.25,4.75,4.25,4.75,,4.45
+,Timing ,,,,0.75,4.25,4.75,4.0,5.0,4.0,4.0,4.25,4.0,4.75,,4.25
+,Performance / Execution ,,,,0.5,4.0,5.0,4.0,5.0,4.0,4.25,4.75,4.0,5.0,,4.4
+,Interpretation ,,,,0.5,4.25,5.25,4.5,5.0,4.5,4.25,4.5,4.0,4.75,,4.45
+,,,,,,,,,,,,,,,,10.96

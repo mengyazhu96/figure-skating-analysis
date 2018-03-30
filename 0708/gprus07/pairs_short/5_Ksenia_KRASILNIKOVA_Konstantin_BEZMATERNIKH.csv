@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Ksenia KRASILNIKOVA / Konstantin BEZMATERNIKH,RUS,0,53.96,31.4,22.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2A,,3.5,False,0.4,0,1,1,0,1,1,1,0,0,0,,3.9
+2,3FTh,,5.5,False,-0.14,-1,0,-1,0,0,-1,0,0,0,-1,,5.36
+3,3LzTw2,,5.5,False,0.56,0,1,-1,1,1,-1,1,1,1,0,,6.06
+4,5TLi3,,5.5,False,0.2,0,2,0,1,0,1,1,0,0,0,,5.7
+5,FCCoSp2,,2.5,False,0.2,0,1,0,0,1,-1,0,-1,0,1,,2.7
+6,PCoSp1,,3.0,False,0.1,1,1,1,0,0,0,0,0,0,0,,3.1
+7,SlSt1,,1.8,False,0.2,0,1,1,0,1,0,1,0,0,0,,2.0
+8,BiDs2,,3.0,False,-0.42,-1,1,1,-1,-1,-1,-2,1,-1,-1,,2.58
+,,,30.3,,,,,,,,,,,,,,31.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,6.5,5.5,6.0,6.25,6.25,6.0,5.5,7.0,5.0,,5.85
+,Transition / Linking Footwork  ,,,,0.8,5.25,6.25,5.0,5.25,6.0,6.25,5.5,5.0,7.0,4.5,,5.4
+,Performance / Execution  ,,,,0.8,5.5,6.5,5.25,5.75,6.25,6.5,5.75,5.25,6.75,5.0,,5.7
+,Choreography / Composition  ,,,,0.8,5.5,6.5,5.5,5.5,6.5,6.5,5.5,5.25,7.5,5.0,,5.65
+,Interpretation  ,,,,0.8,5.25,6.5,5.5,5.75,6.25,6.5,5.5,5.25,7.25,4.75,,5.6
+,,,,,,,,,,,,,,,,,22.56

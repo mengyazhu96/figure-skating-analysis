@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Stephane LAMBIEL,SUI,0,70.2,34.0,37.2,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2A,,3.5,False,1.0,1,1,0,1,1,1,1,2,1,2,,4.5
+2,4T+COMBO,,9.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.0
+3,CSSp3,,2.3,False,0.5,1,1,1,1,-1,2,2,1,1,1,,2.8
+4,3Lz,,6.0,False,1.0,0,1,0,2,-1,2,2,1,1,1,,7.0
+5,CCoSp4,,3.5,False,0.7,1,2,2,2,1,1,1,1,1,1,,4.2
+6,CiSt3,,3.1,False,0.9,1,2,2,2,2,1,2,2,2,1,,4.0
+7,SlSt1,,1.8,False,0.9,1,2,2,2,2,2,2,2,1,1,,2.7
+8,FSSp3,,2.3,False,0.5,1,1,1,1,1,2,2,1,1,0,,2.8
+,,,31.5,,,,,,,,,,,,,,34.0
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.75,7.75,7.5,7.25,8.0,8.0,7.75,7.5,7.0,7.25,,7.4
+,Transition / Linking Footwork ,,,,1.0,7.0,7.75,7.25,6.75,7.25,7.75,7.5,7.5,7.0,7.25,,7.3
+,Performance / Execution ,,,,1.0,6.75,7.5,7.5,7.0,8.0,8.0,7.5,7.75,7.25,7.25,,7.4
+,Choreography / Composition ,,,,1.0,7.0,8.0,7.75,7.0,8.0,7.75,7.75,7.5,7.5,7.0,,7.5
+,Interpretation ,,,,1.0,6.75,8.25,7.5,7.0,7.25,8.0,7.75,7.75,7.75,7.25,,7.6
+,,,,,,,,,,,,,,,,,37.2
+Deduction,Falls,-1.0

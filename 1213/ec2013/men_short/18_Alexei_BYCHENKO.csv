@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Alexei BYCHENKO,ISR,14,56.42,29.78,26.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.1,False,0.8,1,2,1,1,2,1,1,1,1,,10.9
+2,3F,,5.3,False,0.7,1,1,0,1,1,1,1,1,1,,6.0
+3,FSSp1,,2.0,False,-0.13,0,-1,0,0,0,-1,0,-1,-1,,1.87
+4,CCoSp4,,3.5,False,-0.04,-1,-1,0,0,0,0,0,0,0,,3.46
+5,2A,,3.63,True,-0.29,0,-1,-1,0,-1,-1,0,-1,0,,3.34
+6,StSq1,,1.8,False,0.5,1,1,1,1,1,1,1,0,1,,2.3
+7,CCSp2,,2.3,False,-0.39,-1,-2,-1,-1,0,-2,-1,-1,-2,,1.91
+,,,28.63,,,,,,,,,,,,,29.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,5.5,5.0,6.0,5.5,5.5,5.75,5.25,5.0,,5.39
+,Transition / Linking Footwork  ,,,,1.0,5.0,5.25,5.25,5.75,4.5,5.0,5.25,4.75,5.0,,5.07
+,Performance / Execution  ,,,,1.0,5.25,5.75,5.0,5.5,5.0,5.5,5.75,5.0,5.25,,5.32
+,Choreography / Composition  ,,,,1.0,5.0,5.25,5.5,6.0,5.25,5.25,5.5,5.0,5.5,,5.32
+,Interpretation  ,,,,1.0,5.5,5.75,5.75,5.5,5.5,5.5,5.5,5.25,5.5,,5.54
+,,,,,,,,,,,,,,,,26.64

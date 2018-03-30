@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Xiaoyu YU / Yang JIN,CHN,1,109.08,64.13,44.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw3,,5.8,False,1.2,2,1,2,2,2,2,1,1,2,,7.0
+2,2A+2A+SEQ,,5.28,False,0.14,1,-1,1,1,0,0,0,0,0,,5.42
+3,3T,,4.1,False,-0.1,-1,0,0,0,-1,1,0,0,0,,4.0
+4,PCoSp3,,4.0,False,0.21,1,0,2,0,2,0,0,0,0,,4.21
+5,ChSp1,,2.0,False,0.9,1,2,2,1,1,2,1,1,0,,2.9
+6,BoDs3,,4.0,False,0.3,1,1,2,0,1,0,0,0,0,,4.3
+7,5ALi4,,7.15,True,0.7,1,1,1,1,2,1,1,1,1,,7.85
+8,3LoTh,,5.5,True,1.1,2,2,2,2,1,1,1,2,1,,6.6
+9,3STh,,4.95,True,1.4,2,3,2,2,2,2,1,2,2,,6.35
+10,FCCoSp4,,3.5,False,0.14,0,1,1,1,0,0,0,-1,0,,3.64
+11,4Li4,,4.4,True,0.43,1,1,0,0,1,1,1,1,1,,4.83
+12,5TLi4,,6.6,True,0.43,1,1,0,0,2,1,1,1,1,,7.03
+,,,57.28,,,,,,,,,,,,,64.13
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.5,6.75,6.0,5.75,8.5,5.5,5.75,5.75,5.75,,5.89
+,Transition / Linking Footwork  ,,,,1.6,5.0,6.0,5.25,5.25,7.0,5.25,5.5,5.25,5.25,,5.39
+,Performance / Execution  ,,,,1.6,5.0,7.5,6.0,5.25,7.25,5.5,5.0,5.5,5.25,,5.68
+,Choreography / Composition  ,,,,1.6,4.75,6.75,6.0,5.5,7.75,5.5,5.25,5.75,5.5,,5.75
+,Interpretation  ,,,,1.6,4.25,6.75,5.0,5.0,6.75,5.25,4.75,5.5,5.5,,5.39
+,,,,,,,,,,,,,,,,44.95

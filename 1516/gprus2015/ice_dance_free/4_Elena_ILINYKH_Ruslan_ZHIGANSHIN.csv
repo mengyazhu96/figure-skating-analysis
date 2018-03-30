@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Elena ILINYKH / Ruslan ZHIGANSHIN,RUS,3,98.55,49.57,49.98,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4+RoLi4,,9.0,False,2.4,2,1,2,2,2,2,2,2,2,,11.4
+2,CiSt3,,7.1,False,1.41,2,1,2,1,1,1,1,2,1,,8.51
+3,STw4,,6.6,False,1.11,2,2,2,2,2,1,2,1,2,,7.71
+4,Sp4,,5.6,False,0.86,2,2,2,1,1,1,1,2,1,,6.46
+5,MiSt3,,7.1,False,1.57,2,1,1,2,2,1,1,2,1,,8.67
+6,SlLi4,,4.5,False,1.03,2,2,2,2,2,1,1,2,0,,5.53
+7,ChSp1,,0.6,False,0.69,2,0,2,-1,1,2,1,2,0,,1.29
+,,,40.5,,,,,,,,,,,,,49.57
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,8.5,7.5,8.5,7.75,8.5,7.75,8.25,8.25,7.5,,8.07
+,Linking Footwork / Movement  ,,,,1.2,8.5,7.5,8.25,7.75,8.5,7.25,8.25,8.5,6.75,,8.0
+,Performance  ,,,,1.2,9.0,8.25,9.0,8.0,8.75,7.75,8.5,8.75,7.25,,8.43
+,Choreography  ,,,,1.2,9.25,8.0,8.75,8.5,9.0,7.75,8.5,9.25,7.75,,8.54
+,Interpretation / Timing  ,,,,1.2,9.25,8.5,9.0,8.25,9.0,8.0,8.5,9.0,7.5,,8.61
+,,,,,,,,,,,,,,,,49.98
+Deduction,Extended lifts,-1.0

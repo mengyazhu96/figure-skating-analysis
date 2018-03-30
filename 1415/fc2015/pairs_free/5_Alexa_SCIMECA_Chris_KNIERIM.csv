@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Alexa SCIMECA / Chris KNIERIM,USA,4,124.44,63.36,61.08,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Tw2,,7.6,False,-0.71,1,-2,-2,-2,-1,0,1,-2,1,,6.89
+2,2S,,1.3,False,-0.4,-2,-2,-2,-2,-2,0,-2,-2,-2,,0.9
+3,2A+2A+SEQ,,5.28,False,-0.14,0,0,-1,-1,0,0,0,0,-1,,5.14
+4,3Li4,,4.0,False,0.79,2,1,1,2,1,2,2,1,2,,4.79
+5,3LoTh,,5.0,False,1.4,2,2,2,2,2,2,2,0,2,,6.4
+6,FCCoSp3p4,,3.5,False,0.5,1,1,1,0,1,1,1,1,1,,4.0
+7,5RLi4,,7.0,False,1.0,1,2,0,2,1,2,1,1,2,,8.0
+8,3FTh,,5.5,False,1.3,2,1,2,1,2,2,2,2,2,,6.8
+9,PCoSp3p4,,4.5,False,0.64,2,1,1,2,1,1,1,1,2,,5.14
+10,5ALi4,,6.5,False,1.3,3,2,2,1,1,2,2,2,2,,7.8
+11,ChSq1,,2.0,False,1.3,2,2,2,2,1,1,2,2,2,,3.3
+12,BoDs2,,3.5,False,0.7,1,0,1,1,1,1,1,1,2,,4.2
+,,,55.68,,,,,,,,,,,,,63.36
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.75,6.75,7.5,7.75,7.75,8.25,7.75,8.0,7.75,,7.75
+,Transition / Linking Footwork  ,,,,1.6,7.5,6.25,7.5,7.5,7.5,8.0,7.25,7.25,7.75,,7.46
+,Performance / Execution  ,,,,1.6,8.0,6.75,7.5,7.75,7.75,8.25,7.5,7.5,8.0,,7.71
+,Choreography / Composition  ,,,,1.6,8.25,6.5,8.0,7.5,7.5,8.0,7.5,7.0,7.75,,7.61
+,Interpretation  ,,,,1.6,8.25,6.75,7.0,7.5,7.75,8.25,7.75,7.25,8.0,,7.64
+,,,,,,,,,,,,,,,,61.08

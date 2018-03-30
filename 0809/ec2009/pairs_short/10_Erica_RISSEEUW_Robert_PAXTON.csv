@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Erica RISSEEUW / Robert PAXTON,GBR,0,44.28,26.56,17.72,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SpSq2,,2.3,False,0.4,1,2,1,0,1,0,1,-1,1,,2.7
+2,2LzTw1,,3.0,False,-0.12,-1,-1,-1,0,0,-1,0,-1,0,,2.88
+3,3STh,,4.5,False,0.0,-1,0,0,0,1,-1,-1,1,0,,4.5
+4,3T,,4.0,False,-0.2,0,-1,0,-1,0,-1,0,0,0,,3.8
+5,FCCoSp2,,2.5,False,-0.24,-1,0,0,-1,-1,-1,-1,0,-1,,2.26
+6,3Li2,,3.0,False,0.0,0,0,1,1,0,0,0,0,0,,3.0
+7,FiDs3,,3.2,False,-0.28,0,-1,0,0,1,-1,-1,-1,0,,2.92
+8,PCoSp4,,4.5,False,0.0,0,0,0,1,0,0,0,0,0,,4.5
+,,,27.0,,,,,,,,,,,,,26.56
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.25,4.75,4.25,4.75,4.75,4.5,5.5,4.5,,4.45
+,Transition / Linking Footwork  ,,,,0.8,4.0,3.75,4.5,3.75,4.25,5.0,4.5,4.5,4.0,,4.1
+,Performance / Execution  ,,,,0.8,4.25,4.75,4.75,3.75,4.75,4.75,4.75,5.25,4.5,,4.6
+,Choreography / Composition  ,,,,0.8,4.25,4.75,4.5,4.25,4.75,5.0,4.75,5.0,4.0,,4.55
+,Interpretation  ,,,,0.8,4.0,4.5,4.75,4.0,4.5,4.75,4.75,5.25,4.5,,4.45
+,,,,,,,,,,,,,,,,17.72

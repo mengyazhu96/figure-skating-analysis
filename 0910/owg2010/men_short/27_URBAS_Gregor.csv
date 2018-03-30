@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,URBAS Gregor,SLO,3,53.02,28.92,24.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,0.0,-1,0,0,0,0,0,0,0,0,,10.0
+2,3A<,<,3.5,False,-2.14,-3,-3,-2,-2,-3,-3,-2,-3,-3,,1.36
+3,CSSp3,,2.6,False,0.0,0,0,0,-1,0,0,0,0,0,,2.6
+4,CiSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+5,3Lo,,5.0,False,0.0,1,0,0,0,0,0,0,1,0,,5.0
+6,CCoSp3,,3.0,False,-0.24,-1,-1,0,-1,0,0,-1,-2,-2,,2.76
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,-1,0,0,0,,2.3
+8,FSSp3,,2.6,False,0.0,-1,0,0,-1,0,0,0,0,0,,2.6
+,,,31.3,,,,,,,,,,,,,28.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.0,5.5,5.0,4.75,5.25,4.5,5.0,5.5,,5.1
+,Transitions / Linking Footwork  ,,,,1.0,5.25,4.5,5.25,4.5,4.5,4.5,4.25,4.25,4.5,,4.45
+,Performance / Execution  ,,,,1.0,5.5,4.5,5.25,5.0,4.75,5.0,4.5,4.5,5.0,,4.85
+,Choreography / Composition  ,,,,1.0,5.25,4.75,5.25,5.0,4.75,5.0,4.5,4.0,5.25,,4.9
+,Interpretation  ,,,,1.0,5.5,5.0,5.0,5.5,4.75,4.75,4.5,4.75,4.75,,4.8
+,,,,,,,,,,,,,,,,24.1

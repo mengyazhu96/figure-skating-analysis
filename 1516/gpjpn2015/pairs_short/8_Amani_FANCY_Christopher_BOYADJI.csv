@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Amani FANCY / Christopher BOYADJI,GBR,2,42.52,19.17,23.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3TwB,,5.0,False,-1.1,-2,-2,-2,-1,-1,-1,-2,-1,-2,,3.9
+2,2A,,3.3,False,-0.5,-2,-1,-1,-1,-1,-1,-1,-1,-1,,2.8
+3,4Li3,,4.0,False,-0.07,1,-1,0,0,0,0,0,0,-2,,3.93
+4,StSq2,,2.6,False,-0.86,-1,-3,-1,-2,0,-2,-2,-2,-2,,1.74
+5,3STh,,4.5,False,-0.7,-2,-1,-1,-1,-1,-1,-1,-1,-1,,3.8
+6,BoDs,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,PCoSp2p3,,3.0,False,0.0,0,0,0,0,0,0,0,0,1,,3.0
+,,,22.4,,,,,,,,,,,,,19.17
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.5,6.75,5.75,5.75,6.0,6.25,5.5,6.25,,5.89
+,Transition / Linking Footwork  ,,,,0.8,5.5,5.25,6.5,4.75,5.5,5.75,5.75,5.25,5.75,,5.54
+,Performance / Execution  ,,,,0.8,5.25,5.75,6.25,5.5,5.75,6.0,6.0,5.25,6.25,,5.79
+,Choreography / Composition  ,,,,0.8,5.0,5.5,6.75,5.75,6.0,6.25,6.25,6.25,6.75,,6.11
+,Interpretation  ,,,,0.8,5.0,5.5,6.25,5.5,6.0,6.0,6.0,5.75,6.5,,5.86
+,,,,,,,,,,,,,,,,23.35

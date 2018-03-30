@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,LANGLOIS Anabelle / HAY Cody,CAN,13,115.77,60.45,56.32,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2FTw3,,4.0,False,0.8,2,1,2,1,2,1,2,2,2,,4.8
+2,3S,,4.5,False,-3.0,-2,-3,-3,-3,-2,-3,-3,-3,-3,,1.5
+3,5ALi4,,6.5,False,1.4,1,2,2,1,2,1,1,2,1,,7.9
+4,3STh,,4.5,False,1.26,2,2,2,1,2,2,2,2,1,,5.76
+5,3T+2T,,5.3,False,0.0,-1,0,0,0,0,-1,0,0,0,,5.3
+6,FCCoSp4,,3.5,False,-0.06,0,1,0,-1,1,-1,0,0,0,,3.44
+7,PCoSp4,,4.5,False,0.5,1,1,1,0,1,2,1,1,1,,5.0
+8,5RLi3,,6.6,True,1.4,1,2,3,1,2,2,1,1,1,,8.0
+9,SpSq4,,3.4,False,0.8,1,1,0,0,1,1,1,1,1,,4.2
+10,3LzTh,,6.05,True,-1.4,-2,-2,-1,-2,-2,-2,-2,-2,-2,,4.65
+11,4Li4,,4.4,True,0.8,1,2,2,0,2,2,1,2,1,,5.2
+12,BoDs3,,4.0,False,0.7,1,1,1,0,1,1,1,1,1,,4.7
+,,,57.25,,,,,,,,,,,,,60.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.5,7.5,7.5,6.75,7.5,6.5,6.75,7.5,7.0,,7.1
+,Transitions / Linking Footwork  ,,,,1.6,7.0,7.25,7.25,6.25,7.25,6.25,6.5,7.5,6.75,,6.8
+,Performance / Execution  ,,,,1.6,7.25,7.5,7.5,6.25,7.25,6.5,6.75,7.75,7.0,,7.05
+,Choreography / Composition  ,,,,1.6,7.5,7.75,7.5,6.5,7.5,6.75,6.5,7.25,7.5,,7.1
+,Interpretation  ,,,,1.6,7.5,7.75,7.5,6.25,7.25,6.75,6.5,7.5,7.5,,7.15
+,,,,,,,,,,,,,,,,56.32
+Deduction,Falls,-1.0

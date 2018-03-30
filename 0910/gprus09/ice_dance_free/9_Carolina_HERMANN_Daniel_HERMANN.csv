@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Carolina HERMANN / Daniel HERMANN,GER,1,66.51,38.6,29.91,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,5.5,False,0.2,0,1,0,0,0,2,0,1,1,,5.7
+2,SlLi4,,5.0,False,0.2,1,1,1,0,1,0,1,0,0,,5.2
+3,CoSp4,,4.7,False,0.1,0,0,0,1,0,0,0,-1,1,,4.8
+4,DiSt3,,6.2,False,0.0,1,0,0,0,0,0,0,0,0,,6.2
+5,SeLi4,,8.0,False,0.1,1,1,1,0,0,0,1,0,0,,8.1
+6,CiSt1,,5.6,False,-2.0,-1,-2,-2,-2,-2,-2,-2,-2,-2,,3.6
+7,RoLi4,,5.0,False,0.0,0,0,0,0,0,0,0,0,0,,5.0
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,40.0,,,,,,,,,,,,,38.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,5.25,5.25,5.25,5.25,5.25,4.75,4.5,4.5,,5.0
+,Linking Footwork / Movement  ,,,,1.75,5.25,5.0,5.0,4.75,4.75,5.0,4.75,4.25,4.5,,4.75
+,Performance  ,,,,1.0,5.25,5.5,4.75,5.0,5.0,5.0,5.25,4.25,4.75,,5.0
+,Choreography  ,,,,1.0,5.5,5.5,5.0,5.25,5.25,5.5,5.0,5.0,4.75,,5.2
+,Interpretation / Timing  ,,,,1.0,5.5,5.25,5.25,5.25,5.25,5.5,5.0,4.75,4.75,,5.15
+,,,,,,,,,,,,,,,,29.91
+Deduction,Extended lifts,-1.0
+Deduction,Falls,-1.0

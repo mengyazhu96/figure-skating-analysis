@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Pavel IGNATENKO,BLR,23,55.79,28.64,28.15,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.5
+2,3Lo,,5.1,False,-0.4,-1,-1,1,-1,-2,0,-1,0,0,,4.7
+3,FCSp3,,2.8,False,0.0,0,0,0,0,0,0,0,0,0,,2.8
+4,3Lz+2T,,7.3,False,0.0,0,0,0,0,0,0,0,0,1,,7.3
+5,CSSp3,,2.6,False,-0.13,-1,0,0,0,0,0,-1,-1,-1,,2.47
+6,StSq3,,3.3,False,0.07,0,0,0,1,0,1,0,-1,0,,3.37
+7,CCoSp3p2,,2.5,False,0.0,0,0,0,0,0,0,0,0,0,,2.5
+,,,32.1,,,,,,,,,,,,,28.64
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.0,6.5,5.25,6.0,6.5,6.0,6.0,5.75,6.0,,6.04
+,Transition / Linking Footwork  ,,,,1.0,5.0,6.0,5.0,5.75,5.25,5.5,5.0,4.75,6.25,,5.36
+,Performance / Execution  ,,,,1.0,5.5,6.0,5.25,5.75,5.75,5.75,5.5,5.5,5.75,,5.64
+,Choreography / Composition  ,,,,1.0,5.0,6.25,5.0,5.75,6.0,5.5,5.75,4.75,5.75,,5.54
+,Interpretation  ,,,,1.0,5.5,6.0,4.75,5.75,5.75,5.75,5.75,5.0,5.5,,5.57
+,,,,,,,,,,,,,,,,28.15
+Deduction,Falls,-1.0

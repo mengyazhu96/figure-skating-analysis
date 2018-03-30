@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Brooke Elizabeth FRIELING / Lionel RUMI,ISR,3,57.94,30.93,27.01,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SeSt1,,3.5,False,-0.07,0,0,-1,-1,0,0,0,0,0,,3.43
+2,CoSp4,,5.0,False,-0.14,-1,-1,0,-1,0,1,0,0,0,,4.86
+3,STw4,,6.0,False,-0.43,0,-1,-1,-1,-1,-1,-1,0,-1,,5.57
+4,CuLi4,,4.0,False,-0.29,-1,-1,-1,0,-1,-1,-1,1,1,,3.71
+5,CuLi2,,2.5,False,0.14,0,0,0,0,1,0,1,0,1,,2.64
+6,RoLi4,,4.0,False,0.0,0,0,0,0,0,0,0,0,1,,4.0
+7,SlLi3,,3.5,False,-0.07,-1,0,0,0,0,0,-1,0,0,,3.43
+8,DiSt1,,3.5,False,-0.21,0,-1,-1,0,-1,0,0,0,-1,,3.29
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,32.0,,,,,,,,,,,,,30.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.25,4.5,4.75,4.25,5.0,4.5,4.75,4.75,4.5,,4.57
+,Linking Footwork / Movement  ,,,,1.75,4.5,4.0,4.25,3.75,4.75,4.0,4.5,4.5,4.25,,4.29
+,Performance  ,,,,1.0,4.25,4.0,4.75,4.25,5.0,4.75,5.0,5.0,4.75,,4.68
+,Choreography  ,,,,1.0,4.75,4.75,4.25,4.25,5.25,4.5,4.5,5.0,4.5,,4.61
+,Interpretation / Timing  ,,,,1.0,4.5,4.25,4.0,4.0,5.25,4.75,5.25,4.75,4.0,,4.5
+,,,,,,,,,,,,,,,,27.01

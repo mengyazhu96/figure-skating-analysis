@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Samuel CONTESTI,ITA,6,72.08,39.68,32.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,1.2,2,1,1,1,3,0,1,0,2,,11.2
+2,3A,,8.2,False,-2.8,-2,-2,-2,-2,-2,-2,-3,-2,-2,,5.4
+3,3Lo,,5.0,False,1.2,2,1,1,1,2,1,1,0,1,,6.2
+4,CSSp4,,3.0,False,0.5,0,1,1,0,2,2,1,0,2,,3.5
+5,CiSt2,,2.3,False,0.6,2,1,1,1,3,1,1,0,1,,2.9
+6,FSSp4,,3.0,False,0.4,1,1,0,1,2,0,1,0,1,,3.4
+7,SlSt3,,3.3,False,0.4,1,1,0,1,2,0,1,1,2,,3.7
+8,CCoSp4,,3.5,False,-0.12,-2,0,0,-1,-1,0,1,0,1,,3.38
+,,,38.3,,,,,,,,,,,,,39.68
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,6.25,6.25,6.25,6.75,7.0,6.75,5.5,7.25,,6.45
+,Transition / Linking Footwork  ,,,,1.0,5.25,6.0,5.75,6.0,7.0,7.25,6.0,5.25,7.0,,6.15
+,Performance / Execution  ,,,,1.0,5.5,6.75,6.25,6.25,7.5,8.0,6.5,5.5,7.5,,6.65
+,Choreography / Composition  ,,,,1.0,6.0,6.25,6.5,6.25,7.0,7.5,6.5,5.75,7.0,,6.5
+,Interpretation  ,,,,1.0,6.25,6.25,6.5,6.5,7.0,8.0,7.0,6.0,7.25,,6.65
+,,,,,,,,,,,,,,,,32.4

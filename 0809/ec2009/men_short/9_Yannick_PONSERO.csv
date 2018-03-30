@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Yannick PONSERO,FRA,0,67.45,33.8,33.65,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T+2T,,11.1,False,0.2,0,0,1,0,0,0,1,1,0,,11.3
+2,2A,,3.5,False,0.6,1,1,0,0,0,1,2,2,1,,4.1
+3,2Lz,,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+4,CCSp4,,3.2,False,0.5,1,1,1,1,0,1,1,1,0,,3.7
+5,SlSt3,,3.3,False,0.5,1,1,1,1,0,1,1,1,1,,3.8
+6,FSSp3,,2.6,False,0.2,0,0,1,1,0,0,1,0,0,,2.8
+7,CiSt3,,3.3,False,0.4,0,1,0,1,1,1,1,0,0,,3.7
+8,CCoSp4,,3.5,False,0.0,0,0,0,0,-1,0,1,0,0,,3.5
+,,,32.4,,,,,,,,,,,,,33.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.0,7.0,6.75,7.25,6.25,7.0,6.75,6.75,,7.0
+,Transition / Linking Footwork  ,,,,1.0,7.25,6.25,6.5,6.5,6.75,6.0,6.0,6.25,6.25,,6.4
+,Performance / Execution  ,,,,1.0,7.0,6.5,7.0,6.25,7.0,6.25,7.0,6.25,6.5,,6.75
+,Choreography / Composition  ,,,,1.0,7.25,6.75,6.75,6.0,7.25,6.25,6.75,6.25,6.5,,6.75
+,Interpretation  ,,,,1.0,7.25,6.5,7.0,6.5,7.25,6.0,6.5,6.5,6.5,,6.75
+,,,,,,,,,,,,,,,,33.65

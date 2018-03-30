@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Ekaterina PROYDA,UKR,0,35.85,22.24,15.61,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3F,e,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+2,3T+2T,,5.3,False,0.29,1,0,0,0,1,0,0,1,0,0,0,0,,5.59
+3,FCSp2,,2.0,False,-0.26,0,0,0,-1,-1,-1,-1,-1,-1,0,-2,-1,,1.74
+4,SpSq1,,1.8,False,0.29,0,0,0,1,0,1,1,1,1,0,0,1,,2.09
+5,2A,,3.5,False,0.0,0,0,1,0,0,0,0,0,1,1,0,0,,3.5
+6,CCoSp2,,2.5,False,0.29,0,1,1,0,0,1,1,1,1,0,0,0,,2.79
+7,SlSt2,,2.3,False,-0.21,-1,-1,0,-1,-1,0,-1,0,0,0,-1,-1,,2.09
+8,LSp2,,1.8,False,0.14,0,1,2,0,1,0,0,0,1,0,-1,0,,1.94
+,,,24.7,,,,,,,,,,,,,,,,22.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.25,4.75,4.5,4.5,4.25,3.5,4.25,4.25,4.5,3.75,4.25,,4.11
+,Transition / Linking Footwork  ,,,,0.8,3.75,4.0,3.75,4.25,4.0,3.75,3.0,3.5,4.0,4.25,3.25,3.0,,3.61
+,Performance / Execution  ,,,,0.8,4.0,4.25,4.5,4.25,4.0,4.0,3.25,4.25,4.5,4.25,3.5,4.0,,4.0
+,Choreography / Composition  ,,,,0.8,4.0,4.25,4.25,4.5,4.25,3.75,3.5,4.0,4.25,4.5,3.25,3.75,,3.93
+,Interpretation  ,,,,0.8,4.25,4.25,4.75,4.5,4.25,3.75,3.5,3.75,4.25,4.25,3.25,3.0,,3.86
+,,,,,,,,,,,,,,,,,,,15.61
+Deduction,Time violation,-1.0
+Deduction,Falls,-1.0

@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,CHIPEUR Vaughn,CAN,0,144.81,80.71,64.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,1.6,1,2,3,2,1,2,1,2,2,,9.8
+2,3Lz+3T,,10.0,False,1.0,1,1,2,2,1,2,0,1,1,,11.0
+3,3F,,5.5,False,1.0,1,1,2,1,2,1,0,1,1,,6.5
+4,CSSp4,,3.0,False,0.1,0,0,1,0,1,0,1,0,0,,3.1
+5,3A+2T,,10.45,True,0.2,1,0,1,0,0,2,0,0,0,,10.65
+6,3Lo,,5.5,True,-0.2,0,0,0,0,-1,1,-1,0,0,,5.3
+7,CiSt3,,3.3,False,0.0,0,0,0,0,0,0,0,1,0,,3.3
+8,2A,,3.85,True,1.2,1,1,2,1,0,2,1,1,2,,5.05
+9,3S,,4.95,True,0.2,1,0,0,1,0,1,-1,0,0,,5.15
+10,3Lz+2T+2T,,9.46,True,0.6,1,1,1,1,1,1,0,0,0,,10.06
+11,FCCoSp4,,3.5,False,0.5,1,0,1,1,2,1,1,1,1,,4.0
+12,SlSt3,,3.3,False,0.4,1,0,1,1,2,1,1,1,0,,3.7
+13,FSSp4,,3.0,False,0.1,1,0,0,1,2,0,0,0,0,,3.1
+,,,74.01,,,,,,,,,,,,,80.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,7.0,6.0,7.5,6.75,6.75,7.5,6.0,6.5,6.0,,6.45
+,Transitions / Linking Footwork  ,,,,2.0,6.75,5.5,7.0,6.25,6.5,7.25,5.5,6.25,5.5,,6.1
+,Performance / Execution  ,,,,2.0,7.0,6.5,7.25,6.5,7.0,7.25,5.5,7.0,6.5,,6.8
+,Choreography / Composition  ,,,,2.0,6.75,5.75,7.25,6.5,6.25,7.5,5.75,6.5,6.0,,6.25
+,Interpretation  ,,,,2.0,7.0,5.75,7.25,6.25,6.5,7.5,6.0,6.75,6.0,,6.45
+,,,,,,,,,,,,,,,,64.1

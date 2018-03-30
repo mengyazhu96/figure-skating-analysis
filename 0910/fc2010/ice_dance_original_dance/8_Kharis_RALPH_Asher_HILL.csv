@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Kharis RALPH / Asher HILL,CAN,9,41.8,20.9,20.9,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,DiSt1,,5.6,False,0.8,1,1,1,1,0,1,0,0,1,,6.4
+2,NtMiSt1,,5.0,False,0.4,1,0,1,0,1,2,0,1,0,,5.4
+3,SqTw3,,5.7,False,0.3,-1,0,1,1,1,1,0,-1,1,,6.0
+4,RoLi1,,3.0,False,0.1,0,0,1,0,0,1,-1,1,1,,3.1
+5,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,19.3,,,,,,,,,,,,,20.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.5,5.75,5.0,5.5,6.25,5.5,5.5,5.75,,5.45
+,Linking Footwork / Movement  ,,,,0.8,4.75,5.25,5.5,5.5,5.0,5.75,5.0,4.75,5.25,,5.2
+,Performance  ,,,,0.6,5.25,5.5,5.75,5.5,5.75,6.75,5.5,5.25,5.5,,5.55
+,Choreography  ,,,,0.6,5.5,5.25,5.75,5.75,5.25,6.5,5.5,5.75,5.5,,5.5
+,Interpretation / Timing  ,,,,1.0,5.5,5.25,6.0,6.0,5.75,6.75,5.75,5.75,5.75,,5.75
+,,,,,,,,,,,,,,,,20.9

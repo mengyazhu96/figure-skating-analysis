@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Carolina GILLESPIE / Luca DEMATTE,ITA,4,75.42,39.02,36.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,5TLi3,,5.5,False,0.21,1,1,0,1,0,0,0,1,0,,5.71
+2,2LzTw1,,3.0,False,0.0,0,0,0,0,0,0,0,-1,0,,3.0
+3,2F,,1.8,False,0.0,0,0,0,1,0,0,0,0,0,,1.8
+4,3STh,,4.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-3,,3.1
+5,FiDs1,,2.8,False,0.5,1,1,0,1,0,1,1,1,0,,3.3
+6,ChSp1,,2.0,False,0.86,0,1,1,1,0,1,1,1,1,,2.86
+7,3Li3,,3.85,True,0.14,0,1,0,0,0,1,0,1,0,,3.99
+8,4Li1,,2.75,True,-0.07,1,0,-1,0,0,0,0,-1,0,,2.68
+9,2FTh,,3.3,True,0.07,0,0,0,1,0,1,0,0,0,,3.37
+10,PCoSp4,,4.5,False,0.14,0,0,-1,1,1,1,0,0,0,,4.64
+11,2F+1Lo+SEQ,,2.02,True,-0.69,-3,-3,-2,-2,-2,-2,-3,-2,-2,,1.33
+12,CCoSp4,,3.5,False,-0.26,-1,-1,-1,-1,-1,-1,0,-1,0,,3.24
+,,,39.52,,,,,,,,,,,,,39.02
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.0,4.75,4.5,4.5,5.0,4.5,4.5,4.75,5.0,,4.71
+,Transition / Linking Footwork  ,,,,1.6,4.75,4.5,4.25,4.25,4.75,4.25,4.25,4.5,4.25,,4.39
+,Performance / Execution  ,,,,1.6,4.5,4.5,4.5,4.25,5.0,4.25,4.5,4.5,5.0,,4.54
+,Choreography / Composition  ,,,,1.6,4.5,4.5,4.75,4.0,4.75,4.5,4.5,4.75,4.75,,4.61
+,Interpretation  ,,,,1.6,4.25,4.75,4.5,4.0,5.0,4.25,4.75,4.5,4.5,,4.5
+,,,,,,,,,,,,,,,,36.4

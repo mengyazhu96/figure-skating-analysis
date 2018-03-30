@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Ashley WAGNER,USA,11,122.14,57.22,64.92,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.57,1,1,1,1,2,1,2,1,1,,3.87
+2,2A+3T<,<,6.3,False,-1.0,-2,-3,-2,-2,-2,-2,-2,-1,-2,,5.3
+3,3S,,4.2,False,0.4,1,2,1,0,1,0,0,1,0,,4.6
+4,FSSp4,,3.0,False,0.57,1,2,1,1,2,1,1,1,1,,3.57
+5,FCCoSp3p3,,3.0,False,0.5,1,1,1,1,1,1,1,1,1,,3.5
+6,3Lo+2T,,7.04,True,0.8,1,1,2,1,2,1,1,1,0,,7.84
+7,3F+2T,,7.26,True,0.3,0,1,1,0,1,0,0,1,0,,7.56
+8,3Lo<,<,3.96,True,-0.4,-1,1,0,0,0,-1,-1,-1,-1,,3.56
+9,StSq3,,3.3,False,0.79,2,2,2,1,1,1,1,2,2,,4.09
+10,3F,!,5.83,True,0.2,0,0,1,1,1,-1,0,0,0,,6.03
+11,ChSq1,,2.0,False,1.3,2,2,2,2,1,1,2,2,2,,3.3
+12,CCoSp3p4,,3.5,False,0.5,1,1,1,0,1,1,2,1,1,,4.0
+,,,52.69,,,,,,,,,,,,,57.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.25,8.25,8.0,8.0,7.75,8.0,7.75,8.25,8.25,,8.07
+,Transition / Linking Footwork  ,,,,1.6,7.75,6.75,8.0,7.75,8.0,7.75,7.5,8.0,8.25,,7.82
+,Performance / Execution  ,,,,1.6,8.0,8.5,8.25,8.25,8.25,8.25,8.0,8.75,8.0,,8.21
+,Choreography / Composition  ,,,,1.6,8.5,7.75,8.0,7.75,8.0,8.0,8.0,8.5,8.5,,8.11
+,Interpretation  ,,,,1.6,8.5,8.0,8.5,8.0,8.25,8.25,8.5,8.75,8.5,,8.36
+,,,,,,,,,,,,,,,,64.92

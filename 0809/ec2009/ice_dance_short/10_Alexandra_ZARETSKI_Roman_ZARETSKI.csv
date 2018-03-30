@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Alexandra ZARETSKI / Roman ZARETSKI,ISR,0,30.16,15.62,14.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.0,False,0.12,1,-1,1,1,0,0,1,0,0,,2.12
+2,1S2,,2.2,False,0.0,0,0,0,1,1,-1,0,0,0,,2.2
+3,1S3,,2.3,False,0.0,0,0,0,1,1,0,0,-1,0,,2.3
+4,2S1,,2.7,False,0.0,0,-1,1,1,0,0,0,0,0,,2.7
+5,2S2,,3.0,False,0.0,0,0,0,1,0,0,0,0,0,,3.0
+6,2S3,,3.3,False,0.0,0,0,0,1,0,0,0,-1,0,,3.3
+,,,15.5,,,,,,,,,,,,,15.62
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,6.0,6.0,6.25,7.25,5.25,6.0,6.0,6.0,5.5,,6.0
+,Timing  ,,,,0.75,5.5,5.5,5.75,7.25,5.0,6.0,6.5,5.0,5.0,,5.55
+,Performance / Execution  ,,,,0.5,5.75,5.75,6.0,7.0,5.75,6.0,6.25,5.75,5.75,,5.85
+,Interpretation  ,,,,0.5,5.75,5.75,6.0,7.0,5.0,6.25,6.0,6.0,5.75,,5.9
+,,,,,,,,,,,,,,,,14.54

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Ryan BRADLEY,USA,0,58.69,29.74,28.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T+3T,,8.0,False,0.0,0,0,0,0,0,0,0,0,0,-1,,8.0
+2,2A,,3.5,False,0.4,1,0,1,0,0,0,0,1,0,0,,3.9
+3,FSSp3,,2.3,False,-0.06,-1,1,0,-1,-1,0,0,0,0,0,,2.24
+4,3Lz,,6.0,False,0.0,0,0,0,0,0,0,1,0,0,-1,,6.0
+5,CSSp3,,2.3,False,0.0,0,0,0,-1,0,0,0,0,0,0,,2.3
+6,CiSt2,,2.3,False,0.0,0,1,0,0,0,0,1,0,0,0,,2.3
+7,CCoSp2,,2.5,False,0.1,0,0,0,0,0,0,1,0,0,1,,2.6
+8,SlSt2,,2.3,False,0.1,1,1,0,0,0,0,1,0,0,0,,2.4
+,,,29.2,,,,,,,,,,,,,,29.74
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.25,6.0,5.75,5.5,5.5,6.75,5.75,5.0,6.0,6.5,,5.95
+,Transition / Linking Footwork ,,,,1.0,5.0,5.5,5.5,5.5,4.5,5.5,5.0,5.0,5.25,6.5,,5.3
+,Performance / Execution ,,,,1.0,6.25,6.5,5.75,5.25,5.25,6.25,6.0,5.5,5.75,6.5,,5.95
+,Choreography / Composition ,,,,1.0,5.75,5.75,5.75,5.25,5.0,6.0,6.0,6.0,5.75,6.75,,5.9
+,Interpretation ,,,,1.0,6.0,6.75,5.5,5.5,5.0,6.25,6.0,5.5,5.5,6.75,,5.85
+,,,,,,,,,,,,,,,,,28.95

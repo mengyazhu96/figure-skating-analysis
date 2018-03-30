@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Anna NAGORNYUK / Viktor KOVALENKO,UZB,8,44.08,23.51,20.57,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,R2Sq2+kpNYN,,5.0,False,-0.5,-1,-1,0,-1,-1,-1,-1,-1,-1,,4.5
+2,STw3,,5.0,False,-0.14,0,-1,-1,0,0,0,0,0,-1,,4.86
+3,NtCiSt3,,6.5,False,-0.71,-1,-1,-1,0,-1,0,-1,-1,0,,5.79
+4,R1Sq2+kpYNN,,5.0,False,-0.93,-2,-2,-1,-2,-2,-1,-2,-2,-2,,4.07
+5,SlLi4,,4.0,False,0.29,1,1,1,1,0,-1,1,0,0,,4.29
+,,,25.5,,,,,,,,,,,,,23.51
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.5,5.25,5.25,4.5,5.25,5.5,5.5,5.75,,5.43
+,Linking Footwork / Movement  ,,,,0.7,5.0,5.0,5.0,5.0,4.5,4.75,5.25,5.25,5.0,,5.0
+,Performance  ,,,,0.7,5.5,5.25,5.5,5.5,4.25,5.0,5.5,5.0,5.5,,5.32
+,Choreography  ,,,,0.8,5.5,5.0,5.25,5.5,4.25,4.75,5.5,5.75,5.75,,5.32
+,Interpretation / Timing  ,,,,1.0,5.0,4.75,4.0,4.75,4.0,5.5,4.75,5.25,4.75,,4.75
+,,,,,,,,,,,,,,,,20.57

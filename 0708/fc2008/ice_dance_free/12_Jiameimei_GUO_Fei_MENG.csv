@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Jiameimei GUO / Fei MENG,CHN,0,54.53,32.86,23.67,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,RoLi3,,3.5,False,0.43,0,1,1,1,1,1,2,1,1,1,1,0,,3.93
+2,STw4,,4.7,False,-0.29,-1,0,-1,-2,0,-1,-1,0,-1,-2,-1,0,,4.41
+3,SlLi+CuLi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+4,CiSt1,,5.6,False,0.0,0,0,0,0,0,0,-1,0,0,0,0,0,,5.6
+5,Sp3,,4.0,False,0.07,0,0,0,0,1,0,0,0,0,0,1,1,,4.07
+6,SlLi4,,4.0,False,0.21,0,1,0,1,0,1,0,0,1,0,1,0,,4.21
+7,MiStNt1,,4.6,False,-0.43,-1,-1,-1,-1,0,0,-2,0,0,-1,0,0,,4.17
+8,RRoLi4,,6.4,False,0.07,0,0,0,0,0,1,1,0,1,1,0,0,,6.47
+,,,32.8,,,,,,,,,,,,,,,,32.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.25,4.0,4.0,4.75,3.75,4.0,4.25,4.25,4.25,3.75,4.5,4.0,,4.11
+,Linking Footwork / Movement  ,,,,1.75,4.0,3.75,3.5,3.75,4.0,3.5,3.75,3.5,4.0,3.0,4.25,3.75,,3.75
+,Performance  ,,,,1.0,4.5,4.0,3.75,4.25,3.75,4.0,4.0,4.0,4.5,3.0,4.25,3.75,,4.04
+,Choreography  ,,,,1.0,4.0,4.0,3.75,4.0,4.0,4.25,4.0,3.75,4.25,3.5,4.5,4.0,,4.0
+,Interpretation / Timing  ,,,,1.0,3.75,3.5,4.0,4.25,4.0,4.0,3.5,3.5,4.25,3.75,4.25,4.0,,3.93
+,,,,,,,,,,,,,,,,,,,23.67
+Deduction,Illegal element,-2.0

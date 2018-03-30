@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,CONTRERAS Humberto,MEX,0,39.87,21.22,18.65,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S+2T,,5.8,False,0.0,0,0,-1,0,0,0,0,0,0,,5.8
+2,3Lo,,5.0,False,-2.8,-2,-3,-3,-3,-3,-2,-3,-2,-3,,2.2
+3,FSSp3,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+4,CSSp3,,2.6,False,-0.06,0,0,0,-1,0,0,0,0,-1,,2.54
+5,CiSt1,,1.8,False,0.0,0,0,0,-1,0,0,0,0,0,,1.8
+6,2A,,3.5,False,-0.96,-2,-1,-2,-1,-1,-1,-1,-1,-2,,2.54
+7,SlSt1,,1.8,False,0.0,0,0,0,0,-1,0,0,0,0,,1.8
+8,CCoSp1,,2.0,False,-0.06,0,0,0,-1,0,0,0,-1,0,,1.94
+,,,25.1,,,,,,,,,,,,,21.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,3.75,4.0,4.25,4.25,3.75,3.5,4.25,3.5,3.25,,3.9
+,Transitions / Linking Footwork  ,,,,1.0,3.5,3.25,3.5,3.5,3.25,2.75,3.75,3.5,2.75,,3.3
+,Performance / Execution  ,,,,1.0,3.5,3.75,4.25,4.5,4.0,3.75,4.0,4.0,3.0,,3.95
+,Choreography / Composition  ,,,,1.0,4.0,3.5,4.5,3.75,3.75,3.5,4.25,4.0,3.25,,3.8
+,Interpretation  ,,,,1.0,3.75,3.75,4.75,4.0,3.75,3.5,3.5,3.75,3.5,,3.7
+,,,,,,,,,,,,,,,,18.65

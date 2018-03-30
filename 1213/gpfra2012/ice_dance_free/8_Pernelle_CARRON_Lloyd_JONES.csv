@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Pernelle CARRON / Lloyd JONES,FRA,1,71.88,33.37,39.51,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.5,1,1,1,2,1,1,1,0,1,,4.5
+2,STw4,,6.0,False,0.64,2,2,1,1,1,1,2,1,1,,6.64
+3,SlLi4,,4.0,False,0.36,1,2,0,1,1,2,0,0,0,,4.36
+4,StaLi4,,4.0,False,0.79,2,2,2,1,2,2,1,1,1,,4.79
+5,MiSt2,,5.0,False,0.14,0,0,0,0,-1,1,1,0,0,,5.14
+6,Sp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,CiSt1,,3.5,False,-0.21,-1,0,-1,0,0,0,-1,-1,0,,3.29
+8,SlLi4,,4.0,False,0.36,1,1,0,1,0,2,1,-1,1,,4.36
+9,ChLi1,,0.2,False,0.09,0,0,2,1,0,1,0,0,0,,0.29
+,,,30.7,,,,,,,,,,,,,33.37
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.0,6.75,6.0,6.75,6.5,6.5,7.25,6.25,6.75,,6.64
+,Linking Footwork / Movement  ,,,,1.75,7.0,6.5,6.25,6.25,6.0,6.5,7.0,6.0,6.5,,6.43
+,Performance  ,,,,1.0,7.0,6.5,6.25,6.75,6.25,7.0,7.0,6.25,6.5,,6.61
+,Choreography  ,,,,1.0,6.75,6.5,6.5,6.5,6.25,7.25,7.0,6.0,7.0,,6.64
+,Interpretation / Timing  ,,,,1.0,6.75,6.75,6.5,6.5,6.5,7.25,7.5,6.25,6.75,,6.71
+,,,,,,,,,,,,,,,,39.51
+Deduction,Extended lifts,-1.0

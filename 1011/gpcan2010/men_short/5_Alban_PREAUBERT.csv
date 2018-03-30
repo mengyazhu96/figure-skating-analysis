@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Alban PREAUBERT,FRA,10,69.71,35.57,34.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,,9.4,False,0.5,1,0,1,1,1,0,1,1,0,,9.9
+2,3A,,8.5,False,-0.57,-1,-1,0,0,-1,-1,0,-1,0,,7.93
+3,CSSp4,,3.0,False,0.14,1,0,0,0,1,1,0,0,0,,3.14
+4,3Lo,,5.1,False,0.3,0,1,0,1,1,0,1,0,0,,5.4
+5,CCoSp3,,3.0,False,0.21,0,0,1,1,0,1,1,0,0,,3.21
+6,CiSt2,,2.3,False,0.43,0,0,1,1,1,2,1,1,1,,2.73
+7,FUSp4,,2.9,False,0.36,1,1,0,1,1,1,0,0,1,,3.26
+,,,34.2,,,,,,,,,,,,,35.57
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.0,6.5,6.75,6.25,7.25,6.75,6.75,6.75,7.0,,6.79
+,Transition / Linking Footwork  ,,,,1.0,6.5,7.0,6.75,6.5,6.5,7.0,6.5,6.5,6.75,,6.64
+,Performance / Execution  ,,,,1.0,6.75,7.0,6.5,7.25,7.25,7.25,6.5,7.0,7.0,,6.96
+,Choreography / Composition  ,,,,1.0,7.0,6.75,6.75,7.0,6.75,7.25,6.75,6.75,7.0,,6.86
+,Interpretation  ,,,,1.0,6.75,6.75,7.0,7.0,7.0,7.25,6.75,7.0,6.75,,6.89
+,,,,,,,,,,,,,,,,34.14

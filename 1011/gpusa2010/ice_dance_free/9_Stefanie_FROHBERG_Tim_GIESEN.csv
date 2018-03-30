@@ -1,0 +1,20 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Stefanie FROHBERG / Tim GIESEN,GER,1,60.15,31.86,28.29,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,STw3,,5.0,False,0.08,0,0,1,0,0,0,0,1,,5.08
+2,SlLi4,,4.0,False,0.08,0,0,1,0,0,0,1,0,,4.08
+3,CiSt2,,5.0,False,0.17,0,-1,1,0,0,0,0,1,,5.17
+4,RoLi3,,3.5,False,0.0,0,0,0,0,0,0,0,0,,3.5
+5,CoSp1,,2.0,False,-0.3,0,-1,-1,-2,-1,-1,-1,-1,,1.7
+6,MiSt2,,5.0,False,-0.67,0,-1,0,-1,-1,-1,-1,0,,4.33
+7,CuLi4+RoLi4,,8.0,False,0.0,1,0,0,0,0,0,0,0,,8.0
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,32.5,,,,,,,,,,,,31.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.75,4.75,5.25,4.75,4.75,4.5,4.5,5.0,,4.75
+,Linking Footwork / Movement  ,,,,1.75,4.5,4.5,5.25,4.25,4.75,4.25,4.0,4.75,,4.5
+,Performance  ,,,,1.0,5.0,4.5,5.0,5.0,5.0,4.75,4.5,5.0,,4.88
+,Choreography  ,,,,1.0,4.5,4.75,5.75,5.0,5.0,5.0,5.0,5.0,,4.96
+,Interpretation / Timing  ,,,,1.0,4.75,4.0,5.0,4.5,5.0,4.5,4.25,4.75,,4.63
+,,,,,,,,,,,,,,,28.29

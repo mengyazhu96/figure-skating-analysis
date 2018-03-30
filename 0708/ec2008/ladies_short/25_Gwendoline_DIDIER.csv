@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Gwendoline DIDIER,FRA,0,37.91,22.78,16.13,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3Lz,,6.0,False,-2.57,-3,-2,-2,-2,-2,-3,-2,-3,-2,-2,-3,-3,,3.43
+2,3F+COMBO,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+3,LSp2,,1.8,False,0.21,1,0,1,1,1,1,0,0,1,1,0,0,,2.01
+4,SpSq4,,3.4,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,3.4
+5,2A,,3.5,False,0.14,0,0,1,0,0,0,1,1,0,1,0,0,,3.64
+6,FSSp2,,2.0,False,0.29,1,0,0,0,0,1,0,1,1,0,0,1,,2.29
+7,CiSt1,,1.8,False,0.21,1,0,1,1,0,1,1,0,1,0,0,0,,2.01
+8,CCoSp4,,3.5,False,0.0,0,-1,0,0,0,0,0,0,0,0,0,0,,3.5
+,,,27.5,,,,,,,,,,,,,,,,22.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.0,4.5,4.75,5.0,4.25,4.25,4.25,4.5,5.25,5.0,3.25,,4.36
+,Transition / Linking Footwork  ,,,,0.8,3.75,4.0,3.75,5.0,4.5,3.75,3.75,3.0,4.0,4.75,4.25,3.5,,3.86
+,Performance / Execution  ,,,,0.8,4.25,3.75,3.5,4.75,4.75,4.25,3.75,3.75,4.25,4.75,4.5,3.5,,4.07
+,Choreography / Composition  ,,,,0.8,4.0,3.5,4.0,4.75,5.0,3.75,4.0,3.5,4.0,4.5,4.5,4.25,,4.0
+,Interpretation  ,,,,0.8,4.0,3.5,4.25,5.0,5.0,4.0,3.75,3.25,4.25,4.75,4.0,3.5,,3.86
+,,,,,,,,,,,,,,,,,,,16.13
+Deduction,Falls,-1.0

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Anton KOVALEVSKI,UKR,3,60.05,31.01,30.04,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.5
+2,3Lz+3T,,10.1,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,8.7
+3,3Lo,,5.1,False,-0.2,0,0,0,-1,0,-1,0,0,-1,,4.9
+4,FCSp3,,2.8,False,0.0,0,0,1,0,-1,0,0,0,0,,2.8
+5,SlSt3,,3.3,False,0.36,1,2,1,0,1,0,1,1,0,,3.66
+6,CCoSp2,,2.5,False,0.14,0,0,1,-1,1,0,0,1,0,,2.64
+7,CSSp3,,2.6,False,0.21,0,1,1,0,1,0,0,1,0,,2.81
+,,,34.9,,,,,,,,,,,,,31.01
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.0,6.5,5.75,6.25,6.0,5.0,6.0,6.0,6.25,,6.04
+,Transition / Linking Footwork  ,,,,1.0,5.75,6.0,5.75,6.25,6.0,5.25,5.5,5.75,5.75,,5.79
+,Performance / Execution  ,,,,1.0,5.75,6.25,6.25,6.0,5.5,5.5,5.75,5.75,6.25,,5.89
+,Choreography / Composition  ,,,,1.0,6.0,6.5,6.5,6.25,6.25,5.5,6.5,6.25,6.0,,6.25
+,Interpretation  ,,,,1.0,6.0,6.25,6.0,6.25,5.75,5.25,6.25,6.0,6.25,,6.07
+,,,,,,,,,,,,,,,,30.04
+Deduction, Falls,-1.0

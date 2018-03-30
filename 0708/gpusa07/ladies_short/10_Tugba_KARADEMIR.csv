@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Tugba KARADEMIR,TUR,0,41.58,23.58,19.0,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3F+COMBO,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+2,3S,,4.5,False,-2.0,-2,-2,-2,-2,-2,-2,-2,-2,-3,-2,,2.5
+3,LSp3,,2.4,False,0.0,0,0,0,1,0,0,0,0,0,0,,2.4
+4,SpSq4,,3.4,False,1.0,1,1,0,1,1,0,1,0,1,1,,4.4
+5,2A,,3.5,False,0.0,0,0,0,0,0,-1,0,0,0,0,,3.5
+6,FCSp4,,3.0,False,0.1,0,0,-1,1,1,0,0,0,1,0,,3.1
+7,CiSt1,,1.8,False,-0.06,0,0,-1,0,0,0,0,0,-1,0,,1.74
+8,CCoSp4,,3.5,False,-0.06,0,-1,-2,0,0,-1,1,0,0,0,,3.44
+,,,27.6,,,,,,,,,,,,,,23.58
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.5,5.0,5.0,5.5,4.75,5.0,4.75,4.75,5.0,5.25,,4.9
+,Transition / Linking Footwork ,,,,0.8,4.25,4.75,4.25,4.75,4.5,4.5,4.25,4.25,4.75,4.5,,4.45
+,Performance / Execution ,,,,0.8,4.5,5.5,4.5,5.0,5.0,5.0,4.5,4.5,4.25,4.75,,4.65
+,Choreography / Composition ,,,,0.8,4.5,5.25,4.5,5.25,4.75,5.0,4.75,5.0,5.5,5.0,,4.85
+,Interpretation ,,,,0.8,4.75,5.5,4.25,5.25,4.75,4.75,5.0,4.75,4.75,5.25,,4.9
+,,,,,,,,,,,,,,,,,19.0
+Deduction,Falls,-1.0

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Takahiko KOZUKA,JPN,28,71.78,35.96,37.82,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T<,<,7.2,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.2
+2,3A,,8.5,False,-2.86,-3,-3,-3,-3,-3,-2,-3,-3,-2,,5.64
+3,FSSp4,,3.0,False,0.71,2,1,2,1,1,1,2,1,2,,3.71
+4,3Lz+3T,,10.1,False,0.3,0,0,1,0,1,-1,1,0,1,,10.4
+5,CCSp4,,3.2,False,0.43,1,1,1,0,1,1,1,0,2,,3.63
+6,SlSt3,,3.3,False,0.79,2,1,2,1,2,2,1,1,2,,4.09
+7,CCoSp4,,3.5,False,0.79,2,1,2,1,2,3,1,1,2,,4.29
+,,,38.8,,,,,,,,,,,,,35.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.5,8.25,7.0,8.0,8.25,7.25,7.75,8.25,,7.79
+,Transition / Linking Footwork  ,,,,1.0,7.25,7.25,8.0,6.5,7.75,7.25,6.75,7.0,8.0,,7.32
+,Performance / Execution  ,,,,1.0,7.5,7.5,7.75,7.0,8.0,7.75,7.0,7.0,7.75,,7.46
+,Choreography / Composition  ,,,,1.0,7.75,7.5,8.0,6.75,8.0,7.75,7.0,7.5,7.75,,7.61
+,Interpretation  ,,,,1.0,7.75,7.25,8.0,7.0,8.0,8.0,6.75,7.5,8.0,,7.64
+,,,,,,,,,,,,,,,,37.82
+Deduction,Falls,-2.0

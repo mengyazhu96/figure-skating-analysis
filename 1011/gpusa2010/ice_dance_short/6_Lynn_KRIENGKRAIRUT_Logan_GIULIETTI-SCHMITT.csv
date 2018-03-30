@@ -1,0 +1,18 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Lynn KRIENGKRAIRUT / Logan GIULIETTI-SCHMITT,USA,1,52.13,29.83,22.3,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,SlLi4,,4.0,False,0.67,2,2,1,1,1,1,2,1,,4.67
+2,STw4,,6.0,False,0.08,0,1,0,0,0,0,1,-1,,6.08
+3,GW2Se2,,6.0,False,-0.17,-1,0,0,0,-1,-1,1,0,,5.83
+4,GW1Se4,,6.0,False,0.08,0,0,0,1,0,0,1,0,,6.08
+5,NtMiSt3,,6.5,False,0.67,0,1,1,0,1,1,0,1,,7.17
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,28.5,,,,,,,,,,,,29.83
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.75,5.0,5.75,5.75,5.25,6.0,5.5,,5.5
+,Linking Footwork / Movement  ,,,,0.7,4.75,5.75,4.75,5.5,6.0,5.0,6.0,5.25,,5.38
+,Performance  ,,,,0.7,5.25,6.25,5.0,5.75,6.25,5.25,6.25,5.75,,5.75
+,Choreography  ,,,,0.8,4.5,6.0,5.0,5.75,6.0,5.25,6.25,5.25,,5.54
+,Interpretation / Timing  ,,,,1.0,4.25,6.5,5.25,5.5,6.0,5.5,6.25,5.5,,5.67
+,,,,,,,,,,,,,,,22.3

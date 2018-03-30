@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,REED Allison / JAPARIDZE Otar,GEO,7,26.65,14.22,12.43,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.9,False,-0.14,0,-1,0,0,0,0,0,0,-1,,2.76
+2,1S2,,1.6,False,-0.1,0,0,0,-1,0,0,-1,-1,-1,,1.5
+3,1S3,,2.4,False,-0.2,-1,-1,0,0,-1,0,0,0,0,,2.2
+4,2S1,,3.2,False,-0.56,0,-1,-2,0,0,-1,-1,-1,-1,,2.64
+5,2S2,,2.3,False,0.0,0,-1,0,-1,0,0,0,0,0,,2.3
+6,2S3,,3.1,False,-0.28,0,-1,-1,0,-1,0,-1,0,0,,2.82
+,,,15.5,,,,,,,,,,,,,14.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.0,5.0,5.0,4.75,5.0,5.25,4.5,5.0,5.25,,5.05
+,Timing  ,,,,0.75,4.75,4.75,4.75,4.75,4.5,5.0,4.25,4.75,4.75,,4.75
+,Performance / Execution  ,,,,0.5,5.0,5.25,5.75,4.75,5.0,5.25,4.25,4.5,5.0,,5.1
+,Interpretation  ,,,,0.5,5.25,5.0,6.0,5.0,4.75,5.0,4.5,5.0,5.0,,5.05
+,,,,,,,,,,,,,,,,12.43

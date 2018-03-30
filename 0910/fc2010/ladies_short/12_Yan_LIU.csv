@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Yan LIU,CHN,35,46.6,24.8,21.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Lz+2T,,3.2,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.2
+2,3Lo,,5.0,False,0.2,0,1,1,0,0,0,0,0,0,,5.2
+3,SpSq3,,3.1,False,0.2,0,1,0,1,0,1,1,0,0,,3.3
+4,2A,,3.5,False,1.0,1,0,1,1,1,0,1,1,1,,4.5
+5,FCSp2,,2.3,False,0.0,1,0,0,0,0,0,0,0,0,,2.3
+6,LSp1,,1.5,False,0.0,0,0,0,-1,0,0,1,0,0,,1.5
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,1,0,0,,2.3
+8,CCoSp4,,3.5,False,0.0,0,0,0,0,0,0,1,0,0,,3.5
+,,,24.4,,,,,,,,,,,,,24.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.25,5.75,5.75,5.75,4.75,5.75,5.5,5.5,,5.7
+,Transition / Linking Footwork  ,,,,0.8,5.0,5.0,5.0,5.0,5.5,4.5,5.25,5.0,5.0,,5.05
+,Performance / Execution  ,,,,0.8,5.5,5.0,5.25,5.75,5.75,4.75,5.75,5.5,5.25,,5.55
+,Choreography / Composition  ,,,,0.8,5.75,5.0,5.5,5.5,5.5,4.25,5.75,5.5,5.25,,5.55
+,Interpretation  ,,,,0.8,5.5,5.25,5.25,5.5,5.25,4.5,5.5,5.5,5.25,,5.4
+,,,,,,,,,,,,,,,,21.8

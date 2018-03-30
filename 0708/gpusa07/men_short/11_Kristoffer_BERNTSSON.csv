@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Kristoffer BERNTSSON,SWE,0,54.15,25.6,29.55,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz<+3T,,5.9,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.9
+2,3A,,7.5,False,0.0,0,0,0,0,0,0,0,0,0,0,,7.5
+3,3F,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+4,FSSp2,,2.0,False,0.0,0,-1,0,-1,0,0,0,0,0,1,,2.0
+5,CiSt2,,2.3,False,0.2,0,0,0,0,1,1,2,1,1,0,,2.5
+6,CSSp3,,2.3,False,0.0,0,0,0,0,0,1,0,0,0,0,,2.3
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,1,0,0,,2.3
+8,CCoSp4,,3.5,False,0.1,1,0,0,0,1,1,0,0,0,0,,3.6
+,,,31.3,,,,,,,,,,,,,,25.6
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,5.75,5.5,5.25,5.25,5.5,6.5,6.0,5.25,6.0,6.5,,5.75
+,Transition / Linking Footwork ,,,,1.0,5.5,6.5,5.25,5.0,5.0,6.0,5.75,5.0,5.5,6.0,,5.5
+,Performance / Execution ,,,,1.0,5.75,6.25,5.75,4.75,6.0,5.75,6.25,6.5,6.25,6.25,,5.95
+,Choreography / Composition ,,,,1.0,6.25,6.0,5.5,5.0,5.75,7.0,6.25,6.25,6.25,6.5,,6.15
+,Interpretation ,,,,1.0,6.0,6.5,5.75,5.25,6.0,6.25,6.5,6.5,6.25,6.5,,6.2
+,,,,,,,,,,,,,,,,,29.55
+Deduction,Falls,-1.0

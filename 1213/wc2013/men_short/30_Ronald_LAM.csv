@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Ronald LAM,HKG,13,57.94,32.3,26.64,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.5
+2,3F+3T,,9.4,False,0.3,1,0,1,0,0,0,1,1,0,,9.7
+3,3Lz,,6.0,False,0.2,1,0,0,1,1,0,0,0,0,,6.2
+4,FUSp3,,2.4,False,0.0,0,0,0,1,0,0,0,0,0,,2.4
+5,CSSp2,,2.3,False,-0.04,0,0,0,0,0,-1,0,-1,0,,2.26
+6,StSq2,,2.6,False,0.07,0,1,1,0,0,0,0,0,0,,2.67
+7,CCoSp4,,3.5,False,0.07,0,0,1,0,-1,0,1,0,0,,3.57
+,,,34.7,,,,,,,,,,,,,32.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.5,6.0,5.5,5.75,5.0,5.25,5.0,5.5,,5.46
+,Transition / Linking Footwork  ,,,,1.0,5.5,5.25,5.5,5.25,5.25,5.0,5.0,4.5,5.0,,5.18
+,Performance / Execution  ,,,,1.0,5.75,5.25,5.5,5.75,4.75,5.25,5.5,5.5,5.0,,5.39
+,Choreography / Composition  ,,,,1.0,5.5,5.25,5.75,5.5,5.0,5.0,5.25,4.75,5.25,,5.25
+,Interpretation  ,,,,1.0,5.5,5.5,5.5,5.75,5.0,5.0,5.5,5.25,5.25,,5.36
+,,,,,,,,,,,,,,,,26.64
+Deduction,Falls,-1.0

@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Natasha PURICH / Mervin TRAN,CAN,1,98.23,52.26,46.97,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.4,False,0.2,1,-1,-2,1,1,0,1,-1,1,,5.6
+2,3T+2T,,5.4,False,0.3,0,0,0,1,1,1,0,0,1,,5.7
+3,ChSq1,,2.0,False,0.5,1,0,0,1,2,1,1,0,1,,2.5
+4,3STh,,4.5,False,-2.1,-3,-3,-3,-3,-2,-3,-3,-3,-3,,2.4
+5,FCCoSp3,,3.0,False,-0.01,1,-1,-1,0,2,0,-1,0,0,,2.99
+6,FiDs4,,3.5,False,0.5,1,1,-1,1,2,1,-1,1,1,,4.0
+7,3S<<,<<,1.43,True,-0.57,-3,-2,-3,-3,-3,-3,-3,-2,-3,,0.86
+8,5ALi4,,7.15,True,0.2,0,-1,1,1,1,1,-1,0,0,,7.35
+9,3TTh,,4.95,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.55
+10,5RLi4,,7.7,True,0.5,1,0,1,1,1,1,-1,0,1,,8.2
+11,PCoSp4,,4.5,False,0.0,0,0,1,0,0,0,0,0,0,,4.5
+12,4Li4,,4.4,True,0.21,1,0,0,1,1,2,0,0,0,,4.61
+,,,53.93,,,,,,,,,,,,,52.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.0,5.75,5.75,6.25,6.25,6.25,6.0,6.0,5.75,,6.0
+,Transition / Linking Footwork  ,,,,1.6,5.75,5.0,5.25,6.0,6.5,5.75,7.0,6.5,6.25,,6.0
+,Performance / Execution  ,,,,1.6,6.0,5.25,5.25,5.75,6.0,5.5,5.75,5.5,5.0,,5.57
+,Choreography / Composition  ,,,,1.6,6.25,5.5,5.5,6.5,6.75,5.75,6.5,6.0,5.5,,6.0
+,Interpretation  ,,,,1.6,6.0,5.25,5.5,6.5,6.5,5.5,6.25,5.5,4.75,,5.79
+,,,,,,,,,,,,,,,,46.97
+Deduction,Falls,-1.0

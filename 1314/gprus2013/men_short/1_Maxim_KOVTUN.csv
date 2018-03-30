@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Maxim KOVTUN,RUS,3,92.53,51.78,40.75,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4S+3T,,14.6,False,1.86,1,1,2,2,2,2,2,2,2,,16.46
+2,4T,,10.3,False,0.0,-1,-1,1,1,-1,0,2,1,-1,,10.3
+3,3A,,9.35,True,1.71,2,1,2,2,1,2,2,2,1,,11.06
+4,CCoSp4,,3.5,False,0.79,1,1,2,2,1,2,1,2,2,,4.29
+5,StSq3,,3.3,False,1.0,1,2,2,2,2,2,2,2,2,,4.3
+6,CSSp3,,2.6,False,0.36,1,0,1,1,0,0,1,1,1,,2.96
+7,FUSp1,,1.7,False,0.71,2,1,1,1,2,2,1,1,2,,2.41
+,,,45.35,,,,,,,,,,,,,51.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.25,7.75,9.0,8.0,7.75,7.75,8.5,8.5,8.0,,8.11
+,Transition / Linking Footwork  ,,,,1.0,8.0,7.0,8.75,8.0,7.75,7.0,6.5,8.25,7.5,,7.64
+,Performance / Execution  ,,,,1.0,8.5,8.0,8.75,8.75,8.5,8.25,8.5,8.5,8.5,,8.5
+,Choreography / Composition  ,,,,1.0,7.75,7.5,9.0,8.25,8.25,7.75,8.25,8.5,8.25,,8.14
+,Interpretation  ,,,,1.0,8.0,7.75,9.0,8.75,8.0,8.0,8.5,8.75,8.5,,8.36
+,,,,,,,,,,,,,,,,40.75

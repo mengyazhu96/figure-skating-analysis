@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Anastasia CANNUSCIO / Colin MCMANUS,USA,2,55.14,30.04,25.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1PD3+kpYNY,,5.0,False,0.17,1,0,0,0,0,0,0,1,1,,5.17
+2,PSt3+kpYYN,,5.0,False,0.17,1,0,0,0,1,0,0,1,0,,5.17
+3,RoLi4,,4.5,False,0.69,2,1,1,2,1,1,1,1,1,,5.19
+4,STw4,,6.6,False,0.34,0,1,0,0,1,1,1,1,0,,6.94
+5,NtDiSt3,,7.1,False,0.47,0,1,1,0,1,0,0,1,0,,7.57
+,,,28.2,,,,,,,,,,,,,30.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,5.75,6.25,5.75,6.75,6.5,6.25,6.25,6.25,,6.18
+,Linking Footwork / Movement  ,,,,0.8,5.75,5.75,6.0,6.5,6.75,6.25,6.0,6.25,6.0,,6.11
+,Performance  ,,,,0.8,5.75,6.25,6.5,6.5,7.0,6.5,6.25,6.5,6.0,,6.36
+,Choreography  ,,,,0.8,6.25,6.0,6.5,6.0,7.25,6.5,6.25,6.75,6.25,,6.36
+,Interpretation / Timing  ,,,,0.8,6.25,6.0,6.75,6.25,7.0,6.25,6.0,7.0,6.0,,6.36
+,,,,,,,,,,,,,,,,25.1

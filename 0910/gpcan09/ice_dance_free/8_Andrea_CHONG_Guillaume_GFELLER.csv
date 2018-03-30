@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Andrea CHONG / Guillaume GFELLER,CAN,1,64.04,35.0,29.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,5.0,False,-0.5,-1,0,-1,-1,-1,-1,-1,-1,0,,4.5
+2,STw3,,4.7,False,-0.6,-1,-1,-1,-2,-1,-1,-1,-2,-2,,4.1
+3,SlLi4+RoLi4,,8.0,False,0.0,0,1,0,0,0,0,0,1,-1,,8.0
+4,CiSt2,,6.4,False,0.0,0,0,0,0,0,0,-1,0,0,,6.4
+5,Sp3,,4.0,False,0.2,0,1,1,0,1,1,0,0,-1,,4.2
+6,CuLi2,,3.5,False,0.1,1,0,0,0,0,0,0,1,1,,3.6
+7,DiSt1,,4.6,False,-0.4,0,0,0,0,-1,0,-1,-1,0,,4.2
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,36.2,,,,,,,,,,,,,35.0
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.75,5.25,4.25,4.75,5.25,5.75,5.0,5.0,5.0,,4.95
+,Linking Footwork / Movement  ,,,,1.75,4.5,4.25,3.5,4.75,5.0,5.0,4.75,4.0,4.75,,4.6
+,Performance  ,,,,1.0,4.75,5.0,4.0,5.0,4.75,5.25,5.25,5.75,4.75,,5.0
+,Choreography  ,,,,1.0,4.5,5.25,3.75,5.25,5.0,5.5,4.75,6.5,5.0,,5.0
+,Interpretation / Timing  ,,,,1.0,4.75,5.5,4.0,5.0,4.75,5.5,4.5,5.0,5.25,,4.8
+,,,,,,,,,,,,,,,,29.04

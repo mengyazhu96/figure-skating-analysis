@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Ekaterina KOSTENKO / Roman TALAN,UKR,0,36.68,20.71,16.97,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,2A,,3.5,False,-0.8,-1,-1,-1,-1,-1,-1,-1,-1,-1,-2,-1,-1,,2.7
+2,2LzTw1,,3.0,False,-0.3,-1,-1,-1,-1,-1,0,0,-1,-2,-1,-2,-1,,2.7
+3,3LoTh,,5.0,False,-1.49,-3,-2,-2,-2,-3,-3,-2,-2,-2,-2,-2,-2,,3.51
+4,5TLi2,,5.0,False,-0.3,-1,-1,0,-1,0,-1,0,-1,-1,-2,-1,-1,,4.7
+5,CCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,SlSt1,,1.8,False,0.0,0,0,-1,0,0,0,0,0,0,0,0,0,,1.8
+7,PCoSp1,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,1,0,0,,3.0
+8,BiDs1,,2.8,False,-0.5,-2,0,-1,-2,0,-2,-1,0,0,0,0,1,,2.3
+,,,24.1,,,,,,,,,,,,,,,,20.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.25,5.0,4.75,5.25,4.5,4.25,5.25,4.25,4.5,4.25,4.25,,4.36
+,Transition / Linking Footwork  ,,,,0.8,4.0,3.75,4.5,4.5,4.25,4.5,4.0,4.75,4.0,4.0,4.0,4.0,,4.14
+,Performance / Execution  ,,,,0.8,4.25,4.0,4.75,4.75,5.0,4.25,4.0,4.5,3.25,3.75,4.25,3.75,,4.14
+,Choreography / Composition  ,,,,0.8,4.25,4.0,4.75,4.75,4.75,4.5,4.25,4.75,4.0,4.5,4.25,4.0,,4.29
+,Interpretation  ,,,,0.8,4.0,4.25,4.5,4.5,5.0,4.5,4.25,4.75,4.5,4.0,4.0,3.5,,4.29
+,,,,,,,,,,,,,,,,,,,16.97
+Deduction,Time violation,-1.0

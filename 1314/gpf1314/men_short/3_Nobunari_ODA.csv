@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Nobunari ODA,JPN,1,80.94,41.76,40.18,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T<,<,7.2,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.2
+2,3A,,8.5,False,2.0,2,2,1,2,2,2,2,2,2,,10.5
+3,CCSp4,,3.2,False,0.57,1,1,0,1,2,1,1,1,2,,3.77
+4,3Lz+3T,e,11.11,True,-0.2,0,-1,1,1,1,-1,-1,-1,-1,,10.91
+5,FSSp4,,3.0,False,0.86,1,2,1,2,2,2,2,1,2,,3.86
+6,StSq3,,3.3,False,0.86,3,2,1,1,2,2,2,1,2,,4.16
+7,CCoSp4,,3.5,False,0.86,2,1,1,2,2,2,2,1,2,,4.36
+,,,39.81,,,,,,,,,,,,,41.76
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.25,8.25,8.0,7.75,8.0,8.0,7.75,8.25,8.25,,8.07
+,Transition / Linking Footwork  ,,,,1.0,8.0,7.5,7.5,8.25,7.75,7.75,7.5,8.0,8.25,,7.82
+,Performance / Execution  ,,,,1.0,7.75,7.75,7.25,8.5,8.25,7.75,8.0,8.25,8.25,,8.0
+,Choreography / Composition  ,,,,1.0,8.5,8.0,7.75,8.25,8.0,8.0,7.75,8.25,8.5,,8.11
+,Interpretation  ,,,,1.0,8.5,8.0,7.75,8.5,8.0,8.25,7.75,8.25,8.5,,8.18
+,,,,,,,,,,,,,,,,40.18
+Deduction,Falls,-1.0

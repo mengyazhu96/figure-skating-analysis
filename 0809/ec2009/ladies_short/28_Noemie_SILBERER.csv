@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Noemie SILBERER,SUI,0,35.18,19.98,15.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlSt2,,2.3,False,0.0,0,0,0,1,0,0,1,0,0,,2.3
+2,3Lz<,<,1.9,False,-0.76,-2,-3,-2,-3,-2,-2,-3,-3,-3,,1.14
+3,3T+1Lo,,4.5,False,-3.0,-3,-2,-2,-3,-3,-3,-3,-3,-3,,1.5
+4,2A,,3.5,False,-0.16,-1,-1,0,0,0,-1,0,0,0,,3.34
+5,LSp2,,1.9,False,0.5,1,1,1,1,1,1,1,1,0,,2.4
+6,SpSq4,,3.4,False,0.8,1,0,1,0,0,1,0,1,1,,4.2
+7,FCSp2,,2.3,False,0.4,0,0,1,1,0,1,1,1,1,,2.7
+8,CCoSp1,,2.0,False,0.4,1,0,1,1,0,1,1,1,0,,2.4
+,,,21.8,,,,,,,,,,,,,19.98
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.5,4.25,3.75,3.75,3.75,3.75,4.0,4.0,,3.95
+,Transition / Linking Footwork  ,,,,0.8,4.0,4.0,3.75,3.5,3.5,3.5,3.5,3.5,3.25,,3.55
+,Performance / Execution  ,,,,0.8,4.0,4.25,4.0,3.75,3.75,4.0,3.5,3.75,3.5,,3.85
+,Choreography / Composition  ,,,,0.8,4.0,4.75,4.25,3.5,3.25,3.75,3.25,4.0,3.75,,3.8
+,Interpretation  ,,,,0.8,3.75,4.25,4.0,3.75,3.5,4.0,3.75,3.75,4.25,,3.85
+,,,,,,,,,,,,,,,,15.2

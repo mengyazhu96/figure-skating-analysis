@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Min Seok SEO,KOR,1,30.42,15.32,17.1,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T<,<,4.4,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.4
+2,2A,,3.5,False,-2.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+3,CSSp3,,2.6,False,0.3,1,1,1,1,0,0,0,0,1,,2.9
+4,2S,,1.3,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+5,CCoSp4,,3.5,False,0.0,0,0,0,0,0,0,0,0,1,,3.5
+6,SlSt2,,2.3,False,-0.24,0,-1,-1,-1,-1,0,-1,-1,0,,2.06
+7,CiSt1,,1.8,False,-0.12,0,-1,-1,0,0,0,-1,0,-1,,1.68
+8,FSSp3,,2.6,False,-0.12,0,-1,0,0,0,-1,0,-1,0,,2.48
+,,,22.0,,,,,,,,,,,,,15.32
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,2.75,3.75,3.75,3.25,3.75,3.75,3.75,3.75,3.75,,3.75
+,Transition / Linking Footwork  ,,,,1.0,2.25,3.5,2.75,3.0,3.0,3.0,3.0,3.25,3.25,,3.1
+,Performance / Execution  ,,,,1.0,2.5,3.5,3.25,3.5,3.5,3.0,3.0,3.5,3.5,,3.45
+,Choreography / Composition  ,,,,1.0,3.0,3.25,3.5,3.5,3.75,3.5,3.25,3.5,3.5,,3.5
+,Interpretation  ,,,,1.0,2.75,3.25,3.25,3.25,3.5,3.25,3.25,3.5,3.25,,3.3
+,,,,,,,,,,,,,,,,17.1
+Deduction,Falls,-2.0

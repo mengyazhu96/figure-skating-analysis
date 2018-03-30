@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,TEN Denis,KAZ,16,76.24,41.24,35.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,1.6,2,2,1,2,2,1,2,1,1,,9.8
+2,3Lz+3T,,10.0,False,-0.2,0,0,0,0,-1,-1,-1,0,0,,9.8
+3,3F,!,5.5,False,-0.8,0,0,0,-1,1,-1,-2,0,-2,,4.7
+4,CCoSp4,,3.5,False,0.6,2,1,0,1,1,2,1,1,1,,4.1
+5,CiSt3,,3.3,False,0.7,1,1,1,1,1,2,2,1,2,,4.0
+6,FSSp3,,2.6,False,0.0,0,0,0,0,0,1,0,0,0,,2.6
+7,CSSp2,,2.3,False,-0.06,0,0,0,-2,0,0,0,0,-1,,2.24
+8,SlSt3,,3.3,False,0.7,2,1,1,1,2,1,2,2,1,,4.0
+,,,38.7,,,,,,,,,,,,,41.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.25,8.0,7.5,7.0,6.75,6.75,8.0,7.0,5.75,,7.2
+,Transitions / Linking Footwork  ,,,,1.0,6.75,7.25,7.0,5.75,6.25,6.5,6.75,6.75,6.0,,6.55
+,Performance / Execution  ,,,,1.0,7.0,7.75,7.25,7.0,7.0,7.25,7.5,6.75,6.5,,7.1
+,Choreography / Composition  ,,,,1.0,6.75,7.5,7.0,5.75,6.75,7.5,7.0,7.0,6.25,,6.9
+,Interpretation  ,,,,1.0,7.25,7.5,7.5,7.0,7.0,7.75,7.5,7.0,6.75,,7.25
+,,,,,,,,,,,,,,,,35.0

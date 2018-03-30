@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Dee Dee LENG / Simon SHNAPIR,USA,1,45.42,22.63,23.79,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Tw1,,3.0,False,0.26,2,1,1,1,0,0,1,0,2,,3.26
+2,1S*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,3STh,,4.5,False,0.6,2,0,1,1,-1,1,1,1,1,,5.1
+4,FiDs1,,2.8,False,0.0,-1,0,1,0,-1,0,0,0,1,,2.8
+5,FCCoSp3p3,,3.0,False,0.14,1,1,1,0,0,0,0,0,0,,3.14
+6,StSq4,,3.9,False,0.0,0,0,0,0,0,0,0,0,0,,3.9
+7,3Li4,,4.0,False,0.43,1,1,1,1,0,1,-1,1,2,,4.43
+,,,21.2,,,,,,,,,,,,,22.63
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.75,6.25,6.0,6.0,5.75,5.75,6.5,5.75,,6.0
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.5,5.75,5.75,5.75,5.5,5.25,6.25,6.0,,5.89
+,Performance / Execution  ,,,,0.8,5.75,6.75,5.75,5.75,5.75,5.5,5.5,6.0,5.75,,5.75
+,Choreography / Composition  ,,,,0.8,6.5,6.75,6.0,6.0,6.0,5.5,6.0,6.25,6.25,,6.14
+,Interpretation  ,,,,0.8,6.0,6.5,6.25,6.0,6.0,5.25,5.5,6.0,6.0,,5.96
+,,,,,,,,,,,,,,,,23.79
+Deduction,Falls,-1.0

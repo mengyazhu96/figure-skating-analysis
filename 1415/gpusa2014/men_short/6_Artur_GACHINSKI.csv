@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Artur GACHINSKI,RUS,2,75.71,41.73,35.98,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,7.3
+2,3Lz+3T,,10.1,False,0.1,1,0,0,1,0,-1,0,0,0,,10.2
+3,FCSp4,,3.2,False,0.29,1,0,1,1,0,0,1,2,0,,3.49
+4,3A,,9.35,True,0.57,0,1,1,0,0,-1,1,1,1,,9.92
+5,CCoSp3p4,,3.5,False,0.5,1,1,1,0,1,1,1,2,1,,4.0
+6,StSq3,,3.3,False,0.71,2,2,2,1,1,0,1,2,1,,4.01
+7,CSSp3,,2.6,False,0.21,1,0,0,1,1,0,0,1,0,,2.81
+,,,42.35,,,,,,,,,,,,,41.73
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.75,7.5,7.25,7.25,7.5,6.75,7.5,8.0,6.5,,7.36
+,Transition / Linking Footwork  ,,,,1.0,7.75,6.5,7.0,6.25,7.25,6.0,7.0,7.75,6.25,,6.86
+,Performance / Execution  ,,,,1.0,7.5,7.25,7.5,6.75,7.5,6.25,7.25,8.25,6.5,,7.18
+,Choreography / Composition  ,,,,1.0,8.0,7.25,6.75,7.0,7.75,6.25,7.5,8.25,6.75,,7.29
+,Interpretation  ,,,,1.0,7.75,7.0,7.25,7.25,7.75,6.25,7.25,8.25,6.75,,7.29
+,,,,,,,,,,,,,,,,35.98
+Deduction,Late start,-1.0
+Deduction,Falls,-1.0

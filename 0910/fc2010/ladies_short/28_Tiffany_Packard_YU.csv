@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Tiffany Packard YU,HKG,11,30.74,16.3,14.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A<,<,0.8,False,-0.36,-1,-2,-2,-2,-2,-1,-2,0,-2,,0.44
+2,3T,,4.0,False,-1.8,-1,-2,-2,-2,-2,-2,-1,-1,-2,,2.2
+3,3S<+2T,<,2.6,False,-0.54,-1,-2,-1,-1,-2,-2,-2,-1,-2,,2.06
+4,SpSq2,,2.3,False,0.0,1,0,0,0,0,0,0,0,-1,,2.3
+5,CCoSp3,,3.0,False,-0.12,0,-1,0,0,0,-1,0,0,-1,,2.88
+6,SlSt2,,2.3,False,0.0,0,0,-1,0,0,0,0,0,0,,2.3
+7,FSSp1,,2.0,False,-0.48,-3,-1,-1,-1,-1,-2,-2,-2,-2,,1.52
+8,LSp3,,2.4,False,0.2,1,0,0,1,1,0,0,-1,0,,2.6
+,,,19.4,,,,,,,,,,,,,16.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.0,3.5,3.5,4.5,3.5,3.75,3.0,3.5,4.25,,3.6
+,Transition / Linking Footwork  ,,,,0.8,3.0,3.5,3.25,4.0,3.25,3.5,2.75,3.0,3.25,,3.3
+,Performance / Execution  ,,,,0.8,3.25,3.75,3.75,4.5,3.5,3.75,3.0,3.25,4.25,,3.7
+,Choreography / Composition  ,,,,0.8,3.5,4.25,3.5,4.25,3.75,3.25,3.5,3.25,3.75,,3.75
+,Interpretation  ,,,,0.8,3.5,4.0,3.5,4.0,3.5,3.75,3.25,3.5,3.75,,3.7
+,,,,,,,,,,,,,,,,14.44

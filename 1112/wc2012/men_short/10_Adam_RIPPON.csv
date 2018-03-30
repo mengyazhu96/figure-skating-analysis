@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Adam RIPPON,USA,18,73.55,37.77,35.78,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,,9.4,False,0.9,1,2,1,1,1,2,2,1,1,,10.3
+2,3A,,8.5,False,-2.29,-2,-2,-3,-2,-2,-3,-3,-2,-2,,6.21
+3,CSSp3,,2.6,False,0.64,1,1,1,2,1,1,2,1,2,,3.24
+4,3Lz,,6.0,False,-1.5,-2,-2,-3,-2,-2,-2,-2,-2,-3,,4.5
+5,FCSp4,,3.2,False,0.79,1,2,2,2,1,1,2,1,2,,3.99
+6,SlSt4,,3.9,False,1.2,2,2,2,1,1,2,1,2,2,,5.1
+7,CCoSp4,,3.5,False,0.93,2,2,2,2,1,1,2,2,2,,4.43
+,,,37.1,,,,,,,,,,,,,37.77
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.25,7.75,7.25,7.0,7.25,7.25,6.5,7.75,,7.32
+,Transition / Linking Footwork  ,,,,1.0,7.0,7.0,7.25,7.0,6.75,6.5,6.75,6.25,7.25,,6.89
+,Performance / Execution  ,,,,1.0,7.25,7.25,7.5,7.25,7.0,7.0,7.0,6.5,8.0,,7.18
+,Choreography / Composition  ,,,,1.0,7.5,7.5,7.5,7.0,7.0,6.0,7.25,6.25,8.25,,7.14
+,Interpretation  ,,,,1.0,7.25,7.5,7.75,7.25,6.75,7.0,7.25,6.5,8.25,,7.25
+,,,,,,,,,,,,,,,,35.78

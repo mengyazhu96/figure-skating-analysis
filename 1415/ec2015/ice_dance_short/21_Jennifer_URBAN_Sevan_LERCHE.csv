@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Jennifer URBAN / Sevan LERCHE,GER,4,43.07,23.84,19.23,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw3,,5.6,False,-0.21,0,-1,-1,0,0,1,0,-1,-1,,5.39
+2,1PD3+kpNYY,,5.0,False,0.17,0,0,0,0,0,1,0,1,1,,5.17
+3,PSt1+kpNNT,,3.0,False,-0.07,0,-1,0,0,-1,0,0,0,0,,2.93
+4,NtMiSt2,,5.6,False,0.16,0,0,0,0,-1,1,0,0,1,,5.76
+5,RoLi4,,4.5,False,0.09,0,0,0,0,-1,0,0,1,1,,4.59
+,,,23.7,,,,,,,,,,,,,23.84
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.5,4.25,5.25,4.75,4.75,5.25,5.25,5.25,,4.93
+,Linking Footwork / Movement  ,,,,0.8,4.75,4.25,4.5,4.75,4.25,4.25,4.75,5.0,4.75,,4.57
+,Performance  ,,,,0.8,5.0,4.25,4.5,5.25,4.5,5.0,5.25,5.25,5.0,,4.93
+,Choreography  ,,,,0.8,5.0,4.0,4.75,5.0,4.75,4.5,5.0,5.25,5.0,,4.86
+,Interpretation / Timing  ,,,,0.8,4.75,4.0,4.75,5.25,4.75,4.5,4.75,5.0,4.75,,4.75
+,,,,,,,,,,,,,,,,19.23

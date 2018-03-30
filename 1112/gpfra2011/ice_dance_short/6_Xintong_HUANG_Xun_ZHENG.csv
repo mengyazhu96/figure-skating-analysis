@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Xintong HUANG / Xun ZHENG,CHN,4,50.71,26.43,24.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.07,0,0,1,-1,0,-1,1,1,0,,6.07
+2,R1Sq3+kpYYN,,6.0,False,0.0,0,0,0,0,-1,-1,1,1,0,,6.0
+3,R2Sq2+kpNNY,,5.0,False,-0.07,0,0,0,-1,0,-1,0,0,0,,4.93
+4,SlLi4,,4.0,False,0.29,1,1,1,0,0,0,1,1,0,,4.29
+5,NtCiSt2,,5.0,False,0.14,1,1,0,-1,0,0,0,1,-1,,5.14
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.0,,,,,,,,,,,,,26.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.5,6.0,6.5,5.5,5.5,6.25,7.0,6.25,,6.25
+,Linking Footwork / Movement  ,,,,0.7,6.5,6.0,5.25,5.75,5.25,5.0,6.25,6.5,5.5,,5.79
+,Performance  ,,,,0.7,6.5,6.25,6.25,6.0,4.75,4.75,6.5,6.75,6.0,,6.04
+,Choreography  ,,,,0.8,6.75,6.5,6.75,6.25,5.5,5.25,6.75,6.75,6.25,,6.39
+,Interpretation / Timing  ,,,,1.0,6.5,6.5,5.75,5.25,5.25,4.75,6.5,6.25,5.75,,5.89
+,,,,,,,,,,,,,,,,24.28

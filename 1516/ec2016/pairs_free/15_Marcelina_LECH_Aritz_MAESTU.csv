@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Marcelina LECH / Aritz MAESTU,ESP,2,68.65,36.29,33.36,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Tw1,,3.1,False,0.0,0,1,0,1,0,-1,0,0,-1,,3.1
+2,1A,,1.1,False,0.0,0,0,0,0,0,0,0,0,0,,1.1
+3,3LoTh,,5.0,False,-1.4,-2,-2,-2,-1,-2,-2,-2,-2,-2,,3.6
+4,1Lo+COMBO,,0.5,False,-0.3,-3,-3,-3,-3,-2,-3,-3,-3,-3,,0.2
+5,3Li2,,3.5,False,-0.43,-1,0,-2,-1,-2,0,0,-1,-1,,3.07
+6,ChSq1,,2.0,False,-0.29,0,0,-1,-1,0,-1,-1,0,-1,,1.71
+7,3STh,,4.5,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.4
+8,5TLi3,,6.0,False,-0.21,0,-1,0,-1,0,-2,0,0,-1,,5.79
+9,5SLi3,,6.0,False,-0.14,0,0,0,-1,0,-1,0,0,-1,,5.86
+10,FiDs1,,2.8,False,0.0,0,0,0,0,0,0,0,0,0,,2.8
+11,PCoSp3p3,,4.0,False,-0.04,0,-1,0,0,0,0,0,0,-1,,3.96
+12,FCCoSp3p3,,3.0,False,-0.3,-1,-1,-1,0,-1,-1,-1,-2,-1,,2.7
+,,,41.5,,,,,,,,,,,,,36.29
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.25,4.25,4.5,4.0,4.25,4.25,4.5,4.25,4.0,,4.25
+,Transition / Linking Footwork  ,,,,1.6,4.0,4.0,4.25,3.75,4.0,4.0,4.25,4.0,4.75,,4.07
+,Performance / Execution  ,,,,1.6,4.5,4.25,4.0,4.0,4.25,4.0,4.5,4.25,3.75,,4.18
+,Choreography / Composition  ,,,,1.6,4.25,4.25,4.25,4.0,4.0,4.25,4.5,4.25,4.25,,4.21
+,Interpretation  ,,,,1.6,4.25,4.25,4.0,4.0,4.0,4.25,4.75,4.25,4.0,,4.14
+,,,,,,,,,,,,,,,,33.36
+Deduction,Falls,-1.0

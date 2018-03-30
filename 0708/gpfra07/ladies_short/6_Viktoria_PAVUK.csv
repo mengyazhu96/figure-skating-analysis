@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Viktoria PAVUK,HUN,0,44.56,25.12,19.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+2T,e,7.3,False,-1.8,-2,-1,-1,-2,-2,-1,-2,-2,-2,-2,,5.5
+2,3F,,5.5,False,-1.0,-1,-1,-1,-1,-2,-1,-1,-1,-1,-1,,4.5
+3,FCSp1,,1.7,False,0.1,0,0,0,1,1,0,0,0,-1,0,,1.8
+4,2A,,3.5,False,-0.64,0,0,-2,-1,-1,0,-1,0,-1,0,,2.86
+5,SpSq4,,3.4,False,0.6,0,0,0,0,1,1,0,1,1,1,,4.0
+6,CCoSp2,,2.5,False,0.1,0,0,0,0,1,1,0,0,0,0,,2.6
+7,CiSt2,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,0,,2.3
+8,LSp2,,1.8,False,-0.24,-1,-1,-1,-1,1,-1,0,-1,-1,0,,1.56
+,,,28.0,,,,,,,,,,,,,,25.12
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,4.75,4.75,4.75,5.25,5.0,5.0,5.5,5.25,5.75,,5.05
+,Transition / Linking Footwork  ,,,,0.8,4.5,4.5,5.0,4.0,5.0,4.0,4.75,5.0,4.5,5.25,,4.65
+,Performance / Execution  ,,,,0.8,5.0,4.75,4.75,4.5,4.5,4.5,5.0,5.25,4.75,5.5,,4.7
+,Choreography / Composition  ,,,,0.8,4.5,4.5,5.5,4.25,4.75,4.5,4.75,5.5,5.25,5.5,,4.95
+,Interpretation  ,,,,0.8,4.75,4.75,4.75,4.5,5.5,4.75,5.0,5.25,5.0,5.75,,4.95
+,,,,,,,,,,,,,,,,,19.44

@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Melinda WANG,TPE,2,61.68,32.2,30.48,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,2A+2A+SEQ,,5.6,False,0.0,-1,0,0,0,1,0,1,0,0,,5.6
+3,2F+2T,,3.0,False,0.0,0,0,0,1,0,0,0,0,0,,3.0
+4,2Lo,,1.5,False,0.0,0,0,0,0,0,0,0,0,-1,,1.5
+5,CCoSp3,,3.0,False,-0.36,0,-2,-1,-2,0,-1,-1,-1,-1,,2.64
+6,SpSq4,,3.4,False,0.4,0,1,1,1,0,0,0,0,0,,3.8
+7,2Lo,,1.65,True,-0.12,0,0,0,-1,0,-1,0,0,-1,,1.53
+8,2A+2T,,5.28,True,-0.8,-1,-1,-1,-1,0,-1,-1,-1,-1,,4.48
+9,LSp2,,1.9,False,-0.12,0,0,-1,1,0,-1,0,-1,-1,,1.78
+10,2F,,1.87,True,0.0,0,0,0,1,0,0,0,0,0,,1.87
+11,SlSt3,,3.3,False,0.0,0,0,0,0,1,0,0,0,0,,3.3
+12,FSSp1,,2.0,False,-0.3,-1,-1,-1,-1,0,-2,-1,-1,-1,,1.7
+,,,36.5,,,,,,,,,,,,,32.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.25,3.5,3.5,4.5,4.0,4.75,3.5,3.25,4.0,,3.95
+,Transition / Linking Footwork  ,,,,1.6,3.75,3.0,3.0,4.0,3.75,4.0,3.25,3.0,3.75,,3.55
+,Performance / Execution  ,,,,1.6,4.25,3.5,3.5,4.5,4.0,4.25,3.75,3.25,4.0,,3.95
+,Choreography / Composition  ,,,,1.6,4.0,3.25,3.5,4.75,4.25,4.25,3.75,3.5,3.75,,3.85
+,Interpretation  ,,,,1.6,4.25,3.25,3.25,4.25,4.25,4.0,3.5,3.25,3.75,,3.75
+,,,,,,,,,,,,,,,,30.48
+Deduction,Falls,-1.0

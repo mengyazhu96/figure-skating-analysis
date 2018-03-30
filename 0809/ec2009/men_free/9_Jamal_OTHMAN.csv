@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Jamal OTHMAN,SUI,0,121.29,64.89,56.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1A,,0.8,False,0.4,1,0,0,1,1,2,0,1,0,,1.2
+2,3Lz+3T,,10.0,False,1.0,0,1,1,1,1,1,1,1,1,,11.0
+3,3F,,5.5,False,1.0,0,1,0,1,1,1,1,1,1,,6.5
+4,3Lo,,5.0,False,0.6,0,1,1,1,0,1,0,1,0,,5.6
+5,CUSp4,,2.9,False,0.5,0,1,0,1,1,1,1,1,1,,3.4
+6,CiSt3,,3.3,False,0.4,1,1,1,0,0,1,1,1,1,,3.7
+7,3F+2T+2Lo,!,9.13,True,-0.4,-1,0,-1,-1,0,0,-1,0,0,,8.73
+8,3Lz+2T,,8.03,True,0.4,-1,1,0,0,1,0,0,1,0,,8.43
+9,3S,,4.95,True,0.2,0,1,1,0,0,1,0,0,0,,5.15
+10,CCoSp3,,3.0,False,0.2,0,1,0,1,0,0,0,1,0,,3.2
+11,SlSt3,,3.3,False,0.4,0,1,1,0,1,1,1,1,0,,3.7
+12,1A,,0.88,True,0.0,0,0,0,0,0,0,0,0,0,,0.88
+13,FCoSp4,,3.0,False,0.4,0,1,1,0,1,1,1,1,1,,3.4
+,,,59.79,,,,,,,,,,,,,64.89
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,4.75,6.5,6.25,5.25,5.5,6.5,5.75,5.5,6.0,,5.7
+,Transition / Linking Footwork  ,,,,2.0,4.5,6.0,5.5,5.0,5.25,5.25,5.5,5.5,5.5,,5.3
+,Performance / Execution  ,,,,2.0,5.25,6.5,5.0,5.25,5.75,6.0,5.75,6.0,5.75,,5.75
+,Choreography / Composition  ,,,,2.0,5.0,6.25,6.0,5.5,5.5,6.0,5.5,5.5,6.0,,5.6
+,Interpretation  ,,,,2.0,5.25,6.5,5.75,5.5,5.75,6.25,5.75,6.0,5.75,,5.85
+,,,,,,,,,,,,,,,,56.4

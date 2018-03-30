@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Victoria SINITSINA / Ruslan ZHIGANSHIN,RUS,19,62.11,32.93,29.18,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.86,2,2,2,1,2,1,2,1,2,,6.86
+2,RoLi4,,4.0,False,0.71,1,1,1,2,1,1,2,2,2,,4.71
+3,NtMiSt3,,6.5,False,1.14,2,1,2,1,1,0,1,1,1,,7.64
+4,1FS4+kpYYY,,7.0,False,0.43,1,1,1,1,0,0,1,1,1,,7.43
+5,2FS3+kpNYY,,6.0,False,0.29,1,1,1,0,1,0,1,0,0,,6.29
+,,,29.5,,,,,,,,,,,,,32.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.5,8.0,7.25,6.75,7.0,7.5,7.0,7.5,,7.36
+,Linking Footwork / Movement  ,,,,0.7,7.5,7.0,7.75,7.0,6.75,7.0,7.0,6.75,7.25,,7.07
+,Performance  ,,,,0.7,7.5,7.25,8.0,7.25,7.0,7.5,7.5,7.25,8.0,,7.46
+,Choreography  ,,,,0.8,7.75,7.25,7.75,7.25,6.75,7.0,7.25,7.0,7.5,,7.29
+,Interpretation / Timing  ,,,,1.0,7.5,7.5,8.0,7.5,6.75,6.5,7.0,7.0,7.75,,7.29
+,,,,,,,,,,,,,,,,29.18

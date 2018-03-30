@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Jinlin GUAN,CHN,2,66.7,38.4,28.3,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,1.2,2,1,2,1,1,0,1,1,0,,11.2
+2,3F,,5.5,False,1.0,1,1,1,1,1,1,1,1,0,,6.5
+3,FSSp4,,3.0,False,0.5,1,2,-1,2,1,1,1,1,0,,3.5
+4,CiSt3,,3.3,False,0.6,2,1,1,1,2,1,1,1,0,,3.9
+5,2A,,3.5,False,0.2,1,1,1,0,0,0,0,0,0,,3.7
+6,CSSp4,,3.0,False,0.1,1,0,-1,0,1,0,0,0,0,,3.1
+7,SlSt2,,2.3,False,0.2,2,1,0,1,1,0,0,0,0,,2.5
+8,CCoSp4,,3.5,False,0.5,1,1,2,1,1,1,1,0,0,,4.0
+,,,34.1,,,,,,,,,,,,,38.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,7.0,5.5,6.5,6.25,5.75,4.5,5.25,5.5,,5.8
+,Transition / Linking Footwork  ,,,,1.0,5.75,6.5,5.25,6.25,5.75,5.75,4.25,4.75,5.25,,5.45
+,Performance / Execution  ,,,,1.0,5.75,7.0,5.5,6.5,6.25,5.75,4.5,5.0,5.5,,5.65
+,Choreography / Composition  ,,,,1.0,5.75,6.5,5.5,6.75,6.25,6.0,4.5,5.25,5.25,,5.75
+,Interpretation  ,,,,1.0,5.5,6.5,5.75,6.75,6.5,5.5,4.75,5.0,5.25,,5.65
+,,,,,,,,,,,,,,,,28.3

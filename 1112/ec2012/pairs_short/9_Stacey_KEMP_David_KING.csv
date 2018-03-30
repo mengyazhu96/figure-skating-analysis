@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Stacey KEMP / David KING,GBR,12,45.75,25.8,19.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,-1.4,-2,-2,-2,-2,-2,-3,-2,-1,-2,,3.6
+2,2A,,3.3,False,-1.0,-2,-2,-2,-2,-2,-2,-2,-2,-3,,2.3
+3,3LoTh,,5.0,False,0.7,1,1,1,1,1,2,1,1,1,,5.7
+4,FiDs3,,3.2,False,0.2,0,1,0,0,0,1,0,1,0,,3.4
+5,3Li3,,3.5,False,0.21,0,1,2,0,0,1,1,0,0,,3.71
+6,SlSt2,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+7,PCoSp4,,4.5,False,-0.01,-1,1,0,0,0,1,-1,0,-1,,4.49
+,,,27.1,,,,,,,,,,,,,25.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,6.5,5.0,5.0,5.0,5.25,4.75,5.75,5.0,,5.11
+,Transition / Linking Footwork  ,,,,0.8,4.25,6.0,5.0,4.5,4.5,5.0,4.5,5.25,4.5,,4.75
+,Performance / Execution  ,,,,0.8,4.25,6.5,5.0,4.5,5.0,5.5,4.75,5.5,5.0,,5.04
+,Choreography / Composition  ,,,,0.8,4.5,6.25,5.25,4.75,4.75,5.5,4.25,5.75,5.25,,5.11
+,Interpretation  ,,,,0.8,4.5,5.75,4.75,4.75,4.75,5.5,4.5,5.5,4.75,,4.93
+,,,,,,,,,,,,,,,,19.95

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Cecile POSTIAUX / Richard POSTIAUX,BEL,3,37.37,20.4,16.97,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw3,,5.6,False,-0.21,-1,-1,-1,0,0,0,0,0,-1,,5.39
+2,CuLi4,,4.5,False,0.34,1,0,0,1,0,1,1,1,0,,4.84
+3,1PD1+kpNNT,,3.0,False,-0.07,-1,0,-1,0,0,0,0,0,0,,2.93
+4,PSt1+kpNNT,,3.0,False,-0.36,-1,-1,0,-1,0,-1,-1,0,-1,,2.64
+5,NtMiSt2,,5.6,False,-1.0,0,-1,-1,-1,-1,-1,-1,-1,-1,,4.6
+,,,21.7,,,,,,,,,,,,,20.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.25,4.5,5.0,4.5,4.25,3.5,5.0,4.5,,4.46
+,Linking Footwork / Movement  ,,,,0.8,4.25,4.25,4.25,4.75,4.0,3.75,3.25,4.75,4.25,,4.21
+,Performance  ,,,,0.8,4.0,4.0,4.5,5.25,4.25,4.5,3.75,4.75,4.5,,4.36
+,Choreography  ,,,,0.8,3.75,4.0,4.5,5.5,4.0,4.0,4.0,4.5,4.5,,4.21
+,Interpretation / Timing  ,,,,0.8,3.75,3.75,4.25,5.0,4.0,3.0,3.0,4.75,4.25,,3.96
+,,,,,,,,,,,,,,,,16.97

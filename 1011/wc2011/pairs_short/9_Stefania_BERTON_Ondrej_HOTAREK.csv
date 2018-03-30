@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Stefania BERTON / Ondrej HOTAREK,ITA,16,57.63,32.46,25.17,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,1.0,2,1,1,1,1,2,2,2,1,,5.1
+2,2LzTw1,,3.0,False,0.09,0,1,0,0,0,0,1,1,0,,3.09
+3,5ALi4,,6.5,False,0.7,1,1,1,0,1,2,1,1,1,,7.2
+4,FCCoSp4,,3.5,False,0.5,1,0,2,1,1,1,1,1,1,,4.0
+5,BiDs3,,3.2,False,0.4,0,1,1,1,0,0,1,1,0,,3.6
+6,SlSt4,,3.9,False,0.57,1,0,0,1,0,1,1,1,0,,4.47
+7,3LoTh,,5.0,False,0.0,0,-1,-1,0,-1,0,1,1,1,,5.0
+,,,29.2,,,,,,,,,,,,,32.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.25,6.0,6.25,6.5,6.5,6.25,6.0,7.25,,6.29
+,Transition / Linking Footwork  ,,,,0.8,6.0,6.0,5.5,5.75,6.25,6.0,5.75,6.5,7.0,,6.04
+,Performance / Execution  ,,,,0.8,7.0,6.0,5.75,6.25,6.75,6.5,6.5,6.25,7.25,,6.46
+,Choreography / Composition  ,,,,0.8,6.5,6.0,5.5,6.5,6.5,6.5,6.5,6.25,7.25,,6.39
+,Interpretation  ,,,,0.8,6.5,6.25,5.75,6.25,6.5,6.5,6.0,6.0,7.5,,6.29
+,,,,,,,,,,,,,,,,25.17

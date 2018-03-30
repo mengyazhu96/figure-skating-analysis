@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Ramona ELSENER / Florian ROOST,SUI,1,42.35,25.79,16.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,GW2Se2,,6.0,False,-0.43,-1,-1,-1,0,-1,0,-1,-1,-1,,5.57
+2,GW1Se3,,5.0,False,-0.21,0,0,-1,0,-1,-1,0,-1,0,,4.79
+3,NtMiSt3,,6.5,False,0.0,-1,0,0,1,0,0,0,0,0,,6.5
+4,SlLi4,,4.0,False,0.0,0,0,0,1,0,0,0,0,0,,4.0
+5,STw3,,5.0,False,-0.07,0,-1,0,1,0,0,0,-1,0,,4.93
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.5,,,,,,,,,,,,,25.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.5,4.5,4.75,4.25,4.5,4.25,3.75,3.75,,4.21
+,Linking Footwork / Movement  ,,,,0.7,3.5,4.0,4.0,5.0,4.0,4.25,4.0,3.25,2.75,,3.86
+,Performance  ,,,,0.7,4.0,4.5,4.25,4.75,4.0,4.75,4.25,3.75,3.75,,4.21
+,Choreography  ,,,,0.8,4.0,4.25,4.25,4.75,4.5,4.75,4.25,4.0,4.0,,4.29
+,Interpretation / Timing  ,,,,1.0,4.0,4.0,4.5,5.0,4.25,4.5,4.0,3.5,3.0,,4.11
+,,,,,,,,,,,,,,,,16.56

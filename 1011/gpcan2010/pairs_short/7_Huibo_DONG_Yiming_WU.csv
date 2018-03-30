@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Huibo DONG / Yiming WU,CHN,8,43.53,22.92,20.61,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,2.7
+2,2FTw1,,3.0,False,-0.09,0,-3,-2,0,0,0,0,0,0,,2.91
+3,3LoTh,,5.0,False,0.4,2,1,1,0,0,1,0,-1,1,,5.4
+4,BiDs1,,2.8,False,-0.7,-1,0,-1,-2,-1,0,0,-2,-2,,2.1
+5,SlSt1,,1.8,False,-0.26,-1,-1,-1,-1,0,-1,1,-1,-2,,1.54
+6,5ALi3,,6.0,False,-0.1,1,0,0,-1,0,0,0,0,-2,,5.9
+7,FCCoSp2,,2.5,False,-0.13,-1,-2,0,0,0,0,0,-1,-1,,2.37
+,,,25.2,,,,,,,,,,,,,22.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.5,6.0,5.75,5.25,5.75,5.75,5.25,5.75,,5.61
+,Transition / Linking Footwork  ,,,,0.8,5.0,4.75,5.25,4.75,4.75,5.5,4.75,4.5,4.25,,4.82
+,Performance / Execution  ,,,,0.8,5.0,4.5,5.75,5.25,5.0,5.5,5.0,4.5,5.0,,5.04
+,Choreography / Composition  ,,,,0.8,5.25,5.5,5.5,5.0,5.25,5.5,5.25,5.0,5.25,,5.29
+,Interpretation  ,,,,0.8,5.25,5.0,5.25,4.75,5.0,5.5,5.5,4.25,4.0,,5.0
+,,,,,,,,,,,,,,,,20.61

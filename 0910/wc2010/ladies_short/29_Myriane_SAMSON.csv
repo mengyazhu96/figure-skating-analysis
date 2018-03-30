@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Myriane SAMSON,CAN,43,44.2,24.44,21.76,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+COMBO,e,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+2,2A,,3.5,False,0.8,1,0,1,1,1,1,1,0,1,,4.3
+3,3F,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+4,CCoSp4,,3.5,False,0.5,1,2,1,0,1,1,1,1,1,,4.0
+5,SpSq4,,3.4,False,0.4,1,1,1,0,0,1,0,1,0,,3.8
+6,LSp1,,1.5,False,0.04,1,0,1,-1,0,1,1,-1,0,,1.54
+7,SlSt2,,2.3,False,0.2,1,0,1,0,0,0,1,0,1,,2.5
+8,FSSp3,,2.6,False,0.2,1,1,1,0,0,1,1,-1,0,,2.8
+,,,28.3,,,,,,,,,,,,,24.44
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,6.0,5.75,6.0,6.0,5.25,5.25,5.75,5.5,,5.8
+,Transition / Linking Footwork  ,,,,0.8,5.0,5.0,5.25,6.25,5.0,5.0,5.25,5.25,4.75,,5.15
+,Performance / Execution  ,,,,0.8,5.0,4.75,5.75,5.75,5.25,5.25,5.5,5.25,5.0,,5.35
+,Choreography / Composition  ,,,,0.8,5.5,5.25,5.75,6.0,5.5,5.5,5.25,5.5,5.25,,5.45
+,Interpretation  ,,,,0.8,5.0,5.0,6.0,6.0,5.25,5.25,5.5,5.25,5.25,,5.45
+,,,,,,,,,,,,,,,,21.76
+Deduction,Falls,-2.0

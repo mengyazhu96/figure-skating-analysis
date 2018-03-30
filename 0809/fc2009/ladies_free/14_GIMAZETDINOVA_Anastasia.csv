@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,GIMAZETDINOVA Anastasia,UZB,0,79.17,40.53,40.64,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+2A+SEQ,,5.6,False,-0.16,0,0,0,-1,0,-1,0,0,0,,5.44
+2,3Lz,,6.0,False,-1.0,0,-1,-1,-1,-1,-2,-2,0,-2,,5.0
+3,3F,,5.5,False,-0.6,0,-1,0,0,-1,-2,-2,0,-2,,4.9
+4,3T+2T,,5.3,False,0.0,1,-1,0,0,0,0,0,0,-1,,5.3
+5,3S+2T,,5.8,False,0.0,0,0,0,0,0,0,0,1,0,,5.8
+6,FSSp2,,2.3,False,-0.18,-1,-1,0,-1,0,-1,0,0,0,,2.12
+7,3T,,4.4,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.4
+8,SpSq3,,3.1,False,0.0,0,0,0,0,-1,-1,0,0,0,,3.1
+9,LSp2,,1.9,False,-0.06,0,-1,0,0,1,-1,0,0,0,,1.84
+10,SlSt2,,2.3,False,0.2,1,1,0,0,1,1,0,0,0,,2.5
+11,3S<,<,1.43,True,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.43
+12,CCoSp3,,3.0,False,-0.3,0,-2,-1,-2,-1,-1,-1,0,-1,,2.7
+,,,46.63,,,,,,,,,,,,,40.53
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,5.75,5.5,5.25,5.25,4.5,5.25,5.75,5.25,,5.5
+,Transitions / Linking Footwork  ,,,,1.6,5.0,5.5,4.0,4.25,4.25,3.25,4.0,5.25,4.5,,4.5
+,Performance / Execution  ,,,,1.6,5.5,5.75,5.0,5.0,4.75,3.75,5.25,5.5,5.0,,5.25
+,Choreography / Composition  ,,,,1.6,5.75,5.5,5.0,4.75,4.5,3.75,4.5,5.5,4.75,,5.05
+,Interpretation  ,,,,1.6,5.5,5.75,4.75,5.0,4.75,3.75,4.75,5.5,4.75,,5.1
+,,,,,,,,,,,,,,,,40.64
+Deduction,Falls,-2.0

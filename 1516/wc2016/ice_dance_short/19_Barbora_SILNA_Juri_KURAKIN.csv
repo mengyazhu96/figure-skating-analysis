@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Barbora SILNA / Juri KURAKIN,AUT,8,54.63,29.43,25.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RW4+kpYYY,,5.0,False,0.0,0,1,0,0,0,0,0,0,0,,5.0
+2,2RW4+kpYYY,,5.0,False,0.0,0,0,0,0,0,0,-1,0,0,,5.0
+3,RoLi4,,4.5,False,0.6,1,1,1,1,1,1,1,1,1,,5.1
+4,STw4,,6.6,False,0.0,0,0,0,0,0,0,0,-1,0,,6.6
+5,PSt3,,7.1,False,0.63,1,0,1,1,1,0,1,0,0,,7.73
+,,,28.2,,,,,,,,,,,,,29.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.75,6.75,6.0,6.25,6.25,5.75,6.0,6.0,,6.29
+,Linking Footwork / Movement  ,,,,0.8,6.5,6.5,6.75,6.5,6.5,6.0,5.5,5.5,5.25,,6.14
+,Performance  ,,,,0.8,6.75,6.75,7.0,6.5,6.25,6.5,6.0,5.5,6.25,,6.43
+,Choreography  ,,,,0.8,6.5,6.5,7.0,6.75,6.5,6.5,5.5,6.0,5.5,,6.32
+,Interpretation / Timing  ,,,,0.8,6.5,6.5,6.75,6.75,6.5,6.25,6.0,5.75,5.5,,6.32
+,,,,,,,,,,,,,,,,25.2

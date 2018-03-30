@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Sarah HECKEN,GER,6,45.5,25.7,19.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.0,False,-1.2,-1,-2,-1,-1,-2,-1,-1,-2,-1,,6.8
+2,3S,,4.5,False,-0.2,0,-1,0,1,0,0,-2,0,-1,,4.3
+3,2A,,3.5,False,0.2,0,0,0,1,1,0,0,1,0,,3.7
+4,FSSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,SpSq3,,3.1,False,0.0,0,-1,0,1,0,0,0,0,0,,3.1
+6,LSp2,,1.9,False,0.0,0,0,0,0,0,0,-1,0,1,,1.9
+7,SlSt3,,3.3,False,0.1,0,0,0,1,1,0,0,1,0,,3.4
+8,CCoSp2,,2.5,False,0.0,0,0,-1,0,0,0,0,0,1,,2.5
+,,,26.8,,,,,,,,,,,,,25.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.0,5.25,5.75,5.25,5.75,4.75,5.0,4.5,,5.3
+,Transition / Linking Footwork  ,,,,0.8,4.5,3.75,4.5,4.75,3.75,5.25,4.0,4.0,3.75,,4.25
+,Performance / Execution  ,,,,0.8,5.25,4.5,5.25,5.5,5.75,6.0,4.5,5.0,5.0,,5.35
+,Choreography / Composition  ,,,,0.8,5.25,4.25,5.25,5.5,4.75,5.5,4.0,4.5,3.75,,5.0
+,Interpretation  ,,,,0.8,5.25,4.5,5.0,5.0,4.5,5.5,4.25,4.75,3.25,,4.85
+,,,,,,,,,,,,,,,,19.8

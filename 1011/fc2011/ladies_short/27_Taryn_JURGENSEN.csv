@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Taryn JURGENSEN,THA,10,26.28,14.1,14.18,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A<<,<<,1.1,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+2,FSSp3,,2.6,False,-0.13,0,-2,1,-2,0,0,0,0,-1,,2.47
+3,CCoSp4,,3.5,False,0.5,1,1,1,2,1,1,1,1,1,,4.0
+4,SlSt2,,2.3,False,0.43,1,0,1,1,1,1,0,1,1,,2.73
+5,2Lz<+COMBO,e,1.5,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.6
+6,2F,,1.8,False,-0.9,-3,-3,-3,-2,-3,-3,-3,-3,-3,,0.9
+7,LSp3,,2.4,False,0.5,1,1,1,2,1,1,1,1,1,,2.9
+,,,15.2,,,,,,,,,,,,,14.1
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,3.75,3.25,3.0,2.75,3.5,4.0,3.75,3.75,,3.54
+,Transition / Linking Footwork  ,,,,0.8,3.25,3.5,3.5,3.0,3.0,3.25,3.25,3.25,3.25,,3.25
+,Performance / Execution  ,,,,0.8,3.5,4.0,3.5,3.25,3.5,3.75,3.5,3.5,4.0,,3.61
+,Choreography / Composition  ,,,,0.8,3.5,3.75,4.0,3.5,3.25,3.5,3.75,3.5,3.75,,3.61
+,Interpretation  ,,,,0.8,3.75,4.0,4.25,3.5,3.75,3.75,3.5,3.75,3.5,,3.71
+,,,,,,,,,,,,,,,,14.18
+Deduction, Falls,-2.0

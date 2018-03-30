@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Nana TAKEDA,JPN,0,45.14,25.86,19.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T+2T,,5.3,False,1.0,1,1,0,1,1,0,1,0,1,1,,6.3
+2,2A,,3.5,False,0.4,0,0,1,1,1,0,1,1,0,0,,3.9
+3,2Lo,,1.5,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+4,FSSp4,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,0,,3.0
+5,LSp4,,2.7,False,0.4,1,1,2,1,0,1,2,1,1,0,,3.1
+6,SpSq4,,3.4,False,-0.14,0,0,0,0,0,-1,-1,-1,-1,0,,3.26
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,0,,2.3
+8,CCoSp4,,3.5,False,0.0,0,0,0,0,0,0,1,0,0,0,,3.5
+,,,25.2,,,,,,,,,,,,,,25.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,5.5,6.0,5.25,6.25,5.0,5.5,5.25,4.5,5.5,,5.25
+,Transition / Linking Footwork  ,,,,0.8,4.25,4.25,5.25,4.75,5.5,4.0,5.0,4.75,4.0,4.75,,4.55
+,Performance / Execution  ,,,,0.8,4.25,5.0,4.75,4.75,6.0,4.75,5.25,5.0,4.0,5.25,,4.85
+,Choreography / Composition  ,,,,0.8,4.5,4.5,4.75,5.0,6.0,5.0,5.25,5.0,4.25,5.25,,4.85
+,Interpretation  ,,,,0.8,4.25,4.25,4.75,4.5,5.75,4.0,4.5,5.25,4.0,4.75,,4.6
+,,,,,,,,,,,,,,,,,19.28

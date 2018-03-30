@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Aliona SAVCHENKO / Robin SZOLKOWY,GER,8,69.07,35.27,33.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,5.8,False,1.4,2,2,2,2,2,2,0,2,2,,7.2
+2,3T<,<,2.9,False,-1.2,-1,-1,-2,-3,-2,-2,-2,-1,-2,,1.7
+3,BiDs4,,3.5,False,1.3,2,2,2,3,2,1,1,2,2,,4.8
+4,5RLi3,,6.5,False,1.3,1,2,2,2,2,2,1,2,2,,7.8
+5,StSq4,,3.9,False,1.3,2,2,1,3,2,2,0,2,2,,5.2
+6,3ATh,,7.5,False,-2.43,-2,-3,-2,-2,-3,-3,-3,-1,-2,,5.07
+7,PCoSpB,,2.5,False,1.0,2,2,2,2,2,2,1,2,2,,3.5
+,,,32.6,,,,,,,,,,,,,35.27
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.75,8.5,8.25,8.5,8.5,8.75,8.5,8.25,9.0,,8.54
+,Transition / Linking Footwork  ,,,,0.8,8.5,8.0,8.0,8.0,7.25,8.5,8.0,8.25,8.5,,8.18
+,Performance / Execution  ,,,,0.8,8.5,8.25,8.75,8.25,8.0,9.0,8.25,8.5,8.75,,8.46
+,Choreography / Composition  ,,,,0.8,8.75,8.25,8.5,8.5,8.0,8.75,8.5,8.5,9.0,,8.54
+,Interpretation  ,,,,0.8,8.75,8.75,8.5,8.25,8.5,8.5,8.0,8.5,9.25,,8.54
+,,,,,,,,,,,,,,,,33.8

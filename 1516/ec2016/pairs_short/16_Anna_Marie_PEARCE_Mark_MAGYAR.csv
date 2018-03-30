@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Anna Marie PEARCE / Mark MAGYAR,HUN,1,36.0,19.59,17.41,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,BoDs,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+2,2A,,3.3,False,-1.21,-2,-3,-2,-3,-2,-2,-3,-3,-2,,2.09
+3,2Tw3,,3.7,False,0.0,0,0,0,0,0,1,0,0,0,,3.7
+4,4Li3,,4.0,False,-0.07,0,0,-1,0,0,0,-1,0,0,,3.93
+5,3STh,,4.5,False,-0.3,-1,0,-1,1,0,-1,0,-1,0,,4.2
+6,PCoSp3p3,,4.0,False,-0.09,-1,0,0,-1,0,-1,0,0,1,,3.91
+7,StSq1,,1.8,False,-0.04,0,0,0,0,0,-1,0,-1,0,,1.76
+,,,21.3,,,,,,,,,,,,,19.59
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,4.5,4.0,4.75,4.25,4.5,4.5,4.5,4.5,,4.5
+,Transition / Linking Footwork  ,,,,0.8,4.5,4.25,3.75,4.25,4.0,4.25,4.0,3.75,4.25,,4.11
+,Performance / Execution  ,,,,0.8,4.75,4.0,3.75,4.75,4.0,4.5,4.25,4.25,4.5,,4.32
+,Choreography / Composition  ,,,,0.8,5.0,4.5,4.0,4.5,4.25,4.75,4.5,4.25,4.75,,4.5
+,Interpretation  ,,,,0.8,4.75,4.25,4.0,4.5,4.25,4.5,4.25,4.0,4.5,,4.32
+,,,,,,,,,,,,,,,,17.41
+Deduction,Falls,-1.0

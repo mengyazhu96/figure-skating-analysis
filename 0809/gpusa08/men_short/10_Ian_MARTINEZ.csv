@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Ian MARTINEZ,CAN,0,50.68,25.28,26.4,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,-4.2,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.0
+2,3Lz+3T,,10.0,False,0.0,0,0,0,0,0,0,0,0,0,,10.0
+3,SlSt1,,1.8,False,0.4,1,0,1,1,1,1,1,0,0,,2.2
+4,FSSp3,,2.6,False,-0.12,-1,0,0,-1,0,0,-1,0,-1,,2.48
+5,CiSt1,,1.8,False,0.0,0,0,0,0,0,1,0,0,0,,1.8
+6,3F<,!,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-2,-3,-3,,0.7
+7,CSSp1,,1.9,False,-0.3,-2,0,-1,-1,-2,0,-2,0,-1,,1.6
+8,CCoSp2,,2.5,False,0.0,0,0,0,0,0,0,-1,0,0,,2.5
+,,,30.5,,,,,,,,,,,,,25.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.5,5.25,5.5,5.5,5.75,5.5,4.25,5.25,5.25,,5.4
+,Transition / Linking Footwork  ,,,,1.0,5.25,4.75,5.0,5.0,5.25,6.25,4.5,4.75,4.5,,5.0
+,Performance / Execution  ,,,,1.0,5.25,5.0,5.75,5.25,5.5,6.5,5.75,5.0,4.75,,5.35
+,Choreography / Composition  ,,,,1.0,5.0,5.0,5.5,5.5,5.25,5.75,4.5,4.75,4.75,,5.1
+,Interpretation  ,,,,1.0,5.5,5.25,5.75,5.5,6.0,6.25,5.5,5.0,4.5,,5.55
+,,,,,,,,,,,,,,,,26.4
+Deduction,Falls,-1.0

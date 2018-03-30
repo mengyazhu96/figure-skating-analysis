@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+40,Ani VARDANYAN,ARM,0,18.62,8.34,10.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Lo,,1.5,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+2,CCoSp1,,2.0,False,-0.36,-2,-2,-1,-1,-1,-2,-1,-1,-1,,1.64
+3,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+4,FCSp1,,1.9,False,-0.42,-2,-2,-1,-1,0,-2,-2,-2,-1,,1.48
+5,CiSt1,,1.8,False,-0.06,-1,0,-1,0,0,0,0,0,0,,1.74
+6,2S+2T,,2.6,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.6
+7,SpSq,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+8,LSp1,,1.5,False,-0.42,-2,-1,-2,-1,-1,-2,-1,-1,-1,,1.08
+,,,12.1,,,,,,,,,,,,,8.34
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,2.5,2.75,3.0,2.75,3.0,2.5,2.0,3.0,2.25,,2.75
+,Transition / Linking Footwork  ,,,,0.8,2.0,2.25,2.5,2.5,2.75,2.25,2.0,2.75,2.0,,2.4
+,Performance / Execution  ,,,,0.8,2.5,2.5,2.5,2.5,3.0,2.5,1.75,3.0,2.5,,2.6
+,Choreography / Composition  ,,,,0.8,2.25,2.25,2.75,2.75,3.0,2.25,2.0,2.75,2.75,,2.65
+,Interpretation  ,,,,0.8,2.25,2.5,2.5,2.5,3.25,2.25,2.0,2.75,2.25,,2.45
+,,,,,,,,,,,,,,,,10.28

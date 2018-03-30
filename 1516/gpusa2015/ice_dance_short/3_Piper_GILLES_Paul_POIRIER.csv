@@ -1,0 +1,17 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Piper GILLES / Paul POIRIER,CAN,7,61.33,29.92,31.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,STw4,,6.6,False,1.0,2,1,2,1,1,2,2,2,,7.6
+2,1RW2+kpYNN,,3.8,False,0.7,1,1,1,1,1,1,2,2,,4.5
+3,2RW2+kpNYN,,3.8,False,0.6,1,1,1,1,1,1,1,1,,4.4
+4,RoLi4,,4.5,False,0.9,2,1,2,0,1,1,2,2,,5.4
+5,PSt3,,7.1,False,0.92,0,1,1,0,1,1,2,1,,8.02
+,,,25.8,,,,,,,,,,,,29.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.25,7.75,8.0,7.25,8.0,7.75,8.25,8.0,,7.96
+,Linking Footwork / Movement  ,,,,0.8,8.25,7.5,7.75,7.0,7.75,7.5,8.25,7.0,,7.63
+,Performance  ,,,,0.8,8.0,7.5,8.0,7.5,8.0,7.75,8.25,8.5,,7.92
+,Choreography  ,,,,0.8,7.75,7.75,7.75,7.0,8.25,7.5,8.5,8.25,,7.88
+,Interpretation / Timing  ,,,,0.8,7.75,7.5,8.0,6.25,8.25,7.25,8.5,8.5,,7.88
+,,,,,,,,,,,,,,,31.41

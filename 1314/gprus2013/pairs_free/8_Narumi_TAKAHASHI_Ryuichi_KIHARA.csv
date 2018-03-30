@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Narumi TAKAHASHI / Ryuichi KIHARA,JPN,1,92.77,46.31,46.46,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.4,False,0.2,1,0,0,0,0,1,0,1,0,,5.6
+2,2Tw2,,3.2,False,-0.04,0,0,-1,-1,0,0,0,0,0,,3.16
+3,5SLi3,,5.5,False,0.07,0,0,-1,0,0,0,0,1,1,,5.57
+4,3S,,4.2,False,-1.5,-2,-2,-3,-2,-2,-2,-3,-2,-2,,2.7
+5,ChSq1,,2.0,False,0.2,0,0,0,0,0,0,1,1,1,,2.2
+6,3LoTh,,5.5,True,-1.1,-1,-2,-2,0,-2,-2,-2,-2,0,,4.4
+7,4Li2,,3.3,True,0.0,0,0,0,-1,1,0,0,0,0,,3.3
+8,FCCoSp3,,3.0,False,0.14,0,0,1,0,1,0,0,1,0,,3.14
+9,5TLi1,,4.95,True,0.0,0,0,0,-1,0,0,0,1,0,,4.95
+10,3STh,,4.95,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.55
+11,BoDs1,,3.0,False,0.1,0,0,1,1,0,0,0,0,0,,3.1
+12,PCoSp4,,4.5,False,0.14,0,0,0,0,1,0,1,1,0,,4.64
+,,,49.5,,,,,,,,,,,,,46.31
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.25,5.75,5.0,5.5,6.0,6.25,5.75,6.25,6.25,,5.96
+,Transition / Linking Footwork  ,,,,1.6,5.75,5.5,4.0,4.5,5.75,6.0,5.5,5.75,6.0,,5.54
+,Performance / Execution  ,,,,1.6,6.0,5.5,4.75,5.25,6.0,6.25,5.5,6.25,6.0,,5.79
+,Choreography / Composition  ,,,,1.6,6.25,5.75,5.0,5.5,6.25,6.25,6.25,6.0,6.25,,6.04
+,Interpretation  ,,,,1.6,6.0,5.5,4.75,5.0,6.0,6.0,5.5,6.0,6.0,,5.71
+,,,,,,,,,,,,,,,,46.46

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Patrick CHAN,CAN,10,84.16,41.2,43.96,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T<,<,7.2,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.2
+2,3A,,8.5,False,1.86,2,1,1,2,2,2,2,2,3,,10.36
+3,CCoSp3,,3.0,False,1.0,1,1,2,3,2,2,2,2,3,,4.0
+4,3Lz+3T,,10.1,False,0.1,0,0,0,0,1,1,-1,1,-2,,10.2
+5,FSSp4,,3.0,False,0.79,2,1,1,1,2,1,2,2,2,,3.79
+6,CCSp4,,3.2,False,0.86,1,1,2,2,2,2,2,2,1,,4.06
+7,SlSt3,,3.3,False,1.29,2,2,3,2,3,3,2,3,3,,4.59
+,,,38.3,,,,,,,,,,,,,41.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,9.25,8.75,9.0,8.5,9.25,9.0,8.5,9.0,9.25,,8.96
+,Transition / Linking Footwork  ,,,,1.0,9.0,8.5,9.0,8.5,8.75,8.25,8.0,8.75,8.75,,8.64
+,Performance / Execution  ,,,,1.0,8.5,8.75,8.5,8.5,9.0,8.5,8.0,8.75,8.75,,8.61
+,Choreography / Composition  ,,,,1.0,9.0,8.75,8.75,9.0,9.25,8.75,8.25,9.0,9.25,,8.93
+,Interpretation  ,,,,1.0,8.75,8.75,8.75,9.0,9.25,8.5,8.25,9.25,8.75,,8.82
+,,,,,,,,,,,,,,,,43.96
+Deduction,Falls,-1.0

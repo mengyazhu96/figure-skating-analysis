@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Cheltzie LEE,AUS,7,48.2,27.34,20.86,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.8,1,1,1,1,2,1,1,1,2,,9.0
+2,3S,,4.2,False,0.0,0,0,0,0,0,0,1,0,0,,4.2
+3,FSSp4,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,,3.0
+4,SlSt2,,2.3,False,0.07,0,0,0,0,1,1,0,0,0,,2.37
+5,CCoSp3,,3.0,False,0.07,0,0,0,1,1,0,0,0,0,,3.07
+6,2A,,3.3,False,0.0,0,0,0,1,-1,0,0,0,0,,3.3
+7,LSp3,,2.4,False,0.0,0,-1,0,1,0,0,0,0,0,,2.4
+,,,26.4,,,,,,,,,,,,,27.34
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.0,5.5,5.5,5.5,5.75,5.25,5.0,5.0,,5.32
+,Transition / Linking Footwork  ,,,,0.8,4.75,4.75,5.0,5.25,5.25,5.25,5.5,4.5,5.0,,5.04
+,Performance / Execution  ,,,,0.8,5.25,4.75,5.5,5.25,5.5,5.5,5.0,5.0,5.5,,5.29
+,Choreography / Composition  ,,,,0.8,5.25,4.5,5.25,5.5,5.75,5.5,5.5,4.5,4.75,,5.18
+,Interpretation  ,,,,0.8,5.5,4.75,5.25,5.25,5.5,5.5,5.25,4.5,5.25,,5.25
+,,,,,,,,,,,,,,,,20.86

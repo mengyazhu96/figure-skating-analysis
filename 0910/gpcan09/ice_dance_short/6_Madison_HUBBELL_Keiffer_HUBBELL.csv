@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Madison HUBBELL / Keiffer HUBBELL,USA,5,27.14,13.72,13.42,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.9,False,-0.28,0,-1,0,0,-1,0,0,-1,0,,2.62
+2,1S2,,1.6,False,0.0,0,0,0,-1,-1,0,0,0,0,,1.6
+3,1S3,,2.4,False,-0.4,-1,0,-1,0,0,-1,0,-1,-1,,2.0
+4,2S1,,3.2,False,-0.14,0,-1,0,-1,0,0,0,-1,0,,3.06
+5,2S2,,2.3,False,-0.4,-1,-1,-1,0,0,-1,0,0,-1,,1.9
+6,2S3,,3.1,False,-0.56,-1,-1,-1,0,-1,0,0,-1,0,,2.54
+,,,15.5,,,,,,,,,,,,,13.72
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.5,5.25,5.75,5.75,5.75,5.75,5.75,5.25,5.5,,5.55
+,Timing  ,,,,0.75,5.25,4.75,5.75,5.25,5.0,5.5,5.25,5.25,4.75,,5.15
+,Performance / Execution  ,,,,0.5,5.25,5.0,5.5,5.75,5.5,5.75,5.75,5.0,5.75,,5.4
+,Interpretation  ,,,,0.5,5.25,5.25,5.75,5.75,5.25,5.5,5.5,5.25,5.75,,5.4
+,,,,,,,,,,,,,,,,13.42

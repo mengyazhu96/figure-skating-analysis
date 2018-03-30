@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Chaochih LIU,TPE,22,38.06,23.78,15.28,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.3,False,0.8,0,1,1,1,1,0,0,1,1,,6.1
+2,3Lz<,<,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,2A,,3.5,False,-0.8,-1,-1,-1,-1,-1,-1,0,-1,-1,,2.7
+4,CCoSp4,,3.5,False,0.0,0,0,0,1,0,0,0,0,0,,3.5
+5,SpSq4,,3.4,False,0.0,0,0,0,0,0,-1,0,0,0,,3.4
+6,FSSp4,,3.0,False,-0.12,0,0,0,1,-1,-1,-2,0,0,,2.88
+7,SlSt2,,2.3,False,0.0,0,0,1,0,0,0,0,0,0,,2.3
+8,LSp2,,1.9,False,0.1,0,1,0,1,0,-1,0,0,0,,2.0
+,,,24.8,,,,,,,,,,,,,23.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.25,4.5,4.5,3.75,3.75,4.25,4.0,4.0,,4.05
+,Transition / Linking Footwork  ,,,,0.8,3.75,3.5,4.0,4.25,3.5,3.25,4.0,3.5,3.0,,3.55
+,Performance / Execution  ,,,,0.8,4.0,3.5,4.0,4.5,3.75,3.75,4.25,4.25,3.5,,3.9
+,Choreography / Composition  ,,,,0.8,4.0,4.0,4.5,4.5,3.75,3.5,4.25,4.0,3.5,,3.9
+,Interpretation  ,,,,0.8,3.75,3.5,4.25,4.5,4.0,3.0,4.25,3.5,3.25,,3.7
+,,,,,,,,,,,,,,,,15.28
+Deduction,Falls,-1.0

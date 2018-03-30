@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,Olga JAKUSHINA / Andrey NEVSKIY,LAT,9,49.49,27.75,22.74,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.1,0,1,-1,1,0,0,0,1,-1,,6.7
+2,1RW4+kpYYY,,5.0,False,-0.14,0,0,-1,0,0,-1,0,1,-1,,4.86
+3,2RW4+kpYYY,,5.0,False,-0.29,-1,0,-1,-1,0,-1,0,0,-1,,4.71
+4,RoLi4,,4.5,False,0.17,0,1,0,1,1,0,0,0,-1,,4.67
+5,PSt3,,7.1,False,-0.29,0,0,-1,0,0,-1,0,0,-1,,6.81
+,,,28.2,,,,,,,,,,,,,27.75
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.25,4.0,6.0,5.75,4.75,6.25,6.25,4.75,,5.64
+,Linking Footwork / Movement  ,,,,0.8,5.5,6.0,3.75,6.0,5.5,4.75,6.0,6.0,5.0,,5.54
+,Performance  ,,,,0.8,5.5,6.5,4.0,6.25,6.0,5.0,6.5,6.25,5.25,,5.82
+,Choreography  ,,,,0.8,5.75,6.5,4.0,6.5,6.0,5.25,6.5,6.25,5.0,,5.89
+,Interpretation / Timing  ,,,,0.8,5.5,6.5,3.75,6.0,5.75,4.75,6.25,5.75,4.75,,5.54
+,,,,,,,,,,,,,,,,22.74
+Deduction,Extended lifts,-1.0

@@ -1,0 +1,18 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Kimberly NAVARRO / Brent BOMMENTRE,USA,0,48.68,25.2,23.48,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.8,1,2,2,1,2,2,2,1,,4.8
+2,MiStNt2,,5.4,False,0.4,0,1,0,0,1,1,1,0,,5.8
+3,DiSt2,,6.4,False,0.4,0,0,0,0,1,1,1,0,,6.8
+4,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,Sp4,,4.7,False,0.1,0,0,0,0,1,0,1,0,,4.8
+6,STw2,,3.5,False,-0.5,-1,-1,-1,-1,-1,-2,-1,-1,,3.0
+,,,24.0,,,,,,,,,,,,25.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.25,6.0,6.25,6.25,6.75,6.0,5.5,,6.15
+,Linking Footwork / Movement  ,,,,0.8,6.0,6.0,5.75,5.5,6.25,6.75,6.0,5.0,,5.9
+,Performance  ,,,,0.6,6.0,6.0,6.0,6.0,6.5,6.75,6.25,5.5,,6.15
+,Choreography  ,,,,0.6,6.0,6.0,6.5,6.0,6.5,7.0,6.25,5.25,,6.25
+,Interpretation / Timing  ,,,,1.0,6.25,6.25,6.25,6.25,6.75,7.0,6.5,5.5,,6.4
+,,,,,,,,,,,,,,,23.48

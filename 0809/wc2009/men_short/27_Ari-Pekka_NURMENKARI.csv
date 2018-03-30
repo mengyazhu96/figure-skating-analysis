@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Ari-Pekka NURMENKARI,FIN,22,55.6,31.5,24.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,-2.8,-2,-2,-2,-2,-2,-2,-2,-2,-2,,5.4
+2,3Lz+3T,,10.0,False,-0.8,0,0,-1,-1,-1,-1,0,-1,-1,,9.2
+3,FSSp4,,3.0,False,0.5,1,0,1,1,0,1,1,1,0,,3.5
+4,CiSt2,,2.3,False,0.3,1,1,1,1,1,0,0,0,1,,2.6
+5,2F,,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+6,SlSt3,,3.3,False,0.3,1,1,1,1,1,0,0,0,0,,3.6
+7,CCoSp4,,3.5,False,0.0,0,0,-1,0,0,0,0,0,0,,3.5
+8,CSSp4,,3.0,False,0.0,0,0,0,1,0,0,0,0,0,,3.0
+,,,35.0,,,,,,,,,,,,,31.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,5.75,5.5,5.25,5.25,4.5,4.75,5.0,4.5,,5.1
+,Transition / Linking Footwork  ,,,,1.0,4.75,5.25,5.25,4.75,4.75,4.0,4.25,4.25,4.0,,4.55
+,Performance / Execution  ,,,,1.0,5.0,5.75,5.5,5.0,4.75,4.25,4.5,4.5,4.25,,4.75
+,Choreography / Composition  ,,,,1.0,5.25,5.75,5.75,5.25,5.0,4.25,4.5,4.5,4.0,,4.9
+,Interpretation  ,,,,1.0,5.25,5.75,5.75,5.25,4.5,4.25,4.25,4.75,4.25,,4.8
+,,,,,,,,,,,,,,,,24.1

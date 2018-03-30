@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Elisabeth PARADIS / Francois-Xavier OUELLETTE,CAN,1,51.94,26.59,25.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.09,0,0,1,0,0,0,0,1,0,,6.69
+2,1RW3+kpTYY,,4.4,False,0.26,1,0,1,1,0,1,0,0,0,,4.66
+3,2RW2+kpYNN,,3.8,False,0.01,1,0,1,0,-1,0,-1,0,0,,3.81
+4,RoLi4,,4.5,False,0.86,2,2,1,1,1,1,2,2,1,,5.36
+5,PSt2,,5.6,False,0.47,0,0,1,0,0,1,1,0,1,,6.07
+,,,24.9,,,,,,,,,,,,,26.59
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.0,7.5,6.5,5.5,6.25,6.25,5.25,6.75,,6.36
+,Linking Footwork / Movement  ,,,,0.8,6.75,6.25,7.25,6.5,5.75,6.0,6.0,5.0,6.5,,6.25
+,Performance  ,,,,0.8,7.25,6.5,7.5,6.75,5.25,5.75,6.25,4.75,6.75,,6.36
+,Choreography  ,,,,0.8,7.5,6.25,7.75,6.5,6.0,6.5,6.5,5.0,6.75,,6.57
+,Interpretation / Timing  ,,,,0.8,7.0,5.5,7.5,6.25,5.75,5.75,6.0,4.5,6.75,,6.14
+,,,,,,,,,,,,,,,,25.35

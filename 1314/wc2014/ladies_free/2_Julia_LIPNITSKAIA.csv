@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Julia LIPNITSKAIA,RUS,22,132.96,65.57,68.39,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,e,10.1,False,-0.4,0,-1,0,-1,-1,1,-2,0,-1,,9.7
+2,2A+2T+2T,,5.9,False,0.07,0,2,0,1,0,0,0,0,0,,5.97
+3,FCSp4,,3.2,False,1.07,2,3,1,2,2,2,3,2,2,,4.27
+4,StSq4,,3.9,False,1.4,2,2,1,2,2,2,2,2,2,,5.3
+5,3F,,5.83,True,0.8,1,2,1,1,1,1,1,1,2,,6.63
+6,2A+3T,,8.14,True,0.7,1,2,0,1,1,1,1,1,1,,8.84
+7,3S<<,<<,1.43,True,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.83
+8,3Lo,,5.61,True,0.1,0,1,0,1,0,0,0,0,0,,5.71
+9,3Lz,e,6.6,True,-0.7,-1,-1,-1,-1,-1,-1,-2,0,-1,,5.9
+10,LSp4,,2.7,False,1.29,1,3,2,3,2,3,3,2,3,,3.99
+11,ChSq1,,2.0,False,1.5,2,3,2,3,2,2,2,2,2,,3.5
+12,CCoSp4,,3.5,False,1.43,3,3,2,3,2,3,3,3,3,,4.93
+,,,58.91,,,,,,,,,,,,,65.57
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.0,8.5,9.0,8.5,8.75,8.25,8.25,9.0,8.5,,8.54
+,Transition / Linking Footwork  ,,,,1.6,8.0,8.5,8.75,8.5,8.5,8.5,8.0,8.75,8.0,,8.39
+,Performance / Execution  ,,,,1.6,8.25,8.5,9.0,8.75,8.5,8.5,7.75,8.75,8.75,,8.57
+,Choreography / Composition  ,,,,1.6,8.25,8.5,8.75,8.5,9.0,8.75,8.25,8.75,8.75,,8.61
+,Interpretation  ,,,,1.6,8.25,8.75,9.0,8.75,8.75,8.5,7.75,9.0,8.5,,8.64
+,,,,,,,,,,,,,,,,68.39
+Deduction,Falls,-1.0

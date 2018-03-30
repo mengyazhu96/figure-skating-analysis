@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Nicole RAJICOVA,SVK,8,49.24,26.67,22.57,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.2,1,0,1,0,0,0,0,0,1,,7.5
+2,3S<,<,2.9,False,-1.1,-1,-2,-2,-1,-1,-2,-2,-1,-2,,1.8
+3,LSp3,,2.4,False,0.29,0,0,1,0,1,0,1,1,1,,2.69
+4,StSq3,,3.3,False,0.29,0,0,1,0,1,1,1,0,1,,3.59
+5,2A,,3.63,True,0.57,1,1,2,1,1,1,2,1,1,,4.2
+6,FSSp3,,2.6,False,0.29,1,0,1,0,0,1,1,0,1,,2.89
+7,CCoSp4,,3.5,False,0.5,1,1,1,1,2,1,1,1,1,,4.0
+,,,25.63,,,,,,,,,,,,,26.67
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.25,6.0,5.5,5.75,5.75,6.0,5.75,6.0,,5.79
+,Transition / Linking Footwork  ,,,,0.8,5.5,5.25,6.0,5.5,4.75,5.0,5.75,5.5,5.25,,5.39
+,Performance / Execution  ,,,,0.8,6.0,5.25,6.25,5.75,5.75,5.0,6.0,5.75,6.0,,5.79
+,Choreography / Composition  ,,,,0.8,5.5,5.25,6.25,5.5,5.5,5.5,5.75,5.5,5.5,,5.54
+,Interpretation  ,,,,0.8,5.75,5.25,6.0,5.75,5.5,5.75,6.0,5.5,5.75,,5.71
+,,,,,,,,,,,,,,,,22.57

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Federica TESTA / Lukas CSOLLEY,SVK,5,76.09,37.09,40.0,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,MiSt2,,5.6,False,0.79,1,1,0,1,1,0,1,1,0,,6.39
+2,CuLi4,,4.5,False,0.51,0,1,1,1,1,1,2,1,0,,5.01
+3,STw3,,5.6,False,0.6,1,1,1,1,2,1,1,1,1,,6.2
+4,CoSp4,,5.6,False,0.43,1,0,1,0,1,1,1,1,0,,6.03
+5,CiSt1,,4.1,False,-1.07,-2,-3,-2,-3,-2,-2,-2,-2,-2,,3.03
+6,SlLi4,,4.5,False,0.34,0,1,1,0,0,1,1,2,0,,4.84
+7,ChSp1,,0.6,False,0.06,0,-1,-1,0,-1,1,1,0,0,,0.66
+8,RoLi4,,4.5,False,0.43,0,0,1,1,0,1,1,2,1,,4.93
+,,,35.0,,,,,,,,,,,,,37.09
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.75,6.25,6.75,6.25,6.5,6.5,6.5,6.75,6.75,,6.57
+,Linking Footwork / Movement  ,,,,1.2,6.5,7.0,6.5,6.5,6.75,6.5,6.5,6.5,6.0,,6.54
+,Performance  ,,,,1.2,6.75,6.0,6.5,6.0,6.5,6.75,7.5,6.75,6.5,,6.54
+,Choreography  ,,,,1.2,6.75,7.0,6.75,7.0,6.75,7.0,7.75,7.0,6.75,,6.89
+,Interpretation / Timing  ,,,,1.2,7.0,6.75,6.5,6.5,7.0,6.75,7.25,7.0,6.5,,6.79
+,,,,,,,,,,,,,,,,40.0
+Deduction,Falls,-1.0

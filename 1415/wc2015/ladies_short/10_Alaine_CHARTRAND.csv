@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Alaine CHARTRAND,CAN,19,60.24,33.73,26.51,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.71,1,1,1,2,1,2,1,2,2,,4.01
+2,3Lz+3T<,<,9.0,False,-1.0,-1,-1,-1,-2,-2,-1,-2,-2,-1,,8.0
+3,FSSp4,,3.0,False,0.5,1,1,1,1,1,1,1,1,2,,3.5
+4,3Lo,,5.61,True,0.3,1,0,-1,1,1,0,0,2,0,,5.91
+5,LSp4,,2.7,False,0.57,1,1,1,1,1,1,1,2,2,,3.27
+6,StSq4,,3.9,False,1.0,1,2,1,1,1,2,1,2,2,,4.9
+7,CCoSp3p4,,3.5,False,0.64,1,1,1,2,1,2,1,2,1,,4.14
+,,,31.01,,,,,,,,,,,,,33.73
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.75,5.5,6.25,6.5,7.0,6.75,7.0,6.75,,6.64
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.75,4.75,5.75,6.0,6.75,6.5,6.75,6.25,,6.32
+,Performance / Execution  ,,,,0.8,6.5,7.0,6.0,6.25,6.5,7.0,7.25,7.0,6.5,,6.68
+,Choreography / Composition  ,,,,0.8,6.5,6.75,5.5,6.5,6.5,6.75,7.5,7.0,7.0,,6.71
+,Interpretation  ,,,,0.8,6.75,6.75,5.75,6.25,6.5,7.25,7.25,7.25,6.75,,6.79
+,,,,,,,,,,,,,,,,26.51

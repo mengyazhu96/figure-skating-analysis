@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Penny COOMES / Nicholas BUCKLAND,GBR,13,104.94,54.12,50.82,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.5,False,1.54,3,2,3,3,3,3,1,2,2,,6.04
+2,CiSt4,,8.6,False,1.73,2,1,1,2,2,1,2,1,2,,10.33
+3,RoLi4,,4.5,False,1.37,3,2,2,3,2,2,2,2,3,,5.87
+4,STw4,,6.6,False,0.94,1,2,2,1,2,1,1,2,2,,7.54
+5,CoSp4,,5.6,False,1.2,3,2,2,2,2,2,1,2,2,,6.8
+6,SlLi4,,4.5,False,0.51,1,1,1,1,1,0,0,1,2,,5.01
+7,MiSt4,,8.6,False,2.04,2,2,2,2,2,2,1,2,1,,10.64
+8,ChSp1,,0.6,False,1.29,2,2,2,3,2,2,2,2,3,,1.89
+,,,43.5,,,,,,,,,,,,,54.12
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,8.5,8.25,8.5,8.25,8.25,7.75,8.5,8.25,8.5,,8.36
+,Linking Footwork / Movement  ,,,,1.2,8.75,8.25,8.25,8.25,8.25,8.25,8.5,8.25,8.5,,8.32
+,Performance  ,,,,1.2,9.0,8.75,8.5,8.5,8.25,7.75,8.5,8.75,8.75,,8.57
+,Choreography  ,,,,1.2,9.0,8.5,8.5,8.75,8.5,8.5,8.25,8.5,8.75,,8.57
+,Interpretation / Timing  ,,,,1.2,8.75,9.0,8.25,8.75,8.25,8.5,8.0,8.25,9.0,,8.54
+,,,,,,,,,,,,,,,,50.82

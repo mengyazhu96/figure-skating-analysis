@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Eliska BREZINOVA,CZE,6,95.81,50.33,45.48,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+2T,,4.6,False,0.57,1,1,1,1,2,1,2,0,1,,5.17
+2,3Lz,,6.0,False,0.5,1,1,1,0,1,1,1,0,0,,6.5
+3,3Lo,,5.1,False,0.4,1,0,0,0,1,1,1,1,0,,5.5
+4,FCSSp4,,3.0,False,0.43,1,0,1,1,1,1,1,1,0,,3.43
+5,3T,,4.1,False,0.7,1,1,0,1,1,1,1,1,1,,4.8
+6,StSq2,,2.6,False,0.07,0,0,0,0,0,1,0,1,0,,2.67
+7,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,0,1,1,,2.7
+8,3T+2T,,5.94,True,0.1,0,0,1,0,0,0,0,1,0,,6.04
+9,2F+2T+1Lo,,3.96,True,0.0,0,0,0,0,0,0,0,1,0,,3.96
+10,CCoSp4,,3.5,False,0.14,1,0,1,0,0,0,0,1,0,,3.64
+11,2A,,3.63,True,-0.71,-2,-2,-1,-1,-3,-2,-1,-1,-1,,2.92
+12,FCCoSp3,,3.0,False,0.0,0,0,0,0,0,0,-1,0,0,,3.0
+,,,47.43,,,,,,,,,,,,,50.33
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,5.5,5.75,6.25,6.0,6.25,6.0,6.25,6.5,,6.04
+,Transition / Linking Footwork  ,,,,1.6,4.75,5.0,5.0,6.0,4.25,5.75,5.75,5.75,6.25,,5.43
+,Performance / Execution  ,,,,1.6,5.5,5.5,5.5,6.25,4.75,6.25,5.75,6.0,6.25,,5.82
+,Choreography / Composition  ,,,,1.6,5.25,4.75,5.25,6.25,5.0,6.0,5.75,5.75,6.0,,5.57
+,Interpretation  ,,,,1.6,5.5,4.75,5.0,6.0,4.5,6.25,5.5,6.0,6.25,,5.57
+,,,,,,,,,,,,,,,,45.48

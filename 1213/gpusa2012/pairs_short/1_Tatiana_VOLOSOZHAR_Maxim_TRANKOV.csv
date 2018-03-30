@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Tatiana VOLOSOZHAR / Maxim TRANKOV,RUS,7,65.78,32.87,32.91,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.4,False,0.5,1,-1,0,2,2,2,0,-1,1,,5.9
+2,3S,,4.2,False,-0.3,-1,-1,1,0,-1,1,-1,0,-2,,3.9
+3,3LoTh,,5.0,False,-0.2,-1,-2,0,0,1,1,-2,1,-1,,4.8
+4,BoDs2,,3.5,False,0.7,1,1,1,1,1,1,1,1,0,,4.2
+5,4Li4,,4.0,False,1.0,2,2,2,2,2,1,2,2,2,,5.0
+6,StSq4,,3.9,False,1.1,2,1,1,2,2,1,1,2,2,,5.0
+7,FCCoSp4,,3.5,False,0.57,1,1,1,2,1,1,1,2,1,,4.07
+,,,29.5,,,,,,,,,,,,,32.87
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,8.5,8.25,8.0,8.5,8.0,8.5,8.75,7.75,,8.25
+,Transition / Linking Footwork  ,,,,0.8,7.5,8.0,8.0,8.0,8.5,7.5,8.0,8.5,7.75,,7.96
+,Performance / Execution  ,,,,0.8,7.5,8.5,7.75,8.25,8.75,7.75,8.75,8.5,8.25,,8.25
+,Choreography / Composition  ,,,,0.8,8.25,8.5,8.0,8.5,8.75,7.75,8.75,8.75,8.0,,8.39
+,Interpretation  ,,,,0.8,7.75,8.25,8.0,8.5,9.0,8.0,8.5,8.5,8.25,,8.29
+,,,,,,,,,,,,,,,,32.91

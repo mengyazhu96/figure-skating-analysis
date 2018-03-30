@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Fumie SUGURI,JPN,8,56.04,29.28,26.76,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,e,7.3,False,-1.4,-3,-1,-1,-2,-1,-2,-1,-2,-1,,5.9
+2,3F<,<,1.7,False,0.04,0,-1,1,0,0,-1,1,1,1,,1.74
+3,LSp4,,2.7,False,0.3,0,1,1,1,0,0,2,1,2,,3.0
+4,SpSq4,,3.4,False,0.6,0,1,1,0,1,0,2,0,1,,4.0
+5,2A,,3.5,False,0.4,0,1,1,0,0,1,1,0,0,,3.9
+6,FSSp4,,3.0,False,0.3,0,0,2,1,0,0,2,0,2,,3.3
+7,SlSt3,,3.3,False,0.7,1,1,2,0,1,2,2,1,2,,4.0
+8,CCoSp4,,3.5,False,-0.06,0,0,-1,-1,0,0,1,0,0,,3.44
+,,,28.4,,,,,,,,,,,,,29.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,7.25,7.0,7.25,6.75,6.75,7.25,6.0,6.5,,6.9
+,Transition / Linking Footwork  ,,,,0.8,6.0,5.75,6.75,6.75,6.5,4.25,7.0,5.75,6.75,,6.35
+,Performance / Execution  ,,,,0.8,6.5,7.0,7.25,7.0,7.0,6.0,7.25,6.25,6.25,,6.75
+,Choreography / Composition  ,,,,0.8,6.5,6.75,6.75,7.25,6.75,5.0,7.5,6.0,6.5,,6.65
+,Interpretation  ,,,,0.8,6.75,6.75,7.25,7.25,6.75,6.0,7.5,6.0,6.5,,6.8
+,,,,,,,,,,,,,,,,26.76

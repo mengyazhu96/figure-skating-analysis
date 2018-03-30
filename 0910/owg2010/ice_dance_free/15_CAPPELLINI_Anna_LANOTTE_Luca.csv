@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,CAPPELLINI Anna / LANOTTE Luca,ITA,9,82.74,44.6,39.14,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.3,1,1,0,1,0,2,1,0,1,,5.0
+2,SlLi4,,5.0,False,0.7,2,1,1,2,1,2,1,1,2,,5.7
+3,STw4,,5.5,False,0.7,2,1,1,1,2,1,2,0,2,,6.2
+4,CiSt2,,6.4,False,0.6,1,1,0,0,1,0,1,0,1,,7.0
+5,SlLi4+RoLi4,,8.0,False,0.5,1,1,1,2,2,1,1,1,1,,8.5
+6,DiSt3,,6.2,False,0.4,1,1,0,-1,0,0,1,0,1,,6.6
+7,RoLi4,,5.0,False,0.6,1,1,0,0,2,1,2,1,2,,5.6
+,,,40.8,,,,,,,,,,,,,44.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.75,7.0,5.75,7.0,7.25,6.75,7.0,6.25,6.5,,6.65
+,Transitions / Linking Footwork / Movement  ,,,,1.75,6.25,6.5,5.5,6.5,6.75,6.25,7.0,5.75,6.75,,6.3
+,Performance / Execution  ,,,,1.0,6.75,7.0,6.0,7.5,7.0,6.75,7.0,6.0,6.5,,6.6
+,Composition / Choreography  ,,,,1.0,6.5,6.75,5.75,7.5,7.25,7.0,7.25,6.0,6.75,,6.6
+,Interpretation / Timing  ,,,,1.0,6.5,7.0,6.0,6.75,7.5,6.5,7.25,6.25,6.75,,6.6
+,,,,,,,,,,,,,,,,39.14
+Deduction,Extended lifts,-1.0

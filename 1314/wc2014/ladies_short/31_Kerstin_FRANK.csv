@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+31,Kerstin FRANK,AUT,4,44.11,23.28,20.83,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.4,0,1,0,1,0,0,1,1,1,,7.7
+2,LSp2,,1.9,False,-0.09,-1,0,0,0,-1,-1,0,0,0,,1.81
+3,StSq2,,2.6,False,-0.09,-1,0,-1,-1,0,0,0,0,0,,2.51
+4,2S,,1.43,True,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.83
+5,FCSp4,,3.2,False,-0.04,-1,0,0,-1,0,0,0,0,0,,3.16
+6,2A,,3.63,True,0.5,1,1,1,1,1,1,1,2,1,,4.13
+7,CCoSp3,,3.0,False,0.14,0,0,1,0,0,0,1,1,0,,3.14
+,,,23.06,,,,,,,,,,,,,23.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.5,5.5,5.25,5.25,5.5,5.5,5.75,5.5,,5.43
+,Transition / Linking Footwork  ,,,,0.8,5.25,5.0,4.75,4.75,5.0,5.0,5.0,5.0,5.25,,5.0
+,Performance / Execution  ,,,,0.8,5.0,5.5,5.0,5.25,5.25,5.25,5.25,5.25,5.5,,5.25
+,Choreography / Composition  ,,,,0.8,5.0,5.25,5.25,4.75,5.5,5.25,5.25,5.5,5.25,,5.25
+,Interpretation  ,,,,0.8,5.0,5.25,4.75,5.0,5.25,5.0,5.0,5.25,5.25,,5.11
+,,,,,,,,,,,,,,,,20.83

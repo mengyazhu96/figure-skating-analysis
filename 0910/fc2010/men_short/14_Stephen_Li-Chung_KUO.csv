@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Stephen Li-Chung KUO,TPE,8,53.8,30.5,23.3,0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,FALSE,0.4,1,0,1,1,1,0,0,0,0,,3.9
+2,3Lz,,6,FALSE,-1.6,-3,-1,-1,-1,-2,-2,-3,-2,-2,,4.4
+3,3T+2T,,5.3,FALSE,0,0,0,0,0,0,0,0,0,0,,5.3
+4,CSSp4,,3,FALSE,0.2,1,0,1,0,1,0,1,0,1,,3.2
+5,SlSt3,,3.3,FALSE,0.5,1,1,1,0,2,0,1,1,2,,3.8
+6,FSSp4,,3,FALSE,0.2,-1,0,1,0,0,0,0,1,1,,3.2
+7,CiSt3,,3.3,FALSE,0.2,1,0,0,0,1,0,1,1,1,,3.5
+8,CCoSp3,,3,FALSE,0.2,-1,0,1,0,1,1,0,0,0,,3.2
+,,,30.4,,,,,,,,,,,,,30.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1,4.25,5,5.25,4.25,4.5,4.75,5.5,4.75,4.75,,4.75
+,Transition / Linking Footwork  ,,,,1,3.75,4.5,5,3.5,4.25,4.25,5,4.5,4.5,,4.4
+,Performance / Execution  ,,,,1,4.25,5,5,4,4.75,4.5,5.25,5,4.5,,4.75
+,Choreography / Composition  ,,,,1,4.5,4.75,5,4,4.75,4.5,5.25,4.75,4.5,,4.65
+,Interpretation  ,,,,1,4.25,4.75,5,4,5,4.75,5.25,4.75,4.5,,4.75
+,,,,,,,,,,,,,,,,23.3

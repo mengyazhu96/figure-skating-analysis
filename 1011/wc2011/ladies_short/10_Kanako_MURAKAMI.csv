@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Kanako MURAKAMI,JPN,19,54.86,28.51,26.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T<,<,7.0,False,-0.3,-1,0,-1,-1,-1,1,1,-1,0,,6.7
+2,3F,,5.3,False,0.0,1,0,-1,0,-1,1,-1,1,0,,5.3
+3,LSp4,,2.7,False,0.5,1,1,2,1,0,1,1,1,1,,3.2
+4,2A,,3.3,False,-1.0,-2,-2,-2,-2,-2,-2,-2,-1,-2,,2.3
+5,FSSp4,,3.0,False,0.21,1,1,0,1,0,0,0,0,1,,3.21
+6,SlSt3,,3.3,False,0.57,1,1,1,2,1,1,1,1,2,,3.87
+7,CCoSp4,,3.5,False,0.43,1,0,2,1,1,0,1,1,1,,3.93
+,,,28.1,,,,,,,,,,,,,28.51
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.5,5.5,6.5,6.5,6.25,6.5,7.0,7.25,,6.54
+,Transition / Linking Footwork  ,,,,0.8,6.0,6.0,5.5,7.0,6.25,6.25,6.25,6.75,7.0,,6.36
+,Performance / Execution  ,,,,0.8,6.75,6.5,6.0,6.5,6.5,6.5,6.5,7.25,7.25,,6.64
+,Choreography / Composition  ,,,,0.8,6.5,6.75,6.0,6.5,6.5,6.25,6.75,7.0,7.25,,6.61
+,Interpretation  ,,,,0.8,6.5,6.75,6.0,7.0,6.5,6.5,7.0,7.25,7.25,,6.79
+,,,,,,,,,,,,,,,,26.35

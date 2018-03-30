@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Ina DEMIREVA / Juri KURAKIN,BUL,0,34.6,21.71,12.89,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiTw2,,2.5,False,-1.0,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,,1.5
+2,NtMiSt1,,2.9,False,-0.64,-1,-2,-1,0,-1,-1,-1,-1,-2,-1,-2,-2,,2.26
+3,Sp4,,4.7,False,-0.07,0,-1,0,0,0,0,-1,-1,0,0,0,0,,4.63
+4,SlLi4,,4.0,False,0.29,1,1,0,1,0,0,0,0,1,1,0,0,,4.29
+5,CiSt1,,5.6,False,-0.71,-1,-1,-1,0,-1,-1,-1,-1,0,0,-1,-1,,4.89
+6,RoLi4,,4.0,False,0.14,1,0,0,1,0,0,0,0,0,1,-1,0,,4.14
+,,,23.7,,,,,,,,,,,,,,,,21.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.5,3.0,3.75,3.75,3.25,3.25,2.5,3.5,4.25,3.5,3.25,3.25,,3.43
+,Linking Footwork / Movement  ,,,,0.8,3.25,2.75,3.25,4.0,3.0,3.0,2.75,3.0,4.0,3.25,3.0,2.75,,3.18
+,Performance  ,,,,0.6,4.0,2.5,3.75,4.0,3.25,3.25,3.0,3.25,4.0,3.5,3.5,3.0,,3.5
+,Choreography  ,,,,0.6,4.0,3.0,3.75,4.25,3.5,3.0,3.0,3.5,3.75,3.5,3.5,3.25,,3.54
+,Interpretation / Timing  ,,,,1.0,3.75,2.75,3.5,4.25,3.5,3.25,2.5,3.25,4.0,3.25,3.25,3.0,,3.39
+,,,,,,,,,,,,,,,,,,,12.89

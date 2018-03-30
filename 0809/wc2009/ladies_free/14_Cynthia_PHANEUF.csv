@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Cynthia PHANEUF,CAN,9,92.95,48.51,47.44,3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2A+SEQ,,6.0,False,1.2,1,1,1,1,1,1,1,2,2,,7.2
+2,3Lz<,<,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,3Lo,,5.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+4,3F,,5.5,False,-0.2,0,0,0,0,-1,0,-1,-1,0,,5.3
+5,FSSp4,,3.0,False,0.0,0,0,0,0,0,0,-1,-1,0,,3.0
+6,3S,,4.95,True,0.8,1,1,0,1,0,0,1,1,1,,5.75
+7,SpSq3,,3.1,False,0.3,1,0,0,1,1,0,1,1,0,,3.4
+8,3Lz+SEQ,,5.28,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.28
+9,SlSt3,,3.3,False,0.5,1,1,0,1,1,1,1,1,0,,3.8
+10,3T+2T+2Lo,,7.48,True,0.2,0,0,0,0,1,0,0,0,1,,7.68
+11,CSSp4,,3.0,False,0.2,0,0,0,1,1,1,1,0,0,,3.2
+12,CCoSp4,,3.5,False,0.5,0,1,0,1,2,1,1,1,1,,4.0
+,,,52.01,,,,,,,,,,,,,48.51
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.5,6.5,5.0,6.0,6.25,5.0,6.75,6.75,6.0,,6.05
+,Transition / Linking Footwork  ,,,,1.6,5.0,6.25,4.5,6.0,6.0,4.5,6.5,6.0,5.75,,5.75
+,Performance / Execution  ,,,,1.6,5.25,6.5,4.25,5.25,6.25,4.5,6.25,6.25,5.75,,5.75
+,Choreography / Composition  ,,,,1.6,5.5,6.75,4.5,6.0,6.5,4.75,6.5,6.75,6.0,,6.15
+,Interpretation  ,,,,1.6,5.25,6.5,4.75,5.75,6.5,5.0,6.75,6.5,5.75,,5.95
+,,,,,,,,,,,,,,,,47.44
+Deduction,Falls,-3.0

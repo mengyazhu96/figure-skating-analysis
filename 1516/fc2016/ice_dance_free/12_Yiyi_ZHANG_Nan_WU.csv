@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Yiyi ZHANG / Nan WU,CHN,4,72.83,41.24,31.59,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.6,1,1,2,1,2,1,0,0,1,,7.2
+2,RoLi4,,4.5,False,0.51,1,0,1,0,1,1,1,1,1,,5.01
+3,CoSp4,,5.6,False,0.17,0,0,0,1,1,0,0,1,0,,5.77
+4,CuLi4,,4.5,False,0.09,0,0,0,0,0,0,1,1,0,,4.59
+5,CiSt3,,7.1,False,0.0,0,0,0,-1,0,0,0,2,0,,7.1
+6,ChSp1,,0.6,False,0.43,1,0,1,2,1,1,0,0,1,,1.03
+7,DiSt2,,5.6,False,0.01,0,0,0,-1,0,1,0,1,-1,,5.61
+8,SlLi4,,4.5,False,0.43,1,1,2,0,1,0,1,1,0,,4.93
+,,,39.0,,,,,,,,,,,,,41.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,5.25,5.5,5.75,5.0,5.75,5.25,5.0,5.25,5.5,,5.36
+,Linking Footwork / Movement  ,,,,1.2,4.75,5.0,5.0,5.25,5.5,5.0,5.25,5.25,5.0,,5.11
+,Performance  ,,,,1.2,5.25,5.25,5.75,5.0,6.25,5.5,5.0,4.75,5.25,,5.29
+,Choreography  ,,,,1.2,5.5,5.25,5.75,5.5,6.75,5.5,4.75,5.0,5.0,,5.36
+,Interpretation / Timing  ,,,,1.2,5.0,4.75,5.5,5.5,6.25,5.25,4.5,5.25,5.25,,5.21
+,,,,,,,,,,,,,,,,31.59

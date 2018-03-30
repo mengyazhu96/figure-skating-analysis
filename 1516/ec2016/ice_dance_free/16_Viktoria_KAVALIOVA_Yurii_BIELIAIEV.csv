@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Viktoria KAVALIOVA / Yurii BIELIAIEV,BLR,4,81.46,43.64,38.82,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CiSt3,,7.1,False,0.31,0,0,1,1,0,0,0,0,1,,7.41
+2,CoSp4,,5.6,False,0.51,1,1,1,1,1,1,0,1,0,,6.11
+3,SlLi4,,4.5,False,0.6,1,2,1,0,1,1,1,1,1,,5.1
+4,CuLi4,,4.5,False,0.6,1,1,2,2,0,1,1,0,1,,5.1
+5,DiSt3,,7.1,False,0.0,0,0,1,0,0,0,0,0,0,,7.1
+6,STw4,,6.6,False,0.43,1,0,1,1,1,1,1,0,0,,7.03
+7,RoLi4,,4.5,False,0.6,2,0,2,1,1,1,0,1,1,,5.1
+8,ChSp1,,0.6,False,0.09,0,0,1,1,0,0,0,0,0,,0.69
+,,,40.5,,,,,,,,,,,,,43.64
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.25,6.5,6.5,6.75,6.25,6.75,6.0,6.25,6.5,,6.43
+,Linking Footwork / Movement  ,,,,1.2,6.0,6.25,6.5,6.75,5.75,6.75,5.5,6.0,6.25,,6.21
+,Performance  ,,,,1.2,6.25,6.75,7.0,7.0,6.0,7.0,5.0,6.25,6.75,,6.57
+,Choreography  ,,,,1.2,6.5,6.5,7.0,7.0,6.5,7.0,5.75,6.5,6.75,,6.68
+,Interpretation / Timing  ,,,,1.2,6.25,6.75,6.75,6.5,6.25,6.75,5.5,6.25,6.5,,6.46
+,,,,,,,,,,,,,,,,38.82
+Deduction,Extended lifts,-1.0

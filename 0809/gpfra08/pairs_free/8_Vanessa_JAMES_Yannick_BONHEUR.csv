@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Vanessa JAMES / Yannick BONHEUR,FRA,0,76.81,41.77,37.04,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S+2S+SEQ,,4.64,False,0.0,0,0,0,1,0,0,0,1,0,,4.64
+2,2LzTw1,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,,3.0
+3,5ALi1,,5.0,False,-0.98,-2,-1,-1,-1,-2,-1,-2,-2,-1,,4.02
+4,3STh,,4.5,False,0.42,0,2,0,1,1,1,1,0,1,,4.92
+5,3T,,4.0,False,-3.0,-3,-3,-3,-3,-2,-3,-3,-3,-3,,1.0
+6,FiDs1,,2.8,False,0.0,0,1,0,0,0,0,0,0,0,,2.8
+7,5SLi3,,6.05,True,0.3,1,1,0,0,1,0,0,1,1,,6.35
+8,3FTh,,6.05,True,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.05
+9,FCCoSp3,,3.0,False,-0.36,-1,-2,-2,-1,-1,-1,0,-1,-1,,2.64
+10,PCoSp1,,3.0,False,0.0,0,0,0,0,0,0,1,-1,0,,3.0
+11,SlSt2,,2.3,False,0.0,0,0,0,1,0,0,0,0,0,,2.3
+12,4Li3,,3.85,True,-0.8,-3,-2,-1,-1,-1,-1,-2,-2,0,,3.05
+,,,48.19,,,,,,,,,,,,,41.77
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.5,5.0,5.0,5.25,4.75,5.0,4.75,4.0,5.0,,4.85
+,Transition / Linking Footwork  ,,,,1.6,4.0,4.25,4.75,5.0,4.25,4.5,4.0,4.25,4.75,,4.35
+,Performance / Execution  ,,,,1.6,4.5,4.25,5.25,4.75,4.5,4.75,4.25,4.0,5.0,,4.55
+,Choreography / Composition  ,,,,1.6,4.25,4.75,5.0,5.0,4.75,4.5,4.0,5.0,5.0,,4.7
+,Interpretation  ,,,,1.6,4.25,5.0,5.25,4.5,4.5,4.75,4.5,4.25,5.0,,4.7
+,,,,,,,,,,,,,,,,37.04
+Deduction,Falls,-2.0

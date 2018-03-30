@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Caydee DENNEY / John COUGHLIN,USA,11,117.89,59.04,58.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,1.4,2,1,2,2,2,2,2,2,2,,6.4
+2,3LoTh,,5.0,False,0.7,1,2,1,1,1,0,1,1,1,,5.7
+3,3T,,4.1,False,0.7,1,1,1,1,0,1,1,1,1,,4.8
+4,1A+2A+SEQ,,3.52,False,-1.0,-2,-2,-1,-2,-2,-2,-2,-2,-2,,2.52
+5,FCCoSp2,,2.5,False,0.43,1,1,-1,1,1,0,1,1,1,,2.93
+6,PCoSp4,,4.5,False,0.5,1,1,2,0,1,0,1,2,1,,5.0
+7,5ALi3,,6.6,True,1.0,1,1,2,1,1,1,2,2,2,,7.6
+8,3FTh,,6.05,True,0.2,0,0,1,0,0,0,1,0,1,,6.25
+9,BoDs1,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,,3.0
+10,5TLi4,,6.6,True,0.64,2,1,1,1,1,2,1,2,1,,7.24
+11,ChSp1,,2.0,False,0.2,0,0,1,0,0,0,0,1,1,,2.2
+12,4Li4,,4.4,True,1.0,2,2,2,2,2,2,2,2,1,,5.4
+,,,53.27,,,,,,,,,,,,,59.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.75,8.0,7.5,7.5,7.25,7.25,6.75,7.5,7.5,,7.46
+,Transition / Linking Footwork  ,,,,1.6,7.5,7.75,7.0,7.0,6.25,7.0,5.25,7.0,6.75,,6.93
+,Performance / Execution  ,,,,1.6,8.0,8.25,7.75,7.25,7.5,7.5,7.0,8.0,7.25,,7.61
+,Choreography / Composition  ,,,,1.6,7.5,8.25,7.5,7.5,6.75,7.5,7.25,7.5,7.0,,7.39
+,Interpretation  ,,,,1.6,7.5,8.5,7.5,7.25,7.5,7.25,6.5,7.5,7.25,,7.39
+,,,,,,,,,,,,,,,,58.85

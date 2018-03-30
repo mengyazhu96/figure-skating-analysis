@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Alex Kang Chan KAM,KOR,3,52.12,28.56,23.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.6,1,0,1,1,1,0,1,1,2,,8.8
+2,3Lz,,6.0,False,0.1,1,0,0,-1,1,0,0,0,0,,6.1
+3,CCoSp3,,3.0,False,0.0,1,0,0,0,-1,0,0,0,0,,3.0
+4,2A,,3.3,False,-0.29,0,-1,-1,-1,0,0,0,-1,-1,,3.01
+5,FCSp2,,2.3,False,-0.39,-1,0,-1,-2,-2,-1,-1,-1,-2,,1.91
+6,SlSt2,,2.6,False,0.0,0,0,0,0,0,0,0,0,-1,,2.6
+7,CSSp4,,3.0,False,0.14,1,0,0,0,0,1,1,0,0,,3.14
+,,,28.4,,,,,,,,,,,,,28.56
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.0,4.25,4.75,5.0,5.5,4.75,5.5,5.0,5.5,,5.07
+,Transition / Linking Footwork  ,,,,1.0,4.75,4.0,4.25,4.5,4.5,4.25,4.75,4.25,5.75,,4.46
+,Performance / Execution  ,,,,1.0,5.0,4.25,4.5,5.0,5.0,4.5,5.0,4.0,5.75,,4.75
+,Choreography / Composition  ,,,,1.0,4.5,4.25,4.75,5.0,4.5,4.5,5.25,4.5,5.25,,4.71
+,Interpretation  ,,,,1.0,4.25,4.0,4.5,4.75,4.25,4.5,5.25,4.5,5.25,,4.57
+,,,,,,,,,,,,,,,,23.56

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Brandon MROZ,USA,8,54.5,25.6,29.9,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,9.8,False,-4.8,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.0
+2,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,CSSp4,,3.0,False,0.1,1,0,0,0,0,1,-1,1,0,,3.1
+4,3Lz+2T,,7.3,False,0.0,0,0,0,1,0,0,0,0,0,,7.3
+5,FSSp4,,3.0,False,0.0,0,1,-1,0,0,0,0,0,0,,3.0
+6,SlSt1,,1.8,False,0.1,0,0,1,0,0,0,0,1,-1,,1.9
+7,CiSt1,,1.8,False,0.2,0,1,1,1,0,0,0,0,-1,,2.0
+8,CCoSp3,,3.0,False,0.0,1,0,0,0,0,0,0,0,0,,3.0
+,,,30.5,,,,,,,,,,,,,25.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,6.5,6.75,6.25,6.0,6.0,6.5,5.5,5.75,,6.15
+,Transition / Linking Footwork  ,,,,1.0,4.5,6.25,6.5,6.0,6.0,5.5,6.0,5.25,5.0,,5.9
+,Performance / Execution  ,,,,1.0,5.0,5.75,6.5,5.5,6.0,5.5,6.0,5.25,5.5,,5.7
+,Choreography / Composition  ,,,,1.0,5.25,6.5,6.75,6.0,6.25,5.75,6.5,5.75,6.0,,6.2
+,Interpretation  ,,,,1.0,5.0,6.0,6.5,5.5,6.5,5.5,6.25,5.5,5.0,,5.95
+,,,,,,,,,,,,,,,,29.9
+Deduction,Falls,-1.0

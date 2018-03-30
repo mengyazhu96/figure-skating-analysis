@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Lubov ILIUSHECHKINA / Dylan MOSCOVITCH,CAN,2,55.42,27.2,29.22,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw1,,5.4,False,0.7,1,1,1,2,1,1,1,1,1,,6.1
+2,3S<,<,3.1,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+3,3LzTh,,5.5,False,1.2,1,2,1,3,2,2,2,2,1,,6.7
+4,StSq3,,3.3,False,0.64,1,1,2,1,1,1,3,1,2,,3.94
+5,BoDs3,,4.0,False,0.6,1,2,1,1,-1,0,2,-1,2,,4.6
+6,4Li,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,PCoSp3p4,,4.5,False,0.36,0,1,1,1,0,1,1,0,1,,4.86
+,,,25.8,,,,,,,,,,,,,27.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.5,7.25,7.75,7.5,7.0,7.5,7.75,6.5,7.5,,7.43
+,Transition / Linking Footwork  ,,,,0.8,7.0,7.0,7.5,7.5,6.5,7.0,7.75,7.0,7.25,,7.18
+,Performance / Execution  ,,,,0.8,7.25,7.0,7.25,7.0,6.75,7.25,7.75,6.5,7.5,,7.14
+,Choreography / Composition  ,,,,0.8,7.25,7.25,8.0,8.0,6.75,7.5,7.75,7.0,7.25,,7.43
+,Interpretation  ,,,,0.8,7.0,7.25,7.75,7.75,6.75,7.5,8.0,6.75,7.5,,7.36
+,,,,,,,,,,,,,,,,29.22
+Deduction,Falls,-1.0

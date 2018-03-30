@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Lucie MYSLIVECKOVA / Matej NOVAK,CZE,6,68.35,37.7,30.65,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.0,False,0.5,2,1,1,1,0,1,2,2,0,,4.5
+2,CoSp4,,4.7,False,0.3,1,1,0,1,0,0,1,1,0,,5.0
+3,SeLi4,,6.4,False,0.1,1,0,0,1,0,1,1,0,0,,6.5
+4,STw4,,4.7,False,-0.5,-2,-1,-1,-1,-1,-1,0,-1,-1,,4.2
+5,MiSt2,,5.4,False,-1.0,-1,-1,-1,-1,-1,-1,-1,-1,-1,,4.4
+6,CiSt2,,6.4,False,0.0,0,0,0,0,0,0,1,1,0,,6.4
+7,SlLi3,,3.5,False,-0.8,0,-2,-1,-2,-2,-2,-2,-2,-1,,2.7
+8,RoLi4,,4.0,False,0.0,1,0,0,0,0,-1,0,0,0,,4.0
+,,,39.1,,,,,,,,,,,,,37.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.25,4.5,5.0,5.25,5.25,5.25,5.5,5.5,5.0,,5.15
+,Linking Footwork / Movement  ,,,,1.75,5.0,4.25,5.0,5.0,5.0,5.5,5.25,5.5,4.75,,4.95
+,Performance  ,,,,1.0,5.5,4.5,5.5,4.75,5.25,5.0,5.25,5.0,5.0,,5.1
+,Choreography  ,,,,1.0,5.5,4.75,5.5,5.25,5.25,5.5,5.25,5.25,5.25,,5.3
+,Interpretation / Timing  ,,,,1.0,5.5,4.5,5.5,5.0,5.0,5.0,5.5,5.25,5.0,,5.15
+,,,,,,,,,,,,,,,,30.65

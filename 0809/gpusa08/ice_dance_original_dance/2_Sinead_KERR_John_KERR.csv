@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Sinead KERR / John KERR,GBR,0,57.74,30.4,27.34,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,MiStNt3,,6.2,False,1.2,1,1,1,0,1,2,2,0,1,,7.4
+2,STw4,,4.7,False,0.3,1,-1,0,1,0,1,1,0,1,,5.0
+3,Sp4,,4.7,False,0.5,1,0,1,1,1,1,1,1,1,,5.2
+4,DiSt3,,7.2,False,0.8,1,0,0,1,1,1,2,0,1,,8.0
+5,CuLi4,,4.0,False,0.8,2,1,2,2,2,1,1,1,2,,4.8
+,,,26.8,,,,,,,,,,,,,30.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.5,7.0,7.25,7.0,6.5,7.0,7.25,7.0,7.25,,7.1
+,Linking Footwork / Movement  ,,,,0.8,7.5,6.25,7.25,6.75,6.75,6.75,7.25,7.0,7.0,,6.95
+,Performance  ,,,,0.6,7.5,6.25,7.5,7.0,7.5,7.0,7.5,7.0,7.25,,7.3
+,Choreography  ,,,,0.6,7.25,6.5,7.5,6.75,7.25,7.25,7.5,7.0,7.5,,7.2
+,Interpretation / Timing  ,,,,1.0,7.5,6.5,7.5,7.25,7.5,7.25,7.5,7.25,7.5,,7.4
+,,,,,,,,,,,,,,,,27.34

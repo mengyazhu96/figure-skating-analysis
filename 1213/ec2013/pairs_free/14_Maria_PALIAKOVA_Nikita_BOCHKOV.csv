@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Maria PALIAKOVA / Nikita BOCHKOV,BLR,3,66.07,33.31,34.76,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2F+SEQ,,1.44,False,-0.6,-2,-2,-2,-2,-2,-2,-2,-2,-2,,0.84
+2,3TwB,,4.6,False,-0.5,-1,-1,0,-1,-1,-1,0,0,-1,,4.1
+3,3STh,,4.5,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.4
+4,4LiB,,2.0,False,-0.79,-2,-1,-2,-1,-3,-1,-2,-1,-2,,1.21
+5,2T,,1.3,False,0.03,0,0,0,0,0,1,1,0,0,,1.33
+6,FiDs2,,3.0,False,0.0,0,0,0,1,0,0,0,0,0,,3.0
+7,3LoTh,,5.5,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.4
+8,PCoSp3,,4.0,False,-0.13,-1,0,0,0,-1,-1,0,0,-1,,3.87
+9,ChSq1,,2.0,False,-0.21,-1,-1,0,0,0,-1,-1,0,0,,1.79
+10,5TLi3,,6.05,True,-0.29,-1,0,0,-1,-1,0,-1,0,-1,,5.76
+11,3Li3,,3.85,True,-0.07,-1,0,0,0,-1,0,0,0,1,,3.78
+12,FCCoSp1,,2.0,False,-0.17,-1,-1,-1,0,-1,0,0,-1,0,,1.83
+,,,40.24,,,,,,,,,,,,,33.31
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.75,4.75,5.0,4.5,4.25,3.75,5.0,4.75,4.25,,4.61
+,Transition / Linking Footwork  ,,,,1.6,4.25,4.25,4.5,4.0,4.0,3.5,4.5,4.25,3.75,,4.14
+,Performance / Execution  ,,,,1.6,4.5,4.5,4.5,4.25,4.0,3.5,4.5,4.5,4.25,,4.36
+,Choreography / Composition  ,,,,1.6,4.25,4.75,4.75,4.0,3.75,3.5,4.25,4.5,4.25,,4.25
+,Interpretation  ,,,,1.6,4.25,4.75,4.75,4.5,4.25,3.25,4.0,4.5,4.25,,4.36
+,,,,,,,,,,,,,,,,34.76
+Deduction,Falls,-2.0

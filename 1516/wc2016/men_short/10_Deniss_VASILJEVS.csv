@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Deniss VASILJEVS,LAT,12,81.07,42.7,38.37,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.0,2,1,1,1,1,1,1,1,1,,9.5
+2,3Lz+3T,,10.3,False,1.4,2,2,2,2,1,2,2,2,2,,11.7
+3,CCSp4,,3.2,False,0.5,1,1,1,1,1,1,1,1,2,,3.7
+4,3F,,5.3,False,0.2,0,-1,0,1,0,1,0,1,0,,5.5
+5,FSSp4,,3.0,False,0.79,1,2,2,2,1,1,1,2,2,,3.79
+6,StSq3,,3.3,False,1.0,2,2,2,2,2,2,2,2,3,,4.3
+7,CCoSp3p4,,3.5,False,0.71,0,1,2,1,1,1,2,2,2,,4.21
+,,,37.1,,,,,,,,,,,,,42.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.0,8.0,6.75,8.5,7.5,8.0,7.5,7.5,7.75,,7.61
+,Transition / Linking Footwork  ,,,,1.0,6.5,7.75,6.75,8.5,7.5,7.5,7.75,7.25,8.0,,7.5
+,Performance / Execution  ,,,,1.0,7.25,8.0,7.25,8.75,7.75,8.0,7.75,7.5,8.25,,7.79
+,Choreography / Composition  ,,,,1.0,6.75,7.75,7.5,8.5,7.5,7.75,7.5,7.5,8.25,,7.68
+,Interpretation  ,,,,1.0,7.0,8.0,7.5,8.5,7.75,7.75,7.75,7.5,8.25,,7.79
+,,,,,,,,,,,,,,,,38.37

@@ -1,0 +1,26 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Meeran TROMBLEY / Laureano IBARRA,USA,0,86.94,48.74,39.2,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,BiDs3,,3.2,False,0.14,1,0,0,0,0,0,0,1,1,0,,3.34
+2,3LzTw2,,5.5,False,0.0,1,0,-1,0,0,0,0,1,0,-1,,5.5
+3,3STh,,4.5,False,-0.14,0,0,0,0,-1,0,-1,0,-1,0,,4.36
+4,2A,,3.5,False,-0.8,-1,-1,-1,-1,-2,0,-1,-1,-1,-1,,2.7
+5,3Li4,,4.0,False,0.1,1,0,0,1,0,0,0,1,0,0,,4.1
+6,3LoTh,,5.0,False,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+7,FCCoSp3,,3.0,False,0.0,0,0,0,0,-1,0,0,-1,0,0,,3.0
+8,2T+2T<+SEQ,,1.5,True,-0.6,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,,0.9
+9,5SLi3,,5.5,False,0.0,1,0,0,0,-1,0,0,0,0,0,,5.5
+10,SpSq4,,3.4,False,0.2,1,1,0,0,0,0,0,0,0,0,,3.6
+11,SlSt1,,1.8,False,-0.06,0,0,0,0,-1,0,-1,0,-1,0,,1.74
+12,5ALi3,,6.0,False,0.4,1,0,0,0,1,0,0,0,1,1,,6.4
+13,PCoSp4,,4.5,False,0.1,1,0,1,0,0,1,0,0,0,0,,4.6
+,,,51.4,,,,,,,,,,,,,,48.74
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.0,5.0,4.5,5.25,5.5,4.75,5.5,4.75,5.25,5.25,,5.15
+,Transition / Linking Footwork  ,,,,1.6,4.25,4.5,4.0,4.75,5.0,4.25,5.0,4.25,4.75,4.75,,4.6
+,Performance / Execution  ,,,,1.6,5.0,4.75,4.25,5.0,5.5,4.0,5.25,4.25,4.25,5.25,,4.85
+,Choreography / Composition  ,,,,1.6,5.25,4.75,4.0,5.0,5.5,4.5,5.0,4.5,5.0,5.0,,4.95
+,Interpretation  ,,,,1.6,5.25,4.5,3.75,5.25,5.25,4.5,5.25,4.25,4.75,5.0,,4.95
+,,,,,,,,,,,,,,,,,39.2
+Deduction,Falls,-1.0

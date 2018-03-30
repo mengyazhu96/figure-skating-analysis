@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Nathalie WEINZIERL,GER,29,60.82,33.2,27.62,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.5,1,0,1,0,1,1,0,1,1,,8.7
+2,3Lz,,6.0,False,-0.2,1,-1,0,-1,-2,-1,0,1,0,,5.8
+3,LSp4,,2.7,False,0.64,2,1,1,1,2,1,1,1,2,,3.34
+4,2A,,3.63,True,0.36,1,0,1,1,0,1,0,1,1,,3.99
+5,FSSp4,,3.0,False,0.14,1,0,1,0,0,1,0,0,0,,3.14
+6,StSq3,,3.3,False,0.86,2,1,1,2,2,2,2,1,2,,4.16
+7,CCoSp4,,3.5,False,0.57,2,1,1,1,1,2,0,1,1,,4.07
+,,,30.33,,,,,,,,,,,,,33.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.75,6.75,6.75,6.75,7.25,7.0,6.5,7.0,,6.89
+,Transition / Linking Footwork  ,,,,0.8,7.0,6.25,6.25,6.5,7.0,7.0,7.0,6.25,6.5,,6.64
+,Performance / Execution  ,,,,0.8,7.0,6.75,6.75,6.5,7.75,7.25,7.5,6.5,7.5,,7.04
+,Choreography / Composition  ,,,,0.8,7.5,6.5,6.5,6.25,7.5,7.25,7.25,6.5,7.0,,6.93
+,Interpretation  ,,,,0.8,7.5,6.5,6.75,6.5,8.0,7.25,7.5,6.5,7.25,,7.04
+,,,,,,,,,,,,,,,,27.62

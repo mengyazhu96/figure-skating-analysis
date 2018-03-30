@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Anne Line GJERSEM,NOR,3,76.08,36.82,42.26,-3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo,,5.1,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+2,3F,,5.3,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.2
+3,3T+2T,,5.4,False,-0.1,0,-1,0,0,-1,0,0,0,0,,5.3
+4,3Lo+REP,,3.57,False,-1.4,-3,-2,-2,-2,-2,-2,-2,-2,-2,,2.17
+5,FCSp4,,3.2,False,0.29,0,0,0,0,1,1,1,1,1,,3.49
+6,CSSp4,,3.0,False,0.29,0,0,1,1,1,1,0,0,1,,3.29
+7,3S+2A+SEQ,,6.6,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.5
+8,2S,,1.43,True,0.0,0,1,0,0,0,0,0,0,0,,1.43
+9,2A,,3.63,True,-0.36,-1,0,0,-1,-1,0,-1,-1,-1,,3.27
+10,ChSq1,,2.0,False,0.1,1,0,0,0,0,0,0,0,1,,2.1
+11,CCoSp2p2,,1.8,False,0.07,0,-1,1,0,0,1,0,0,0,,1.87
+12,StSq3,,3.3,False,-0.1,1,-1,0,0,0,0,-1,0,0,,3.2
+,,,44.33,,,,,,,,,,,,,36.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.0,6.5,5.75,4.75,5.5,5.75,6.0,5.0,4.75,,5.39
+,Transition / Linking Footwork  ,,,,1.6,5.0,5.75,5.25,4.25,5.25,5.75,5.25,4.75,4.75,,5.14
+,Performance / Execution  ,,,,1.6,4.5,6.5,5.25,4.0,5.25,5.5,5.5,4.5,4.5,,5.0
+,Choreography / Composition  ,,,,1.6,5.5,6.25,5.75,4.5,5.5,5.5,5.75,5.5,5.0,,5.5
+,Interpretation  ,,,,1.6,5.5,6.0,5.5,4.25,5.25,5.75,5.5,5.25,5.0,,5.39
+,,,,,,,,,,,,,,,,42.26
+Deduction,Falls,-3.0

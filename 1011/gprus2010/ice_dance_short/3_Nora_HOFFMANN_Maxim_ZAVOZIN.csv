@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Nora HOFFMANN / Maxim ZAVOZIN,HUN,6,57.24,29.21,28.03,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiSt3,,6.5,False,0.86,0,1,1,1,1,1,0,2,1,,7.36
+2,GW2Se3,,7.0,False,0.43,1,1,1,1,1,1,0,1,0,,7.43
+3,GW1Se3,,5.0,False,0.21,0,1,1,0,1,0,0,2,0,,5.21
+4,STw3,,5.0,False,-0.29,-1,0,0,0,-1,0,-1,-1,-1,,4.71
+5,RoLi4,,4.0,False,0.5,0,1,2,1,2,1,0,2,-1,,4.5
+,,,27.5,,,,,,,,,,,,,29.21
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,7.5,7.0,6.75,7.0,6.75,7.5,6.5,6.5,,6.96
+,Linking Footwork / Movement  ,,,,0.7,7.0,7.25,6.75,6.5,6.75,6.5,7.25,6.75,6.0,,6.79
+,Performance  ,,,,0.7,7.5,7.25,6.75,6.75,7.0,7.0,7.25,7.25,5.75,,7.04
+,Choreography  ,,,,0.8,7.0,7.5,7.25,6.75,7.0,6.75,7.0,7.25,6.5,,7.0
+,Interpretation / Timing  ,,,,1.0,7.25,7.5,7.25,7.0,7.0,7.0,7.5,7.25,6.5,,7.18
+,,,,,,,,,,,,,,,,28.03

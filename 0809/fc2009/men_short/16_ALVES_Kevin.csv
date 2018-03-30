@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,ALVES Kevin,BRA,0,43.97,23.72,21.25,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,,6.8,False,-0.4,-1,-1,-1,-1,-1,0,0,0,0,,6.4
+2,3Lz,,6.0,False,-1.6,-1,-2,-1,-2,-1,-2,-2,-1,-1,,4.4
+3,CSSp2,,2.3,False,-0.12,-1,0,0,-1,0,0,0,-1,-1,,2.18
+4,2A,,3.5,False,-2.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+5,CiSt1,,1.8,False,-0.3,-1,-1,-1,-1,-1,-1,-1,-1,0,,1.5
+6,FSSp3,,2.6,False,-0.3,-1,-1,-1,-1,-1,0,-1,-1,-2,,2.3
+7,SlSt2,,2.3,False,0.1,1,0,0,0,0,1,0,0,1,,2.4
+8,CCoSp4,,3.5,False,0.04,1,-1,-1,1,0,1,0,0,0,,3.54
+,,,28.8,,,,,,,,,,,,,23.72
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,4.25,4.5,4.0,3.75,4.75,3.75,4.0,3.75,,4.1
+,Transitions / Linking Footwork  ,,,,1.0,4.0,3.75,4.5,3.5,3.25,4.25,3.5,3.75,3.5,,3.75
+,Performance / Execution  ,,,,1.0,4.75,4.0,4.5,5.5,3.75,5.25,3.75,4.75,3.75,,4.45
+,Choreography / Composition  ,,,,1.0,4.5,4.0,4.5,4.25,3.5,5.0,4.0,4.75,4.25,,4.35
+,Interpretation  ,,,,1.0,4.75,4.25,4.75,5.5,4.0,5.0,3.75,4.5,4.5,,4.6
+,,,,,,,,,,,,,,,,21.25
+Deduction,Falls,-1.0

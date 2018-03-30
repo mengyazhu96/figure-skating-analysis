@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Adrian SCHULTHEISS,SWE,0,66.31,37.46,28.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,0.8,1,1,1,1,0,1,1,1,0,1,,10.8
+2,3A,,8.2,False,-0.84,0,-1,0,-1,0,-1,0,-1,0,-1,,7.36
+3,3F,e,5.5,False,-1.4,-1,-1,-1,-1,-2,-1,-1,-2,-1,-2,,4.1
+4,CSSp4,,3.0,False,0.3,1,1,0,0,0,0,1,0,1,1,,3.3
+5,CiSt3,,3.3,False,0.1,1,1,1,0,0,0,1,0,0,0,,3.4
+6,FSSp4,,3.0,False,0.1,1,0,0,0,0,0,0,0,0,1,,3.1
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,1,0,,2.3
+8,CCoSp3,,3.0,False,0.1,1,0,0,-1,0,0,0,0,0,1,,3.1
+,,,38.3,,,,,,,,,,,,,,37.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,6.25,6.5,5.75,6.0,6.25,5.75,4.75,6.25,5.75,,5.8
+,Transition / Linking Footwork  ,,,,1.0,5.0,6.0,5.75,5.5,5.5,6.0,5.0,4.5,6.0,5.5,,5.5
+,Performance / Execution  ,,,,1.0,5.75,6.0,6.0,5.75,5.5,6.25,4.75,4.75,6.25,6.0,,5.8
+,Choreography / Composition  ,,,,1.0,5.5,6.25,6.25,6.0,5.75,6.0,5.0,4.75,6.25,6.25,,5.95
+,Interpretation  ,,,,1.0,6.0,5.75,6.0,5.75,5.5,6.0,5.75,4.5,6.5,6.0,,5.8
+,,,,,,,,,,,,,,,,,28.85

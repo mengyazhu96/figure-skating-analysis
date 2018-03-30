@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+26,Marco KLEPOCH,SVK,5,49.48,26.23,23.25,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S+3T<,<,7.1,False,-1.3,-2,-2,-2,-2,-2,-1,-2,-1,-3,,5.8
+2,3Lo,,5.1,False,0.2,0,0,0,2,0,0,1,0,1,,5.3
+3,CCSp2,,2.3,False,0.0,0,0,0,1,0,0,0,0,0,,2.3
+4,2A,,3.3,False,0.36,1,1,0,1,0,1,1,0,1,,3.66
+5,CCoSp3,,3.0,False,0.21,1,0,0,1,0,1,0,0,1,,3.21
+6,StSq2,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+7,FSSp4,,3.0,False,0.36,1,1,0,1,0,1,0,1,1,,3.36
+,,,26.4,,,,,,,,,,,,,26.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.5,5.25,5.0,5.25,4.75,4.5,4.75,4.75,4.25,,4.79
+,Transition / Linking Footwork  ,,,,1.0,4.0,4.75,4.5,5.0,4.25,4.25,4.5,4.5,4.25,,4.43
+,Performance / Execution  ,,,,1.0,4.25,5.0,4.75,5.0,5.0,4.5,5.0,4.75,4.0,,4.75
+,Choreography / Composition  ,,,,1.0,4.25,5.25,4.75,5.0,4.75,4.25,5.0,4.75,4.5,,4.71
+,Interpretation  ,,,,1.0,4.5,5.25,4.5,4.75,4.75,4.25,4.75,4.5,4.25,,4.57
+,,,,,,,,,,,,,,,,23.25

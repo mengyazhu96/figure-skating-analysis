@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Amelie LACOSTE,CAN,4,55.92,29.97,25.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+2Lo,,6.9,False,0.7,1,1,1,1,1,1,1,1,2,,7.6
+2,3F,,5.3,False,-0.4,0,-1,-1,-1,-1,-1,0,0,1,,4.9
+3,FSSp3,,2.6,False,-0.26,-1,-2,0,-1,-1,-1,0,-1,-1,,2.34
+4,2A,,3.63,True,0.36,0,0,1,0,1,1,1,1,1,,3.99
+5,LSp3,,2.4,False,0.21,0,1,1,1,0,0,0,0,1,,2.61
+6,StSq4,,3.9,False,0.7,1,1,1,1,1,1,1,1,2,,4.6
+7,CCoSp4,,3.5,False,0.43,1,1,0,1,1,0,1,1,2,,3.93
+,,,28.23,,,,,,,,,,,,,29.97
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.25,6.75,6.75,6.25,6.0,6.5,6.25,7.5,,6.5
+,Transition / Linking Footwork  ,,,,0.8,6.0,6.0,6.5,6.0,6.25,6.25,6.25,5.75,7.25,,6.18
+,Performance / Execution  ,,,,0.8,6.25,6.5,7.0,6.5,6.5,6.5,6.75,6.0,7.75,,6.57
+,Choreography / Composition  ,,,,0.8,6.25,6.5,7.0,6.75,6.5,6.5,6.5,6.5,7.5,,6.61
+,Interpretation  ,,,,0.8,6.75,6.25,6.75,6.5,6.75,6.25,6.75,6.0,8.0,,6.57
+,,,,,,,,,,,,,,,,25.95

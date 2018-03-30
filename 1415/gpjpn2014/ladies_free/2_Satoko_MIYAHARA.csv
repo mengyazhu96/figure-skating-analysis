@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Satoko MIYAHARA,JPN,9,118.33,60.34,57.99,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz<+2T,<,5.5,False,-1.6,-2,-2,-3,-2,-3,-2,-3,-2,-2,,3.9
+2,3F,,5.3,False,0.7,1,1,1,1,1,1,1,2,0,,6.0
+3,3Lo,,5.1,False,-1.6,-2,-2,-3,-2,-3,-2,-2,-3,-1,,3.5
+4,StSq3,,3.3,False,0.29,1,1,1,0,1,0,1,0,0,,3.59
+5,FSSp4,,3.0,False,0.5,1,1,1,1,1,2,1,1,1,,3.5
+6,3Lz+2T+2Lo,,10.01,True,-0.1,0,0,1,0,0,0,0,-1,-1,,9.91
+7,2A+3T,,8.14,True,0.5,1,1,1,1,0,1,0,1,0,,8.64
+8,LSp4,,2.7,False,0.93,2,2,2,2,2,1,3,2,1,,3.63
+9,3S,,4.62,True,0.6,0,2,1,1,1,1,1,0,1,,5.22
+10,ChSq1,,2.0,False,1.1,2,1,2,2,3,1,2,0,1,,3.1
+11,3T,,4.51,True,0.7,1,1,1,1,2,0,1,1,1,,5.21
+12,CCoSp3p4,,3.5,False,0.64,2,0,1,2,0,2,2,1,1,,4.14
+,,,57.68,,,,,,,,,,,,,60.34
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.0,7.25,7.5,7.5,7.0,7.5,7.5,7.0,7.25,,7.29
+,Transition / Linking Footwork  ,,,,1.6,6.75,7.0,7.0,7.25,7.25,7.0,7.25,6.5,7.0,,7.04
+,Performance / Execution  ,,,,1.6,6.5,7.25,7.25,7.5,7.0,7.25,7.75,6.5,7.25,,7.14
+,Choreography / Composition  ,,,,1.6,7.0,7.0,7.5,7.25,8.0,7.75,7.75,6.5,7.0,,7.32
+,Interpretation  ,,,,1.6,7.25,6.75,7.5,7.75,8.25,7.5,8.0,6.75,7.5,,7.46
+,,,,,,,,,,,,,,,,57.99

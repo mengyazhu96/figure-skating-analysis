@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Richard DORNBUSH,USA,4,147.51,78.29,70.22,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2T,,1.3,False,0.03,1,0,0,0,0,0,1,0,0,,1.33
+2,4T,,10.3,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,7.3
+3,3A,,8.5,False,0.71,1,1,2,1,0,0,1,0,1,,9.21
+4,StSq3,,3.3,False,0.64,3,2,1,1,0,1,2,1,1,,3.94
+5,CCoSp4,,3.5,False,0.57,2,1,1,1,2,1,1,1,1,,4.07
+6,3Lz+3T,,11.11,True,0.8,0,2,2,1,1,1,2,0,1,,11.91
+7,3A+2T+2Lo,,12.76,True,0.71,1,1,1,1,0,0,1,1,0,,13.47
+8,3Lo,,5.61,True,0.6,2,1,1,1,1,0,1,1,0,,6.21
+9,CSSp4,,3.0,False,0.5,2,0,1,1,1,1,1,1,1,,3.5
+10,3F,,5.83,True,0.2,2,0,0,0,0,1,1,0,0,,6.03
+11,3S,,4.62,True,0.3,1,0,0,1,0,0,1,1,0,,4.92
+12,ChSq1,,2.0,False,0.9,3,1,1,2,1,1,1,1,2,,2.9
+13,FCCoSp3,,3.0,False,0.5,2,1,0,1,1,1,1,1,1,,3.5
+,,,74.83,,,,,,,,,,,,,78.29
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,7.75,7.5,7.25,6.75,7.0,7.0,7.0,6.75,6.25,,7.04
+,Transition / Linking Footwork  ,,,,2.0,7.5,7.5,7.0,6.25,6.75,6.75,6.75,6.5,6.5,,6.82
+,Performance / Execution  ,,,,2.0,8.25,7.0,6.5,6.5,7.0,7.0,7.0,6.25,7.0,,6.86
+,Choreography / Composition  ,,,,2.0,8.5,8.0,7.0,6.5,6.75,7.5,7.25,6.5,7.25,,7.18
+,Interpretation  ,,,,2.0,7.75,7.75,7.25,6.5,6.75,7.25,7.25,6.75,7.5,,7.21
+,,,,,,,,,,,,,,,,70.22
+Deduction,Falls,-1.0

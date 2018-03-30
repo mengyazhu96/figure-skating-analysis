@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Corenne BRUHNS / Ryan VAN NATTEN,MEX,3,35.93,20.64,15.29,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,R1Sq2+kpYNN,,5.0,False,-0.5,-1,-1,-1,-1,-1,-1,-2,0,-1,,4.5
+2,SlLi4,,4.0,False,0.0,0,0,0,0,0,0,0,1,0,,4.0
+3,R2Sq2+kpYNN,,5.0,False,-0.5,-1,-1,-1,-1,-1,-1,-1,-1,-1,,4.5
+4,STw3,,5.0,False,-0.43,0,-1,-1,-1,-1,-1,-2,1,-1,,4.57
+5,NtCiSt1,,3.5,False,-0.43,0,-1,-1,-1,-1,-1,-2,-1,0,,3.07
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,22.5,,,,,,,,,,,,,20.64
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,3.75,4.0,4.25,4.5,3.5,2.75,3.75,4.5,,4.0
+,Linking Footwork / Movement  ,,,,0.7,4.0,3.25,3.75,4.0,4.0,3.25,2.75,3.75,4.0,,3.71
+,Performance  ,,,,0.7,4.0,3.5,4.0,3.75,4.25,3.0,3.25,4.0,4.25,,3.82
+,Choreography  ,,,,0.8,4.25,3.75,4.0,4.25,4.5,3.0,2.75,3.75,4.5,,3.93
+,Interpretation / Timing  ,,,,1.0,4.25,3.25,4.0,3.75,4.25,2.75,3.0,3.5,4.0,,3.68
+,,,,,,,,,,,,,,,,15.29

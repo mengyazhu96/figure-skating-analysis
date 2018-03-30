@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Christopher CALUZA,PHI,7,58.53,28.39,30.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+3Lo,,10.2,False,0.2,0,1,0,0,0,1,0,1,0,,10.4
+2,2A,,3.3,False,-0.14,-1,-1,0,0,0,0,-1,0,0,,3.16
+3,CCSp3,,2.8,False,0.29,1,0,0,1,1,1,2,0,0,,3.09
+4,3Lz<,<,4.62,True,-1.9,-3,-2,-3,-2,-3,-3,-3,-3,-2,,2.72
+5,FSSp2,,2.3,False,0.14,1,0,0,1,0,-1,2,0,0,,2.44
+6,StSq3,,3.3,False,-0.43,-1,0,-1,1,-1,-1,1,-1,-1,,2.87
+7,CCoSp4,,3.5,False,0.21,1,0,0,0,1,0,1,1,0,,3.71
+,,,30.02,,,,,,,,,,,,,28.39
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.0,5.5,5.0,6.0,6.75,5.25,6.25,6.5,6.0,,5.93
+,Transition / Linking Footwork  ,,,,1.0,6.25,6.25,4.5,6.5,7.0,5.5,6.0,6.5,5.75,,6.11
+,Performance / Execution  ,,,,1.0,6.0,5.25,5.0,6.0,7.0,4.75,6.0,6.25,6.25,,5.82
+,Choreography / Composition  ,,,,1.0,6.0,5.75,4.75,6.75,6.75,5.5,6.5,6.5,6.0,,6.14
+,Interpretation  ,,,,1.0,6.25,5.75,5.0,6.5,7.0,5.25,6.5,6.5,6.25,,6.14
+,,,,,,,,,,,,,,,,30.14

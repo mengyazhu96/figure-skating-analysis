@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+33,Aleksandra GOLOVKINA,LTU,11,44.58,23.78,21.8,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+COMBO,,4.3,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.2
+2,3Lo,,5.1,False,-0.1,0,-1,0,-1,0,0,0,0,0,,5.0
+3,FSSp4,,3.0,False,0.21,0,0,0,1,0,1,1,0,1,,3.21
+4,2A,,3.63,True,0.0,0,0,0,0,0,0,0,0,0,,3.63
+5,CCoSp3p3,,3.0,False,-0.26,-1,-2,-1,-1,0,-2,-1,0,0,,2.74
+6,StSq3,,3.3,False,0.36,0,-1,1,0,1,1,1,1,1,,3.66
+7,LSp4,,2.7,False,0.64,2,0,1,1,1,2,2,1,1,,3.34
+,,,25.03,,,,,,,,,,,,,23.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.5,6.75,6.0,5.5,5.75,5.0,5.75,5.5,,5.61
+,Transition / Linking Footwork  ,,,,0.8,5.0,5.0,6.5,5.5,5.25,5.25,4.75,5.5,5.25,,5.25
+,Performance / Execution  ,,,,0.8,5.25,4.75,6.75,5.75,5.5,5.75,4.75,5.75,5.25,,5.43
+,Choreography / Composition  ,,,,0.8,5.0,5.0,6.5,5.75,5.5,5.5,5.0,5.5,5.5,,5.39
+,Interpretation  ,,,,0.8,5.25,5.5,6.5,5.5,5.75,6.0,5.0,5.5,5.5,,5.57
+,,,,,,,,,,,,,,,,21.8
+Deduction,Falls,-1.0

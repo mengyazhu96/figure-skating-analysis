@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Christina GAO,USA,6,58.81,29.98,28.83,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.3,0,1,0,0,0,1,1,0,1,,8.5
+2,2A,,3.3,False,0.0,-1,0,0,0,1,-1,1,0,0,,3.3
+3,FSSp4,,3.0,False,0.57,2,1,0,1,1,1,2,1,1,,3.57
+4,3Lo<,<,3.96,True,-0.7,-1,0,-2,-2,0,-2,0,-1,-1,,3.26
+5,LSp4,,2.7,False,0.57,2,1,1,1,1,1,1,2,1,,3.27
+6,StSq3,,3.3,False,0.57,1,1,1,0,2,1,2,1,1,,3.87
+7,CCoSp4,,3.5,False,0.71,2,1,1,1,2,0,2,2,1,,4.21
+,,,27.96,,,,,,,,,,,,,29.98
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,7.25,7.25,6.75,7.75,7.25,8.0,7.5,7.0,,7.32
+,Transition / Linking Footwork  ,,,,0.8,7.0,7.0,6.5,6.5,7.5,7.0,7.5,7.25,6.75,,7.0
+,Performance / Execution  ,,,,0.8,7.5,7.5,6.75,6.75,7.75,7.0,8.0,7.25,7.0,,7.25
+,Choreography / Composition  ,,,,0.8,7.25,7.25,6.75,6.75,7.75,7.25,7.5,7.25,7.0,,7.18
+,Interpretation  ,,,,0.8,7.5,7.25,7.0,6.75,8.0,7.0,8.0,7.0,7.25,,7.29
+,,,,,,,,,,,,,,,,28.83

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Adeline CANAC / Yannick BONHEUR,FRA,9,43.92,24.33,19.59,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S<<,<<,1.4,False,-0.57,-3,-3,-3,-3,-2,-3,-3,-2,-3,,0.83
+2,2LzTw2,,3.2,False,0.04,0,1,0,0,0,1,0,0,0,,3.24
+3,3LoTh,,5.0,False,0.0,0,0,-1,0,0,0,0,0,0,,5.0
+4,BiDs2,,3.0,False,-0.1,0,0,0,1,-1,0,0,0,-1,,2.9
+5,FCCoSp4,,3.5,False,-0.04,-1,0,0,0,0,-1,0,0,0,,3.46
+6,SlSt2,,2.3,False,0.0,1,0,0,0,-1,0,0,0,0,,2.3
+7,5ALi3,,6.0,False,0.6,1,1,1,0,1,1,1,1,0,,6.6
+,,,24.4,,,,,,,,,,,,,24.33
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,4.75,5.0,5.5,4.5,5.25,5.0,5.0,5.0,,5.0
+,Transition / Linking Footwork  ,,,,0.8,5.5,4.0,4.75,5.0,4.5,4.5,4.75,4.75,4.5,,4.68
+,Performance / Execution  ,,,,0.8,5.0,4.75,5.0,5.25,4.25,5.0,5.25,4.5,5.0,,4.93
+,Choreography / Composition  ,,,,0.8,5.25,5.0,5.0,5.25,4.5,5.5,5.0,4.75,4.75,,5.0
+,Interpretation  ,,,,0.8,5.0,4.5,4.75,5.25,4.25,5.25,5.0,5.0,4.75,,4.89
+,,,,,,,,,,,,,,,,19.59

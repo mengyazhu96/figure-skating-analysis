@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Jane SUMMERSETT / Todd GILLES,USA,0,27.5,14.86,12.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.3,False,0.0,-1,0,0,0,0,0,0,0,0,,2.3
+2,1S2,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,,1.8
+3,2S1,,2.9,False,-0.12,-1,-1,0,1,0,0,0,0,0,,2.78
+4,2S2,,2.3,False,-0.1,0,0,0,0,0,0,0,-1,-1,,2.2
+5,3S1,,3.4,False,-0.14,-1,0,-1,0,0,0,0,0,0,,3.26
+6,3S2,,2.8,False,-0.28,-1,1,-1,1,0,-1,0,-1,0,,2.52
+,,,15.5,,,,,,,,,,,,,14.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,4.5,5.25,5.75,6.25,5.0,5.5,5.25,5.0,5.5,,5.2
+,Timing  ,,,,0.75,4.25,5.0,5.25,5.25,4.75,5.0,5.25,4.5,5.25,,4.95
+,Performance / Execution  ,,,,0.5,4.25,5.25,5.25,6.0,5.0,5.5,5.25,4.75,5.5,,5.1
+,Interpretation  ,,,,0.5,4.25,5.0,5.25,6.25,5.0,5.5,5.0,4.5,5.75,,4.95
+,,,,,,,,,,,,,,,,12.64

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Gabriella PAPADAKIS / Guillaume CIZERON,FRA,6,64.06,31.92,32.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1PD3+kpYYN,,5.0,False,0.86,1,1,2,1,2,1,1,2,2,,5.86
+2,PSt3+kpYYN,,5.0,False,0.69,1,1,2,1,1,1,1,1,2,,5.69
+3,SlLi4,,4.5,False,1.11,2,2,2,1,2,2,2,1,2,,5.61
+4,STw3,,5.6,False,0.17,0,0,0,-1,1,0,1,0,1,,5.77
+5,NtMiSt3,,7.1,False,1.89,2,1,2,1,2,1,2,2,2,,8.99
+,,,27.2,,,,,,,,,,,,,31.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.75,8.75,7.5,8.75,7.5,8.0,7.75,8.0,,7.93
+,Linking Footwork / Movement  ,,,,0.8,7.5,7.75,8.5,6.75,8.5,7.75,7.75,7.5,7.75,,7.79
+,Performance  ,,,,0.8,7.5,8.0,8.5,7.75,8.75,7.75,8.0,8.25,8.5,,8.11
+,Choreography  ,,,,0.8,7.75,8.0,8.75,7.5,9.0,8.0,7.75,8.25,9.0,,8.21
+,Interpretation / Timing  ,,,,0.8,7.75,7.75,8.75,7.5,9.25,7.75,7.75,8.0,9.25,,8.14
+,,,,,,,,,,,,,,,,32.14

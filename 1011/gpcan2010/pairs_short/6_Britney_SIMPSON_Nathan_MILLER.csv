@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Britney SIMPSON / Nathan MILLER,USA,4,46.39,23.98,22.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,-0.36,-1,-1,0,0,-1,-1,-1,-1,0,,2.94
+2,3FTw1<<,<<,3.0,False,-0.69,-2,-2,-3,-2,-2,-3,-2,-2,-3,,2.31
+3,3STh,,4.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.1
+4,CCoSp3,,3.0,False,-0.17,-1,-1,0,0,0,-2,-1,-1,1,,2.83
+5,SlSt3,,3.3,False,0.0,0,0,0,1,0,0,0,0,0,,3.3
+6,5ALi3,,6.0,False,0.3,2,0,1,0,1,0,-1,0,1,,6.3
+7,BiDs3,,3.2,False,0.0,0,0,0,0,0,0,-2,0,0,,3.2
+,,,26.3,,,,,,,,,,,,,23.98
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.0,6.0,5.5,6.25,6.0,5.25,5.5,5.5,,5.54
+,Transition / Linking Footwork  ,,,,0.8,5.5,4.75,5.5,5.25,6.0,5.5,4.75,5.25,5.5,,5.32
+,Performance / Execution  ,,,,0.8,5.25,5.5,6.25,5.5,6.5,5.0,5.0,5.5,5.75,,5.54
+,Choreography / Composition  ,,,,0.8,6.0,5.25,6.0,5.75,6.5,6.5,5.0,5.25,5.75,,5.79
+,Interpretation  ,,,,0.8,6.0,5.5,6.0,5.75,6.25,6.25,4.75,5.5,5.75,,5.82
+,,,,,,,,,,,,,,,,22.41

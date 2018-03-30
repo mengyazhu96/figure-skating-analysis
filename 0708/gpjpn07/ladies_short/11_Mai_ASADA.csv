@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Mai ASADA,JPN,0,35.98,15.9,20.08,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2Lz+COMBO,e,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+2,2F,,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+3,2A,,3.5,False,0.0,0,0,0,0,0,0,0,0,0,0,,3.5
+4,FSSp3,,2.3,False,0.0,0,0,0,-2,0,0,0,-1,0,0,,2.3
+5,SpSq1,,1.8,False,0.1,1,0,0,1,0,0,0,0,0,1,,1.9
+6,LSp2,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,0,,1.8
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,1,0,0,0,0,,2.3
+8,CCoSp2,,2.5,False,0.0,0,0,0,0,0,0,0,0,0,0,,2.5
+,,,17.8,,,,,,,,,,,,,,15.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.0,5.5,5.5,5.75,5.0,5.5,5.0,5.25,5.0,,5.3
+,Transition / Linking Footwork  ,,,,0.8,5.25,4.75,5.0,5.25,5.5,5.0,5.0,4.5,4.75,4.25,,4.9
+,Performance / Execution  ,,,,0.8,5.0,4.5,4.75,5.25,5.5,4.5,5.25,4.75,5.0,4.75,,4.9
+,Choreography / Composition  ,,,,0.8,5.5,4.5,5.0,5.5,5.5,5.25,5.5,4.5,5.0,5.0,,5.1
+,Interpretation  ,,,,0.8,5.0,4.75,5.0,5.25,5.5,5.0,5.25,4.5,4.5,4.5,,4.9
+,,,,,,,,,,,,,,,,,20.08

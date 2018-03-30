@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Julia LAVRENTIEVA / Yuri RUDYK,UKR,3,37.96,19.9,19.06,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Tw3,,3.5,False,0.21,1,1,1,0,1,0,0,1,1,,3.71
+2,2F,,1.8,False,0.13,0,0,0,1,1,0,0,1,1,,1.93
+3,3LoTh,,5.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.9
+4,5ALi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,BiDs2,,3.0,False,0.0,0,-1,0,0,0,0,0,0,1,,3.0
+6,PCoSp4,,4.5,False,-0.04,0,-1,0,0,-1,0,0,0,0,,4.46
+7,StSq4,,3.9,False,0.0,1,-1,0,0,0,0,0,0,0,,3.9
+,,,21.7,,,,,,,,,,,,,19.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.75,5.0,5.25,4.5,5.0,5.5,4.25,5.75,,4.96
+,Transition / Linking Footwork  ,,,,0.8,4.25,4.75,4.5,4.75,4.0,4.25,5.25,3.75,5.25,,4.54
+,Performance / Execution  ,,,,0.8,4.75,4.75,4.75,5.0,4.5,4.5,5.25,3.25,5.5,,4.79
+,Choreography / Composition  ,,,,0.8,4.75,4.75,4.75,5.0,4.25,4.75,5.5,4.0,5.5,,4.82
+,Interpretation  ,,,,0.8,5.0,4.75,4.5,5.0,4.0,4.25,5.5,3.5,5.5,,4.71
+,,,,,,,,,,,,,,,,19.06
+Deduction,Falls,-1.0

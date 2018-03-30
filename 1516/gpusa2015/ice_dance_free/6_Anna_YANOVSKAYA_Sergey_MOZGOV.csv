@@ -1,0 +1,20 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Anna YANOVSKAYA / Sergey MOZGOV,RUS,4,87.57,44.26,43.31,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,SlLi4,,4.5,False,1.1,2,2,1,2,2,1,2,2,,5.6
+2,STw4,,6.6,False,0.6,1,1,1,1,1,1,1,2,,7.2
+3,CiSt3,,7.1,False,1.1,2,1,0,0,1,1,1,2,,8.2
+4,CoSp4,,5.6,False,0.6,1,2,1,-1,1,1,1,1,,6.2
+5,CuLi4,,4.5,False,0.4,1,-1,0,0,1,1,1,2,,4.9
+6,MiSt2,,5.6,False,0.18,0,-1,0,0,0,1,0,1,,5.78
+7,RoLi4,,4.5,False,0.9,1,2,1,2,2,1,1,2,,5.4
+8,ChSp1,,0.6,False,0.38,1,2,-1,-1,1,1,1,0,,0.98
+,,,39.0,,,,,,,,,,,,44.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,7.75,6.25,6.5,6.5,7.25,7.5,8.0,7.5,,7.17
+,Linking Footwork / Movement  ,,,,1.2,7.25,6.0,6.75,5.75,6.75,7.25,7.75,7.25,,6.88
+,Performance  ,,,,1.2,7.75,6.75,6.75,6.75,7.25,7.5,7.75,7.75,,7.29
+,Choreography  ,,,,1.2,7.5,7.0,7.0,7.25,7.25,7.75,7.75,7.75,,7.42
+,Interpretation / Timing  ,,,,1.2,7.5,7.25,6.75,7.0,7.25,7.5,8.0,7.5,,7.33
+,,,,,,,,,,,,,,,43.31

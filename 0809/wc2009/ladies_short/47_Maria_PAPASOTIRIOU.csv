@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+47,Maria PAPASOTIRIOU,GRE,10,28.32,15.28,13.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,0.0,0,0,0,-1,0,0,0,0,0,,3.5
+2,1Lz+COMBO,,0.6,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,FSSp3,,2.6,False,-0.12,0,0,0,-1,0,-1,-2,1,0,,2.48
+4,1Lo,,0.5,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.2
+5,CCoSp3,,3.0,False,-0.24,-1,-1,-1,-1,-1,-2,-1,0,0,,2.76
+6,SpSq2,,2.3,False,0.0,0,0,0,0,0,0,0,-1,0,,2.3
+7,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,,1.8
+8,LSp2,,1.9,False,0.04,0,0,0,1,1,-1,-1,0,0,,1.94
+,,,16.2,,,,,,,,,,,,,15.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.25,3.75,3.0,3.5,3.0,3.5,3.5,3.5,3.25,,3.45
+,Transition / Linking Footwork  ,,,,0.8,3.0,3.0,2.75,3.25,2.75,3.0,3.0,3.25,3.0,,3.05
+,Performance / Execution  ,,,,0.8,3.25,3.25,2.75,3.5,3.0,3.5,3.25,4.0,2.5,,3.3
+,Choreography / Composition  ,,,,0.8,3.5,3.5,3.5,3.75,3.0,3.0,3.5,3.5,3.0,,3.3
+,Interpretation  ,,,,0.8,3.25,3.5,3.5,3.75,3.25,3.0,3.25,3.0,2.5,,3.2
+,,,,,,,,,,,,,,,,13.04

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,DAVIDOVICH A / KRASNOPOLSKI E,ISR,5,53.38,30.24,23.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.4,False,0.5,0,0,1,1,1,0,1,1,1,,5.9
+2,3T<,<,2.9,False,-0.9,-2,-1,-1,-1,0,-2,-1,-2,-1,,2.0
+3,3LoTh,,5.0,False,-0.7,-1,-1,-1,-1,-1,0,-1,-1,-1,,4.3
+4,BiDs2,,3.0,False,0.2,0,1,-1,0,0,1,0,1,0,,3.2
+5,5TLi4,,6.0,False,0.0,0,0,-1,0,0,0,0,0,0,,6.0
+6,StSq4,,3.9,False,0.3,0,1,0,1,0,1,-1,0,1,,4.2
+7,PCoSp4,,4.5,False,0.14,1,0,0,1,1,0,0,0,0,,4.64
+,,,30.7,,,,,,,,,,,,,30.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.0,5.75,5.75,5.75,6.25,6.25,4.75,6.0,,5.89
+,Transitions / Linking Footwork / Movement  ,,,,0.8,5.0,5.75,5.75,5.5,5.5,5.75,5.75,5.25,5.75,,5.61
+,Performance / Execution  ,,,,0.8,5.25,6.0,6.0,6.0,5.75,5.75,6.0,5.0,6.0,,5.82
+,Choreography / Composition  ,,,,0.8,5.25,6.0,6.0,6.0,5.75,6.0,6.25,5.25,6.25,,5.89
+,Interpretation  ,,,,0.8,5.5,5.75,5.75,6.0,5.5,6.25,5.5,5.0,6.0,,5.71
+,,,,,,,,,,,,,,,,23.14

@@ -1,0 +1,22 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Kristina GORSHKOVA / Vitali BUTIKOV,RUS,0,77.51,40.8,37.71,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,CoSp3,,4.0,False,0.4,0,1,0,1,1,2,1,0,,4.4
+2,SlLi4,,4.0,False,0.5,1,2,1,1,1,0,1,1,,4.5
+3,SeSt2,,6.4,False,0.0,0,1,0,0,0,0,0,1,,6.4
+4,CuLi4+RoLi4,,6.4,False,0.5,1,1,1,1,1,1,1,0,,6.9
+5,STw4,,4.7,False,0.3,0,1,1,0,0,1,1,-1,,5.0
+6,RoLi4,,4.0,False,0.7,1,2,2,2,1,0,1,1,,4.7
+7,CuLi2,,3.0,False,0.5,1,1,1,0,1,1,1,1,,3.5
+8,DiSt2,,5.4,False,0.0,0,1,0,0,0,0,0,0,,5.4
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,37.9,,,,,,,,,,,,40.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.5,6.0,6.5,6.0,6.5,6.5,6.5,6.5,,6.4
+,Linking Footwork / Movement  ,,,,1.75,6.25,5.75,6.25,6.0,6.25,6.0,6.25,6.5,,6.15
+,Performance  ,,,,1.0,6.25,6.0,6.25,5.75,6.25,6.25,6.25,6.25,,6.2
+,Choreography  ,,,,1.0,6.5,6.25,6.5,5.5,6.25,6.25,6.5,6.5,,6.35
+,Interpretation / Timing  ,,,,1.0,6.5,6.25,6.25,5.5,6.5,6.5,6.5,6.5,,6.4
+,,,,,,,,,,,,,,,37.71
+Deduction,Extended lifts,-1.0

@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Joannie ROCHETTE,CAN,0,121.19,60.87,60.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T+2Lo,,8.8,False,1.0,1,1,2,1,1,1,1,0,1,,9.8
+2,3F,,5.5,False,1.2,2,2,2,1,1,0,1,1,2,,6.7
+3,1Lo,,0.5,False,-0.04,-1,-1,0,0,-3,-1,0,0,0,,0.46
+4,FSSp4,,3.0,False,0.3,0,1,1,1,0,0,1,1,1,,3.3
+5,CUSp4,,2.9,False,0.0,-1,0,0,0,0,0,1,0,0,,2.9
+6,3Lz,,6.6,True,1.0,1,1,2,1,1,0,1,1,1,,7.6
+7,3T+3S+SEQ,,7.48,True,1.2,2,2,1,2,1,0,1,1,2,,8.68
+8,SlSt3,,3.3,False,0.7,2,1,2,2,1,1,1,1,1,,4.0
+9,SpSq4,,3.4,False,1.4,1,0,3,2,1,1,2,1,2,,4.8
+10,2A+2A+SEQ,,6.16,True,-1.28,-2,-1,0,-1,-1,-2,-2,-2,-2,,4.88
+11,3S,,4.95,True,0.2,1,1,1,0,0,0,0,0,1,,5.15
+12,CCoSp2,,2.5,False,0.1,0,0,1,0,0,-1,0,1,1,,2.6
+,,,55.09,,,,,,,,,,,,,60.87
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.75,7.25,8.0,7.25,7.5,7.5,7.5,7.5,8.0,,7.55
+,Transition / Linking Footwork  ,,,,1.6,7.25,7.25,8.0,7.0,7.25,7.0,7.5,7.25,7.5,,7.25
+,Performance / Execution  ,,,,1.6,7.5,7.5,8.75,7.25,7.5,7.5,7.75,7.5,7.75,,7.55
+,Choreography / Composition  ,,,,1.6,8.0,7.5,8.25,7.25,8.0,7.5,7.75,7.5,7.75,,7.75
+,Interpretation  ,,,,1.6,7.75,7.5,8.75,7.25,8.0,7.25,7.75,7.25,8.0,,7.6
+,,,,,,,,,,,,,,,,60.32

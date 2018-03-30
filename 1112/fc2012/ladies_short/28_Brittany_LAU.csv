@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Brittany LAU,SIN,3,28.79,15.3,13.49,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo<<,<<,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+2,2A<<,<<,1.1,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+3,FSSp3,,2.6,False,-0.04,0,0,-1,0,0,-2,0,1,0,,2.56
+4,2F+2T,,3.1,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.2
+5,CCoSp4,,3.5,False,0.14,0,0,1,1,1,0,-1,0,0,,3.64
+6,SlSt2,,2.6,False,-0.09,0,0,0,0,0,-1,-1,0,-1,,2.51
+7,LSp4,,2.7,False,0.29,0,1,1,-1,1,1,1,0,0,,2.99
+,,,17.4,,,,,,,,,,,,,15.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,3.75,3.25,3.5,3.5,3.0,3.25,3.5,4.25,,3.5
+,Transition / Linking Footwork  ,,,,0.8,3.25,3.25,3.0,3.0,3.25,3.25,3.5,3.0,3.75,,3.21
+,Performance / Execution  ,,,,0.8,3.75,3.25,3.25,3.25,3.5,3.25,3.5,3.0,3.25,,3.32
+,Choreography / Composition  ,,,,0.8,3.75,4.0,3.25,3.5,3.5,3.5,3.5,3.25,4.25,,3.57
+,Interpretation  ,,,,0.8,3.5,4.0,3.25,3.25,3.25,3.25,3.25,3.0,2.75,,3.25
+,,,,,,,,,,,,,,,,13.49

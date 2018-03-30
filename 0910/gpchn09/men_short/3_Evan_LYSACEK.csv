@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Evan LYSACEK,USA,12,80.8,43.3,37.5,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,0.2,0,-1,0,0,0,1,1,2,0,,8.4
+2,3Lz+3T,,10.0,False,1.0,1,2,0,1,2,1,1,1,1,,11.0
+3,3F,e,5.5,False,-1.4,-2,0,-1,-2,-2,-1,-1,1,-2,,4.1
+4,CiSt3,,3.3,False,1.1,3,3,1,2,2,2,2,2,2,,4.4
+5,CSSp4,,3.0,False,0.5,1,2,0,1,1,1,1,1,1,,3.5
+6,FSSp4,,3.0,False,0.5,1,1,0,1,1,1,1,1,1,,3.5
+7,SlSt3,,3.3,False,0.8,3,2,1,1,1,2,2,1,1,,4.1
+8,CCoSp4,,3.5,False,0.8,2,2,1,2,2,2,1,1,1,,4.3
+,,,39.8,,,,,,,,,,,,,43.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.25,6.75,7.5,7.75,8.25,7.25,7.75,7.75,6.75,,7.4
+,Transition / Linking Footwork  ,,,,1.0,7.75,6.75,7.0,6.0,7.75,7.0,7.0,7.5,6.5,,6.85
+,Performance / Execution  ,,,,1.0,8.0,7.25,7.75,8.0,8.0,8.25,7.75,7.75,7.0,,7.75
+,Choreography / Composition  ,,,,1.0,8.25,7.5,7.25,7.75,7.75,7.75,7.5,8.0,6.75,,7.55
+,Interpretation  ,,,,1.0,8.25,7.75,8.0,8.0,8.0,8.25,7.75,7.75,6.75,,7.95
+,,,,,,,,,,,,,,,,37.5

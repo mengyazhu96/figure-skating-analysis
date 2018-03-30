@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Allie HANN-MCCURDY / Michael CORENO,CAN,0,83.76,47.82,35.94,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,RoLi4,,4.0,False,1.07,2,3,2,3,2,2,2,2,2,3,2,2,,5.07
+2,CiSt3,,7.2,False,0.86,0,2,1,1,1,0,1,0,2,1,1,1,,8.06
+3,STw4,,4.7,False,0.21,0,2,1,1,0,0,1,0,1,1,0,0,,4.91
+4,SlLi4,,4.0,False,0.5,1,1,1,1,1,1,1,1,1,2,1,1,,4.5
+5,SeLi4,,6.4,False,0.43,1,2,1,0,1,1,2,0,1,2,1,1,,6.83
+6,MiStNt3,,6.2,False,1.14,1,2,1,1,1,1,1,0,2,1,1,1,,7.34
+7,SlLi4+RoLi4,,6.4,False,0.71,0,2,2,1,1,1,2,1,2,2,2,2,,7.11
+8,Sp3,,4.0,False,0.0,-1,0,0,0,0,-1,-1,1,1,1,0,0,,4.0
+,,,42.9,,,,,,,,,,,,,,,,47.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.25,7.25,6.0,5.75,5.75,6.0,6.0,6.25,6.0,6.5,6.0,5.5,,6.0
+,Linking Footwork / Movement  ,,,,1.75,6.5,7.0,5.75,5.5,6.0,5.5,6.5,5.75,5.75,6.75,5.75,5.25,,5.82
+,Performance  ,,,,1.0,6.25,7.25,6.0,6.0,5.75,6.0,7.0,6.0,6.0,6.75,5.75,5.5,,6.0
+,Choreography  ,,,,1.0,6.75,7.25,6.0,5.75,6.0,5.75,7.75,6.25,6.0,6.25,6.0,5.5,,6.07
+,Interpretation / Timing  ,,,,1.0,7.0,7.25,6.0,5.75,6.25,6.25,7.5,6.0,6.0,7.25,6.0,5.5,,6.18
+,,,,,,,,,,,,,,,,,,,35.94

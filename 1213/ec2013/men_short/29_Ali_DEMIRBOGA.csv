@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Ali DEMIRBOGA,TUR,1,43.47,23.12,21.35,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,-1.0,-1,-1,-1,-1,-2,-2,-2,-1,-2,,6.3
+2,3F,,5.3,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-2,-3,,3.2
+3,CSSp2,,2.3,False,-0.04,0,0,-1,1,0,0,0,-1,0,,2.26
+4,2A,,3.63,True,0.0,0,1,0,0,0,0,0,0,0,,3.63
+5,CCoSp4,,3.5,False,-0.09,-1,0,-1,0,-1,0,0,0,0,,3.41
+6,StSq2,,2.6,False,0.29,0,1,1,0,1,1,1,0,0,,2.89
+7,FCSp1,,1.9,False,-0.47,-1,-2,-2,-1,-1,-1,-2,-2,-2,,1.43
+,,,26.53,,,,,,,,,,,,,23.12
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,4.5,4.25,4.0,4.75,4.5,4.75,4.25,4.25,,4.39
+,Transition / Linking Footwork  ,,,,1.0,4.0,4.0,4.0,4.0,4.5,4.75,4.5,4.0,4.0,,4.14
+,Performance / Execution  ,,,,1.0,4.25,4.0,4.0,4.25,4.25,4.25,5.0,4.0,3.75,,4.14
+,Choreography / Composition  ,,,,1.0,4.0,4.25,4.25,4.0,4.5,4.5,5.0,4.5,4.0,,4.29
+,Interpretation  ,,,,1.0,4.25,4.5,4.25,4.25,4.25,4.75,5.25,4.5,3.75,,4.39
+,,,,,,,,,,,,,,,,21.35
+Deduction,Falls,-1.0

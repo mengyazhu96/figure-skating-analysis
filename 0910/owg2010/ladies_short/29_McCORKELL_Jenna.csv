@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,McCORKELL Jenna,GBR,10,40.64,20.08,21.56,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,0.6,1,1,1,1,1,0,0,1,0,,4.1
+2,3Lz<+COMBO,<,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,2F,,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+4,FSSp4,,3.0,False,0.0,0,0,0,0,1,0,0,0,0,,3.0
+5,SpSq3,,3.1,False,0.1,0,0,0,0,1,1,0,0,0,,3.2
+6,SlSt2,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,,2.3
+7,CCoSp4,,3.5,False,-0.12,0,0,0,0,-1,0,-1,-1,-1,,3.38
+8,LSp3,,2.4,False,0.1,0,0,1,0,1,0,0,0,0,,2.5
+,,,21.4,,,,,,,,,,,,,20.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,5.5,6.25,5.75,6.25,5.25,5.25,5.75,5.25,,5.6
+,Transitions / Linking Footwork  ,,,,0.8,5.5,5.25,5.75,5.25,5.75,4.75,4.75,5.5,4.75,,5.15
+,Performance / Execution  ,,,,0.8,5.75,5.0,5.75,5.25,5.75,5.25,5.0,5.25,5.0,,5.25
+,Choreography / Composition  ,,,,0.8,5.75,5.75,5.75,5.5,6.0,5.25,5.0,5.0,5.25,,5.5
+,Interpretation  ,,,,0.8,5.75,5.5,6.0,5.25,6.0,5.25,5.25,5.25,4.75,,5.45
+,,,,,,,,,,,,,,,,21.56
+Deduction,Falls,-1.0

@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Sarah HECKEN,GER,5,82.81,44.57,39.24,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F,,5.3,False,-0.5,0,0,-1,0,0,-1,-2,-2,-1,,4.8
+2,3S,,4.2,False,-1.8,-3,-2,-3,-3,-3,-2,-2,-3,-2,,2.4
+3,ChSp1,,2.0,False,0.0,0,0,0,0,0,1,0,0,0,,2.0
+4,3T+2T,,5.4,False,-0.9,-1,-1,-2,-2,-2,0,0,-2,-1,,4.5
+5,FCSp4,,3.2,False,0.21,1,1,1,0,0,1,0,0,0,,3.41
+6,LSp3,,2.4,False,0.0,0,0,0,0,0,0,0,0,0,,2.4
+7,3T,,4.51,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.41
+8,3S+2T+2T,,7.48,True,0.1,0,1,0,1,0,0,0,0,0,,7.58
+9,2A+2T,,5.06,True,0.0,0,0,0,0,0,0,0,-1,0,,5.06
+10,2A,,3.63,True,0.14,1,1,0,1,0,0,0,0,0,,3.77
+11,SlSt2,,2.6,False,0.14,1,0,1,0,0,1,0,0,0,,2.74
+12,CCoSp4,,3.5,False,0.0,0,0,0,0,0,1,0,0,0,,3.5
+,,,49.28,,,,,,,,,,,,,44.57
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.25,5.0,5.0,5.5,4.5,5.5,5.5,5.5,3.5,,5.18
+,Transition / Linking Footwork  ,,,,1.6,5.0,4.75,4.5,5.0,4.5,4.0,4.5,4.75,2.5,,4.57
+,Performance / Execution  ,,,,1.6,5.0,5.5,4.5,5.0,4.5,5.25,5.0,5.0,3.25,,4.89
+,Choreography / Composition  ,,,,1.6,5.25,5.25,4.75,5.25,4.5,4.5,4.75,5.25,2.75,,4.89
+,Interpretation  ,,,,1.6,5.0,5.25,4.5,5.5,4.75,5.25,5.0,5.25,3.0,,5.0
+,,,,,,,,,,,,,,,,39.24
+Deduction,Falls,-1.0

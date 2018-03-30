@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Elena GLEBOVA,EST,15,89.6,43.62,46.98,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+3T,,7.4,False,0.7,0,1,1,1,1,1,1,1,1,,8.1
+2,3Lz<,e,4.2,False,-2.1,-3,-3,-3,-3,-3,-2,-3,-3,-3,,2.1
+3,3Lo<,<,3.6,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+4,3S+2T+2T,,6.8,False,0.0,0,0,0,0,0,0,0,0,0,,6.8
+5,LSp2,,1.9,False,0.5,1,1,0,1,1,1,1,1,1,,2.4
+6,SlSt2,,2.6,False,0.5,1,1,1,1,1,1,1,1,1,,3.1
+7,ChSp1,,2.0,False,0.3,1,0,0,1,0,1,0,1,0,,2.3
+8,2S+2T,,2.86,True,0.0,0,0,0,0,0,0,1,0,0,,2.86
+9,2A,,3.63,True,-1.0,-2,-2,-2,-2,-2,-2,-2,-2,-2,,2.63
+10,3T,,4.51,True,0.4,1,0,1,0,1,0,1,0,1,,4.91
+11,FSSp4,,3.0,False,0.71,1,1,2,1,2,1,2,1,2,,3.71
+12,CCoSp3,,3.0,False,0.21,0,0,0,0,1,1,1,1,-1,,3.21
+,,,45.5,,,,,,,,,,,,,43.62
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.25,6.0,6.25,5.5,5.5,6.0,6.0,5.75,6.0,,5.93
+,Transition / Linking Footwork  ,,,,1.6,5.75,5.75,5.75,5.0,5.75,5.75,5.25,5.25,5.75,,5.61
+,Performance / Execution  ,,,,1.6,6.0,6.0,6.25,5.5,6.0,6.25,5.75,5.75,6.25,,6.0
+,Choreography / Composition  ,,,,1.6,5.75,6.0,6.0,5.25,6.0,5.75,5.75,5.5,6.25,,5.82
+,Interpretation  ,,,,1.6,5.75,6.0,6.5,5.5,6.0,6.25,6.0,5.5,6.5,,6.0
+,,,,,,,,,,,,,,,,46.98
+Deduction,Falls,-1.0

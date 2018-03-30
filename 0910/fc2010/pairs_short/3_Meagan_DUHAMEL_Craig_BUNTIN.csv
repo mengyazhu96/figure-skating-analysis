@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Meagan DUHAMEL / Craig BUNTIN,CAN,7,56.9,32.86,25.04,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2FTw3,,4.0,False,0.6,2,2,1,1,1,2,1,1,1,,4.6
+2,3T,,4.0,False,-0.2,0,0,-1,-1,0,-1,0,0,0,,3.8
+3,FCCoSp4,,3.5,False,0.4,1,1,1,1,-1,1,1,0,1,,3.9
+4,SlSt3,,3.3,False,0.4,1,1,-1,0,1,1,1,1,0,,3.7
+5,BoDs3,,4.0,False,0.56,1,2,1,1,0,1,1,1,0,,4.56
+6,4Li4,,4.0,False,0.4,1,1,1,1,1,1,0,0,1,,4.4
+7,3LoTh,,5.0,False,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+8,PCoSp4,,4.5,False,0.4,0,1,1,0,1,1,1,0,0,,4.9
+,,,32.3,,,,,,,,,,,,,32.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.5,6.25,6.25,6.0,6.25,6.75,6.75,6.0,,6.35
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.25,5.75,5.75,5.5,6.25,6.5,6.25,5.75,,6.05
+,Performance / Execution  ,,,,0.8,6.5,6.25,6.0,6.25,5.75,6.5,7.0,6.75,5.75,,6.25
+,Choreography / Composition  ,,,,0.8,6.5,6.25,6.25,6.0,5.25,6.0,6.75,6.75,6.0,,6.25
+,Interpretation  ,,,,0.8,6.5,6.5,6.25,6.0,6.0,6.5,6.75,6.75,6.0,,6.4
+,,,,,,,,,,,,,,,,25.04
+Deduction,Falls,-1.0

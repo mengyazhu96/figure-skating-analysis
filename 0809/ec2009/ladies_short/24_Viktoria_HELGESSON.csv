@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Viktoria HELGESSON,SWE,0,37.24,19.04,19.2,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F<+COMBO,<,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+2,2Lz,,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,2A,,3.5,False,0.2,0,0,0,0,1,0,0,0,1,,3.7
+4,LSp2,,1.9,False,0.1,0,-1,0,0,0,0,0,1,1,,2.0
+5,SpSq1,,1.8,False,-0.06,0,0,0,0,0,-1,0,0,-1,,1.74
+6,CCoSp4,,3.5,False,0.3,-1,-1,0,1,1,0,0,1,1,,3.8
+7,SlSt3,,3.3,False,0.3,1,-1,0,1,1,0,0,0,1,,3.6
+8,FSSp3,,2.6,False,0.0,1,0,0,0,0,0,0,0,0,,2.6
+,,,20.2,,,,,,,,,,,,,19.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.5,4.75,5.5,5.0,4.5,4.25,4.25,5.0,,4.95
+,Transition / Linking Footwork  ,,,,0.8,4.5,4.0,4.25,5.25,5.0,4.25,3.5,4.0,5.25,,4.65
+,Performance / Execution  ,,,,0.8,5.25,4.25,4.5,5.25,5.25,4.5,4.0,4.25,5.0,,4.9
+,Choreography / Composition  ,,,,0.8,5.0,4.75,4.5,5.5,4.75,4.25,4.0,4.0,5.0,,4.7
+,Interpretation  ,,,,0.8,5.0,4.0,4.5,5.25,5.0,4.25,4.25,4.25,5.25,,4.8
+,,,,,,,,,,,,,,,,19.2
+Deduction,Falls,-1.0

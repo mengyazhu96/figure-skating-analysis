@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Terra FINDLAY / Benoit RICHAUD,FRA,0,64.3,36.7,27.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.0,1,0,0,1,0,0,0,0,0,,4.7
+2,SlLi4,,4.0,False,0.5,1,1,1,1,1,1,1,1,1,,4.5
+3,DiSt3,,6.2,False,0.0,0,0,0,0,0,0,0,0,1,,6.2
+4,STw2,,3.5,False,-0.6,-1,-1,-1,-2,-2,-1,-1,-1,-1,,2.9
+5,SeLi2,,4.8,False,0.0,0,0,0,0,0,0,1,0,0,,4.8
+6,CuLi3,,3.5,False,0.0,0,0,1,0,0,0,0,0,0,,3.5
+7,CiSt2,,6.4,False,0.0,0,0,0,0,0,0,0,0,-1,,6.4
+8,RoLi3,,3.5,False,0.2,1,1,1,1,1,0,0,0,0,,3.7
+,,,36.6,,,,,,,,,,,,,36.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.5,4.5,4.75,4.5,4.5,4.75,4.5,4.5,5.5,,4.6
+,Linking Footwork / Movement  ,,,,1.75,4.25,4.25,4.25,4.0,4.5,4.75,4.25,4.25,5.0,,4.4
+,Performance  ,,,,1.0,4.75,4.5,4.5,4.75,4.5,4.75,4.5,4.75,5.5,,4.65
+,Choreography  ,,,,1.0,4.75,4.75,4.5,5.0,4.75,5.0,4.5,4.5,5.5,,4.75
+,Interpretation / Timing  ,,,,1.0,4.5,4.75,4.75,4.75,4.75,5.0,4.5,4.5,5.75,,4.75
+,,,,,,,,,,,,,,,,27.6

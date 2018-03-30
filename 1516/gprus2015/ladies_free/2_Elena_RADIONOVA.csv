@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Elena RADIONOVA,RUS,12,139.53,70.75,68.78,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.3,False,0.3,1,0,0,-1,0,0,1,1,1,,10.6
+2,3F,!,5.3,False,-0.1,0,1,-1,-1,0,0,0,1,-1,,5.2
+3,3Lz,,6.0,False,0.7,1,1,0,0,1,1,2,1,2,,6.7
+4,CCoSp3p4,,3.5,False,0.79,1,2,2,1,1,2,1,2,2,,4.29
+5,StSq4,,3.9,False,1.4,2,3,2,1,2,2,2,2,2,,5.3
+6,3Lo+1Lo+3S,,11.0,True,0.4,1,0,0,-1,1,1,0,2,1,,11.4
+7,2A,,3.63,True,0.43,2,0,0,1,1,1,1,1,1,,4.06
+8,3Lo+2T,,7.04,True,0.5,1,0,1,0,1,0,1,1,1,,7.54
+9,ChSq1,,2.0,False,1.4,2,2,2,1,2,2,2,2,2,,3.4
+10,2A,,3.63,True,0.43,1,0,1,-1,1,1,1,1,1,,4.06
+11,FCCoSp3p4,,3.5,False,0.79,2,2,1,1,1,2,2,2,1,,4.29
+12,LSp4,,2.7,False,1.21,2,2,3,2,3,2,3,3,2,,3.91
+,,,62.5,,,,,,,,,,,,,70.75
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.75,8.5,8.5,8.5,8.75,8.5,8.5,8.5,8.75,,8.57
+,Transition / Linking Footwork  ,,,,1.6,8.5,8.5,8.75,8.5,8.5,8.5,8.0,8.25,8.5,,8.46
+,Performance / Execution  ,,,,1.6,8.5,8.75,9.0,8.5,9.0,8.75,8.25,9.0,8.75,,8.75
+,Choreography / Composition  ,,,,1.6,8.5,8.5,8.5,8.75,8.5,8.75,8.25,8.5,9.0,,8.57
+,Interpretation  ,,,,1.6,8.5,8.5,9.0,8.75,8.25,8.75,8.5,8.5,9.0,,8.64
+,,,,,,,,,,,,,,,,68.78

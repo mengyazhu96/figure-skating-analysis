@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Maciej CIEPLUCHA,POL,19,56.45,30.1,26.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T<,<,7.3,False,-0.4,0,-1,0,0,0,-1,0,0,-1,,6.9
+2,2A,,3.5,False,0.0,1,0,1,0,0,0,0,0,0,,3.5
+3,3F,e,5.5,False,-1.4,-1,-1,-1,-1,-2,-1,-2,-2,-2,,4.1
+4,CCoSp4,,3.5,False,0.2,0,0,0,0,0,1,1,1,0,,3.7
+5,CiSt2,,2.3,False,0.3,1,1,0,1,0,0,0,1,0,,2.6
+6,CSSp3,,2.6,False,0.3,0,0,0,1,-1,1,1,1,0,,2.9
+7,SlSt3,,3.3,False,0.0,0,0,0,0,0,0,0,0,0,,3.3
+8,FSSp4,,3.0,False,0.1,0,1,1,0,0,0,0,1,0,,3.1
+,,,31.0,,,,,,,,,,,,,30.1
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,6.25,5.25,4.75,5.0,6.0,5.25,5.25,4.25,,5.4
+,Transition / Linking Footwork  ,,,,1.0,5.5,5.75,4.75,4.5,4.75,5.25,5.0,5.0,4.0,,5.05
+,Performance / Execution  ,,,,1.0,5.75,6.0,5.5,4.75,5.25,5.75,5.25,5.5,4.25,,5.4
+,Choreography / Composition  ,,,,1.0,5.75,5.75,5.0,4.25,5.0,5.75,5.0,5.0,4.0,,5.15
+,Interpretation  ,,,,1.0,5.75,6.25,5.0,4.75,5.25,5.75,5.25,5.25,4.25,,5.35
+,,,,,,,,,,,,,,,,26.35

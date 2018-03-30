@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Meryl DAVIS / Charlie WHITE,USA,22,70.98,33.5,37.48,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,1.21,2,3,2,3,2,2,2,3,3,,7.21
+2,R2Sq3+kpYNY,,6.0,False,0.14,0,-1,0,2,1,2,-1,0,0,,6.14
+3,R1Sq3+kpYNY,,6.0,False,0.36,0,0,0,1,1,2,1,1,1,,6.36
+4,NtCiSt3,,6.5,False,2.29,2,2,2,3,2,3,3,2,2,,8.79
+5,CuLi4,,4.0,False,1.0,3,2,2,2,2,2,2,2,2,,5.0
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,28.5,,,,,,,,,,,,,33.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,9.5,9.5,9.5,9.25,9.25,9.5,9.5,9.25,8.75,,9.39
+,Linking Footwork / Movement  ,,,,0.7,9.0,9.0,9.25,9.25,9.25,9.25,9.25,9.0,9.0,,9.14
+,Performance  ,,,,0.7,9.75,9.5,9.5,9.25,9.5,9.5,9.75,9.5,9.25,,9.5
+,Choreography  ,,,,0.8,9.5,9.25,9.75,9.75,9.25,9.25,9.5,9.5,10.0,,9.5
+,Interpretation / Timing  ,,,,1.0,9.0,9.25,9.0,9.5,9.5,9.5,9.5,9.25,9.25,,9.32
+,,,,,,,,,,,,,,,,37.48

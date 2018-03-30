@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Tessa VIRTUE / Scott MOIR,CAN,28,61.05,31.9,29.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,4.7,False,0.3,1,1,1,0,0,0,0,1,0,,5.0
+2,MiStNt4,,7.0,False,1.2,2,1,1,2,1,2,2,1,1,,8.2
+3,Sp4,,4.7,False,0.2,0,0,0,-1,1,0,1,2,0,,4.9
+4,SlLi4,,4.0,False,1.0,2,2,2,2,2,3,2,2,2,,5.0
+5,DiSt4,,8.0,False,0.8,2,0,0,1,0,1,1,2,1,,8.8
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,28.4,,,,,,,,,,,,,31.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,7.5,8.0,8.25,7.25,7.5,8.0,7.75,7.5,,7.75
+,Linking Footwork / Movement  ,,,,0.8,8.0,7.5,8.0,8.0,7.0,7.5,7.75,7.5,7.0,,7.55
+,Performance  ,,,,0.6,7.75,7.25,7.75,8.25,7.0,7.5,7.75,8.0,7.5,,7.6
+,Choreography  ,,,,0.6,7.75,7.75,8.0,8.5,7.0,8.5,8.0,8.25,7.25,,7.75
+,Interpretation / Timing  ,,,,1.0,7.5,7.5,8.0,8.5,7.25,8.25,8.0,8.0,7.5,,7.7
+,,,,,,,,,,,,,,,,29.15

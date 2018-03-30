@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Kiira KORPI,FIN,5,84.63,35.15,50.48,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-2.0,-1,-2,-2,-2,-2,-2,-2,-2,-2,,4.0
+2,3S,,4.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+3,2Lo,,1.5,False,0.1,0,1,0,1,0,0,0,0,1,,1.6
+4,FCoSp3,,2.5,False,0.1,0,0,0,0,1,1,0,-1,0,,2.6
+5,2S<,<,0.4,False,-0.3,-1,-3,-3,-3,-3,-3,-3,-3,-3,,0.1
+6,SpSq3,,3.1,False,0.5,0,1,1,1,1,1,1,1,1,,3.6
+7,1Lo,,0.55,True,0.0,0,0,0,0,0,0,0,0,0,,0.55
+8,2A+2T,,5.28,True,0.0,0,0,0,0,0,0,0,0,0,,5.28
+9,FSSp4,,3.0,False,0.2,0,0,0,1,0,1,1,0,1,,3.2
+10,SlSt3,,3.3,False,0.3,0,0,0,1,1,1,1,1,0,,3.6
+11,2A+2T,,5.28,True,-0.16,0,0,-1,-1,0,0,0,-1,0,,5.12
+12,CCoSp4,,3.5,False,0.5,0,1,1,1,1,1,1,1,1,,4.0
+,,,38.91,,,,,,,,,,,,,35.15
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.75,6.5,6.25,5.0,7.0,6.5,6.5,6.5,6.25,,6.45
+,Transition / Linking Footwork  ,,,,1.6,6.5,6.0,6.0,5.5,6.75,6.25,5.75,6.25,6.0,,6.1
+,Performance / Execution  ,,,,1.6,6.5,6.0,6.0,4.75,7.0,6.25,6.0,6.75,6.0,,6.2
+,Choreography / Composition  ,,,,1.6,7.0,6.75,6.25,5.25,7.0,6.25,6.25,6.75,6.25,,6.45
+,Interpretation  ,,,,1.6,6.75,6.25,6.0,4.75,7.0,6.5,6.5,6.5,5.75,,6.35
+,,,,,,,,,,,,,,,,50.48
+Deduction,Falls,-1.0

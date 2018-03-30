@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Ho Jung LEE / Richard Kang In KAM,KOR,5,47.46,24.97,22.49,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.43,0,1,0,1,1,-1,1,1,1,,7.03
+2,PSt2,,5.6,False,0.31,0,0,0,0,1,-1,1,0,1,,5.91
+3,1RW1+kpNNN,,3.2,False,-0.07,0,0,0,0,0,0,0,-1,-1,,3.13
+4,2RW2+kpNYN,,3.8,False,0.0,0,0,0,0,1,-1,0,0,0,,3.8
+5,RoLi4,,4.5,False,0.6,2,1,0,2,1,1,0,1,1,,5.1
+,,,23.7,,,,,,,,,,,,,24.97
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.75,5.5,5.5,5.25,5.25,5.25,6.25,6.25,,5.57
+,Linking Footwork / Movement  ,,,,0.8,5.5,6.0,5.25,5.5,5.0,5.5,4.75,6.0,5.75,,5.5
+,Performance  ,,,,0.8,5.75,5.75,5.75,6.0,5.25,5.25,5.25,6.25,6.5,,5.71
+,Choreography  ,,,,0.8,5.25,6.0,5.5,5.75,5.5,5.25,5.75,6.25,6.25,,5.71
+,Interpretation / Timing  ,,,,0.8,5.5,5.75,5.5,5.75,5.5,5.25,5.5,6.25,5.75,,5.61
+,,,,,,,,,,,,,,,,22.49

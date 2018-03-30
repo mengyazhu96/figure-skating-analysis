@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Mylene BRODEUR / John MATTATALL,CAN,9,55.94,33.38,22.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3FTw1,,5.0,False,-0.84,1,-2,-1,-2,1,-1,-2,-1,0,,4.16
+2,3T,,4.0,False,0.0,0,0,0,1,0,0,-1,0,0,,4.0
+3,PCoSp4,,4.5,False,0.0,1,0,0,1,0,0,0,1,0,,4.5
+4,3STh,,4.5,False,0.56,1,0,1,1,1,1,1,0,0,,5.06
+5,FCCoSp4,,3.5,False,0.0,0,0,0,1,0,0,0,1,0,,3.5
+6,SlSt3,,3.3,False,0.3,0,0,0,1,1,1,1,1,0,,3.6
+7,4Li3,,3.5,False,0.5,1,1,1,1,1,1,1,1,0,,4.0
+8,BoDs3,,4.0,False,0.56,1,0,1,2,0,1,1,1,1,,4.56
+,,,32.3,,,,,,,,,,,,,33.38
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.5,6.5,6.0,5.75,5.5,5.75,6.0,5.75,,5.75
+,Transition / Linking Footwork  ,,,,0.8,5.5,4.25,6.5,5.75,5.25,5.25,5.0,5.75,5.25,,5.3
+,Performance / Execution  ,,,,0.8,6.0,5.0,6.75,6.25,5.75,5.75,5.25,6.25,5.75,,5.75
+,Choreography / Composition  ,,,,0.8,5.75,4.75,6.5,6.25,5.5,5.5,5.5,6.0,5.5,,5.65
+,Interpretation  ,,,,0.8,6.0,5.5,6.75,6.25,5.75,5.5,5.5,6.25,5.75,,5.75
+,,,,,,,,,,,,,,,,22.56

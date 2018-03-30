@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Alissa CZISNY,USA,22,120.78,60.65,61.13,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.9
+2,3F+2T,e,6.7,False,-0.4,-1,0,-1,-2,0,0,-1,-1,0,,6.3
+3,3T+2T+2Lo,,7.3,False,0.4,1,0,1,0,1,0,1,0,1,,7.7
+4,FCSp4,,3.2,False,0.79,2,2,1,2,1,2,1,2,1,,3.99
+5,3Lo,,5.61,True,0.8,1,1,1,1,1,2,1,1,2,,6.41
+6,ChSp1,,2.0,False,1.86,2,2,1,2,1,2,2,2,2,,3.86
+7,3Lz+2T,,8.14,True,-0.3,0,0,-1,-1,0,0,-1,0,-1,,7.84
+8,2A,,3.63,True,0.5,1,1,1,1,1,1,1,1,1,,4.13
+9,3T,,4.51,True,0.0,1,0,0,0,0,0,0,0,-1,,4.51
+10,CCoSp4,,3.5,False,1.36,3,3,1,3,2,3,2,3,3,,4.86
+11,CiSt2,,2.3,False,0.79,2,2,1,2,0,2,1,1,2,,3.09
+12,LSp4,,2.7,False,1.36,3,3,2,3,2,3,1,3,3,,4.06
+,,,55.59,,,,,,,,,,,,,60.65
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.0,7.5,7.0,7.5,8.25,7.5,7.5,8.25,7.5,,7.68
+,Transition / Linking Footwork  ,,,,1.6,7.5,7.5,6.75,7.5,8.0,7.25,7.0,8.0,7.5,,7.46
+,Performance / Execution  ,,,,1.6,7.75,7.75,6.75,7.5,8.0,7.5,7.25,8.25,7.75,,7.64
+,Choreography / Composition  ,,,,1.6,7.5,7.5,7.25,7.75,8.25,7.5,7.25,8.0,8.0,,7.64
+,Interpretation  ,,,,1.6,7.75,7.5,7.0,7.75,8.25,7.75,7.5,8.25,8.0,,7.79
+,,,,,,,,,,,,,,,,61.13
+Deduction, Falls,-1.0

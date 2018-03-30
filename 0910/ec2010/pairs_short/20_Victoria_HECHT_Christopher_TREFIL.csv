@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Victoria HECHT / Christopher TREFIL,HUN,2,29.34,14.46,14.88,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,BoDs1,,3.0,False,-0.84,-1,0,0,-1,-1,-1,-2,-1,-2,,2.16
+2,2A,,3.5,False,-0.96,-1,-1,-2,-2,-1,-1,-1,-1,-2,,2.54
+3,2STh,,2.5,False,0.0,0,0,0,0,0,0,0,0,0,,2.5
+4,CCoSp3,,3.0,False,-0.3,-1,-1,-1,-1,-1,-1,-1,-1,-1,,2.7
+5,2LzTw1,,3.0,False,-0.24,-1,-2,-2,-2,0,0,-1,0,0,,2.76
+6,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,,1.8
+7,4Li,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+8,PCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,16.8,,,,,,,,,,,,,14.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,3.75,3.5,3.75,3.75,3.5,3.5,3.75,4.25,,3.7
+,Transition / Linking Footwork  ,,,,0.8,3.75,2.75,3.5,4.0,3.5,2.75,3.5,3.75,3.75,,3.5
+,Performance / Execution  ,,,,0.8,4.0,3.75,4.0,3.75,3.75,3.0,3.5,3.5,4.25,,3.7
+,Choreography / Composition  ,,,,0.8,4.0,3.25,4.25,4.0,4.0,3.0,4.0,3.75,4.5,,3.8
+,Interpretation  ,,,,0.8,4.25,3.5,4.25,3.75,3.75,3.0,4.0,4.0,4.25,,3.9
+,,,,,,,,,,,,,,,,14.88

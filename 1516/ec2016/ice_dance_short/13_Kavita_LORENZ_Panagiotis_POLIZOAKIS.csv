@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Kavita LORENZ / Panagiotis POLIZOAKIS,GER,8,55.06,29.88,25.18,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.86,2,1,1,2,2,1,1,2,1,,5.36
+2,STw4,,6.6,False,0.51,1,1,1,1,1,0,-1,1,1,,7.11
+3,1RW4+kpYYY,,5.0,False,0.43,0,1,1,1,1,0,1,1,0,,5.43
+4,2RW3+kpYYN,,4.4,False,0.17,1,1,0,1,0,-1,0,0,0,,4.57
+5,PSt3,,7.1,False,0.31,1,1,0,1,0,-1,0,0,0,,7.41
+,,,27.6,,,,,,,,,,,,,29.88
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.75,5.5,6.5,6.25,6.0,5.75,6.75,5.75,,6.25
+,Linking Footwork / Movement  ,,,,0.8,6.75,6.75,5.5,6.75,6.0,5.75,5.5,6.5,5.5,,6.11
+,Performance  ,,,,0.8,7.0,7.0,6.0,7.0,6.5,6.0,5.75,6.75,5.5,,6.43
+,Choreography  ,,,,0.8,6.75,6.75,6.0,7.25,6.25,6.25,5.75,6.5,6.0,,6.36
+,Interpretation / Timing  ,,,,0.8,7.0,6.75,5.5,7.0,6.0,6.0,5.75,6.75,6.0,,6.32
+,,,,,,,,,,,,,,,,25.18

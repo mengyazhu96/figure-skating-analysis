@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,Reyna HAMUI,MEX,4,77.77,41.07,37.7,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo<,<,3.6,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+2,3T,,4.1,False,0.2,1,0,0,0,0,1,0,0,1,,4.3
+3,3S+2T,,5.5,False,0.5,1,0,1,1,1,1,0,0,1,,6.0
+4,FSSp2,,2.3,False,0.06,1,-1,0,1,-1,0,-1,0,1,,2.36
+5,StSq3,,3.3,False,0.0,0,-1,0,0,0,0,0,0,0,,3.3
+6,2A,,3.63,True,0.5,1,1,1,1,1,2,1,1,1,,4.13
+7,CCoSp3,,3.0,False,0.43,1,0,0,1,1,1,1,1,1,,3.43
+8,3S,,4.62,True,0.4,1,0,0,0,0,2,1,1,1,,5.02
+9,1F+2T+1Lo,,2.53,True,0.0,0,0,0,0,0,0,0,0,0,,2.53
+10,2F+2T,,3.41,True,0.0,0,0,0,0,0,1,0,0,0,,3.41
+11,ChSq1,,2.0,False,0.03,0,-1,0,1,1,0,-1,0,0,,2.03
+12,LSp4,,2.7,False,0.36,0,1,1,1,2,0,0,1,1,,3.06
+,,,40.69,,,,,,,,,,,,,41.07
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.5,4.75,4.5,4.5,4.5,5.75,5.25,4.75,5.0,,4.89
+,Transition / Linking Footwork  ,,,,1.6,4.75,4.0,4.25,4.25,4.5,4.75,4.0,4.75,4.5,,4.43
+,Performance / Execution  ,,,,1.6,5.5,4.5,4.25,4.75,4.5,5.25,5.0,5.0,4.75,,4.82
+,Choreography / Composition  ,,,,1.6,5.5,4.25,4.75,4.5,4.75,5.0,4.5,5.0,5.0,,4.79
+,Interpretation  ,,,,1.6,5.0,4.75,4.5,4.5,4.25,4.75,4.5,4.5,5.0,,4.64
+,,,,,,,,,,,,,,,,37.7
+Deduction,Falls,-1.0

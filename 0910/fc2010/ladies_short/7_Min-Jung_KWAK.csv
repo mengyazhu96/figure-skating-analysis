@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Min-Jung KWAK,KOR,23,53.68,34.4,19.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.2,0,0,1,1,0,-1,0,0,0,,7.5
+2,3S,,4.5,False,0.2,-2,0,0,1,0,0,1,1,0,,4.7
+3,SpSq4,,3.4,False,0.8,1,1,0,1,1,1,1,0,0,,4.2
+4,2A,,3.5,False,0.4,0,0,1,1,0,0,1,1,0,,3.9
+5,FSSp4,,3.0,False,0.2,-1,1,0,1,1,1,0,0,0,,3.2
+6,LSp4,,2.7,False,0.8,2,2,2,1,2,0,1,1,0,,3.5
+7,SlSt3,,3.3,False,0.1,0,0,1,1,0,0,0,0,0,,3.4
+8,CCoSp4,,3.5,False,0.5,1,1,2,1,1,1,1,1,0,,4.0
+,,,31.2,,,,,,,,,,,,,34.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,5.0,4.5,5.75,6.0,4.5,6.25,4.5,4.5,,5.15
+,Transition / Linking Footwork  ,,,,0.8,4.0,4.5,4.0,4.0,5.25,4.25,5.75,4.0,4.5,,4.45
+,Performance / Execution  ,,,,0.8,4.0,5.0,4.5,5.25,5.75,4.75,6.0,4.0,4.25,,4.95
+,Choreography / Composition  ,,,,0.8,3.25,5.0,4.25,4.75,5.75,4.5,5.75,4.25,4.75,,4.9
+,Interpretation  ,,,,0.8,3.75,4.75,4.0,4.5,5.25,4.5,5.5,4.25,4.75,,4.65
+,,,,,,,,,,,,,,,,19.28

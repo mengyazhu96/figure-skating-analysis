@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Kana MURAMOTO / Chris REED,JPN,1,53.44,26.9,26.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RW3+kpYNY,,4.4,False,0.17,1,0,0,-1,0,1,0,0,1,,4.57
+2,2RW3+kpYYT,,4.4,False,-0.07,0,0,-1,-1,0,0,0,0,1,,4.33
+3,STw3,,5.6,False,-0.43,-1,-2,-2,0,-1,0,-1,-1,0,,5.17
+4,PSt3,,7.1,False,0.63,1,1,0,0,0,1,1,0,1,,7.73
+5,RoLi4,,4.5,False,0.6,1,1,1,1,1,1,1,1,1,,5.1
+,,,26.0,,,,,,,,,,,,,26.9
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.5,7.0,6.25,6.25,6.75,7.25,6.5,6.5,6.25,,6.54
+,Linking Footwork / Movement ,,,,0.8,6.75,6.5,5.75,5.75,6.75,7.0,6.25,6.25,6.5,,6.39
+,Performance ,,,,0.8,7.0,7.25,6.25,6.0,7.25,7.5,6.75,7.0,6.25,,6.82
+,Choreography ,,,,0.8,7.5,6.75,6.25,6.0,7.0,7.25,6.5,7.25,6.5,,6.79
+,Interpretation / Timing ,,,,0.8,7.5,7.0,6.0,5.75,6.75,7.25,6.75,6.5,6.25,,6.64
+,,,,,,,,,,,,,,,,26.54

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+36,Boyito MULDER,NED,0,39.39,21.34,18.05,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo,,5.0,False,-2.4,-3,-2,-2,-2,-3,-2,-3,-2,-3,,2.6
+2,CiSt2,,2.3,False,0.0,0,0,0,0,-1,0,0,-1,0,,2.3
+3,2A,,3.5,False,-0.8,0,-1,-1,-1,-1,-1,-1,-1,-1,,2.7
+4,FSSp4,,3.0,False,-0.12,0,0,0,-1,-1,-1,0,0,0,,2.88
+5,3S+2T,,5.8,False,-1.0,-1,-1,-1,-2,-1,-1,-1,-1,-1,,4.8
+6,CCoSp1,,2.0,False,-0.24,-1,-1,-1,-2,-1,0,0,-1,-1,,1.76
+7,CSSp2,,2.3,False,-0.3,-1,-1,-1,-1,-1,-1,-1,-1,-1,,2.0
+8,SlSt2,,2.3,False,0.0,0,0,0,0,-1,0,0,-1,0,,2.3
+,,,26.2,,,,,,,,,,,,,21.34
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,3.75,4.25,3.75,4.25,3.75,3.5,3.75,3.5,3.25,,3.85
+,Transition / Linking Footwork  ,,,,1.0,3.25,3.5,3.25,3.75,3.25,3.25,3.5,3.25,2.75,,3.35
+,Performance / Execution  ,,,,1.0,3.5,3.75,3.5,3.75,3.25,3.5,3.75,3.5,3.25,,3.6
+,Choreography / Composition  ,,,,1.0,3.5,4.0,3.25,4.0,3.5,3.5,4.0,3.0,3.25,,3.7
+,Interpretation  ,,,,1.0,3.0,3.75,3.5,4.0,3.25,3.5,3.75,3.0,3.0,,3.55
+,,,,,,,,,,,,,,,,18.05

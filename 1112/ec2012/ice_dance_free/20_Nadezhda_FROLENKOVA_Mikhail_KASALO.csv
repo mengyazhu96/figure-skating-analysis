@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Nadezhda FROLENKOVA / Mikhail KASALO,UKR,2,62.14,32.43,30.71,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.0,False,0.36,0,1,1,0,1,1,0,1,1,,4.36
+2,STw3,,5.0,False,-0.5,-1,-1,0,-1,-2,-1,-1,-1,-1,,4.5
+3,DiSt2,,5.0,False,0.0,0,0,0,0,0,0,0,0,0,,5.0
+4,CoSp4,,5.0,False,0.0,0,1,0,0,0,0,0,0,0,,5.0
+5,RoLi4,,4.0,False,0.43,1,2,0,1,1,1,0,1,1,,4.43
+6,SlLi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,CiSt2,,5.0,False,0.0,0,0,0,0,0,0,-1,0,0,,5.0
+8,RoLi4,,4.0,False,0.14,0,0,0,0,0,1,0,1,2,,4.14
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,32.0,,,,,,,,,,,,,32.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,5.0,5.75,4.5,5.25,5.25,5.0,6.0,5.5,,5.32
+,Linking Footwork / Movement  ,,,,1.75,5.0,4.5,5.25,4.75,5.0,5.0,4.5,5.75,5.0,,4.93
+,Performance  ,,,,1.0,5.0,4.75,5.25,5.0,5.25,5.5,4.75,5.75,5.0,,5.11
+,Choreography  ,,,,1.0,5.25,5.25,5.0,5.0,5.5,5.25,5.0,6.0,5.25,,5.21
+,Interpretation / Timing  ,,,,1.0,5.25,5.25,5.0,4.75,5.0,5.0,5.0,5.75,5.25,,5.11
+,,,,,,,,,,,,,,,,30.71
+Deduction,Extended lifts,-1.0

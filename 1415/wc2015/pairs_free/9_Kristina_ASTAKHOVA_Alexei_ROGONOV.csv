@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Kristina ASTAKHOVA / Alexei ROGONOV,RUS,3,118.03,61.85,56.18,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T+2T,,6.7,False,0.7,1,1,1,1,2,1,1,1,1,,7.4
+2,3Tw2,,5.4,False,0.2,0,1,-1,2,0,1,0,-2,1,,5.6
+3,3S,,4.2,False,0.3,0,0,2,0,1,0,0,1,1,,4.5
+4,BoDs3,,4.0,False,0.8,1,2,1,1,2,1,1,1,0,,4.8
+5,3FTh,,5.5,False,-0.3,-1,0,-1,-1,0,0,0,-2,0,,5.2
+6,ChSq1,,2.0,False,0.9,1,1,2,1,2,1,1,2,1,,2.9
+7,FCCoSp3p4,,3.5,False,0.07,1,0,0,0,-1,1,0,0,0,,3.57
+8,3LoTh,,5.0,False,1.2,1,2,2,2,2,2,1,1,2,,6.2
+9,5RLi4,,7.0,False,0.3,1,1,-1,0,1,1,0,0,0,,7.3
+10,PCoSp3p3,,4.0,False,0.21,0,1,0,1,2,1,0,-1,0,,4.21
+11,5ALi2,,5.5,False,0.6,1,0,0,1,2,2,1,0,1,,6.1
+12,3Li4,,4.0,False,0.07,0,1,0,1,-1,1,-1,0,0,,4.07
+,,,56.8,,,,,,,,,,,,,61.85
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.0,6.75,7.0,7.25,7.0,7.25,6.75,5.75,7.25,,7.0
+,Transition / Linking Footwork  ,,,,1.6,6.75,6.5,6.75,7.0,6.75,7.25,7.25,6.25,7.0,,6.86
+,Performance / Execution  ,,,,1.6,7.0,6.5,7.0,7.0,7.25,7.5,7.0,5.75,6.75,,6.93
+,Choreography / Composition  ,,,,1.6,6.75,7.0,7.25,7.25,7.5,7.25,7.25,6.25,7.25,,7.14
+,Interpretation  ,,,,1.6,7.0,6.75,7.25,7.25,7.5,7.5,7.0,6.0,7.5,,7.18
+,,,,,,,,,,,,,,,,56.18

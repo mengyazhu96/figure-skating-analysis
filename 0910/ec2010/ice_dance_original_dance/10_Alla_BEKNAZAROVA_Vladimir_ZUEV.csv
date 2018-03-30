@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Alla BEKNAZAROVA / Vladimir ZUEV,UKR,19,51.22,27.6,24.62,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SqTw4,,6.5,False,0.4,1,1,1,1,1,1,0,1,0,,6.9
+2,NtMiSt3,,7.0,False,0.6,1,0,0,1,1,0,1,0,0,,7.6
+3,RoLi4,,5.0,False,0.5,2,1,1,0,2,1,0,0,1,,5.5
+4,CiSt3,,7.2,False,0.4,1,1,0,1,1,0,0,0,0,,7.6
+,,,25.7,,,,,,,,,,,,,27.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.0,7.0,6.5,6.75,7.0,6.25,6.5,6.5,5.75,,6.6
+,Linking Footwork / Movement  ,,,,0.8,5.75,7.25,6.5,6.25,6.5,6.0,6.0,5.75,5.75,,6.1
+,Performance  ,,,,0.6,7.75,7.25,6.25,6.75,7.0,6.25,6.75,6.5,6.0,,6.6
+,Choreography  ,,,,0.6,6.75,7.0,6.25,6.5,6.75,6.25,6.75,6.0,6.0,,6.5
+,Interpretation / Timing  ,,,,1.0,7.25,7.25,6.75,6.75,7.25,6.0,6.25,6.25,6.0,,6.6
+,,,,,,,,,,,,,,,,24.62
+Deduction,Extended lifts,-1.0

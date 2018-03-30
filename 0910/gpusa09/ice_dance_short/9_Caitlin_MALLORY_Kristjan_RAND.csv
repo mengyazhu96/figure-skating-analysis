@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Caitlin MALLORY / Kristjan RAND,EST,1,26.89,14.46,12.43,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.7,False,-0.1,0,-1,0,0,-2,0,0,-1,0,,1.6
+2,1S2,,2.8,False,-0.28,0,-1,1,0,-1,-1,-1,-1,0,,2.52
+3,1S3,,2.3,False,0.0,0,0,0,0,-1,0,-1,0,0,,2.3
+4,2S1,,2.3,False,-0.1,-1,-1,0,0,-1,0,-1,0,0,,2.2
+5,2S2,,3.4,False,-0.42,0,-1,0,0,-2,-1,-1,-1,-1,,2.98
+6,2S3,,3.0,False,-0.14,-1,0,0,0,-1,-1,-1,0,0,,2.86
+,,,15.5,,,,,,,,,,,,,14.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.0,5.25,5.25,5.25,4.5,5.25,5.0,5.25,5.0,,5.2
+,Timing  ,,,,0.75,4.75,4.0,4.75,5.25,3.75,4.75,4.75,4.25,4.5,,4.6
+,Performance / Execution  ,,,,0.5,5.0,5.0,4.75,5.5,4.75,5.0,5.25,5.25,5.0,,5.05
+,Interpretation  ,,,,0.5,5.25,5.0,5.0,5.5,4.5,5.25,5.0,5.0,4.75,,5.1
+,,,,,,,,,,,,,,,,12.43

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Ross MINER,USA,3,67.1,36.29,30.81,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-0.86,-1,-1,-1,0,0,-1,-1,-1,-1,,7.64
+2,3Lz+3T,,10.1,False,0.1,0,-1,0,1,0,0,1,0,0,,10.2
+3,3F,,5.3,False,-0.1,0,-1,0,1,1,-1,1,-1,-1,,5.2
+4,CCoSp4,,3.5,False,0.5,1,1,2,2,0,1,1,0,1,,4.0
+5,CSSp4,,3.0,False,0.36,1,1,1,1,0,0,1,0,2,,3.36
+6,SlSt3,,3.3,False,0.29,1,0,1,1,1,0,1,0,0,,3.59
+7,FCSp2,,2.3,False,0.0,1,0,0,0,0,0,0,0,0,,2.3
+,,,36.0,,,,,,,,,,,,,36.29
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.75,6.0,6.5,6.25,6.5,6.0,6.0,6.0,6.25,,6.21
+,Transition / Linking Footwork  ,,,,1.0,6.25,5.75,6.75,6.0,5.5,5.75,5.75,5.75,6.0,,5.89
+,Performance / Execution  ,,,,1.0,6.5,6.0,6.0,6.5,6.25,6.25,5.75,6.0,6.0,,6.14
+,Choreography / Composition  ,,,,1.0,6.75,6.0,6.75,6.5,6.25,6.5,5.75,6.25,6.0,,6.32
+,Interpretation  ,,,,1.0,6.5,6.0,6.5,6.25,6.0,6.5,6.0,6.25,6.25,,6.25
+,,,,,,,,,,,,,,,,30.81

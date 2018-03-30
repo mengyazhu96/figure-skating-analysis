@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Shiyue WANG / Xinyu LIU,CHN,12,56.49,30.43,26.06,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RW2+kpYNN,,3.8,False,0.6,1,1,1,0,2,1,0,2,1,,4.4
+2,2RW4+kpYYY,,5.0,False,0.51,1,0,1,1,1,1,0,1,1,,5.51
+3,PSt3,,7.1,False,0.94,1,0,1,1,2,1,0,1,1,,8.04
+4,STw4,,6.6,False,0.69,1,1,1,1,2,1,1,2,1,,7.29
+5,CuLi4,,4.5,False,0.69,1,0,1,1,1,2,2,1,1,,5.19
+,,,27.0,,,,,,,,,,,,,30.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.5,7.0,5.5,6.75,6.5,6.5,7.0,6.5,,6.61
+,Linking Footwork / Movement  ,,,,0.8,6.0,6.75,6.75,5.75,6.75,6.0,6.25,6.75,6.25,,6.39
+,Performance  ,,,,0.8,6.5,6.5,7.0,5.5,7.0,6.25,6.5,6.75,6.25,,6.54
+,Choreography  ,,,,0.8,6.25,6.75,7.0,6.0,7.0,6.5,6.5,6.75,6.5,,6.61
+,Interpretation / Timing  ,,,,0.8,6.25,7.0,6.75,5.75,7.0,6.0,6.25,6.5,6.25,,6.43
+,,,,,,,,,,,,,,,,26.06

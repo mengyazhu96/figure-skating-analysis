@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Boris MARTINEC,CRO,17,50.1,26.6,23.5,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,0.0,0,0,-1,0,0,0,0,0,-1,,3.5
+2,3Lz+2T,,7.3,False,0.0,0,1,1,0,-1,0,0,0,0,,7.3
+3,FSSp2,,2.3,False,0.0,0,0,0,0,0,0,-1,0,0,,2.3
+4,3F,e,5.5,False,-2.0,-2,-1,-3,-2,-2,-2,-2,-2,-2,,3.5
+5,CCoSp3,,3.0,False,0.0,0,0,1,0,1,0,0,0,0,,3.0
+6,SlSt2,,2.3,False,0.0,0,1,1,0,0,0,0,0,0,,2.3
+7,CSSp2,,2.3,False,0.0,0,1,1,-1,0,0,0,0,0,,2.3
+8,CiSt2,,2.3,False,0.1,0,0,1,1,0,1,0,0,0,,2.4
+,,,28.5,,,,,,,,,,,,,26.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.75,4.75,4.25,4.75,5.0,4.75,4.5,4.25,5.0,,4.75
+,Transition / Linking Footwork  ,,,,1.0,4.25,4.5,3.75,4.5,4.75,4.5,4.25,4.0,4.5,,4.4
+,Performance / Execution  ,,,,1.0,5.25,4.75,4.5,5.0,5.0,4.5,4.25,4.5,4.75,,4.75
+,Choreography / Composition  ,,,,1.0,4.75,4.5,4.75,4.75,5.0,4.75,4.25,4.25,4.75,,4.65
+,Interpretation  ,,,,1.0,5.25,4.75,4.5,5.0,5.25,4.75,4.5,4.5,5.25,,4.95
+,,,,,,,,,,,,,,,,23.5

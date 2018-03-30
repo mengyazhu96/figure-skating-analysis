@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Tanith BELBIN / Benjamin AGOSTO,USA,0,100.5,51.5,49.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SeLi3,,5.6,False,1.0,3,2,2,2,2,2,2,2,3,,6.6
+2,STw4,,4.7,False,0.7,2,1,1,1,1,2,2,2,2,,5.4
+3,CiSt4,,8.0,False,1.4,2,1,1,1,1,2,2,2,2,,9.4
+4,Sp4,,4.7,False,0.8,2,1,2,2,2,1,1,1,2,,5.5
+5,CuLi4+RoLi4,,6.4,False,0.9,2,2,2,1,1,2,2,2,2,,7.3
+6,SlLi4,,4.0,False,0.7,1,1,1,2,1,2,1,2,2,,4.7
+7,MiStNt4,,7.0,False,0.8,0,1,0,1,2,2,1,0,1,,7.8
+8,RoLi4,,4.0,False,0.8,2,1,2,1,1,2,2,2,2,,4.8
+,,,44.4,,,,,,,,,,,,,51.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,8.0,8.25,7.75,7.75,8.25,8.25,8.25,8.5,7.75,,8.05
+,Linking Footwork / Movement  ,,,,1.75,8.25,8.25,8.0,7.5,8.0,8.0,7.75,8.25,8.25,,8.05
+,Performance  ,,,,1.0,8.25,8.0,8.0,8.0,8.5,8.25,8.5,8.25,8.5,,8.25
+,Choreography  ,,,,1.0,8.5,8.25,8.25,7.75,8.25,8.0,8.25,8.25,8.25,,8.25
+,Interpretation / Timing  ,,,,1.0,8.75,8.25,8.0,7.75,8.5,8.5,8.5,8.5,8.5,,8.35
+,,,,,,,,,,,,,,,,49.0

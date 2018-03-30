@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Caitlin YANKOWSKAS / John COUGHLIN,USA,3,91.19,50.87,40.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw2,,5.5,False,0.28,0,0,0,1,1,1,1,1,0,,5.78
+2,3STh,,4.5,False,-0.14,0,0,0,0,-1,0,0,0,-1,,4.36
+3,3T,,4.0,False,0.6,1,1,1,1,0,1,1,0,0,,4.6
+4,5ALi4,,6.5,False,1.0,0,1,1,2,1,1,0,1,1,,7.5
+5,FCCoSp2,,2.5,False,-0.24,-1,0,-1,0,-1,0,0,-1,-1,,2.26
+6,SpSq2,,2.3,False,0.0,0,0,0,0,0,0,1,-1,0,,2.3
+7,5TLi3,,6.05,True,0.1,0,0,1,1,0,1,0,0,0,,6.15
+8,3LoTh,,5.5,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.1
+9,2A+SEQ,,3.08,True,-1.6,-2,-2,-2,-3,-2,-2,-2,-3,-2,,1.48
+10,4Li4,,4.4,True,0.3,0,1,2,2,1,1,1,0,-1,,4.7
+11,PCoSp4,,4.5,False,0.0,0,0,0,0,0,0,0,0,-1,,4.5
+12,BoDs1,,3.0,False,0.14,0,0,0,0,0,1,1,1,0,,3.14
+,,,51.83,,,,,,,,,,,,,50.87
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.0,5.0,5.5,6.0,5.25,4.75,5.5,5.75,6.25,,5.3
+,Transition / Linking Footwork  ,,,,1.6,4.0,4.75,4.75,5.75,4.75,4.0,4.75,5.25,6.0,,4.7
+,Performance / Execution  ,,,,1.6,4.25,4.75,5.5,6.0,5.0,4.25,5.25,5.75,6.5,,5.05
+,Choreography / Composition  ,,,,1.6,4.25,5.0,5.0,6.0,5.0,4.75,5.5,5.75,6.5,,5.1
+,Interpretation  ,,,,1.6,4.25,5.0,5.0,6.0,5.0,4.5,5.5,5.75,6.5,,5.05
+,,,,,,,,,,,,,,,,40.32

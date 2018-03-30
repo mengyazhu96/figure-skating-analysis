@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,KIM Yu-Na,KOR,21,150.06,78.3,71.76,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,2.0,2,2,2,3,2,2,0,2,2,,12.0
+2,3F,,5.5,False,1.8,2,2,2,2,2,2,1,1,2,,7.3
+3,2A+2T+2Lo,,6.3,False,1.4,1,1,1,2,1,2,2,2,1,,7.7
+4,FCoSp4,,3.0,False,0.8,1,1,1,2,1,1,2,2,2,,3.8
+5,SpSq4,,3.4,False,2.0,2,2,2,2,2,2,3,2,2,,5.4
+6,2A+3T,,7.5,False,2.0,2,2,2,3,2,2,2,2,2,,9.5
+7,3S,,4.95,True,1.4,1,0,1,2,1,1,1,2,2,,6.35
+8,3Lz,,6.6,True,2.0,2,3,2,3,2,2,2,1,2,,8.6
+9,SlSt3,,3.3,False,1.0,2,2,2,2,2,2,3,2,2,,4.3
+10,2A,,3.85,True,1.4,1,1,1,2,2,1,2,1,1,,5.25
+11,FSSp4,,3.0,False,0.6,1,1,1,1,1,1,2,2,1,,3.6
+12,CCoSp4,,3.5,False,1.0,1,2,2,2,2,2,3,2,2,,4.5
+,,,60.9,,,,,,,,,,,,,78.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.75,9.0,9.0,9.5,8.75,9.0,9.25,9.25,9.0,,9.05
+,Transitions / Linking Footwork  ,,,,1.6,8.25,8.0,8.5,8.5,9.0,8.5,9.0,8.5,8.5,,8.6
+,Performance / Execution  ,,,,1.6,8.75,9.5,9.25,9.25,9.0,9.25,9.25,9.25,9.0,,9.15
+,Choreography / Composition  ,,,,1.6,8.75,9.0,9.0,9.5,8.75,8.75,9.25,9.0,8.75,,8.95
+,Interpretation  ,,,,1.6,8.75,9.25,9.25,9.25,8.75,8.75,9.5,9.25,9.0,,9.1
+,,,,,,,,,,,,,,,,71.76

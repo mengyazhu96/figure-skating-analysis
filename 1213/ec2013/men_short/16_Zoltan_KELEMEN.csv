@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Zoltan KELEMEN,ROU,19,57.44,29.4,28.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,0.29,1,0,1,1,0,0,-1,0,0,,8.79
+2,3F+3T<,<,8.2,False,-1.8,-3,-2,-2,-3,-3,-3,-2,-3,-2,,6.4
+3,3Lz,,6.0,False,-0.1,-1,-1,0,1,0,0,0,0,0,,5.9
+4,FSSp3,,2.6,False,0.14,0,1,0,1,0,0,0,1,0,,2.74
+5,CCSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,StSq2,,2.6,False,0.14,2,1,0,1,0,0,0,0,0,,2.74
+7,CCoSp3,,3.0,False,-0.17,0,-1,0,0,0,-1,-1,-1,-1,,2.83
+,,,30.9,,,,,,,,,,,,,29.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.0,6.5,5.5,6.75,6.0,5.5,5.5,5.75,5.5,,5.82
+,Transition / Linking Footwork  ,,,,1.0,5.25,6.0,4.75,5.75,5.75,5.0,5.25,5.25,5.25,,5.36
+,Performance / Execution  ,,,,1.0,5.5,6.25,5.25,6.25,6.0,5.0,5.75,5.75,5.25,,5.68
+,Choreography / Composition  ,,,,1.0,5.0,6.5,5.25,6.0,6.0,5.5,5.25,5.25,5.25,,5.5
+,Interpretation  ,,,,1.0,6.0,6.25,5.5,6.5,5.5,5.5,5.5,5.5,5.5,,5.68
+,,,,,,,,,,,,,,,,28.04

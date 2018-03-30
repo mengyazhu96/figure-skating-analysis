@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Nicole ORFORD / Thomas WILLIAMS,CAN,3,73.78,36.2,38.58,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CiSt3,,7.1,False,0.47,0,0,1,1,0,0,1,1,0,,7.57
+2,CuLi4,,4.5,False,0.17,0,0,0,0,0,0,1,1,1,,4.67
+3,RoLi4,,4.5,False,0.77,3,0,0,2,2,1,2,1,1,,5.27
+4,DiSt2,,5.6,False,-2.29,-3,-2,-3,-3,-2,-2,-2,-2,-2,,3.31
+5,STw1,,3.1,False,-0.13,0,0,-1,-1,0,0,1,-1,-1,,2.97
+6,CoSp4,,5.6,False,0.51,1,1,1,1,1,0,1,0,1,,6.11
+7,SlLi4,,4.5,False,0.69,2,1,1,1,2,1,1,1,1,,5.19
+8,ChSp1,,0.6,False,0.51,1,1,1,1,1,1,1,0,0,,1.11
+,,,35.5,,,,,,,,,,,,,36.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,5.75,6.25,6.0,7.0,6.5,6.5,7.5,6.5,5.75,,6.36
+,Linking Footwork / Movement  ,,,,1.2,5.75,6.25,6.5,7.25,6.25,6.25,7.25,6.0,5.75,,6.32
+,Performance  ,,,,1.2,6.5,5.75,6.0,6.5,6.5,6.5,7.0,5.75,6.0,,6.25
+,Choreography  ,,,,1.2,6.75,6.5,7.0,7.5,6.75,6.75,7.5,6.25,6.25,,6.79
+,Interpretation / Timing  ,,,,1.2,6.0,6.25,6.5,7.0,6.5,6.5,7.25,6.0,6.25,,6.43
+,,,,,,,,,,,,,,,,38.58
+Deduction,Falls,-1.0

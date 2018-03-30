@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Daisuke TAKAHASHI,JPN,11,148.95,64.95,85.0,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-1.4,-2,-2,-2,-1,-2,-2,-2,-2,-2,,2.7
+2,3A,,8.5,False,-0.43,0,-1,0,0,0,-1,-1,0,-1,,8.07
+3,3Lo,,5.1,False,0.7,1,2,0,1,1,1,1,1,1,,5.8
+4,FCCoSp2,,2.5,False,0.43,1,2,0,1,1,1,0,1,1,,2.93
+5,CiSt4,,3.9,False,2.43,3,3,2,3,2,3,2,2,2,,6.33
+6,3F+2T,,7.37,True,-0.3,-1,0,0,0,0,-1,-1,0,-1,,7.07
+7,3A<<+SEQ,<<,2.9,True,-1.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.4
+8,FUSp2,,2.0,False,0.43,0,1,0,1,1,1,1,1,1,,2.43
+9,3Lz,e,6.6,True,0.1,-1,0,0,1,-1,1,1,0,0,,6.7
+10,3S,,4.62,True,0.3,1,0,0,1,1,0,0,0,1,,4.92
+11,3Lz+2T,e,8.14,True,-0.4,-1,-1,0,0,-1,-1,0,0,-1,,7.74
+12,ChSt1,,2.0,False,2.43,3,3,2,3,2,2,3,2,2,,4.43
+13,CCoSp4,,3.5,False,0.93,1,2,2,2,2,2,2,1,2,,4.43
+,,,61.23,,,,,,,,,,,,,64.95
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,8.0,8.5,8.5,8.5,8.75,8.5,8.5,8.75,8.0,,8.46
+,Transition / Linking Footwork  ,,,,2.0,8.25,8.25,7.75,8.5,8.5,8.25,8.5,8.5,7.5,,8.29
+,Performance / Execution  ,,,,2.0,8.5,8.75,8.5,8.5,8.75,8.0,8.25,8.75,8.0,,8.46
+,Choreography / Composition  ,,,,2.0,9.0,9.0,8.25,8.5,9.0,8.25,8.5,8.75,7.75,,8.61
+,Interpretation  ,,,,2.0,9.0,9.0,8.25,8.25,8.75,8.5,9.0,9.0,8.0,,8.68
+,,,,,,,,,,,,,,,,85.0
+Deduction, Falls,-1.0

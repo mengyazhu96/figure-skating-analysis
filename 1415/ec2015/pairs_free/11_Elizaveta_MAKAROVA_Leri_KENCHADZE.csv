@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Elizaveta MAKAROVA / Leri KENCHADZE,BUL,2,78.65,44.24,34.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3TwB,,4.6,False,-1.3,-2,-2,-2,-2,-1,-3,-2,0,-2,,3.3
+2,2Lo,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,,1.8
+3,3LoTh,,5.0,False,0.7,1,1,1,1,1,1,1,0,1,,5.7
+4,5ALi3,,6.0,False,-0.9,-1,-1,-2,-1,0,-2,-1,-2,-1,,5.1
+5,3STh,,4.5,False,-0.1,0,0,0,0,0,1,-1,-1,0,,4.4
+6,ChSq1,,2.0,False,0.0,0,0,-1,0,0,0,0,0,0,,2.0
+7,2F+2T,,3.2,False,-0.09,0,0,0,0,-1,-1,-1,0,0,,3.11
+8,5TLi3,,5.5,False,-0.14,0,0,-1,-1,0,0,0,-2,0,,5.36
+9,4Li4,,4.0,False,-0.43,-1,0,-1,-1,0,-1,-1,-2,-1,,3.57
+10,BiDs1,,2.8,False,-0.1,-1,0,0,0,0,-1,0,0,0,,2.7
+11,PCoSp3p3,,4.0,False,-0.09,0,0,0,0,-1,1,-1,-1,0,,3.91
+12,FCCoSp3p4,,3.5,False,-0.21,0,-1,-1,1,-1,-1,-1,0,-1,,3.29
+,,,46.9,,,,,,,,,,,,,44.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.0,4.75,4.0,4.5,4.5,3.75,4.5,4.0,4.75,,4.43
+,Transition / Linking Footwork  ,,,,1.6,4.75,4.25,4.0,4.0,4.5,4.5,3.75,3.0,4.5,,4.21
+,Performance / Execution  ,,,,1.6,4.75,4.75,3.75,4.25,4.75,3.75,4.25,4.25,4.75,,4.39
+,Choreography / Composition  ,,,,1.6,4.75,4.5,4.25,4.5,4.5,4.0,4.25,3.75,4.5,,4.36
+,Interpretation  ,,,,1.6,4.5,4.25,3.75,4.0,4.25,4.25,3.75,3.5,4.75,,4.11
+,,,,,,,,,,,,,,,,34.41

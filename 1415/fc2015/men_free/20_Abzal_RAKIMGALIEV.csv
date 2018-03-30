@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Abzal RAKIMGALIEV,KAZ,4,110.56,56.06,55.5,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S,,4.2,False,0.7,1,1,1,1,1,1,1,1,0,,4.9
+2,3F,,5.3,False,0.7,1,1,1,1,1,1,2,1,0,,6.0
+3,3A<<,<<,3.3,False,-1.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.8
+4,FCSp3,,2.8,False,0.43,1,0,1,1,0,1,1,1,1,,3.23
+5,StSq3,,3.3,False,0.5,1,0,1,2,1,1,1,1,1,,3.8
+6,3A+REP,,6.55,True,-1.0,-1,-1,-1,-1,-1,-1,-1,-1,-1,,5.55
+7,3S+1Lo+2S,,6.6,True,0.1,0,0,1,0,1,0,0,0,0,,6.7
+8,3Lo+2T,,7.04,True,-0.3,0,0,-1,-1,-1,-1,0,0,0,,6.74
+9,3T+2A+SEQ,,6.51,True,0.1,0,0,1,0,0,0,0,1,0,,6.61
+10,2A,,3.63,True,0.07,0,0,1,0,0,0,0,1,0,,3.7
+11,ChSq1,,2.0,False,0.4,0,0,1,1,0,1,1,1,0,,2.4
+12,CCoSp3p2,,2.5,False,-0.13,-1,-1,0,0,0,0,0,-1,-1,,2.37
+13,CSSp2,,2.3,False,-0.04,0,-1,0,0,-2,1,0,0,0,,2.26
+,,,56.03,,,,,,,,,,,,,56.06
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,6.0,5.25,6.0,5.25,5.75,6.0,6.25,5.5,5.5,,5.71
+,Transition / Linking Footwork  ,,,,2.0,4.75,4.5,5.25,5.5,5.0,5.5,5.5,5.0,4.75,,5.11
+,Performance / Execution  ,,,,2.0,5.5,5.25,5.75,6.0,5.25,6.25,5.75,5.5,5.75,,5.64
+,Choreography / Composition  ,,,,2.0,5.75,5.25,6.0,5.75,4.75,6.0,6.25,5.0,5.5,,5.61
+,Interpretation  ,,,,2.0,5.75,5.5,5.75,6.0,4.75,6.0,6.0,5.25,5.5,,5.68
+,,,,,,,,,,,,,,,,55.5
+Deduction,Falls,-1.0

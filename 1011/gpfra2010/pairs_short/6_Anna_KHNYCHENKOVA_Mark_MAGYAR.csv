@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Anna KHNYCHENKOVA / Mark MAGYAR,HUN,1,39.46,22.48,16.98,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-0.9,-1,-1,-1,-2,-1,-1,-1,-2,-2,,3.2
+2,2LzTw2,,3.2,False,-0.09,0,-2,0,0,0,0,-2,0,0,,3.11
+3,3STh,,4.5,False,0.0,0,-1,0,0,0,0,0,0,0,,4.5
+4,5TLi2,,5.0,False,-0.43,0,-1,0,-1,-1,-1,-1,-1,-1,,4.57
+5,FCCoSp3,,3.0,False,-0.21,-2,-1,0,-1,-1,-1,-1,0,0,,2.79
+6,BiDs1,,2.8,False,-0.2,0,-2,1,-1,0,0,0,0,-1,,2.6
+7,SlSt1,,1.8,False,-0.09,-1,-1,0,0,-1,0,0,0,0,,1.71
+,,,24.4,,,,,,,,,,,,,22.48
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.25,4.5,4.25,4.25,3.75,4.75,5.25,3.75,,4.36
+,Transition / Linking Footwork  ,,,,0.8,4.5,3.75,4.25,4.0,4.75,4.0,4.0,4.5,3.5,,4.14
+,Performance / Execution  ,,,,0.8,4.75,4.25,4.5,4.0,4.0,4.25,4.5,4.75,3.75,,4.32
+,Choreography / Composition  ,,,,0.8,4.5,4.0,4.25,4.25,4.75,4.5,4.0,4.75,4.0,,4.32
+,Interpretation  ,,,,0.8,4.25,4.0,4.25,4.0,4.0,4.0,4.0,5.25,3.5,,4.07
+,,,,,,,,,,,,,,,,16.98

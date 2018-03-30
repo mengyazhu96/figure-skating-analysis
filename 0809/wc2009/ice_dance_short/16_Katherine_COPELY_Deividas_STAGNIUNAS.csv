@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Katherine COPELY / Deividas STAGNIUNAS,LTU,7,28.46,15.26,13.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.8,False,0.18,1,1,1,0,0,0,1,1,1,,1.98
+2,1S2,,2.4,False,0.0,0,1,0,1,0,0,0,0,0,,2.4
+3,2S1,,2.4,False,0.0,0,0,0,1,0,0,0,0,0,,2.4
+4,2S2,,2.8,False,0.0,0,0,1,0,-1,0,0,0,0,,2.8
+5,3S1,,2.8,False,-0.14,0,0,0,-1,0,0,0,0,-1,,2.66
+6,3S2,,3.3,False,-0.28,-1,0,0,0,-1,0,-1,0,0,,3.02
+,,,15.5,,,,,,,,,,,,,15.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.5,5.75,5.5,5.25,5.5,5.5,5.25,6.25,5.0,,5.4
+,Timing  ,,,,0.75,5.5,5.25,5.25,5.0,5.0,5.0,5.0,6.0,4.75,,5.05
+,Performance / Execution  ,,,,0.5,5.5,5.5,5.5,5.5,5.25,5.25,5.0,6.25,5.25,,5.35
+,Interpretation  ,,,,0.5,5.75,5.75,5.25,5.5,5.25,5.5,5.25,6.0,5.0,,5.35
+,,,,,,,,,,,,,,,,13.2

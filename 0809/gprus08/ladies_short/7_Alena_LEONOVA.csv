@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Alena LEONOVA,RUS,0,50.96,30.68,20.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,,6.8,False,1.0,1,1,1,0,1,1,1,1,1,,7.8
+2,3S,,4.5,False,0.2,1,1,0,0,0,0,1,0,0,,4.7
+3,LSp4,,2.7,False,0.3,0,0,1,1,0,0,1,1,1,,3.0
+4,2A,,3.5,False,0.2,0,1,1,0,0,1,0,0,0,,3.7
+5,FSSp2,,2.3,False,-0.12,-1,-1,0,0,0,0,0,-1,-1,,2.18
+6,SpSq4,,3.4,False,0.0,0,0,0,0,0,0,0,0,0,,3.4
+7,SlSt2,,2.3,False,0.1,0,1,0,0,0,0,0,0,1,,2.4
+8,CCoSp4,,3.5,False,0.0,0,0,0,0,0,0,1,0,0,,3.5
+,,,29.0,,,,,,,,,,,,,30.68
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.5,6.0,6.0,5.25,5.0,5.5,5.25,4.5,5.75,,5.35
+,Transition / Linking Footwork ,,,,0.8,6.0,4.5,5.5,5.0,3.25,5.0,4.75,4.0,5.0,,4.65
+,Performance / Execution ,,,,0.8,7.25,5.75,6.0,5.5,4.5,5.75,5.0,4.75,5.25,,5.25
+,Choreography / Composition ,,,,0.8,6.5,5.0,5.75,5.25,4.0,5.25,5.0,4.5,5.0,,4.95
+,Interpretation ,,,,0.8,7.0,5.5,6.0,5.25,4.5,5.25,5.0,4.75,5.5,,5.15
+,,,,,,,,,,,,,,,,20.28

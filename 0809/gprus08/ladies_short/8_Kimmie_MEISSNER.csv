@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Kimmie MEISSNER,USA,0,48.08,22.76,25.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,-0.2,1,-1,0,0,0,0,0,-1,0,,7.1
+2,3Lo<,<,1.5,False,-0.6,-2,-2,-3,-2,-2,-2,-2,-3,-2,,0.9
+3,FSSp3,,2.6,False,0.1,0,0,0,0,0,1,0,1,0,,2.7
+4,LSp1,,1.5,False,-0.24,-2,-1,0,-1,-1,0,-1,-1,0,,1.26
+5,2A,,3.5,False,0.8,0,1,0,0,0,1,1,1,1,,4.3
+6,CCoSp1,,2.0,False,0.1,1,0,1,0,0,1,1,0,0,,2.1
+7,SpSq1,,1.8,False,0.0,1,1,0,-1,0,0,0,0,0,,1.8
+8,SlSt2,,2.3,False,0.3,0,1,0,0,1,1,0,0,1,,2.6
+,,,22.5,,,,,,,,,,,,,22.76
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,7.0,6.5,6.25,7.0,6.0,6.5,6.5,6.0,7.0,,6.5
+,Transition / Linking Footwork ,,,,0.8,6.5,5.5,5.75,6.75,5.25,6.0,6.0,5.25,6.5,,5.85
+,Performance / Execution ,,,,0.8,7.0,6.25,6.25,6.5,5.25,6.25,6.5,6.0,6.75,,6.3
+,Choreography / Composition ,,,,0.8,7.0,6.5,6.0,6.75,5.5,6.5,6.25,6.25,7.25,,6.45
+,Interpretation ,,,,0.8,7.25,6.75,6.25,6.5,5.75,6.5,6.5,6.5,7.0,,6.55
+,,,,,,,,,,,,,,,,25.32

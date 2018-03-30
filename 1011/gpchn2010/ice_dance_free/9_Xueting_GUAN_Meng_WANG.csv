@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Xueting GUAN / Meng WANG,CHN,2,65.72,35.96,29.76,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw3,,5.0,False,0.14,0,1,1,0,0,0,0,1,0,,5.14
+2,SeSt2,,5.0,False,0.0,0,0,0,0,1,0,0,-1,0,,5.0
+3,SeLi4,,8.0,False,0.69,0,1,2,1,0,1,1,1,1,,8.69
+4,CoSp4,,5.0,False,0.21,0,1,1,0,0,0,1,1,0,,5.21
+5,SlLi2,,2.5,False,0.21,0,0,1,1,0,0,1,1,0,,2.71
+6,MiSt2,,5.0,False,0.0,0,0,0,0,0,0,0,-1,0,,5.0
+7,RoLi4,,4.0,False,0.21,0,0,1,0,1,1,1,0,0,,4.21
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,34.5,,,,,,,,,,,,,35.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.75,5.0,4.75,5.0,5.5,5.5,5.25,5.0,5.0,,5.07
+,Linking Footwork / Movement  ,,,,1.75,4.75,4.5,5.0,4.75,5.0,4.5,5.0,4.75,4.75,,4.79
+,Performance  ,,,,1.0,5.0,5.0,4.75,4.75,5.75,5.5,5.5,4.75,5.0,,5.07
+,Choreography  ,,,,1.0,5.25,4.75,5.25,5.0,6.0,5.25,5.25,4.0,5.0,,5.11
+,Interpretation / Timing  ,,,,1.0,4.75,4.75,4.75,5.0,5.5,5.0,5.0,4.0,4.75,,4.86
+,,,,,,,,,,,,,,,,29.76

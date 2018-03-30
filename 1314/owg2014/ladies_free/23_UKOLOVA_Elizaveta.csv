@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,UKOLOVA Elizaveta,CZE,4,84.55,42.94,43.61,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+2T,,6.4,False,0.0,0,0,0,0,0,0,0,0,0,,6.4
+2,3Lz+2T+2Lo,,9.1,False,-0.1,-1,0,1,0,-1,0,0,0,0,,9.0
+3,3S,,4.2,False,-0.5,-1,-1,-1,-1,0,-1,-1,0,0,,3.7
+4,Lo,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,LSp4,,2.7,False,0.29,0,1,0,1,1,0,2,1,0,,2.99
+6,StSq3,,3.3,False,0.0,0,0,0,0,0,0,1,0,0,,3.3
+7,3T,,4.51,True,0.0,0,0,0,0,0,0,0,0,0,,4.51
+8,ChSq1,,2.0,False,-0.43,0,-1,-1,-1,0,-1,-1,-1,-1,,1.57
+9,3Lz<,<,4.62,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.52
+10,1A+2T,,2.64,True,0.0,-1,0,0,0,0,0,0,0,0,,2.64
+11,CCoSp4,,3.5,False,0.21,0,0,1,0,0,-1,2,1,1,,3.71
+12,FSSp3,,2.6,False,0.0,0,0,0,0,0,0,-1,0,0,,2.6
+,,,45.57,,,,,,,,,,,,,42.94
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.5,5.5,5.75,5.5,5.25,5.75,6.0,5.75,5.5,,5.61
+,Transitions / Linking Footwork / Movement  ,,,,1.6,5.0,5.25,5.5,5.0,5.25,5.5,5.5,5.5,5.0,,5.29
+,Performance / Execution  ,,,,1.6,5.0,4.5,5.25,5.25,5.0,5.75,5.75,5.5,5.25,,5.29
+,Choreography / Composition  ,,,,1.6,5.5,5.5,5.75,5.5,5.25,6.5,6.25,5.75,5.5,,5.68
+,Interpretation  ,,,,1.6,5.25,4.75,5.25,5.25,5.0,6.25,5.75,5.75,5.5,,5.39
+,,,,,,,,,,,,,,,,43.61
+Deduction,Falls,-2.0

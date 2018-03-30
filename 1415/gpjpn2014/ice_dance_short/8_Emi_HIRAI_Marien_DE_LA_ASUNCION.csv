@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Emi HIRAI / Marien DE LA ASUNCION,JPN,2,44.38,22.79,22.59,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1PD2+kpNYN,,4.0,False,-0.21,0,0,0,0,0,-1,-1,-1,-1,,3.79
+2,PSt3+kpNYY,,5.0,False,0.01,0,-1,1,1,0,0,0,-1,0,,5.01
+3,NtMiSt2,,5.6,False,-1.14,-1,-1,-1,-1,-2,0,-2,-1,-1,,4.46
+4,STw3,,5.6,False,-0.5,-1,-1,-2,-2,0,0,-1,-2,0,,5.1
+5,RoLi4,,4.5,False,-0.07,0,0,-1,0,0,0,1,-1,0,,4.43
+,,,24.7,,,,,,,,,,,,,22.79
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.75,4.25,6.5,5.5,6.25,5.75,5.75,5.5,5.75,,5.75
+,Linking Footwork / Movement ,,,,0.8,5.5,4.25,6.25,5.5,6.0,5.25,4.75,5.25,5.5,,5.39
+,Performance ,,,,0.8,6.0,4.25,6.25,5.5,6.25,5.5,5.25,5.5,5.75,,5.68
+,Choreography ,,,,0.8,6.0,3.75,6.5,6.0,6.0,5.75,6.0,5.25,5.5,,5.79
+,Interpretation / Timing ,,,,0.8,6.25,3.75,6.25,5.75,6.25,5.25,5.0,5.25,5.75,,5.64
+,,,,,,,,,,,,,,,,22.59
+Deduction,Extended lifts,-1.0

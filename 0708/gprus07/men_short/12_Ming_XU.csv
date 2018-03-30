@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Ming XU,CHN,0,55.99,29.04,26.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3F+3T,,9.5,False,0.0,0,0,0,0,1,0,0,0,0,0,,9.5
+2,3A,,7.5,False,0.2,0,1,0,0,0,0,0,1,1,0,,7.7
+3,2Lz,,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+4,CSSp3,,2.3,False,0.1,1,0,0,0,0,0,0,0,1,0,,2.4
+5,SlSt1,,1.8,False,0.1,0,1,1,0,0,0,0,0,1,0,,1.9
+6,FSSp2,,2.0,False,-0.36,-2,-2,-1,-1,-1,-1,-1,-1,-1,-1,,1.64
+7,CiSt2,,2.3,False,0.2,0,0,1,0,1,0,1,0,1,0,,2.5
+8,CCoSp2,,2.5,False,0.0,0,0,0,0,0,0,0,-1,-1,-1,,2.5
+,,,29.8,,,,,,,,,,,,,,29.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,5.75,5.25,5.75,6.25,4.75,5.25,6.0,5.5,5.25,,5.5
+,Transition / Linking Footwork  ,,,,1.0,5.25,5.5,4.75,5.25,5.75,4.5,4.5,5.25,5.25,4.5,,5.15
+,Performance / Execution  ,,,,1.0,5.5,5.75,5.0,6.0,5.75,4.25,4.75,5.0,5.5,5.0,,5.45
+,Choreography / Composition  ,,,,1.0,5.25,5.5,5.5,5.5,5.75,4.5,5.0,5.5,5.75,5.25,,5.4
+,Interpretation  ,,,,1.0,5.25,6.0,5.25,5.75,5.75,4.5,5.0,5.25,5.5,4.75,,5.45
+,,,,,,,,,,,,,,,,,26.95

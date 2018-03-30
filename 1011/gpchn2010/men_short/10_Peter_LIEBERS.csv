@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Peter LIEBERS,GER,4,59.78,30.92,29.86,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,e,9.4,False,-0.5,-1,-1,0,0,-1,0,-1,-1,-2,,8.9
+2,3A,,8.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.5
+3,FCSp2,,2.3,False,-0.13,-1,-1,0,0,0,-2,-1,0,0,,2.17
+4,CSSp3,,2.6,False,0.14,0,0,0,1,1,0,1,-1,0,,2.74
+5,3Lz,,6.0,False,0.1,0,0,0,1,0,0,1,0,0,,6.1
+6,CiSt2,,2.3,False,0.14,0,0,0,1,0,1,1,0,0,,2.44
+7,CCoSp3,,3.0,False,0.07,0,0,0,1,0,0,1,0,0,,3.07
+,,,34.1,,,,,,,,,,,,,30.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.75,5.75,6.5,6.5,5.75,6.0,6.25,5.5,,5.96
+,Transition / Linking Footwork  ,,,,1.0,5.25,5.75,6.25,6.0,6.0,5.25,5.75,5.75,5.25,,5.68
+,Performance / Execution  ,,,,1.0,6.0,6.0,6.0,6.25,6.0,5.5,6.0,6.25,5.75,,6.0
+,Choreography / Composition  ,,,,1.0,5.75,6.0,6.0,6.25,6.25,5.75,6.25,6.25,5.5,,6.04
+,Interpretation  ,,,,1.0,6.5,6.0,5.75,6.25,6.5,6.0,6.5,6.25,5.5,,6.18
+,,,,,,,,,,,,,,,,29.86
+Deduction, Falls,-1.0

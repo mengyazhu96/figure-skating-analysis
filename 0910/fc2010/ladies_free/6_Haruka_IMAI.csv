@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Haruka IMAI,JPN,19,100.23,53.91,46.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,1.4,1,1,2,2,1,1,1,2,1,,4.9
+2,3F,,5.5,False,0.6,1,-1,-1,1,1,1,1,1,1,,6.1
+3,3Lo,,5.0,False,0.0,0,0,0,1,0,1,1,0,0,,5.0
+4,FCCoSp4,,3.5,False,0.5,0,0,1,2,1,1,2,2,1,,4.0
+5,SlSt3,,3.3,False,0.0,0,0,0,0,1,0,0,0,0,,3.3
+6,SpSq3,,3.1,False,0.1,0,0,1,0,1,1,1,0,0,,3.2
+7,3S+2T+2Lo,,8.03,True,0.4,0,0,1,1,0,0,1,1,0,,8.43
+8,3Lo+2T,,6.93,True,1.0,1,0,1,2,1,0,1,1,1,,7.93
+9,1S,,0.44,True,-0.14,0,-2,0,-2,-2,-1,-2,-1,-2,,0.3
+10,2A,,3.85,True,0.2,0,0,1,1,0,0,1,0,0,,4.05
+11,FSSp3,,2.6,False,0.3,1,0,1,1,1,1,0,0,0,,2.9
+12,CCoSp4,,3.5,False,0.3,1,0,1,1,0,1,0,1,0,,3.8
+,,,49.25,,,,,,,,,,,,,53.91
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.25,5.75,5.75,6.5,6.5,6.25,7.25,6.25,5.75,,6.1
+,Transition / Linking Footwork  ,,,,1.6,6.0,5.5,5.25,5.25,6.5,6.0,6.0,5.5,5.25,,5.5
+,Performance / Execution  ,,,,1.6,6.0,5.5,5.5,6.25,6.0,6.25,5.5,6.0,5.25,,5.8
+,Choreography / Composition  ,,,,1.6,6.0,5.5,5.5,6.0,6.5,6.25,6.0,6.0,5.5,,5.8
+,Interpretation  ,,,,1.6,6.25,5.5,5.75,5.75,6.0,6.25,5.75,5.75,5.25,,5.75
+,,,,,,,,,,,,,,,,46.32

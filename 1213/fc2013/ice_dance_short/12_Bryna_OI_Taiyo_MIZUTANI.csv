@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Bryna OI / Taiyo MIZUTANI,JPN,1,33.9,16.79,17.11,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw1,,2.5,False,-1.0,-3,-3,-3,-3,-2,-3,-3,-3,-3,,1.5
+2,1YP1+kpNNN,,3.0,False,-0.57,-1,-1,-2,-1,-1,-1,-1,-1,-2,,2.43
+3,2YP3+kpNYY,,6.0,False,-0.21,0,-1,-1,0,0,-1,0,0,-1,,5.79
+4,SlLi4,,4.0,False,0.0,1,0,-1,0,0,0,0,0,0,,4.0
+5,NtCiSt1,,3.5,False,-0.43,-1,-1,-1,-1,-1,-1,-1,0,0,,3.07
+,,,19.0,,,,,,,,,,,,,16.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,4.75,4.5,3.75,3.75,4.25,4.0,4.75,4.25,,4.32
+,Linking Footwork / Movement  ,,,,0.7,5.5,4.25,4.0,4.25,4.0,4.0,3.75,4.5,4.25,,4.18
+,Performance  ,,,,0.7,5.5,5.0,4.5,4.0,4.0,4.25,4.0,4.75,3.75,,4.36
+,Choreography  ,,,,0.8,5.75,4.75,4.25,4.75,3.75,4.0,3.75,5.0,4.0,,4.36
+,Interpretation / Timing  ,,,,1.0,5.0,4.5,4.25,4.0,4.25,3.75,4.0,4.5,3.75,,4.18
+,,,,,,,,,,,,,,,,17.11

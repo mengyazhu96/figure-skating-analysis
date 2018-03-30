@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Kaleigh HOLE / Adam JOHNSON,CAN,1,43.02,23.96,20.06,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,-1.2,-2,-1,-2,-2,-1,-2,-1,-2,-3,,3.8
+2,3S,,4.2,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.1
+3,5ALi3,,6.0,False,0.0,0,0,0,-2,0,0,0,0,0,,6.0
+4,3STh,,4.5,False,-1.0,-2,-1,-1,-2,-2,-2,-1,-1,-1,,3.5
+5,CCoSp4,,3.5,False,-0.04,-1,0,0,0,-1,0,0,1,0,,3.46
+6,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+7,BiDs1,,2.8,False,0.0,0,0,0,0,0,1,0,0,0,,2.8
+,,,28.3,,,,,,,,,,,,,23.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.75,5.0,5.5,5.75,5.0,5.0,5.0,5.0,,5.18
+,Transition / Linking Footwork  ,,,,0.8,4.25,5.5,4.75,4.75,5.25,5.0,4.75,4.5,4.75,,4.82
+,Performance / Execution  ,,,,0.8,4.5,5.5,4.75,5.0,5.25,5.0,4.5,4.75,5.0,,4.89
+,Choreography / Composition  ,,,,0.8,5.0,5.5,5.0,5.0,5.5,5.25,5.0,5.0,4.75,,5.11
+,Interpretation  ,,,,0.8,4.75,5.5,5.25,5.25,5.5,5.0,4.75,4.5,5.0,,5.07
+,,,,,,,,,,,,,,,,20.06
+Deduction, Falls,-1.0

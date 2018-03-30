@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Anastasia MARTIUSHEVA / Alexei ROGONOV,RUS,4,53.02,27.91,25.11,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-0.1,0,0,0,1,0,0,-1,0,-1,,4.0
+2,3Tw2,,5.4,False,-0.6,-2,-1,-2,0,0,0,0,-1,-2,,4.8
+3,3FTh,,5.5,False,0.6,1,1,0,1,1,1,1,1,0,,6.1
+4,BiDs3,,3.2,False,0.5,1,2,0,1,1,1,1,0,0,,3.7
+5,5SLi4,,6.0,False,0.5,1,1,1,1,0,1,1,1,1,,6.5
+6,StSq2,,2.6,False,0.21,1,1,0,0,1,1,0,0,0,,2.81
+7,PCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.8,,,,,,,,,,,,,27.91
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.5,6.0,5.75,6.5,6.75,6.75,7.0,6.25,,6.43
+,Transition / Linking Footwork  ,,,,0.8,6.5,6.5,5.25,4.5,6.0,6.5,6.25,6.75,5.5,,6.07
+,Performance / Execution  ,,,,0.8,6.75,6.25,5.5,5.5,6.25,7.0,6.25,6.75,6.0,,6.25
+,Choreography / Composition  ,,,,0.8,6.75,6.5,6.0,6.0,6.25,7.0,6.5,6.75,5.75,,6.39
+,Interpretation  ,,,,0.8,6.0,6.25,5.5,6.0,6.5,7.25,6.25,6.75,6.0,,6.25
+,,,,,,,,,,,,,,,,25.11

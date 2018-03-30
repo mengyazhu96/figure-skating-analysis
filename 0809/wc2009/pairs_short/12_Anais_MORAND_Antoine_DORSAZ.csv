@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Anais MORAND / Antoine DORSAZ,SUI,5,48.5,30.94,17.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LoTh,,5.0,False,0.28,0,1,0,1,0,0,1,1,0,,5.28
+2,2LzTw3,,4.0,False,0.0,0,0,0,0,0,0,0,0,0,,4.0
+3,2A,,3.5,False,0.0,0,0,0,-1,0,0,0,0,0,,3.5
+4,FiDs4,,3.5,False,0.0,0,0,0,0,1,0,0,0,0,,3.5
+5,3Li3,,3.5,False,0.0,0,0,0,0,1,0,0,0,0,,3.5
+6,FCCoSp4,,3.5,False,-0.24,-1,0,-1,0,-1,-1,0,-1,-1,,3.26
+7,PCoSp4,,4.5,False,0.0,0,0,0,0,0,0,0,0,0,,4.5
+8,SpSq4,,3.4,False,0.0,0,0,-1,0,0,0,0,1,0,,3.4
+,,,30.9,,,,,,,,,,,,,30.94
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.75,4.75,4.5,4.75,4.75,4.75,4.75,4.25,,4.6
+,Transition / Linking Footwork  ,,,,0.8,3.75,4.75,4.25,4.0,4.25,4.5,4.25,4.5,3.75,,4.2
+,Performance / Execution  ,,,,0.8,3.75,4.5,5.0,4.5,4.5,4.75,4.5,4.5,3.5,,4.35
+,Choreography / Composition  ,,,,0.8,3.75,4.75,4.75,4.75,4.5,4.75,4.5,4.5,4.0,,4.5
+,Interpretation  ,,,,0.8,3.75,4.5,4.75,4.25,4.5,4.5,4.5,4.5,3.0,,4.3
+,,,,,,,,,,,,,,,,17.56

@@ -1,0 +1,17 @@
+7
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Alexandra PAUL / Mitchell ISLAM,CAN,5,56.46,28.22,28.24,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,Ref,Scores of Panel
+1,STw4,,6.6,False,0.72,1,1,2,0,2,1,1,,7.32
+2,1PD2+kpYNN,,4.0,False,0.36,1,0,1,0,1,0,1,,4.36
+3,PSt2+kpNYN,,4.0,False,0.48,1,1,1,-1,1,1,0,,4.48
+4,NtMiSt2,,5.6,False,0.88,1,0,1,1,1,0,1,,6.48
+5,RoLi4,,4.5,False,1.08,1,2,2,2,2,1,2,,5.58
+,,,24.7,,,,,,,,,,,28.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.5,6.75,7.25,6.5,7.0,7.0,6.75,,6.95
+,Linking Footwork / Movement  ,,,,0.8,7.25,6.5,7.0,7.0,7.25,6.75,6.5,,6.9
+,Performance  ,,,,0.8,8.5,6.75,7.25,6.5,7.5,7.25,7.0,,7.15
+,Choreography  ,,,,0.8,8.5,7.0,7.5,7.0,7.5,7.0,7.0,,7.2
+,Interpretation / Timing  ,,,,0.8,8.0,6.75,7.5,6.5,7.5,7.0,6.75,,7.1
+,,,,,,,,,,,,,,28.24

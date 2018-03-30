@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Meagan DUHAMEL / Eric RADFORD,CAN,5,143.93,72.78,71.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,1.4,2,1,2,2,1,2,3,3,2,,7.6
+2,3Lz,,6.0,False,0.6,1,0,2,1,1,2,1,0,0,,6.6
+3,4STh,,8.2,False,-0.14,0,0,-1,0,0,-1,0,1,0,,8.06
+4,3T+2T+2T,,6.9,False,-0.7,0,-1,-1,-2,-1,-1,-1,-1,-1,,6.2
+5,FCCoSp3p4,,3.5,False,1.0,2,1,2,2,2,2,2,3,2,,4.5
+6,5RLi4,,7.5,False,1.5,2,2,3,2,2,2,3,2,1,,9.0
+7,3LzTh,,5.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.1
+8,5ALi4,,7.0,False,1.2,1,2,1,1,1,2,3,3,2,,8.2
+9,ChSq1,,2.0,False,1.5,2,2,3,2,2,2,2,3,2,,3.5
+10,PCoSp3p4,,4.5,False,0.79,1,1,2,0,2,2,2,2,1,,5.29
+11,3Li4,,4.5,False,0.93,2,2,2,2,1,1,2,3,2,,5.43
+12,FiDs3,,3.2,False,1.1,2,1,2,1,2,2,1,2,1,,4.3
+,,,65.0,,,,,,,,,,,,,72.78
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,9.25,8.5,8.75,8.75,9.0,9.0,9.25,9.0,8.75,,8.93
+,Transition / Linking Footwork  ,,,,1.6,8.75,8.5,8.75,8.5,8.5,8.75,9.5,9.75,8.25,,8.75
+,Performance / Execution  ,,,,1.6,9.0,8.75,9.0,8.75,9.0,9.25,9.25,9.0,8.5,,8.96
+,Choreography / Composition  ,,,,1.6,9.25,8.5,9.0,8.5,8.5,9.25,9.0,10.0,8.5,,8.86
+,Interpretation  ,,,,1.6,9.0,8.25,9.25,8.75,8.75,9.0,9.25,9.5,8.75,,8.96
+,,,,,,,,,,,,,,,,71.15

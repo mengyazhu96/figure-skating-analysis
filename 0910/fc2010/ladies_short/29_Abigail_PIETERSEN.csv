@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Abigail PIETERSEN,RSA,1,30.06,16.18,14.88,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S+COMBO,,4.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+2,3Lo<,<,1.5,False,-0.76,-3,-3,-2,-2,-3,-2,-3,-2,-2,,0.74
+3,CCoSp3,,3.0,False,-0.24,0,0,-1,-1,0,-1,-1,-1,0,,2.76
+4,2A,,3.5,False,-1.28,-2,-2,-2,-1,-3,-1,-2,-1,-2,,2.22
+5,FSSp2,,2.3,False,-0.3,0,-2,0,-1,-1,-1,-1,-1,0,,2.0
+6,SpSq4,,3.4,False,0.0,0,0,0,0,0,0,0,0,0,,3.4
+7,LSp1,,1.5,False,-0.24,-1,-1,-1,-1,0,-1,-2,0,0,,1.26
+8,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,-1,1,0,,2.3
+,,,22.0,,,,,,,,,,,,,16.18
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.0,3.0,4.0,3.25,3.75,3.75,4.0,4.0,,3.75
+,Transition / Linking Footwork  ,,,,0.8,3.25,3.0,2.5,3.5,4.5,3.25,3.5,4.25,3.5,,3.5
+,Performance / Execution  ,,,,0.8,3.75,3.75,2.75,4.25,4.0,3.75,3.75,4.5,3.75,,3.9
+,Choreography / Composition  ,,,,0.8,3.5,3.5,2.25,4.0,4.25,3.5,3.25,4.25,3.5,,3.7
+,Interpretation  ,,,,0.8,3.75,4.0,2.5,3.75,4.0,3.5,3.5,4.0,4.0,,3.75
+,,,,,,,,,,,,,,,,14.88
+Deduction,Falls,-1.0

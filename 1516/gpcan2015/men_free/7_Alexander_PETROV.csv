@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Alexander PETROV,RUS,6,149.58,77.8,72.78,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.29,2,2,2,1,1,1,1,1,1,,9.79
+2,3A+2T,,9.8,False,0.57,1,1,1,1,0,0,1,0,0,,10.37
+3,3Lz+2T,,7.3,False,0.8,2,2,1,1,1,1,1,1,1,,8.1
+4,FCSp3,,2.8,False,0.36,1,1,1,0,0,1,1,1,0,,3.16
+5,StSq3,,3.3,False,0.79,2,2,1,1,2,3,1,1,2,,4.09
+6,3F+1Lo+3S,,11.22,True,0.7,2,1,1,1,1,0,1,0,2,,11.92
+7,3Lz,,6.6,True,0.4,1,1,0,1,1,0,1,0,0,,7.0
+8,3T,,4.73,True,0.6,1,1,0,1,1,1,1,1,0,,5.33
+9,CSSp4,,3.0,False,0.29,1,1,1,1,0,1,0,0,0,,3.29
+10,ChSq1,,2.0,False,0.7,1,2,0,0,1,1,2,1,1,,2.7
+11,3Lo,,5.61,True,0.1,0,1,0,1,0,0,0,0,0,,5.71
+12,2A,,3.63,True,0.14,1,1,1,0,0,0,0,0,0,,3.77
+13,CCoSp3p2,,2.5,False,0.07,0,1,1,0,0,-1,0,0,0,,2.57
+,,,70.99,,,,,,,,,,,,,77.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,7.75,7.25,7.25,7.25,7.5,7.75,7.25,7.25,7.5,,7.39
+,Transition / Linking Footwork  ,,,,2.0,7.5,6.75,6.75,7.0,5.5,7.25,6.75,7.0,7.25,,6.96
+,Performance / Execution  ,,,,2.0,8.0,7.0,7.5,7.5,7.75,8.0,6.75,7.5,7.5,,7.54
+,Choreography / Composition  ,,,,2.0,7.75,7.25,7.25,7.5,6.5,7.5,7.5,7.25,7.25,,7.36
+,Interpretation  ,,,,2.0,7.75,7.0,7.0,7.5,6.75,7.0,7.0,7.0,7.5,,7.14
+,,,,,,,,,,,,,,,,72.78
+Deduction,Time violation,-1.0

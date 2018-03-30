@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Carolina KOSTNER,ITA,17,53.17,26.02,29.15,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T<,<,7.0,False,-2.1,-3,-2,-3,-3,-3,-3,-3,-3,-3,,4.9
+2,2A,,3.3,False,0.57,1,2,1,1,1,1,1,2,0,,3.87
+3,FCSp4,,3.2,False,0.71,1,2,2,1,1,1,2,2,1,,3.91
+4,3Lo,,5.1,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+5,LSp3,,2.4,False,0.5,1,1,1,1,1,1,2,1,0,,2.9
+6,CiSt3,,3.3,False,1.0,2,2,2,2,1,2,2,2,2,,4.3
+7,CCoSp3,,3.0,False,0.14,0,2,0,0,0,0,1,1,0,,3.14
+,,,27.3,,,,,,,,,,,,,26.02
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,7.5,7.5,7.5,6.75,8.0,7.5,7.25,7.75,,7.46
+,Transition / Linking Footwork  ,,,,0.8,7.0,7.0,7.25,7.0,6.25,7.0,7.0,7.5,7.5,,7.11
+,Performance / Execution  ,,,,0.8,6.75,7.0,6.75,6.75,6.5,7.5,6.75,8.0,7.75,,7.04
+,Choreography / Composition  ,,,,0.8,7.5,7.0,7.75,7.0,7.0,7.5,7.25,8.0,7.5,,7.36
+,Interpretation  ,,,,0.8,7.5,7.5,7.5,7.5,6.75,7.0,7.5,8.0,7.75,,7.46
+,,,,,,,,,,,,,,,,29.15
+Deduction, Falls,-2.0

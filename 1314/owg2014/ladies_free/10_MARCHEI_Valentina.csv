@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,MARCHEI Valentina,ITA,16,116.31,55.56,60.75,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+3T,,7.4,False,0.2,0,0,0,1,1,0,1,0,0,,7.6
+2,3Lz,,6.0,False,-0.6,-1,-2,-2,-2,-1,0,0,0,1,,5.4
+3,3F,e,5.3,False,-0.4,-1,0,-1,0,-1,-1,0,-1,1,,4.9
+4,2A,,3.3,False,0.0,0,0,0,0,0,0,1,0,0,,3.3
+5,FSSp4,,3.0,False,0.57,2,1,1,1,1,0,2,0,2,,3.57
+6,LSp3,,2.4,False,0.71,2,2,1,1,1,1,2,1,2,,3.11
+7,StSq3,,3.3,False,0.93,2,3,2,1,2,1,2,1,3,,4.23
+8,3S,,4.62,True,0.7,1,2,1,1,1,1,1,1,1,,5.32
+9,3Lz+2T,,8.03,True,0.1,0,0,0,1,0,0,1,0,0,,8.13
+10,ChSq1,,2.0,False,0.8,1,1,1,2,1,0,1,1,3,,2.8
+11,2S+1T+2T,,3.3,True,-0.03,0,-1,0,0,0,-1,0,0,0,,3.27
+12,CCoSp4,,3.5,False,0.43,1,0,1,1,1,0,1,1,1,,3.93
+,,,52.15,,,,,,,,,,,,,55.56
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.5,7.25,7.5,7.75,7.75,7.25,7.0,7.5,7.5,,7.46
+,Transitions / Linking Footwork / Movement  ,,,,1.6,7.25,7.0,7.25,7.25,7.5,6.5,6.75,7.25,7.5,,7.18
+,Performance / Execution  ,,,,1.6,8.0,7.5,8.0,7.5,8.25,7.0,7.5,7.75,8.0,,7.75
+,Choreography / Composition  ,,,,1.6,7.75,7.5,7.75,7.75,8.0,7.25,7.25,8.0,8.0,,7.71
+,Interpretation  ,,,,1.6,8.0,7.75,7.75,8.0,8.0,7.0,7.75,7.75,8.5,,7.86
+,,,,,,,,,,,,,,,,60.75

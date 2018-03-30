@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Ksenia MONKO / Kirill KHALIAVIN,RUS,1,56.53,29.63,26.9,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1FS3+kpYNY,,6.0,False,0.07,1,1,1,-1,0,0,0,0,-1,,6.07
+2,2FS2+kpNNY,,5.0,False,0.21,1,0,1,-1,1,0,0,1,0,,5.21
+3,STw4,,6.0,False,0.64,1,1,2,1,1,1,2,2,1,,6.64
+4,NtMiSt3,,6.5,False,0.71,0,1,1,0,1,1,1,1,-1,,7.21
+5,RoLi4,,4.0,False,0.5,0,1,2,1,1,2,0,1,1,,4.5
+,,,27.5,,,,,,,,,,,,,29.63
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.25,7.5,6.5,6.5,7.0,6.75,7.25,6.25,,6.79
+,Linking Footwork / Movement  ,,,,0.7,7.5,6.0,7.25,6.25,5.75,6.75,7.0,7.0,6.0,,6.61
+,Performance  ,,,,0.7,6.5,6.0,7.5,6.5,6.75,7.0,7.0,7.5,6.5,,6.82
+,Choreography  ,,,,0.8,6.75,6.25,7.25,6.5,6.25,7.0,7.0,7.25,6.75,,6.79
+,Interpretation / Timing  ,,,,1.0,7.0,6.0,7.5,6.25,6.5,7.0,6.25,7.25,6.25,,6.64
+,,,,,,,,,,,,,,,,26.9

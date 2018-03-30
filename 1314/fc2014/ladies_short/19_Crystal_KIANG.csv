@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Crystal KIANG,TPE,2,36.3,18.96,17.34,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F<<,e,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+2,StSq2,,2.6,False,0.07,0,0,0,0,0,0,1,0,1,,2.67
+3,3Lo<<+2Lo,<<,3.96,True,-0.86,-3,-3,-3,-3,-3,-3,-3,-2,-2,,3.1
+4,CCoSp4,,3.5,False,0.07,1,0,0,0,0,0,0,1,0,,3.57
+5,2A,,3.63,True,-0.21,0,0,-1,-1,0,-1,0,0,-1,,3.42
+6,LSp4,,2.7,False,0.0,0,0,0,0,0,0,0,1,0,,2.7
+7,FSSp3,,2.6,False,0.0,0,1,0,0,0,0,0,0,-1,,2.6
+,,,20.79,,,,,,,,,,,,,18.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.5,4.0,3.75,4.25,3.75,4.75,4.5,4.25,,4.25
+,Transition / Linking Footwork  ,,,,0.8,4.75,4.0,4.25,3.75,4.0,3.5,4.25,4.25,3.75,,4.04
+,Performance / Execution  ,,,,0.8,5.0,4.25,4.5,4.0,3.75,4.0,5.0,4.5,4.5,,4.39
+,Choreography / Composition  ,,,,0.8,5.25,4.25,4.0,4.0,4.25,4.25,4.75,4.75,4.5,,4.39
+,Interpretation  ,,,,0.8,5.0,4.5,4.0,4.25,4.5,4.5,5.0,5.0,4.5,,4.61
+,,,,,,,,,,,,,,,,17.34

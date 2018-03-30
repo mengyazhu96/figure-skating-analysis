@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Rebeka KIM / Kirill MINOV,KOR,10,44.69,23.61,23.08,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.5,False,0.26,0,1,1,-1,0,0,1,1,0,,4.76
+2,STw4,,6.6,False,0.43,1,1,1,0,1,0,1,0,2,,7.03
+3,1RW2+kpYNN,,3.8,False,0.09,0,1,0,-1,0,0,0,0,1,,3.89
+4,2RW3+kpNYY,,4.4,False,-0.07,0,1,0,-2,0,0,0,-1,0,,4.33
+5,PSt2,,5.6,False,-2.0,0,-2,-1,-3,-3,-2,-3,-3,0,,3.6
+,,,24.9,,,,,,,,,,,,,23.61
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,5.5,5.25,4.5,6.25,5.5,6.0,5.75,6.5,,5.75
+,Linking Footwork / Movement  ,,,,0.8,6.0,5.5,5.0,5.0,6.25,5.25,5.75,5.75,6.25,,5.64
+,Performance  ,,,,0.8,6.5,5.0,5.25,4.5,6.25,5.75,5.75,5.5,6.5,,5.71
+,Choreography  ,,,,0.8,6.25,5.75,5.5,5.0,6.5,6.0,6.25,6.0,6.25,,6.0
+,Interpretation / Timing  ,,,,0.8,6.25,5.25,5.0,5.25,6.25,5.5,6.0,5.75,6.25,,5.75
+,,,,,,,,,,,,,,,,23.08
+Deduction,Falls,-2.0

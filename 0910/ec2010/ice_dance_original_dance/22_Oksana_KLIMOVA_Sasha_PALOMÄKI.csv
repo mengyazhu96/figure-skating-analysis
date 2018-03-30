@@ -1,0 +1,16 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,Oksana KLIMOVA / Sasha PALOMÄKI,FIN,2,38.86,23.4,15.46,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiSt2,,6.0,False,-0.2,0,-1,0,0,0,-1,0,-1,0,,5.8
+2,CiSt2,,6.4,False,0.0,0,0,0,1,1,-1,-1,-1,-1,,6.4
+3,SqTw4,,6.5,False,-0.4,-1,0,-1,0,-1,-1,-1,-1,-1,,6.1
+4,RoLi4,,5.0,False,0.1,0,1,0,1,0,0,1,0,0,,5.1
+,,,23.9,,,,,,,,,,,,,23.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.25,4.25,4.0,4.25,3.25,4.5,3.75,4.0,,4.15
+,Linking Footwork / Movement  ,,,,0.8,4.0,3.75,3.75,4.0,4.25,3.5,3.75,3.25,3.75,,3.85
+,Performance  ,,,,0.6,4.25,4.25,4.25,4.25,4.5,3.5,4.25,3.5,3.75,,4.15
+,Choreography  ,,,,0.6,4.5,4.75,4.0,4.0,4.5,3.5,4.25,3.75,4.0,,4.2
+,Interpretation / Timing  ,,,,1.0,4.25,4.0,4.0,4.25,4.5,3.75,4.0,3.5,3.75,,4.05
+,,,,,,,,,,,,,,,,15.46

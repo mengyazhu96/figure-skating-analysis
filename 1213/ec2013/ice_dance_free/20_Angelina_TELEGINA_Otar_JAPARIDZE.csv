@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Angelina TELEGINA / Otar JAPARIDZE,GEO,3,62.32,31.93,31.39,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi2+RoLi4,,6.5,False,0.86,1,0,1,1,1,1,1,1,0,,7.36
+2,SlLi4,,4.0,False,0.29,0,0,1,1,1,1,1,0,0,,4.29
+3,STw3,,5.0,False,-0.14,0,0,0,-1,-1,0,0,-1,0,,4.86
+4,CiSt1,,3.5,False,-0.14,0,-1,0,0,0,-1,0,-1,0,,3.36
+5,CuLi4,,4.0,False,0.5,1,0,2,0,1,1,2,1,1,,4.5
+6,CoSp3,,4.0,False,0.0,0,0,0,0,0,0,1,0,0,,4.0
+7,MiSt1,,3.5,False,-0.14,0,-1,0,0,0,-1,0,-1,0,,3.36
+8,ChLi1,,0.2,False,0.0,0,-1,0,0,0,0,0,0,0,,0.2
+,,,30.7,,,,,,,,,,,,,31.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,5.25,4.25,5.5,5.75,5.5,5.25,5.75,5.5,,5.46
+,Linking Footwork / Movement  ,,,,1.75,5.0,4.5,3.75,5.25,5.25,5.0,4.75,6.0,5.25,,5.0
+,Performance  ,,,,1.0,5.5,5.0,4.0,5.75,5.75,5.25,5.0,5.75,5.5,,5.39
+,Choreography  ,,,,1.0,5.25,5.25,4.5,5.5,5.25,5.25,4.75,6.0,5.25,,5.21
+,Interpretation / Timing  ,,,,1.0,5.5,4.75,4.75,5.5,5.0,5.25,5.0,6.0,5.5,,5.21
+,,,,,,,,,,,,,,,,31.39
+Deduction,Extended lifts,-1.0

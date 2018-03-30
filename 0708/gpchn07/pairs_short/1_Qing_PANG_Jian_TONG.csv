@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Qing PANG / Jian TONG,CHN,0,65.48,37.08,28.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T,,4.0,False,0.4,1,0,0,0,1,0,1,0,1,1,,4.4
+2,3LzTw1,,5.0,False,1.26,2,1,2,2,2,2,2,1,2,-1,,6.26
+3,3LoTh,,5.0,False,1.4,2,2,2,2,2,2,2,0,2,2,,6.4
+4,FCCoSp3,,3.0,False,0.6,0,1,1,1,1,2,1,1,1,2,,3.6
+5,CiSt1,,1.8,False,0.5,0,1,1,1,1,1,2,0,0,1,,2.3
+6,5ALi4,,6.5,False,1.0,1,1,1,1,1,1,0,1,1,1,,7.5
+7,BiDs3,,3.2,False,0.42,1,0,0,1,1,1,1,1,0,0,,3.62
+8,PCoSp1,,3.0,False,0.0,0,0,0,0,1,0,0,0,0,0,,3.0
+,,,31.5,,,,,,,,,,,,,,37.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.75,7.5,7.5,6.75,7.75,7.5,6.5,7.25,7.0,,7.25
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.25,7.25,7.0,6.0,7.25,7.0,6.5,6.25,6.75,,6.85
+,Performance / Execution  ,,,,0.8,6.5,6.5,7.25,7.5,6.75,7.75,7.75,6.5,7.0,6.5,,7.15
+,Choreography / Composition  ,,,,0.8,6.5,6.5,7.5,7.25,6.5,7.5,7.25,7.0,6.75,6.75,,7.05
+,Interpretation  ,,,,0.8,6.75,6.75,7.25,7.5,6.5,7.75,7.5,7.0,7.0,7.0,,7.2
+,,,,,,,,,,,,,,,,,28.4

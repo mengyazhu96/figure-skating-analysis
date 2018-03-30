@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Marissa CASTELLI / Mervin TRAN,USA,5,113.74,55.89,58.85,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.8,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-2,-3,,3.7
+2,5RLi4,,7.5,False,0.8,1,1,1,2,1,1,1,2,1,,8.3
+3,3S,,4.4,False,-1.7,-2,-3,-2,-3,-2,-3,-3,-2,-2,,2.7
+4,2ATh,,4.0,False,0.1,0,0,0,0,-1,1,1,1,-1,,4.1
+5,PCoSp3p4,,4.5,False,0.43,0,1,1,1,1,1,1,1,0,,4.93
+6,3T+1T,,4.7,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-1,,3.3
+7,3Li4,,4.5,False,0.57,2,1,2,1,1,0,1,1,1,,5.07
+8,5ALi4,,7.0,False,1.1,2,2,2,2,1,1,1,2,1,,8.1
+9,3STh,,4.5,False,0.8,1,1,1,1,1,2,2,1,1,,5.3
+10,FCCoSp3p4,,3.5,False,0.29,0,0,2,2,0,1,1,0,0,,3.79
+11,ChSq1,,2.0,False,0.9,0,0,2,2,1,2,1,2,1,,2.9
+12,BiDs4,,3.5,False,0.2,0,1,-2,0,0,1,1,0,0,,3.7
+,,,55.9,,,,,,,,,,,,,55.89
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.75,7.25,7.0,7.75,7.0,6.75,7.75,7.75,7.25,,7.39
+,Transition / Linking Footwork  ,,,,1.6,7.75,7.5,7.0,7.5,7.0,6.75,7.5,7.5,7.0,,7.29
+,Performance / Execution  ,,,,1.6,7.0,7.0,7.25,7.25,7.25,6.5,7.5,7.5,7.25,,7.21
+,Choreography / Composition  ,,,,1.6,7.25,7.5,7.75,7.5,7.5,6.75,7.75,8.0,7.0,,7.46
+,Interpretation  ,,,,1.6,7.25,7.0,7.5,7.75,7.5,6.75,7.75,7.75,7.25,,7.43
+,,,,,,,,,,,,,,,,58.85
+Deduction,Falls,-1.0

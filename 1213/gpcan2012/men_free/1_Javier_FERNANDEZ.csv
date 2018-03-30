@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Javier FERNANDEZ,ESP,10,168.07,85.15,83.92,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+2,4S,,10.5,False,1.71,2,1,2,3,2,2,1,2,1,,12.21
+3,3A,,8.5,False,0.57,1,0,0,1,1,1,0,0,1,,9.07
+4,CSSp3,,2.6,False,0.21,0,1,1,1,0,0,0,1,0,,2.81
+5,StSq4,,3.9,False,1.5,2,2,2,3,2,2,3,2,2,,5.4
+6,4T+2T,,12.76,True,0.71,0,1,1,1,1,0,1,0,1,,13.47
+7,3Lz+2T,,8.03,True,0.1,2,0,0,0,1,0,0,0,0,,8.13
+8,3Lo,,5.61,True,0.3,0,0,0,1,1,1,1,0,0,,5.91
+9,3F+1Lo+3S,,11.0,True,0.5,1,0,0,2,2,1,1,0,0,,11.5
+10,FCCoSp3,,3.0,False,-0.04,-1,0,0,0,0,0,0,-1,0,,2.96
+11,ChSq1,,2.0,False,1.0,2,1,1,2,0,1,2,1,3,,3.0
+12,3S,,4.62,True,0.5,1,0,-1,1,1,1,0,1,1,,5.12
+13,CCoSp3,,3.0,False,0.57,1,1,1,1,1,0,2,1,2,,3.57
+,,,79.62,,,,,,,,,,,,,85.15
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,8.25,8.0,8.25,8.5,8.0,7.75,8.25,8.25,8.25,,8.18
+,Transition / Linking Footwork  ,,,,2.0,8.75,8.0,8.25,8.5,7.75,7.5,8.0,8.5,8.0,,8.14
+,Performance / Execution  ,,,,2.0,8.5,8.5,8.5,9.0,7.75,8.25,8.25,8.5,8.5,,8.43
+,Choreography / Composition  ,,,,2.0,9.5,8.5,8.5,9.25,8.0,8.0,8.25,9.0,8.5,,8.57
+,Interpretation  ,,,,2.0,9.25,8.25,8.5,9.25,8.0,8.5,8.25,8.75,9.0,,8.64
+,,,,,,,,,,,,,,,,83.92
+Deduction,Falls,-1.0

@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Maria SERGEJEVA / Ilja GLEBOV,EST,0,36.4,21.32,16.08,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,PCoSp1,,3.0,False,-0.36,-1,-2,-1,-1,-1,-2,-1,-1,-1,-1,,2.64
+2,5TLi3,,5.5,False,0.0,0,-1,0,0,0,0,0,0,0,0,,5.5
+3,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+4,3TTh,,4.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.1
+5,2LzTw3,,4.0,False,0.2,1,0,0,1,1,0,1,0,0,-1,,4.2
+6,BiDs2,,3.0,False,-0.42,0,-1,-1,0,0,-1,-2,-1,-1,0,,2.58
+7,SlSt1,,1.8,False,-0.12,0,-1,-1,0,0,0,0,-1,-1,-1,,1.68
+8,FCCoSp1,,2.0,False,-0.68,-2,-2,-2,-2,-2,-3,-2,-2,-3,-3,,1.32
+,,,24.6,,,,,,,,,,,,,,21.32
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.5,3.5,4.25,4.5,4.5,4.75,4.75,3.75,5.0,4.0,,4.4
+,Transition / Linking Footwork ,,,,0.8,4.25,3.0,4.0,3.5,4.0,4.0,4.75,3.75,4.75,3.75,,3.85
+,Performance / Execution ,,,,0.8,4.5,3.25,3.75,4.0,3.75,4.5,4.25,4.0,4.75,3.25,,3.8
+,Choreography / Composition ,,,,0.8,4.75,3.5,4.25,4.25,4.5,4.5,4.5,4.0,5.5,3.5,,4.2
+,Interpretation ,,,,0.8,4.25,3.25,3.75,4.0,4.5,4.25,4.0,4.0,4.75,3.25,,3.85
+,,,,,,,,,,,,,,,,,16.08
+Deduction,Falls,-1.0

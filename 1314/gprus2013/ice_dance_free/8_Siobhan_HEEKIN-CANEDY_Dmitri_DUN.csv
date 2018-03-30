@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Siobhan HEEKIN-CANEDY / Dmitri DUN,UKR,2,78.57,38.37,40.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.14,0,1,0,0,1,0,0,1,0,,6.14
+2,CiSt1,,3.5,False,0.0,0,0,0,0,1,0,0,0,0,,3.5
+3,RRoLi4,,8.0,False,1.0,1,1,0,1,1,1,2,1,1,,9.0
+4,RoLi4,,4.0,False,0.43,0,1,1,1,1,1,1,1,0,,4.43
+5,Sp4,,5.0,False,0.21,1,0,0,0,1,1,0,1,0,,5.21
+6,SlLi4,,4.0,False,0.43,1,1,0,1,2,0,1,1,1,,4.43
+7,DiSt2,,5.0,False,0.29,0,0,0,0,1,0,1,1,0,,5.29
+8,ChLi1,,0.2,False,0.17,1,0,0,0,1,0,1,1,1,,0.37
+,,,35.7,,,,,,,,,,,,,38.37
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.75,7.25,6.25,6.25,7.25,6.75,6.5,6.75,6.75,,6.71
+,Linking Footwork / Movement  ,,,,1.75,6.75,7.0,6.0,6.0,7.0,6.5,6.5,6.25,6.5,,6.5
+,Performance  ,,,,1.0,7.25,7.25,6.5,6.25,7.25,6.75,6.75,6.5,7.0,,6.86
+,Choreography  ,,,,1.0,7.25,7.25,6.0,6.25,7.5,7.0,6.75,6.25,7.25,,6.86
+,Interpretation / Timing  ,,,,1.0,7.0,6.75,6.0,6.5,7.25,6.75,6.75,6.5,6.75,,6.71
+,,,,,,,,,,,,,,,,40.2

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,SINITSINA V / ZHIGANSHIN R,RUS,3,58.01,30.43,27.58,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.36,0,1,1,1,0,1,1,0,1,,6.36
+2,RoLi4,,4.0,False,0.5,1,0,1,2,1,1,0,1,2,,4.5
+3,NtMiSt3,,6.5,False,0.86,-1,1,1,2,1,1,0,1,1,,7.36
+4,1FS2+kpNNY,,5.0,False,0.07,-1,0,0,1,1,0,-1,0,1,,5.07
+5,2FS4+kpYYY,,7.0,False,0.14,0,0,1,1,1,0,0,0,0,,7.14
+,,,28.5,,,,,,,,,,,,,30.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.75,7.0,7.5,7.25,6.5,6.0,7.5,7.25,,6.89
+,Transitions / Linking Footwork / Movement  ,,,,0.7,5.5,6.75,7.0,6.75,7.0,6.0,5.5,7.25,7.75,,6.61
+,Performance / Execution  ,,,,0.7,6.5,7.0,7.0,7.25,7.5,5.75,5.75,7.5,7.5,,6.93
+,Composition / Choreography  ,,,,0.8,6.75,7.0,7.25,7.25,7.25,6.75,6.25,7.25,7.0,,7.04
+,Interpretation / Timing  ,,,,1.0,6.5,6.75,7.25,7.5,7.25,6.5,5.5,7.0,7.5,,6.96
+,,,,,,,,,,,,,,,,27.58

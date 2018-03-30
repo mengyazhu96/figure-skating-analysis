@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Nicholas FERNANDEZ,AUS,10,35.43,16.68,19.75,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,FSSp3,,2.6,False,0.5,2,1,1,1,1,1,1,1,1,,3.1
+2,1Lz+COMBO,,0.6,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,CCoSp4,,3.5,False,0.4,1,1,0,1,1,1,1,1,0,,3.9
+4,3F<,<,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+5,CiSt1,,1.8,False,0.0,1,0,0,0,0,0,0,0,0,,1.8
+6,2A,,3.5,False,-0.48,0,0,0,-1,-1,-1,0,0,-1,,3.02
+7,SlSt1,,1.8,False,-0.12,0,0,-1,0,-1,0,0,0,-1,,1.68
+8,CSSp2,,2.3,False,-0.12,-2,0,0,0,-1,0,1,0,-1,,2.18
+,,,17.8,,,,,,,,,,,,,16.68
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.0,4.25,3.25,3.75,3.5,4.25,3.75,5.25,4.75,,3.95
+,Transition / Linking Footwork  ,,,,1.0,3.25,4.25,3.75,3.5,3.0,3.75,3.5,4.5,4.0,,3.65
+,Performance / Execution  ,,,,1.0,3.75,4.0,4.0,3.5,3.25,4.25,4.0,5.0,4.25,,3.9
+,Choreography / Composition  ,,,,1.0,3.75,4.75,4.25,3.75,3.25,4.5,4.0,4.75,4.5,,4.15
+,Interpretation  ,,,,1.0,4.25,4.5,4.0,3.75,3.25,4.0,4.25,5.0,4.5,,4.1
+,,,,,,,,,,,,,,,,19.75
+Deduction,Falls,-1.0

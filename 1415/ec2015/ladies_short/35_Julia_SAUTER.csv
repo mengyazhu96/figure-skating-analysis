@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+35,Julia SAUTER,ROU,2,36.7,20.36,17.34,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.4,False,0.7,1,1,0,1,2,1,1,1,1,,6.1
+2,2Lo<<*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,CCoSp3p4,,3.5,False,0.0,1,0,0,0,-1,0,0,0,0,,3.5
+4,2A,,3.63,True,-1.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.13
+5,FCSp4,,3.2,False,0.07,0,0,1,0,1,0,0,0,0,,3.27
+6,StSq2,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+7,LSp3,,2.4,False,0.36,1,1,1,0,1,1,0,1,-1,,2.76
+,,,20.73,,,,,,,,,,,,,20.36
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.5,4.5,4.5,4.25,4.0,4.0,4.75,4.75,,4.43
+,Transition / Linking Footwork  ,,,,0.8,4.25,4.25,4.25,4.25,4.0,3.75,4.0,4.25,4.25,,4.18
+,Performance / Execution  ,,,,0.8,4.25,4.75,4.0,4.75,4.0,4.25,4.0,4.25,4.5,,4.29
+,Choreography / Composition  ,,,,0.8,4.5,4.5,4.25,4.5,4.5,4.0,4.25,4.5,4.75,,4.43
+,Interpretation  ,,,,0.8,4.25,4.5,4.5,4.5,4.25,4.0,4.0,4.5,4.5,,4.36
+,,,,,,,,,,,,,,,,17.34
+Deduction,Falls,-1.0

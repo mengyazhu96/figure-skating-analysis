@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,RI Song Chol,PRK,1,56.6,33.4,23.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,0.2,1,0,0,0,0,0,1,0,0,,8.4
+2,3F+3T,e,9.5,False,-2.0,-2,-2,-3,-3,-2,-2,-1,-2,-2,,7.5
+3,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+4,3Lz,,6.0,False,-0.2,-1,0,0,0,0,0,1,0,-1,,5.8
+5,CCoSp3,,3.0,False,0.0,1,-1,-1,0,0,-1,0,0,0,,3.0
+6,FSSp2,,2.3,False,-0.18,-1,-1,-1,0,-1,0,-1,0,0,,2.12
+7,CiSt1,,1.8,False,0.0,0,0,0,0,0,0,0,1,0,,1.8
+8,CSSp3,,2.6,False,-0.12,-1,-1,-1,0,0,-1,-1,0,0,,2.48
+,,,35.7,,,,,,,,,,,,,33.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,4.5,5.75,5.25,4.75,5.5,5.5,5.25,5.25,,5.15
+,Transitions / Linking Footwork  ,,,,1.0,4.75,4.25,4.5,4.0,4.0,4.75,3.75,4.5,4.0,,4.15
+,Performance / Execution  ,,,,1.0,5.25,4.25,5.5,4.75,4.25,5.0,5.5,4.75,5.0,,4.8
+,Choreography / Composition  ,,,,1.0,5.0,4.25,5.25,4.25,4.0,4.75,4.75,5.0,4.75,,4.6
+,Interpretation  ,,,,1.0,5.0,4.0,5.5,4.25,4.25,5.0,4.5,4.75,4.75,,4.5
+,,,,,,,,,,,,,,,,23.2

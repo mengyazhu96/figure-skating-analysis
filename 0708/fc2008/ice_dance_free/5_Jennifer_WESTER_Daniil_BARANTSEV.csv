@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Jennifer WESTER / Daniil BARANTSEV,USA,0,87.98,48.23,39.75,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,SlLi4,,4.0,False,0.93,2,1,2,2,2,2,1,2,2,2,1,1,,4.93
+2,SeLi4,,6.4,False,0.71,1,1,1,1,2,2,1,2,1,1,1,2,,7.11
+3,Sp4,,4.7,False,0.43,1,1,1,0,0,1,0,1,1,1,1,1,,5.13
+4,CiSt3,,7.2,False,1.14,1,0,2,1,1,2,1,1,1,1,1,1,,8.34
+5,STw4,,4.7,False,0.36,1,1,1,0,0,1,2,1,0,0,0,1,,5.06
+6,RRoLi3,,5.6,False,0.29,0,0,2,0,1,2,0,1,0,0,1,0,,5.89
+7,DiSt3,,6.2,False,1.0,1,1,0,1,1,1,1,1,1,1,1,1,,7.2
+8,RoLi4,,4.0,False,0.57,1,1,2,1,1,1,1,2,1,2,2,1,,4.57
+,,,42.8,,,,,,,,,,,,,,,,48.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.75,7.5,7.5,6.25,6.75,7.0,6.5,6.25,6.5,6.5,6.75,6.25,,6.71
+,Linking Footwork / Movement  ,,,,1.75,6.25,7.25,7.25,5.75,6.5,6.75,6.5,5.75,6.25,6.0,6.5,6.0,,6.39
+,Performance  ,,,,1.0,6.5,7.5,7.5,6.5,6.75,7.25,6.5,6.5,6.75,6.25,6.75,6.25,,6.82
+,Choreography  ,,,,1.0,6.5,7.5,7.25,6.25,6.75,7.0,6.5,6.0,6.5,6.0,6.75,6.0,,6.61
+,Interpretation / Timing  ,,,,1.0,6.5,7.25,7.5,6.25,7.0,7.5,6.5,6.0,6.5,5.5,7.0,6.25,,6.75
+,,,,,,,,,,,,,,,,,,,39.75

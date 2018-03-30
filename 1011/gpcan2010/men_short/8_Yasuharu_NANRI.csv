@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Yasuharu NANRI,JPN,4,61.0,31.6,29.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,0.57,1,0,0,0,1,1,1,0,1,,9.07
+2,3F+2T,e,6.7,False,-1.0,-1,-2,-2,-2,-1,-1,-1,-2,-1,,5.7
+3,3Lz,,6.0,False,0.1,1,0,0,0,0,1,0,0,0,,6.1
+4,FCSp2,,2.3,False,0.07,0,0,0,0,1,1,0,0,0,,2.37
+5,CCoSp4,,3.5,False,-0.04,0,0,0,-1,0,0,-1,0,0,,3.46
+6,SlSt1,,1.8,False,0.5,1,1,0,1,1,1,1,1,1,,2.3
+7,CSSp3,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+,,,31.4,,,,,,,,,,,,,31.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.75,6.25,5.75,6.0,6.0,6.5,6.0,6.25,6.25,,6.18
+,Transition / Linking Footwork  ,,,,1.0,6.5,5.5,5.25,5.5,5.0,6.0,5.75,5.75,6.0,,5.68
+,Performance / Execution  ,,,,1.0,6.0,6.0,5.5,5.25,5.75,6.5,5.5,6.0,6.25,,5.86
+,Choreography / Composition  ,,,,1.0,6.5,6.0,5.75,5.75,5.75,6.0,5.75,6.0,6.0,,5.89
+,Interpretation  ,,,,1.0,5.75,6.25,5.5,5.5,6.0,5.75,5.5,6.25,5.75,,5.79
+,,,,,,,,,,,,,,,,29.4

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Irina SHTORK / Taavi RAND,EST,6,77.78,40.49,37.29,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.5,2,1,1,1,1,1,1,1,1,,4.5
+2,CiSt3,,6.5,False,0.29,1,0,0,0,0,1,0,1,0,,6.79
+3,RoLi4,,4.0,False,0.43,2,0,0,1,1,2,0,1,1,,4.43
+4,STw3,,5.0,False,-0.14,0,0,0,-1,1,0,0,-1,-1,,4.86
+5,SlLi4,,4.0,False,0.43,1,1,1,1,0,2,0,1,1,,4.43
+6,CuLi4,,4.0,False,0.29,2,0,1,0,1,1,0,1,0,,4.29
+7,DiSt3,,6.5,False,0.14,1,-1,0,0,1,0,0,0,0,,6.64
+8,Sp3,,4.0,False,0.14,0,0,0,1,0,1,0,1,0,,4.14
+9,ChLi1,,0.2,False,0.21,1,0,0,1,1,1,0,1,1,,0.41
+,,,38.2,,,,,,,,,,,,,40.49
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.0,5.75,6.25,6.5,6.25,6.75,6.25,6.25,6.25,,6.25
+,Linking Footwork / Movement  ,,,,1.75,5.0,5.25,6.0,6.5,6.0,6.5,6.0,6.0,5.75,,5.93
+,Performance  ,,,,1.0,6.25,6.0,6.25,7.0,6.5,6.75,6.5,6.25,6.25,,6.39
+,Choreography  ,,,,1.0,4.75,6.0,6.5,6.75,6.75,7.0,6.5,6.5,6.5,,6.5
+,Interpretation / Timing  ,,,,1.0,5.75,5.5,6.0,6.75,6.5,6.75,6.25,6.25,6.0,,6.21
+,,,,,,,,,,,,,,,,37.29

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,Alexandra MALAKHOVA / Leri KENCHADZE,BUL,10,30.1,16.77,14.33,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S<<,<<,1.4,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.8
+2,2LzTw1,,3.0,False,-0.13,0,0,-2,0,-1,0,0,-1,-1,,2.87
+3,3TTh,,4.5,False,-1.4,-2,-2,-2,-2,-2,-2,-3,-2,-2,,3.1
+4,BiDs1,,2.8,False,-0.2,0,0,0,-1,-1,-1,0,0,0,,2.6
+5,5TLi1,,4.5,False,-0.43,0,-1,0,-1,-2,-2,-1,0,-1,,4.07
+6,FCCoSp1,,2.0,False,-0.34,-2,-1,0,-2,-2,0,0,-2,-1,,1.66
+7,SlSt1,,1.8,False,-0.13,0,0,-1,-2,-1,0,0,0,-1,,1.67
+,,,20.0,,,,,,,,,,,,,16.77
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.0,3.5,2.75,3.75,4.0,3.75,4.25,3.5,,3.82
+,Transition / Linking Footwork  ,,,,0.8,3.5,3.25,4.0,3.0,3.5,3.25,3.5,3.5,3.0,,3.36
+,Performance / Execution  ,,,,0.8,3.75,3.75,3.75,2.75,3.0,3.5,3.75,3.75,3.5,,3.57
+,Choreography / Composition  ,,,,0.8,4.0,3.5,3.5,3.25,3.5,3.5,3.75,4.25,3.0,,3.57
+,Interpretation  ,,,,0.8,3.75,3.75,3.75,2.5,3.25,3.75,3.75,3.75,3.0,,3.57
+,,,,,,,,,,,,,,,,14.33
+Deduction, Falls,-1.0

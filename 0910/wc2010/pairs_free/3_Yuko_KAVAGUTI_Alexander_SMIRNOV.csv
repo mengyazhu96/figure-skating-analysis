@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Yuko KAVAGUTI / Alexander SMIRNOV,RUS,13,130.67,65.39,67.28,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4STh,,8.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.0
+2,3T,,4.0,False,1.2,1,1,2,1,1,1,2,1,1,,5.2
+3,3LzTw1,,5.0,False,0.7,2,0,1,1,-1,1,1,1,2,,5.7
+4,FCCoSp4,,3.5,False,0.5,0,1,2,1,1,0,1,1,1,,4.0
+5,SpSq4,,3.4,False,1.8,2,2,2,2,1,1,1,2,2,,5.2
+6,2A+2A+SEQ,,6.16,True,1.0,1,1,2,1,0,0,1,1,1,,7.16
+7,3LoTh,,5.5,True,-1.88,-3,-3,-2,-3,-3,-3,-3,-2,-3,,3.62
+8,3Li4,,4.4,True,0.7,1,1,2,2,0,1,1,2,2,,5.1
+9,5ALi4,,7.15,True,1.6,2,1,2,1,1,2,1,2,2,,8.75
+10,5SLi4,,6.6,True,0.6,1,1,2,1,0,1,1,2,1,,7.2
+11,PCoSp2,,3.5,False,0.5,0,1,2,1,1,1,1,1,1,,4.0
+12,FiDs3,,3.2,False,1.26,1,2,2,1,2,1,1,2,2,,4.46
+,,,60.41,,,,,,,,,,,,,65.39
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.25,8.75,8.75,8.75,7.75,8.5,8.0,8.75,8.5,,8.45
+,Transition / Linking Footwork  ,,,,1.6,8.0,8.75,8.5,8.25,8.0,8.0,7.75,8.5,8.25,,8.25
+,Performance / Execution  ,,,,1.6,8.25,8.75,8.5,8.25,7.75,8.25,8.0,8.5,8.75,,8.4
+,Choreography / Composition  ,,,,1.6,8.5,9.0,8.75,8.5,8.0,8.5,8.0,8.75,8.5,,8.5
+,Interpretation  ,,,,1.6,8.25,9.0,8.75,8.5,8.0,8.5,8.0,9.0,8.25,,8.45
+,,,,,,,,,,,,,,,,67.28
+Deduction,Falls,-2.0

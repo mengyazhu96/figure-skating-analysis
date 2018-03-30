@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Sally HOOLIN / Jakub SAFRANEK,GBR,2,67.75,35.07,32.68,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2LzTw1,,3.0,False,-0.13,0,-1,0,-1,-1,0,0,-1,0,,2.87
+2,2LoTh,,3.0,False,0.0,0,0,0,0,0,0,0,-1,0,,3.0
+3,5TLi1,,4.5,False,0.0,0,0,0,0,0,0,0,0,0,,4.5
+4,2F+1A+SEQ,,2.32,False,0.04,1,0,0,0,0,0,0,0,1,,2.36
+5,FCCoSp4,,3.5,False,0.0,0,0,0,0,1,0,0,0,0,,3.5
+6,5ALi1,,5.0,False,-0.5,0,0,-1,-1,-1,0,-1,-1,-1,,4.5
+7,3STh,,4.95,True,-0.1,1,0,0,0,-1,0,0,-1,0,,4.85
+8,2Lz<<,e,0.66,True,-0.3,-2,-3,-3,-3,-3,-3,-3,-3,-3,,0.36
+9,3Li1,,2.75,True,-0.79,-2,-1,-2,-1,-2,-1,-2,-2,-1,,1.96
+10,ChSp1,,2.0,False,-0.07,-1,0,0,0,0,0,0,-1,1,,1.93
+11,FiDs1,,2.8,False,-0.3,0,0,0,-1,-1,0,-1,0,-1,,2.5
+12,PCoSp1,,3.0,False,-0.26,-1,-1,-1,-1,-1,0,-1,0,-1,,2.74
+,,,37.48,,,,,,,,,,,,,35.07
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.5,4.25,4.25,3.75,4.25,4.5,4.25,4.0,4.0,,4.21
+,Transition / Linking Footwork  ,,,,1.6,4.25,4.0,3.75,3.5,4.25,4.0,4.0,3.5,4.5,,3.96
+,Performance / Execution  ,,,,1.6,4.5,3.75,4.0,3.5,4.0,4.25,4.25,4.0,4.25,,4.07
+,Choreography / Composition  ,,,,1.6,4.5,4.0,3.75,3.25,4.5,4.25,4.0,4.25,4.5,,4.18
+,Interpretation  ,,,,1.6,4.25,3.75,4.0,3.25,4.0,4.25,4.0,4.0,4.0,,4.0
+,,,,,,,,,,,,,,,,32.68

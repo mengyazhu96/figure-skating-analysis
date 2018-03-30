@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Pilar MAEKAWA / Leonardo MAEKAWA,MEX,2,40.86,22.16,18.7,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1PD1+kpNNN,,3.0,False,-0.14,0,0,-1,0,-1,0,-1,0,0,,2.86
+2,PSt1+kpNNN,,3.0,False,-0.36,-1,-1,-1,-1,0,0,0,-1,-1,,2.64
+3,STw4,,6.6,False,-0.21,-1,-1,-1,0,0,0,0,-1,0,,6.39
+4,NtMiSt2,,5.6,False,0.0,0,0,0,0,0,0,-1,0,0,,5.6
+5,RoLi4,,4.5,False,0.17,0,0,0,1,1,1,0,-1,0,,4.67
+,,,22.7,,,,,,,,,,,,,22.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.5,4.75,5.0,4.75,5.75,4.75,4.5,4.5,,4.68
+,Linking Footwork / Movement  ,,,,0.8,3.5,4.25,5.0,4.5,4.5,6.0,4.75,4.0,4.0,,4.43
+,Performance  ,,,,0.8,4.5,4.5,4.5,5.25,4.75,6.25,5.0,4.0,4.25,,4.68
+,Choreography  ,,,,0.8,4.0,4.75,5.25,5.5,4.75,6.0,5.5,4.5,4.5,,4.96
+,Interpretation / Timing  ,,,,0.8,4.75,4.25,4.75,5.25,4.5,5.75,5.0,4.0,4.0,,4.64
+,,,,,,,,,,,,,,,,18.7

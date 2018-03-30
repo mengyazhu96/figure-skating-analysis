@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Chengjiang LI,CHN,0,53.5,26.4,28.1,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,4T+COMBO,,9.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.0
+2,3A,,7.5,False,0.0,0,0,-1,1,0,0,-1,0,0,0,,7.5
+3,CiSt1,,1.8,False,0.1,0,0,0,1,1,0,0,1,0,0,,1.9
+4,2Lo,,1.5,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+5,CCoSp3,,3.0,False,0.3,1,1,0,1,2,0,0,2,-1,0,,3.3
+6,CSSp3,,2.3,False,0.1,0,0,1,0,0,0,0,1,0,0,,2.4
+7,SlSt2,,2.3,False,0.2,0,0,1,1,1,0,0,1,0,0,,2.5
+8,FSSp3,,2.3,False,0.0,0,0,1,0,0,0,0,0,0,0,,2.3
+,,,29.7,,,,,,,,,,,,,,26.4
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,5.5,6.25,6.25,6.5,6.5,5.0,5.25,6.25,5.5,6.0,,5.95
+,Transition / Linking Footwork ,,,,1.0,5.0,5.75,6.0,6.0,6.0,4.0,4.75,5.75,4.75,4.75,,5.45
+,Performance / Execution ,,,,1.0,5.0,5.75,6.0,6.25,5.0,4.25,4.75,6.0,5.0,5.0,,5.55
+,Choreography / Composition ,,,,1.0,5.25,5.5,6.0,6.25,6.0,4.5,5.0,6.0,5.0,5.5,,5.55
+,Interpretation ,,,,1.0,5.25,5.75,6.25,6.5,6.25,4.0,5.0,6.0,4.75,5.5,,5.6
+,,,,,,,,,,,,,,,,,28.1
+Deduction,Falls,-1.0

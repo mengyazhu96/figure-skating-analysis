@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Ioulia CHTCHETININA / Noah SCHERER,SUI,9,49.32,28.64,20.68,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw1,,5.4,False,-1.0,-2,-1,-2,0,-1,-1,-1,-2,-2,,4.4
+2,3T,,4.3,False,0.3,0,0,1,1,0,1,1,0,0,,4.6
+3,BoDs1,,3.0,False,-0.5,-1,0,-1,0,-1,0,-1,-1,-1,,2.5
+4,3LzTh,,5.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.1
+5,4Li4,,4.5,False,0.0,0,0,0,0,0,0,0,0,0,,4.5
+6,StSq4,,3.9,False,0.0,0,-1,0,0,0,0,0,0,0,,3.9
+7,PCoSp3p4,,4.5,False,0.14,0,1,0,0,1,0,1,0,0,,4.64
+,,,31.1,,,,,,,,,,,,,28.64
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,5.25,4.5,7.0,6.25,5.25,5.75,4.5,5.0,,5.25
+,Transition / Linking Footwork  ,,,,0.8,4.25,5.5,4.0,6.5,6.5,4.75,5.25,4.75,5.0,,5.14
+,Performance / Execution  ,,,,0.8,4.25,5.25,4.25,7.0,6.0,5.0,5.5,4.75,4.75,,5.07
+,Choreography / Composition  ,,,,0.8,4.5,5.25,4.25,6.75,5.75,5.25,5.75,5.0,5.25,,5.25
+,Interpretation  ,,,,0.8,4.25,5.5,4.25,6.75,5.75,5.0,5.5,4.75,5.25,,5.14
+,,,,,,,,,,,,,,,,20.68

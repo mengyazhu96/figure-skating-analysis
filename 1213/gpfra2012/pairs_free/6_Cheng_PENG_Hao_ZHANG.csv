@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Cheng PENG / Hao ZHANG,CHN,5,107.84,56.35,52.49,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Tw1,,7.1,False,2.29,1,2,2,3,2,3,2,2,3,,9.39
+2,3T+2T+2T<,<,6.3,False,-0.3,-1,0,0,0,-1,-1,0,0,-1,,6.0
+3,5BLi4,,6.5,False,0.6,1,1,0,1,0,1,1,1,2,,7.1
+4,3LoTh,,5.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.9
+5,1A,,1.1,False,-0.37,-2,-3,-1,-2,-2,-2,-1,-2,-2,,0.73
+6,FCCoSp3,,3.0,False,-0.17,-1,-1,-1,0,-1,0,-1,0,0,,2.83
+7,3STh,,4.95,True,-0.2,-1,-1,-1,-1,0,0,1,0,1,,4.75
+8,5ALi4,,7.15,True,0.6,1,1,0,1,0,1,1,1,1,,7.75
+9,BiDs4,,3.5,False,0.0,0,0,0,0,0,0,0,-1,0,,3.5
+10,PCoSp3,,4.0,False,0.29,1,0,0,0,1,1,1,1,0,,4.29
+11,ChSq1,,2.0,False,0.5,1,1,0,0,1,0,1,1,1,,2.5
+12,4Li4,,4.4,True,0.21,1,1,0,0,0,1,0,1,0,,4.61
+,,,55.0,,,,,,,,,,,,,56.35
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.75,7.25,7.0,6.75,6.5,6.75,7.5,6.25,7.25,,6.89
+,Transition / Linking Footwork  ,,,,1.6,6.5,6.75,6.0,7.0,6.25,6.5,6.5,6.25,6.75,,6.5
+,Performance / Execution  ,,,,1.6,6.25,7.25,5.75,6.0,6.5,6.25,7.25,6.0,7.0,,6.46
+,Choreography / Composition  ,,,,1.6,6.5,7.0,6.5,6.75,6.25,6.0,7.0,6.5,7.25,,6.64
+,Interpretation  ,,,,1.6,5.75,7.0,5.75,6.25,6.25,6.0,7.25,6.0,7.0,,6.32
+,,,,,,,,,,,,,,,,52.49
+Deduction,Falls,-1.0

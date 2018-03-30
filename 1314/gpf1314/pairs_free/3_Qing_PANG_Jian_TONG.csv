@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Qing PANG / Jian TONG,CHN,4,138.58,69.7,68.88,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A+2A+SEQ,,5.28,False,0.36,0,0,1,1,1,1,0,1,1,,5.64
+2,3T,,4.1,False,0.7,1,1,2,1,1,1,1,1,1,,4.8
+3,3Tw2,,5.4,False,1.4,2,2,2,2,2,2,2,2,-1,,6.8
+4,BoDs3,,4.0,False,1.2,2,2,2,2,2,1,2,1,1,,5.2
+5,FCCoSp4,,3.5,False,0.0,0,0,1,0,0,0,0,0,-1,,3.5
+6,ChSq1,,2.0,False,1.3,2,2,2,2,1,1,2,2,2,,3.3
+7,5RLi4,,7.7,True,1.3,2,1,2,2,2,1,2,2,2,,9.0
+8,3STh,,4.95,True,1.8,3,3,3,2,2,3,3,2,2,,6.75
+9,3LoTh,,5.5,True,1.4,2,2,2,2,3,2,2,2,2,,6.9
+10,5BLi4,,7.15,True,1.4,2,2,2,2,2,2,3,1,2,,8.55
+11,4Li4,,4.4,True,1.0,3,2,2,2,2,2,2,2,1,,5.4
+12,PCoSp1,,3.0,False,0.86,1,2,2,2,2,1,2,2,1,,3.86
+,,,56.98,,,,,,,,,,,,,69.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.75,8.25,9.25,8.75,8.5,8.5,9.0,8.75,8.75,,8.71
+,Transition / Linking Footwork  ,,,,1.6,8.5,8.0,9.0,8.5,8.25,8.0,8.25,8.5,8.5,,8.36
+,Performance / Execution  ,,,,1.6,9.75,8.5,9.25,8.75,8.5,8.25,8.75,8.75,8.25,,8.68
+,Choreography / Composition  ,,,,1.6,9.0,8.25,9.25,8.75,8.5,8.25,8.5,8.5,8.75,,8.61
+,Interpretation  ,,,,1.6,9.25,8.5,9.5,8.5,8.75,8.5,8.5,8.75,8.5,,8.68
+,,,,,,,,,,,,,,,,68.88

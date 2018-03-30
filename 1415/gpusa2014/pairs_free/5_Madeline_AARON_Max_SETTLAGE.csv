@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Madeline AARON / Max SETTLAGE,USA,4,101.63,50.82,50.81,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw1,,5.0,False,1.0,2,2,1,1,2,1,1,1,3,,6.0
+2,3LoTh,,5.0,False,-0.4,1,-1,1,-1,-1,-1,-1,-1,0,,4.6
+3,3S,,4.2,False,0.5,1,1,0,1,1,1,0,0,1,,4.7
+4,1A+2A<+SEQ,<,2.72,False,-1.43,-3,-3,-2,-3,-2,-3,-3,-3,-3,,1.29
+5,CCoSp3p3,,3.0,False,0.64,2,2,1,2,1,1,0,1,1,,3.64
+6,5ALi4,,6.5,False,0.4,1,2,0,0,0,0,1,0,2,,6.9
+7,3STh,,4.5,False,0.7,2,2,1,0,2,0,0,1,1,,5.2
+8,5BLi3,,6.0,False,-0.1,-1,0,-1,0,0,0,0,0,0,,5.9
+9,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,1,1,0,,2.7
+10,3Li4,,4.0,False,0.5,1,2,1,1,1,1,1,1,1,,4.5
+11,BoDsB,,2.8,False,0.2,0,1,1,0,1,-1,0,-1,1,,3.0
+12,PCoSp2p1,,2.1,False,0.29,1,1,1,0,1,0,0,1,0,,2.39
+,,,47.82,,,,,,,,,,,,,50.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.25,6.25,7.0,6.0,5.75,6.5,6.5,6.25,6.5,,6.32
+,Transition / Linking Footwork  ,,,,1.6,5.75,6.25,6.75,5.75,5.25,5.75,6.25,6.0,5.75,,5.93
+,Performance / Execution  ,,,,1.6,6.25,6.5,6.75,6.25,5.75,6.25,6.75,6.5,7.0,,6.46
+,Choreography / Composition  ,,,,1.6,6.25,6.5,6.75,6.25,6.0,6.0,6.5,6.75,7.0,,6.43
+,Interpretation  ,,,,1.6,6.75,6.75,7.0,6.25,6.0,6.5,6.75,6.5,6.75,,6.61
+,,,,,,,,,,,,,,,,50.81

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Carolina MOSCHENI / Adam LUKACS,HUN,2,75.99,38.79,37.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.77,1,1,1,2,1,2,1,2,1,,5.27
+2,STw1,,3.1,False,-0.64,-2,-1,-2,-2,-2,-2,-1,-2,-2,,2.46
+3,CuLi3,,4.0,False,0.43,1,0,0,1,1,1,1,1,-2,,4.43
+4,Sp4,,5.6,False,0.6,1,1,0,1,1,1,1,2,1,,6.2
+5,ChSp1,,0.6,False,0.51,1,1,0,1,0,1,1,1,1,,1.11
+6,SeSt2,,5.6,False,0.16,0,0,1,0,0,1,0,0,0,,5.76
+7,DiSt3,,7.1,False,1.1,1,1,1,1,1,1,-1,1,1,,8.2
+8,RoLi4,,4.5,False,0.86,2,2,1,2,1,1,1,2,1,,5.36
+,,,35.0,,,,,,,,,,,,,38.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.5,4.75,6.25,6.75,6.0,6.75,5.5,6.25,6.25,,6.21
+,Linking Footwork / Movement  ,,,,1.2,6.0,4.75,6.5,6.5,6.25,6.25,5.0,6.0,6.0,,6.0
+,Performance  ,,,,1.2,6.5,5.0,6.75,6.5,6.0,6.75,5.25,6.5,6.5,,6.29
+,Choreography  ,,,,1.2,6.25,5.25,6.5,6.75,6.25,7.0,5.5,6.5,6.5,,6.32
+,Interpretation / Timing  ,,,,1.2,6.25,5.25,6.25,6.5,6.0,6.5,5.5,6.25,6.5,,6.18
+,,,,,,,,,,,,,,,,37.2

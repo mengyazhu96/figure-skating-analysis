@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Ekaterina RIAZANOVA / Ilia TKACHENKO,RUS,5,58.23,28.08,30.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtCiSt2,,5.0,False,1.43,2,1,2,1,2,1,2,1,1,,6.43
+2,STw4,,6.0,False,0.29,1,0,0,0,1,1,1,1,0,,6.29
+3,1YP2+kpTNY,,5.0,False,0.21,0,1,1,1,0,-1,1,1,-1,,5.21
+4,2YP2+kpNNY,,5.0,False,0.29,1,1,0,1,0,0,1,1,-1,,5.29
+5,RoLi4,,4.0,False,0.86,2,1,2,2,2,1,2,2,1,,4.86
+,,,25.0,,,,,,,,,,,,,28.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.75,7.75,7.75,7.75,7.0,7.75,7.75,7.25,,7.68
+,Linking Footwork / Movement  ,,,,0.7,7.25,7.5,7.25,7.5,7.5,6.5,7.5,7.25,6.75,,7.29
+,Performance  ,,,,0.7,7.75,7.75,7.25,7.75,7.75,6.75,7.75,7.75,7.0,,7.57
+,Choreography  ,,,,0.8,7.5,8.0,7.5,8.0,7.75,6.5,7.75,7.25,6.5,,7.46
+,Interpretation / Timing  ,,,,1.0,8.0,7.75,7.5,7.75,7.75,6.75,8.0,7.5,7.25,,7.64
+,,,,,,,,,,,,,,,,30.15

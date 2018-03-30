@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,HAN Brooklee  ,AUS,2,94.52,48.71,46.81,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+2T,,6.4,False,0.1,0,0,1,0,1,0,0,0,0,,6.5
+2,3Lz,,6.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.9
+3,3T+2T,,5.4,False,0.0,0,0,1,0,0,0,0,0,0,,5.4
+4,FCSp4,,3.2,False,0.57,2,1,2,1,1,1,1,1,1,,3.77
+5,3S,,4.2,False,-0.8,-1,-2,0,-2,-1,-1,-1,-1,-1,,3.4
+6,LSp3,,2.4,False,1.0,2,2,2,2,2,2,0,2,2,,3.4
+7,3T,,4.51,True,0.0,-1,0,0,0,0,0,0,0,0,,4.51
+8,2A,,3.63,True,0.0,0,0,0,0,1,0,0,0,0,,3.63
+9,StSq3,,3.3,False,0.36,1,0,1,1,1,1,0,0,1,,3.66
+10,3S<+2T<+2T<,<,5.17,True,-1.4,-2,-2,-3,-2,-2,-2,-1,-2,-2,,3.77
+11,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,0,1,1,,2.7
+12,CCoSp4,,3.5,False,0.57,2,1,2,1,1,1,1,1,1,,4.07
+,,,49.71,,,,,,,,,,,,,48.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,5.5,6.25,6.25,6.25,6.0,6.25,5.75,5.75,,6.0
+,Transitions / Linking Footwork / Movement  ,,,,1.6,5.25,5.25,5.75,6.0,5.25,5.25,5.75,5.5,5.25,,5.43
+,Performance / Execution  ,,,,1.6,6.0,5.25,6.5,6.5,5.75,5.5,6.0,6.25,5.75,,5.96
+,Choreography / Composition  ,,,,1.6,5.75,5.5,6.0,6.25,5.5,5.75,6.25,5.75,6.0,,5.86
+,Interpretation  ,,,,1.6,6.25,5.25,6.25,6.25,5.5,5.75,6.0,6.0,6.5,,6.0
+,,,,,,,,,,,,,,,,46.81
+Deduction,Falls,-1.0

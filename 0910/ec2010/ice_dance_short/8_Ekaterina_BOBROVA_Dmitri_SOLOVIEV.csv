@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Ekaterina BOBROVA / Dmitri SOLOVIEV,RUS,20,33.33,17.16,16.17,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.9,False,0.7,1,1,0,1,1,1,1,1,0,,3.6
+2,1S2,,1.6,False,0.2,1,0,0,1,0,1,1,0,0,,1.8
+3,1S3,,2.4,False,0.1,1,0,0,0,0,1,1,0,0,,2.5
+4,2S1,,3.2,False,0.14,0,0,-1,0,0,1,1,1,0,,3.34
+5,2S2,,2.3,False,0.1,0,0,0,1,0,1,1,0,0,,2.4
+6,2S3,,3.1,False,0.42,1,0,0,0,1,1,0,1,0,,3.52
+,,,15.5,,,,,,,,,,,,,17.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,6.75,6.25,6.25,6.0,6.5,7.0,7.25,7.0,6.25,,6.55
+,Timing  ,,,,0.75,6.5,6.0,6.0,6.0,6.25,7.0,7.0,6.75,6.0,,6.3
+,Performance / Execution  ,,,,0.5,7.0,6.25,6.25,6.25,6.25,7.0,6.5,6.75,6.0,,6.5
+,Interpretation  ,,,,0.5,7.0,6.0,6.0,6.25,6.25,7.0,6.25,7.0,6.25,,6.55
+,,,,,,,,,,,,,,,,16.17

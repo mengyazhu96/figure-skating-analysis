@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+36,Viktor ROMANENKOV,EST,24,44.17,24.02,21.15,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.2,False,-4.2,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.0
+2,3T+2T,,5.3,False,-1.6,-1,-1,-2,-2,-1,-1,-2,-2,-2,,3.7
+3,3Lz,,6.0,False,-2.8,-2,-3,-3,-3,-3,-3,-3,-2,-3,,3.2
+4,FSSp3,,2.6,False,0.0,0,0,0,0,0,0,0,0,0,,2.6
+5,CiSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+6,CSSp3,,2.6,False,0.0,0,1,0,0,0,0,0,0,0,,2.6
+7,SlSt2,,2.3,False,-0.18,-1,0,-2,0,-1,0,-1,-1,0,,2.12
+8,CCoSp4,,3.5,False,0.0,0,0,0,1,0,0,0,0,0,,3.5
+,,,32.8,,,,,,,,,,,,,24.02
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.5,4.25,4.25,4.75,4.5,4.5,4.25,4.5,4.25,,4.35
+,Transition / Linking Footwork  ,,,,1.0,4.25,3.75,4.0,4.0,4.25,4.25,3.5,4.25,4.0,,4.05
+,Performance / Execution  ,,,,1.0,4.25,4.0,4.25,4.25,4.25,4.5,4.0,4.5,4.0,,4.2
+,Choreography / Composition  ,,,,1.0,4.5,4.0,4.5,4.25,4.5,4.75,3.75,4.25,4.25,,4.3
+,Interpretation  ,,,,1.0,4.0,4.25,4.25,4.0,4.5,4.5,4.0,4.5,4.25,,4.25
+,,,,,,,,,,,,,,,,21.15
+Deduction,Falls,-1.0

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Tatiana VOLOSOZHAR / Stanislav MOROZOV,UKR,7,62.98,37.22,25.76,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S,,4.5,False,-2.0,-2,-2,-2,-2,-2,-2,-2,-2,-2,,2.5
+2,3LzTw3,,6.0,False,1.12,1,0,2,0,3,2,2,2,2,,7.12
+3,4Li4,,4.0,False,0.8,2,2,2,2,2,1,1,2,1,,4.8
+4,3LoTh,,5.0,False,0.98,1,0,2,2,2,1,2,1,1,,5.98
+5,FCCoSp4,,3.5,False,-0.18,1,0,-1,-1,0,0,-1,-1,0,,3.32
+6,PCoSp4,,4.5,False,0.3,1,1,0,2,1,0,0,1,1,,4.8
+7,SlSt3,,3.3,False,0.2,0,0,0,1,0,0,1,1,0,,3.5
+8,BoDs4,,4.5,False,0.7,1,1,1,2,2,1,1,1,0,,5.2
+,,,35.3,,,,,,,,,,,,,37.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.5,6.0,6.75,7.75,5.75,7.25,7.0,7.25,,6.7
+,Transition / Linking Footwork  ,,,,0.8,7.0,6.0,6.0,6.75,7.5,5.5,6.75,6.5,6.5,,6.35
+,Performance / Execution  ,,,,0.8,7.25,6.25,5.75,6.5,7.5,5.5,7.0,6.75,6.75,,6.4
+,Choreography / Composition  ,,,,0.8,7.0,6.5,5.75,6.75,7.5,5.75,7.0,7.0,6.75,,6.55
+,Interpretation  ,,,,0.8,7.25,6.0,5.5,6.25,7.5,5.25,7.25,6.75,6.5,,6.2
+,,,,,,,,,,,,,,,,25.76

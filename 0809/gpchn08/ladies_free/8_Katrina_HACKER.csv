@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Katrina HACKER,USA,0,84.15,41.07,44.08,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T+2Lo,,6.8,False,0.0,0,1,0,1,0,0,0,0,0,,6.8
+2,3S+2Lo,,6.0,False,-0.8,0,0,0,-1,-1,-2,-1,-1,-1,,5.2
+3,3Lo,,5.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+4,FSSp4,,3.0,False,0.2,1,0,0,2,0,1,0,0,0,,3.2
+5,3T,,4.0,False,-2.6,-3,-3,-3,-2,-3,-3,-2,-2,-3,,1.4
+6,SpSq4,,3.4,False,1.4,2,0,1,1,2,1,2,0,2,,4.8
+7,3S<,<,1.43,True,-0.3,-1,0,-1,-1,-2,-2,-1,-1,-1,,1.13
+8,FCoSp3,,2.5,False,0.5,1,0,1,1,1,1,1,1,0,,3.0
+9,CiSt2,,2.3,False,0.0,0,-1,0,0,0,-1,0,0,0,,2.3
+10,2A+2T<,<,4.29,True,-0.8,-1,0,-1,-1,-1,-2,-1,-1,-1,,3.49
+11,2A,,3.85,True,0.2,0,0,0,0,0,0,1,1,0,,4.05
+12,CCoSp4,,3.5,False,0.2,0,0,0,1,0,1,1,0,0,,3.7
+,,,46.07,,,,,,,,,,,,,41.07
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.25,5.25,5.5,6.25,4.5,5.75,5.5,6.0,5.5,,5.65
+,Transition / Linking Footwork  ,,,,1.6,5.0,5.5,5.25,5.25,4.75,6.0,5.0,5.25,5.25,,5.2
+,Performance / Execution  ,,,,1.6,5.25,5.75,5.5,6.0,4.5,5.75,5.5,6.0,5.5,,5.65
+,Choreography / Composition  ,,,,1.6,4.75,5.75,5.5,6.25,5.5,5.5,5.25,6.25,5.5,,5.6
+,Interpretation  ,,,,1.6,5.0,5.75,5.5,6.25,5.0,5.25,5.25,5.75,5.5,,5.45
+,,,,,,,,,,,,,,,,44.08
+Deduction,Falls,-1.0

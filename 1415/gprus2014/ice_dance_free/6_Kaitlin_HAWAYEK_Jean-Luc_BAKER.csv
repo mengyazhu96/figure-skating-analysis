@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Kaitlin HAWAYEK / Jean-Luc BAKER,USA,2,83.47,41.68,41.79,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.5,False,1.29,3,3,2,2,1,2,3,2,1,,5.79
+2,STw4,,6.6,False,0.51,1,1,0,2,0,1,2,1,0,,7.11
+3,CiSt3,,7.1,False,1.26,1,2,1,1,0,2,2,1,0,,8.36
+4,CoSp3,,4.6,False,0.43,1,1,0,0,1,1,0,1,1,,5.03
+5,SlLi4,,4.5,False,0.69,2,1,2,1,1,1,1,1,1,,5.19
+6,RoLi3,,4.0,False,0.86,2,2,1,1,1,1,2,2,0,,4.86
+7,DiSt1,,4.1,False,0.34,1,0,0,1,0,1,1,1,0,,4.44
+8,ChLi1,,0.3,False,0.6,1,1,1,1,1,1,2,1,1,,0.9
+,,,35.7,,,,,,,,,,,,,41.68
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,7.5,7.0,7.5,6.5,7.0,7.5,7.25,7.25,6.5,,7.14
+,Linking Footwork / Movement  ,,,,1.2,7.5,6.5,7.0,6.5,6.75,6.75,6.75,6.75,6.25,,6.71
+,Performance  ,,,,1.2,6.5,6.5,7.5,6.75,7.0,7.25,7.25,7.0,6.5,,6.89
+,Choreography  ,,,,1.2,6.75,6.75,7.25,6.75,7.25,7.0,7.75,7.5,6.5,,7.04
+,Interpretation / Timing  ,,,,1.2,6.25,7.0,7.5,7.0,7.0,7.0,7.75,7.25,6.5,,7.04
+,,,,,,,,,,,,,,,,41.79

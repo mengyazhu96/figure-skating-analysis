@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Leonie KRAIL / Oscar PETER,SUI,0,61.41,35.0,26.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi3,,3.5,False,0.0,1,0,0,0,0,0,0,0,0,,3.5
+2,CoSp2,,3.5,False,0.0,0,0,0,0,0,0,0,0,0,,3.5
+3,RoLi4,,4.0,False,-0.1,0,-1,0,-1,0,1,-1,0,0,,3.9
+4,STw2,,3.5,False,-0.2,0,0,-1,-1,0,0,0,-1,0,,3.3
+5,SlLi4,,4.0,False,0.2,0,0,0,1,1,1,0,0,0,,4.2
+6,DiSt2,,5.4,False,0.0,0,0,-1,0,0,0,0,0,0,,5.4
+7,CiSt1,,5.6,False,0.0,0,-1,0,0,0,0,0,0,0,,5.6
+8,SlLi2+CuLi4,,5.6,False,0.0,0,0,0,-1,0,0,1,0,0,,5.6
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,35.1,,,,,,,,,,,,,35.0
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.0,4.0,4.25,4.25,4.25,5.0,4.25,3.5,5.0,,4.4
+,Linking Footwork / Movement  ,,,,1.75,4.0,4.25,3.25,4.0,4.0,5.25,4.25,3.25,5.5,,4.15
+,Performance  ,,,,1.0,4.0,4.25,4.0,4.5,4.25,5.25,4.25,3.5,5.0,,4.4
+,Choreography  ,,,,1.0,4.25,4.5,4.5,4.75,4.5,5.0,4.5,3.25,5.0,,4.65
+,Interpretation / Timing  ,,,,1.0,4.25,4.5,4.0,4.5,4.5,5.5,4.5,3.5,5.5,,4.6
+,,,,,,,,,,,,,,,,26.41

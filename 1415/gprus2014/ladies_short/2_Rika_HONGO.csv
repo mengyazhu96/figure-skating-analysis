@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Rika HONGO,JPN,9,59.85,32.48,27.37,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.8,1,2,0,0,2,1,2,2,0,,9.0
+2,LSp4,,2.7,False,0.57,1,1,0,1,2,1,1,1,2,,3.27
+3,FCSp3,,2.8,False,-0.04,0,0,0,0,0,0,1,-1,-1,,2.76
+4,3F,,5.83,True,-0.1,0,-1,0,0,-2,1,1,0,-1,,5.73
+5,2A,,3.63,True,0.29,1,2,0,1,0,1,1,0,0,,3.92
+6,StSq3,,3.3,False,0.5,1,1,1,1,1,1,2,1,1,,3.8
+7,CCoSp3p4,,3.5,False,0.5,1,1,1,1,1,0,2,1,1,,4.0
+,,,29.96,,,,,,,,,,,,,32.48
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,7.5,7.25,8.0,6.5,7.0,6.75,7.0,6.5,,6.93
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.25,7.0,7.75,6.25,6.5,6.5,6.75,6.0,,6.5
+,Performance / Execution  ,,,,0.8,6.5,7.5,7.0,8.0,6.75,7.25,6.75,7.25,6.5,,7.0
+,Choreography / Composition  ,,,,0.8,6.25,7.0,7.25,8.25,6.25,7.0,6.75,7.0,6.75,,6.86
+,Interpretation  ,,,,0.8,6.25,7.5,7.0,8.25,6.5,7.25,6.5,7.25,6.5,,6.93
+,,,,,,,,,,,,,,,,27.37

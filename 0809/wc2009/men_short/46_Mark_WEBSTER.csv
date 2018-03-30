@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+46,Mark WEBSTER,AUS,20,37.35,18.4,18.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.3,False,-1.0,-1,-2,-1,-2,-1,-1,-1,-1,-1,,4.3
+2,2F,,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+3,CCoSp3,,3.0,False,0.1,0,1,0,1,1,-1,0,0,0,,3.1
+4,CiSt2,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,,2.3
+5,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+6,FSSp3,,2.6,False,0.2,1,1,0,1,1,0,0,0,0,,2.8
+7,SlSt2,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,,2.3
+8,CSSp3,,2.6,False,0.0,0,0,0,1,-1,0,0,0,0,,2.6
+,,,20.6,,,,,,,,,,,,,18.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,3.25,4.0,4.0,5.0,4.0,4.0,4.0,4.25,,4.05
+,Transition / Linking Footwork  ,,,,1.0,3.75,3.0,3.75,3.25,4.75,3.5,3.25,3.0,3.75,,3.5
+,Performance / Execution  ,,,,1.0,4.0,3.25,3.75,3.5,4.75,3.75,3.5,3.5,4.0,,3.7
+,Choreography / Composition  ,,,,1.0,4.25,3.25,4.0,3.75,4.5,3.75,3.75,3.75,4.0,,3.9
+,Interpretation  ,,,,1.0,4.0,3.0,3.75,4.0,4.5,3.75,3.25,3.5,4.0,,3.8
+,,,,,,,,,,,,,,,,18.95

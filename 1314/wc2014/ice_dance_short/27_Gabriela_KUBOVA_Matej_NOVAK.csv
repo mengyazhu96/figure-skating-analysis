@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Gabriela KUBOVA / Matej NOVAK,CZE,5,50.43,27.86,22.57,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1FS2+kpYNN,,5.0,False,0.0,0,0,0,0,0,0,-1,0,0,,5.0
+2,2FS4+kpYYY,,7.0,False,-0.14,0,1,-1,0,-1,0,-1,0,0,,6.86
+3,STw3,,5.0,False,0.29,1,1,0,1,1,0,0,1,0,,5.29
+4,NtCiSt3,,6.5,False,0.0,0,0,0,0,0,0,0,0,0,,6.5
+5,RoLi4,,4.0,False,0.21,0,1,0,1,0,1,0,1,0,,4.21
+,,,27.5,,,,,,,,,,,,,27.86
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,6.0,6.25,5.75,5.75,5.75,5.75,5.25,5.75,,5.75
+,Linking Footwork / Movement  ,,,,0.7,5.0,5.5,5.75,5.5,5.5,5.5,5.25,5.5,5.75,,5.5
+,Performance  ,,,,0.7,5.5,6.0,6.0,5.25,5.5,5.75,5.5,5.5,6.25,,5.68
+,Choreography  ,,,,0.8,5.25,5.75,5.25,5.5,5.25,6.0,5.0,6.0,5.75,,5.54
+,Interpretation / Timing  ,,,,1.0,5.5,6.25,5.75,5.5,5.75,5.75,5.25,5.5,6.25,,5.71
+,,,,,,,,,,,,,,,,22.57

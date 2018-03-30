@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Olesia KARMI / Max LINDHOLM,FIN,3,74.31,38.31,36.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw2,,4.6,False,0.26,0,0,1,1,0,1,1,0,-1,,4.86
+2,RoLi4+RoLi4,,9.0,False,1.03,1,1,1,2,1,1,1,0,0,,10.03
+3,CiSt2,,5.6,False,0.01,0,0,0,1,-1,0,1,0,-1,,5.61
+4,CoSp4,,5.6,False,0.51,0,2,1,1,1,1,1,1,0,,6.11
+5,SlLi4,,4.5,False,0.69,1,2,1,1,1,2,1,0,1,,5.19
+6,DiSt2,,5.6,False,0.31,0,2,0,1,0,1,0,0,-1,,5.91
+7,ChSp1,,0.6,False,0.0,0,0,0,1,0,0,0,0,0,,0.6
+,,,35.5,,,,,,,,,,,,,38.31
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.25,5.25,6.0,5.75,6.25,6.25,5.75,5.75,6.25,,6.0
+,Linking Footwork / Movement  ,,,,1.2,6.0,5.0,6.25,5.75,5.75,5.75,5.25,5.25,6.0,,5.68
+,Performance  ,,,,1.2,6.25,6.0,6.25,6.25,6.25,5.75,6.0,5.5,6.25,,6.11
+,Choreography  ,,,,1.2,6.25,6.25,6.5,6.25,6.25,6.25,6.0,5.5,6.25,,6.21
+,Interpretation / Timing  ,,,,1.2,6.25,6.5,5.75,6.25,5.5,5.75,6.5,5.25,6.0,,6.0
+,,,,,,,,,,,,,,,,36.0

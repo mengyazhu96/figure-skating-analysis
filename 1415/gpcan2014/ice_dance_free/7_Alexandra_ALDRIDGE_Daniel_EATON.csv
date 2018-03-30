@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Alexandra ALDRIDGE / Daniel EATON,USA,4,81.24,40.76,41.48,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp3,,4.6,False,0.77,1,1,1,1,2,1,2,2,1,,5.37
+2,CiSt2,,5.6,False,0.94,1,1,1,1,1,0,1,1,0,,6.54
+3,CuLi4,,4.5,False,0.43,0,0,1,1,0,1,1,2,1,,4.93
+4,DiSt2,,5.6,False,1.41,0,2,1,2,2,1,1,1,1,,7.01
+5,STw3,,5.6,False,0.51,1,0,0,1,1,-1,2,1,2,,6.11
+6,ChSp1,,0.6,False,0.24,-1,1,1,-1,1,0,1,0,0,,0.84
+7,SlLi4,,4.5,False,0.36,-1,1,2,1,2,-1,0,1,0,,4.86
+8,RoLi4,,4.5,False,0.6,1,1,1,1,1,0,2,1,1,,5.1
+,,,35.5,,,,,,,,,,,,,40.76
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.75,7.0,7.25,7.5,7.0,7.0,6.75,6.75,6.75,,6.93
+,Linking Footwork / Movement  ,,,,1.2,6.25,6.5,7.25,6.75,7.0,7.0,6.5,6.5,6.75,,6.71
+,Performance  ,,,,1.2,6.5,6.75,7.5,5.75,7.25,7.25,7.0,7.25,6.75,,6.96
+,Choreography  ,,,,1.2,6.25,6.75,7.5,6.25,7.25,7.25,6.5,7.0,7.0,,6.86
+,Interpretation / Timing  ,,,,1.2,6.5,6.75,7.5,6.25,7.5,7.5,7.25,7.25,7.0,,7.11
+,,,,,,,,,,,,,,,,41.48
+Deduction,Extended lifts,-1.0

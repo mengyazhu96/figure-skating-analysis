@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Leonie KRAIL / Oscar PETER,SUI,0,22.88,12.88,10.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.0,False,-0.1,0,0,0,-1,0,-1,0,0,-2,,1.9
+2,1S2,,2.2,False,-0.2,0,-1,0,-1,-2,0,-1,0,-2,,2.0
+3,1S3,,2.3,False,-0.3,-1,0,-1,-1,-1,-1,0,0,-1,,2.0
+4,2S1,,2.7,False,-0.6,0,-1,-1,-1,-2,-1,-2,0,-2,,2.1
+5,2S2,,3.0,False,-0.56,-1,-1,-1,-2,-1,0,-1,0,-2,,2.44
+6,2S3,,3.3,False,-0.86,-1,-2,-1,-2,-2,-1,-1,-1,-2,,2.44
+,,,15.5,,,,,,,,,,,,,12.88
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,4.25,4.25,4.5,4.25,3.5,4.25,4.75,4.0,3.5,,4.25
+,Timing  ,,,,0.75,3.75,3.75,4.0,4.0,2.75,3.75,3.0,3.5,3.0,,3.55
+,Performance / Execution  ,,,,0.5,4.25,4.0,4.25,4.5,3.5,4.0,4.0,4.25,3.25,,4.1
+,Interpretation  ,,,,0.5,4.25,4.0,4.5,4.25,3.25,4.25,4.75,4.0,3.5,,4.2
+,,,,,,,,,,,,,,,,10.0

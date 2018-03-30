@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+32,Alexander MAJOROV,SWE,27,55.61,21.54,35.07,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2T,,1.3,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+2,3Lz*+2T*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,CCoSp4,,3.5,False,0.36,1,1,1,1,0,1,0,0,1,,3.86
+4,3A,,9.35,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.35
+5,FCSp3,,2.8,False,0.14,0,1,0,0,1,1,0,0,0,,2.94
+6,StSq4,,3.9,False,0.5,1,1,1,1,0,2,0,0,1,,4.4
+7,CSSp4,,3.0,False,0.29,1,1,0,0,1,1,1,0,0,,3.29
+,,,23.85,,,,,,,,,,,,,21.54
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,8.0,6.5,7.25,6.75,7.0,6.5,7.5,7.5,,7.14
+,Transition / Linking Footwork  ,,,,1.0,7.5,8.25,6.25,7.5,6.5,7.25,6.25,7.0,7.0,,7.0
+,Performance / Execution  ,,,,1.0,7.75,8.25,6.25,7.0,6.25,6.25,6.25,7.0,7.0,,6.79
+,Choreography / Composition  ,,,,1.0,8.25,8.5,6.5,7.0,6.5,6.75,6.5,7.5,7.5,,7.14
+,Interpretation  ,,,,1.0,8.0,8.0,6.5,7.25,6.25,6.5,6.5,7.0,7.25,,7.0
+,,,,,,,,,,,,,,,,35.07
+Deduction,Falls,-1.0

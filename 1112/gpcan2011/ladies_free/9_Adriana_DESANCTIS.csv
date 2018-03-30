@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Adriana DESANCTIS,CAN,2,82.34,42.03,41.31,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.6
+2,3S+2T,,5.5,False,0.2,1,0,0,0,0,1,0,1,0,,5.7
+3,3F<,e,3.7,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.6
+4,LSp2,,1.9,False,0.5,1,0,1,1,1,2,1,1,1,,2.4
+5,3T+2A+SEQ,,5.92,False,0.3,1,0,1,0,0,1,0,1,0,,6.22
+7,ChSp1,,2.0,False,0.5,0,1,1,0,0,2,1,1,1,,2.5
+8,1Lz,,0.66,True,-0.01,0,0,0,-1,0,0,-1,0,0,,0.65
+9,3S,,4.62,True,0.3,1,1,0,0,0,0,0,1,1,,4.92
+10,1A+2A+SEQ,,3.87,True,0.0,0,0,0,0,0,0,0,0,0,,3.87
+11,CCoSp2,,2.5,False,0.0,0,0,0,0,0,0,0,0,0,,2.5
+12,SlSt3,,3.3,False,0.07,1,0,0,0,0,0,0,1,0,,3.37
+13,FCSp4,,3.2,False,0.5,2,1,1,1,1,1,1,1,1,,3.7
+,,,43.17,,,,,,,,,,,,,42.03
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.5,5.5,5.5,5.5,5.0,6.0,5.0,6.0,6.0,,5.57
+,Transition / Linking Footwork  ,,,,1.6,5.0,4.0,5.25,5.0,4.5,4.0,4.25,5.75,5.0,,4.71
+,Performance / Execution  ,,,,1.6,5.5,5.0,5.25,5.5,5.0,5.5,5.0,6.25,5.5,,5.32
+,Choreography / Composition  ,,,,1.6,5.5,4.5,5.5,5.25,5.25,4.5,4.75,6.0,5.5,,5.18
+,Interpretation  ,,,,1.6,5.25,5.0,5.25,5.25,4.75,4.75,4.5,6.25,5.0,,5.04
+,,,,,,,,,,,,,,,,41.31
+Deduction,Falls,-1.0

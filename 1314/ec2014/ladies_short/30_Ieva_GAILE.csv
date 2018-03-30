@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Ieva GAILE,LAT,1,37.83,19.8,18.03,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.36,1,1,0,1,0,1,1,1,0,,3.66
+2,3S+2T,,5.5,False,0.5,1,0,1,1,1,1,0,1,0,,6.0
+3,3Lo<<,<<,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-2,,0.9
+4,LSp2,,1.9,False,-0.13,-1,0,-1,0,-1,0,0,0,-1,,1.77
+5,FSSp3,,2.6,False,0.0,0,0,0,1,0,0,0,0,0,,2.6
+6,StSq1,,1.8,False,0.07,0,0,0,1,0,0,0,0,1,,1.87
+7,CCoSp3,,3.0,False,0.0,0,0,0,0,-1,0,1,0,0,,3.0
+,,,19.9,,,,,,,,,,,,,19.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.25,4.5,5.25,4.0,4.75,4.25,5.0,4.5,,4.57
+,Transition / Linking Footwork  ,,,,0.8,4.0,4.5,4.5,5.0,3.25,4.5,4.0,5.25,4.25,,4.39
+,Performance / Execution  ,,,,0.8,4.5,4.75,4.75,5.25,4.0,4.75,4.5,4.75,4.25,,4.61
+,Choreography / Composition  ,,,,0.8,4.5,4.25,4.25,5.0,3.5,4.5,4.25,5.0,4.0,,4.39
+,Interpretation  ,,,,0.8,4.25,4.75,4.5,5.25,3.75,4.75,4.5,4.75,4.5,,4.57
+,,,,,,,,,,,,,,,,18.03

@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Elizaveta TUKTAMYSHEVA,RUS,10,119.52,62.28,57.24,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.0,0,0,0,0,0,0,0,1,0,,7.3
+2,3Lz,,6.0,False,-0.4,-1,-1,0,-1,0,-1,0,0,-1,,5.6
+3,3F,,5.3,False,0.4,0,0,1,1,0,0,1,1,1,,5.7
+4,LSp2,,1.9,False,0.64,2,1,1,1,1,1,2,1,2,,2.54
+5,StSq3,,3.3,False,0.5,1,1,1,1,1,1,1,1,1,,3.8
+6,2A+3T,,8.14,True,0.8,0,1,2,1,1,2,1,1,1,,8.94
+7,3S+2T+2Lo,,8.03,True,0.8,0,1,2,1,1,1,2,1,1,,8.83
+8,FSSp1,,2.0,False,-0.04,0,0,0,0,0,-1,1,0,-1,,1.96
+9,3Lo,,5.61,True,0.9,0,1,2,1,1,1,2,1,2,,6.51
+10,ChSq1,,2.0,False,0.9,1,1,1,0,2,1,2,1,2,,2.9
+11,2A,,3.63,True,0.43,0,1,1,1,1,0,1,1,1,,4.06
+12,CCoSp4,,3.5,False,0.64,1,1,1,1,2,0,3,2,1,,4.14
+,,,56.71,,,,,,,,,,,,,62.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.5,7.5,7.75,7.25,7.25,7.0,8.5,7.5,7.0,,7.39
+,Transition / Linking Footwork  ,,,,1.6,7.0,6.5,7.5,6.5,6.0,6.75,8.25,6.75,6.5,,6.79
+,Performance / Execution  ,,,,1.6,7.25,7.0,7.5,7.0,7.0,7.25,8.75,7.0,7.0,,7.14
+,Choreography / Composition  ,,,,1.6,7.5,7.25,7.75,6.75,7.0,7.0,8.5,7.0,7.0,,7.21
+,Interpretation  ,,,,1.6,7.5,7.0,7.75,6.75,7.0,7.0,8.5,7.25,7.25,,7.25
+,,,,,,,,,,,,,,,,57.24

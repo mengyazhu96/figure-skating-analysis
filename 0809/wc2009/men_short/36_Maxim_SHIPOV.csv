@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+36,Maxim SHIPOV,ISR,12,44.85,25.2,20.65,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A<,<,3.5,False,-2.5,-3,-3,-3,-3,-3,-2,-3,-3,-3,,1.0
+2,3F+2T,,6.8,False,0.4,1,1,0,1,1,0,0,0,0,,7.2
+3,3Lz,!,6.0,False,-1.2,-1,0,-1,-2,-2,-1,-1,-1,-1,,4.8
+4,CCoSp3,,3.0,False,0.0,0,1,0,1,0,0,0,0,0,,3.0
+5,SlSt2,,2.3,False,0.0,0,1,0,0,1,0,0,0,0,,2.3
+6,CSSp2,,2.3,False,0.0,1,1,0,-1,0,0,0,0,0,,2.3
+7,CiSt1,,1.8,False,0.2,0,0,1,1,1,0,0,0,0,,2.0
+8,FSSp3,,2.6,False,0.0,0,0,0,0,0,-1,0,0,0,,2.6
+,,,28.3,,,,,,,,,,,,,25.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,5.75,4.5,4.0,5.75,4.25,4.25,4.75,4.0,,4.4
+,Transition / Linking Footwork  ,,,,1.0,3.5,5.0,4.25,3.5,4.75,3.75,3.75,4.0,3.5,,3.85
+,Performance / Execution  ,,,,1.0,4.0,5.5,4.25,4.0,5.25,4.0,4.0,4.5,4.0,,4.15
+,Choreography / Composition  ,,,,1.0,4.0,5.5,4.5,3.75,5.0,4.0,4.0,4.25,3.75,,4.15
+,Interpretation  ,,,,1.0,3.75,5.5,4.25,4.0,4.75,4.0,3.75,4.5,3.75,,4.1
+,,,,,,,,,,,,,,,,20.65
+Deduction,Falls,-1.0

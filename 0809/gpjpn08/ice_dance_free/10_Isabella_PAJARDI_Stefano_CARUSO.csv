@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Isabella PAJARDI / Stefano CARUSO,ITA,0,63.97,36.7,28.27,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.0,0,1,0,0,0,0,0,1,0,,4.0
+2,DiSt1,,4.6,False,0.0,0,0,0,0,0,1,0,0,0,,4.6
+3,CiSt3,,7.2,False,0.0,0,0,0,0,0,0,-1,0,-1,,7.2
+4,CoSp1,,3.0,False,-0.5,-1,-1,-1,-1,-1,-1,-1,0,-1,,2.5
+5,STw3,,4.0,False,-0.4,-1,-1,-1,-1,0,0,-1,-1,0,,3.6
+6,CuLi4+SlLi4,,6.4,False,0.3,1,1,1,1,1,0,0,0,0,,6.7
+7,SlLi4,,4.0,False,0.0,0,1,0,0,0,1,0,0,0,,4.0
+8,CuLi4,,4.0,False,0.1,0,1,0,1,0,1,-1,0,0,,4.1
+,,,37.2,,,,,,,,,,,,,36.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.5,4.5,4.75,4.75,4.75,4.75,4.5,4.75,4.75,,4.7
+,Linking Footwork / Movement  ,,,,1.75,4.25,4.5,4.75,4.5,4.5,4.5,4.0,4.5,4.25,,4.45
+,Performance  ,,,,1.0,4.75,4.75,5.0,5.0,4.75,5.25,4.25,4.75,4.75,,4.85
+,Choreography  ,,,,1.0,5.0,5.0,5.25,4.5,5.0,5.5,4.0,5.0,4.5,,4.95
+,Interpretation / Timing  ,,,,1.0,4.75,5.0,5.0,4.75,4.5,5.25,4.5,5.0,4.5,,4.8
+,,,,,,,,,,,,,,,,28.27
+Deduction,Extended lifts,-1.0

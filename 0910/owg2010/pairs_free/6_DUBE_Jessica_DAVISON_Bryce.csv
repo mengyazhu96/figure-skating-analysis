@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,DUBE Jessica / DAVISON Bryce,CAN,16,121.75,60.99,61.76,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,0.56,2,1,1,1,0,1,1,0,1,,5.56
+2,2A+2A+SEQ,,5.6,False,1.0,2,1,1,1,0,1,1,1,2,,6.6
+3,5ALi4,,6.5,False,1.8,2,2,2,2,2,1,2,1,2,,8.3
+4,3S,,4.5,False,-3.0,-2,-3,-3,-2,-3,-3,-3,-3,-3,,1.5
+5,FCCoSp3,,3.0,False,-0.42,-1,-1,-1,0,-3,-1,-2,-1,-2,,2.58
+6,BiDs3,,3.2,False,0.7,2,1,1,1,1,1,1,1,2,,3.9
+7,3LzTh,,6.05,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.65
+8,5SLi4,,6.6,True,0.6,1,1,1,1,2,1,2,1,1,,7.2
+9,SpSq4,,3.4,False,1.0,1,1,1,1,2,0,1,1,1,,4.4
+10,3LoTh,,5.5,True,0.0,0,0,0,0,-1,0,0,0,1,,5.5
+11,3Li4,,4.4,True,0.9,2,2,1,1,2,1,2,2,2,,5.3
+12,PCoSp4,,4.5,False,1.0,1,2,2,1,2,0,2,2,2,,5.5
+,,,58.25,,,,,,,,,,,,,60.99
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.75,7.75,7.5,7.5,7.5,7.75,7.5,8.0,8.0,,7.7
+,Transitions / Linking Footwork  ,,,,1.6,7.5,7.5,7.75,7.0,7.75,7.25,7.5,7.75,7.5,,7.6
+,Performance / Execution  ,,,,1.6,8.0,7.75,8.0,7.5,7.25,7.5,7.75,7.75,7.75,,7.7
+,Choreography / Composition  ,,,,1.6,7.75,8.0,7.75,7.25,8.0,7.5,7.75,7.75,8.0,,7.85
+,Interpretation  ,,,,1.6,8.0,8.0,7.5,7.5,8.0,7.5,7.75,8.0,7.5,,7.75
+,,,,,,,,,,,,,,,,61.76
+Deduction,Falls,-1.0

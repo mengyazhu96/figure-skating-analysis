@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Jaimee NOBBS,AUS,7,31.94,17.11,15.83,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.5,1,1,1,1,1,1,0,1,1,,3.8
+2,3Lo<+2T,<,5.0,False,-1.1,-1,-2,-2,-1,-1,-1,-2,-2,-2,,3.9
+3,FCSp3,,2.8,False,0.1,1,-1,0,1,0,1,0,0,-1,,2.9
+4,3S<<,<<,1.4,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.8
+5,LSp1,,1.5,False,0.0,0,-1,0,0,0,0,0,0,0,,1.5
+6,SlSt2,,2.3,False,0.0,0,0,0,-1,0,0,0,0,0,,2.3
+7,CCoSp1,,2.0,False,-0.09,1,-1,0,0,0,-1,-1,0,0,,1.91
+,,,18.3,,,,,,,,,,,,,17.11
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.0,4.5,4.5,4.25,4.25,4.0,4.25,3.75,,4.25
+,Transition / Linking Footwork  ,,,,0.8,4.5,4.0,3.75,3.75,3.75,3.75,3.75,3.75,3.5,,3.79
+,Performance / Execution  ,,,,0.8,4.25,3.75,4.25,4.25,4.0,4.0,3.5,3.75,3.75,,3.96
+,Choreography / Composition  ,,,,0.8,4.5,3.5,4.0,4.0,4.0,4.0,3.75,4.0,3.75,,3.93
+,Interpretation  ,,,,0.8,4.5,3.5,4.0,4.0,3.75,4.0,4.0,3.5,3.75,,3.86
+,,,,,,,,,,,,,,,,15.83
+Deduction, Falls,-1.0

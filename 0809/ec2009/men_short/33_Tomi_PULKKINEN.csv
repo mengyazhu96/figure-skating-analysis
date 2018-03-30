@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+33,Tomi PULKKINEN,SUI,0,41.84,20.24,22.6,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+COMBO,,4.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,3Lz,,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+3,FSSp2,,2.3,False,0.0,0,0,0,-1,0,0,0,0,0,,2.3
+4,SlSt2,,2.3,False,0.0,-1,0,0,1,0,0,0,0,0,,2.3
+5,2A,,3.5,False,0.0,0,0,0,0,0,0,0,0,0,,3.5
+6,CSSp3,,2.6,False,0.0,0,0,0,0,0,0,0,0,1,,2.6
+7,CCoSp3,,3.0,False,-0.06,-1,0,0,0,-1,0,0,0,0,,2.94
+8,CiSt2,,2.3,False,0.3,0,0,1,1,1,1,0,0,1,,2.6
+,,,26.0,,,,,,,,,,,,,20.24
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.5,4.5,5.25,4.5,4.5,5.0,4.5,4.75,4.5,,4.6
+,Transition / Linking Footwork  ,,,,1.0,4.0,4.25,4.75,4.0,4.25,4.75,3.75,4.5,4.25,,4.25
+,Performance / Execution  ,,,,1.0,4.25,4.5,5.0,5.0,4.25,4.5,4.25,4.25,4.25,,4.5
+,Choreography / Composition  ,,,,1.0,4.25,4.75,5.0,4.75,4.5,4.75,4.5,4.25,4.5,,4.65
+,Interpretation  ,,,,1.0,4.0,4.75,5.25,4.75,4.5,4.75,4.25,4.5,4.25,,4.6
+,,,,,,,,,,,,,,,,22.6
+Deduction,Falls,-1.0

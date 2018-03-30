@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+38,Candice DIDIER,FRA,0,33.91,19.91,16.0,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3T,,4.0,False,0.0,-2,0,-2,-2,1,1,1,0,0,1,1,0,,4.0
+2,3Lz<+COMBO,,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,2A,,3.5,False,0.0,0,0,0,0,0,1,0,0,0,1,0,0,,3.5
+4,CCoSp2,,2.5,False,0.07,0,0,0,0,0,0,0,1,0,0,0,1,,2.57
+5,SlSt2,,2.3,False,0.0,0,0,0,0,0,1,0,1,0,0,0,0,,2.3
+6,FSSp1,,1.7,False,-0.17,-1,-1,-1,-1,0,-1,0,0,-1,0,-1,0,,1.53
+7,SpSq4,,3.4,False,0.0,0,0,-1,0,0,0,0,0,0,0,1,0,,3.4
+8,LSp2,,1.8,False,-0.09,0,-1,-1,0,0,0,0,0,-1,0,0,0,,1.71
+,,,21.1,,,,,,,,,,,,,,,,19.91
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.5,3.75,4.25,4.5,4.5,4.5,4.5,4.5,3.75,4.75,4.25,,4.32
+,Transition / Linking Footwork  ,,,,0.8,3.25,3.75,2.75,3.75,3.75,3.75,2.75,4.0,4.0,3.25,4.0,4.0,,3.64
+,Performance / Execution  ,,,,0.8,3.5,4.5,3.25,4.0,4.0,4.25,4.0,4.0,4.25,3.75,4.75,4.0,,4.07
+,Choreography / Composition  ,,,,0.8,3.75,4.5,3.25,4.0,3.75,4.0,3.5,4.0,4.25,3.75,4.5,4.0,,4.0
+,Interpretation  ,,,,0.8,3.5,4.25,3.0,4.0,4.0,4.0,3.5,4.25,4.25,3.5,4.5,4.0,,3.96
+,,,,,,,,,,,,,,,,,,,16.0
+Deduction,Time violation,-1.0
+Deduction,Falls,-1.0

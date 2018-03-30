@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Andrea DAVIDOVICH / Evgeni KRASNOPOLSKI,ISR,10,55.32,32.0,23.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,5.8,False,0.6,0,1,1,1,1,0,1,1,1,,6.4
+2,3T,,4.1,False,-0.1,0,-1,0,0,-1,0,0,1,0,,4.0
+3,3STh,,4.5,False,-1.2,-2,-2,-1,-2,-2,-2,-2,-1,-1,,3.3
+4,BiDs3,,3.2,False,0.1,0,0,1,0,0,0,0,2,0,,3.3
+5,5TLi4,,6.0,False,0.43,0,1,0,1,1,1,1,2,1,,6.43
+6,StSq4,,3.9,False,0.6,0,1,1,0,1,1,1,1,1,,4.5
+7,PCoSp3,,4.0,False,0.07,0,0,0,0,1,0,0,1,0,,4.07
+,,,31.5,,,,,,,,,,,,,32.0
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.0,5.5,6.25,6.5,5.75,5.75,6.25,5.75,,6.04
+,Transition / Linking Footwork  ,,,,0.8,6.0,5.5,5.0,6.0,6.0,5.25,5.5,5.5,5.25,,5.57
+,Performance / Execution  ,,,,0.8,6.25,6.0,5.5,6.25,6.25,5.5,5.5,6.5,5.5,,5.89
+,Choreography / Composition  ,,,,0.8,6.25,5.75,5.5,6.0,6.0,5.25,5.5,6.25,5.5,,5.79
+,Interpretation  ,,,,0.8,6.25,5.5,5.5,6.25,6.25,5.5,5.75,6.0,5.75,,5.86
+,,,,,,,,,,,,,,,,23.32

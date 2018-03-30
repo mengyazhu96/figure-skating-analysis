@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,PIETERSEN Justin,RSA,0,34.48,17.08,18.4,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S+3T<,<,5.8,False,-2.8,-3,-2,-2,-3,-3,-3,-3,-3,-3,,3.0
+2,2Lz,,1.9,False,-1.0,-3,-3,-3,-3,-2,-3,-3,-3,-3,,0.9
+3,FSSp3,,2.6,False,0.0,1,0,0,0,0,0,0,0,0,,2.6
+4,CiSt1,,1.8,False,0.0,0,0,0,0,-1,0,0,0,0,,1.8
+5,CCoSp1,,2.0,False,-0.18,-1,0,0,-2,-2,-1,0,-2,0,,1.82
+6,2A,,3.5,False,0.0,0,0,0,0,0,0,0,0,0,,3.5
+7,SlSt1,,1.8,False,0.0,0,0,0,0,-1,0,0,-1,0,,1.8
+8,CSSp1,,1.9,False,-0.24,-1,0,0,-2,-1,-1,0,-1,-2,,1.66
+,,,21.3,,,,,,,,,,,,,17.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.0,3.5,4.25,4.5,3.25,4.0,3.5,3.25,3.75,,3.8
+,Transitions / Linking Footwork  ,,,,1.0,3.75,3.25,4.0,3.75,3.0,3.5,3.0,3.25,3.5,,3.45
+,Performance / Execution  ,,,,1.0,3.5,3.25,4.25,4.25,3.0,4.5,3.25,2.75,3.5,,3.7
+,Choreography / Composition  ,,,,1.0,4.25,3.25,4.25,4.0,3.25,4.0,3.0,3.75,3.75,,3.75
+,Interpretation  ,,,,1.0,4.0,3.5,4.25,3.75,3.25,4.0,2.75,3.5,3.75,,3.7
+,,,,,,,,,,,,,,,,18.4
+Deduction,Falls,-1.0

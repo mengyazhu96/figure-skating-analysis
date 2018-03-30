@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Isabella TOBIAS / Deividas STAGNIUNAS,LTU,7,49.0,27.22,21.78,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,GW1Se3,,5.0,False,0.0,0,0,0,0,1,0,0,0,0,,5.0
+2,GW2Se3,,7.0,False,0.0,0,0,0,-1,0,0,0,0,0,,7.0
+3,STw4,,6.0,False,-0.21,-1,0,0,0,0,-1,-1,0,-1,,5.79
+4,RoLi4,,4.0,False,0.43,0,1,1,1,1,1,1,1,0,,4.43
+5,NtMiSt2,,5.0,False,0.0,0,0,0,0,0,-1,0,0,0,,5.0
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,27.0,,,,,,,,,,,,,27.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.5,5.75,5.75,5.25,5.25,5.5,6.0,5.0,,5.46
+,Linking Footwork / Movement  ,,,,0.7,4.75,5.25,4.5,5.5,5.0,5.5,5.25,5.75,5.25,,5.21
+,Performance  ,,,,0.7,5.0,5.5,5.75,6.0,5.25,5.75,5.5,5.75,5.5,,5.57
+,Choreography  ,,,,0.8,5.5,5.5,5.25,5.5,5.75,5.25,5.75,6.0,5.25,,5.5
+,Interpretation / Timing  ,,,,1.0,5.25,5.5,5.5,5.5,5.75,5.25,5.5,6.0,5.25,,5.46
+,,,,,,,,,,,,,,,,21.78

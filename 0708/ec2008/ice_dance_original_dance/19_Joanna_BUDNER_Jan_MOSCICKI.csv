@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Joanna BUDNER / Jan MOSCICKI,POL,0,42.3,25.27,17.03,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiTw4,,3.3,False,-0.71,-2,-2,-1,-1,-1,-2,-1,-1,-2,-2,-1,-1,,2.59
+2,NtMiSt2,,3.2,False,-0.29,0,-1,0,0,-1,-1,1,-1,-2,-1,-1,-1,,2.91
+3,SlLi4,,4.0,False,0.21,0,0,1,0,0,1,1,0,1,0,1,1,,4.21
+4,Sp3,,4.0,False,0.0,0,0,0,0,0,0,0,0,0,0,1,1,,4.0
+5,RoLi4,,4.0,False,0.36,1,1,1,0,0,1,1,0,1,1,1,0,,4.36
+6,CiSt3,,7.2,False,0.0,0,-1,0,0,0,0,0,0,0,0,-1,1,,7.2
+,,,25.7,,,,,,,,,,,,,,,,25.27
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.0,4.5,4.25,4.5,4.0,4.5,4.25,4.5,4.25,4.0,4.5,,4.43
+,Linking Footwork / Movement  ,,,,0.8,4.25,3.75,4.75,4.25,4.25,4.0,4.25,4.0,4.0,4.0,3.75,4.5,,4.21
+,Performance  ,,,,0.6,5.0,4.25,4.75,4.5,4.5,4.25,5.75,4.5,4.75,4.5,4.25,4.25,,4.61
+,Choreography  ,,,,0.6,4.75,4.25,5.0,4.25,4.5,4.0,5.5,4.5,4.5,4.5,4.25,4.5,,4.57
+,Interpretation / Timing  ,,,,1.0,4.5,4.0,5.0,4.5,4.5,4.5,6.0,4.5,4.5,4.5,4.25,4.75,,4.61
+,,,,,,,,,,,,,,,,,,,17.03

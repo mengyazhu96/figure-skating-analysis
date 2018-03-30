@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Anna JURKIEWICZ,POL,2,43.86,23.9,19.96,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F<,<,1.7,False,-0.92,-3,-2,-3,-3,-2,-3,-3,-2,-3,,0.78
+2,3T+2T,,5.3,False,-0.4,0,-1,-1,0,0,-1,0,0,0,,4.9
+3,2A,,3.5,False,-0.48,-1,0,0,0,0,-1,-1,0,-1,,3.02
+4,FSSp4,,3.0,False,0.0,0,0,0,0,0,0,-1,0,0,,3.0
+5,SpSq4,,3.4,False,0.8,1,0,1,1,0,1,1,1,1,,4.2
+6,SlSt1,,1.8,False,0.2,1,0,0,0,1,1,-1,0,0,,2.0
+7,CCoSp3,,3.0,False,0.1,-1,0,0,0,1,1,0,1,0,,3.1
+8,LSp3,,2.4,False,0.5,1,0,1,0,1,1,2,1,1,,2.9
+,,,24.1,,,,,,,,,,,,,23.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.0,5.25,6.25,5.0,5.25,5.0,5.25,4.5,,5.1
+,Transition / Linking Footwork  ,,,,0.8,4.25,4.75,4.5,5.25,4.75,4.75,5.0,5.0,3.75,,4.6
+,Performance / Execution  ,,,,0.8,5.75,4.5,5.5,5.75,5.25,5.5,5.75,5.0,4.5,,5.3
+,Choreography / Composition  ,,,,0.8,4.75,4.75,5.0,5.5,5.0,5.25,5.75,5.25,4.5,,4.95
+,Interpretation  ,,,,0.8,5.0,4.75,5.0,5.5,5.25,5.25,5.0,5.25,4.0,,5.0
+,,,,,,,,,,,,,,,,19.96

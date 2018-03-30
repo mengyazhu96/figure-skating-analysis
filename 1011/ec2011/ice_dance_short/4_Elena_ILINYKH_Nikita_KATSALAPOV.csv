@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Elena ILINYKH / Nikita KATSALAPOV,RUS,20,60.93,31.79,29.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,1.0,2,1,1,2,2,3,2,3,2,,7.0
+2,GW1Se3,,5.0,False,0.36,1,1,0,0,1,0,1,1,1,,5.36
+3,GW2Se2,,6.0,False,0.29,1,0,0,1,1,0,1,0,1,,6.29
+4,SlLi4,,4.0,False,0.93,2,1,1,1,2,3,2,2,3,,4.93
+5,NtMiSt3,,6.5,False,1.71,2,1,1,2,2,2,2,2,1,,8.21
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,27.5,,,,,,,,,,,,,31.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,7.0,6.5,7.25,7.25,7.75,7.0,7.75,7.5,,7.36
+,Linking Footwork / Movement  ,,,,0.7,6.5,6.75,6.5,7.0,7.0,7.25,6.75,7.5,7.25,,6.93
+,Performance  ,,,,0.7,8.0,7.0,6.5,7.5,7.25,7.5,7.5,8.0,7.75,,7.5
+,Choreography  ,,,,0.8,7.25,7.25,6.5,7.0,7.0,8.0,7.0,7.75,7.75,,7.29
+,Interpretation / Timing  ,,,,1.0,7.5,7.25,6.25,7.5,6.75,7.5,7.0,7.75,7.75,,7.32
+,,,,,,,,,,,,,,,,29.14

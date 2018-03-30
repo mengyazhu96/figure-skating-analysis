@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Kailani CRAINE,AUS,2,47.91,27.71,20.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,!,6.0,False,-0.9,-1,-2,-1,-1,-1,-1,-1,-2,-2,,5.1
+2,3Lo<+2Lo,<,5.4,False,-0.9,-1,-1,-2,0,-2,-1,0,-2,-2,,4.5
+3,FCSp4,,3.2,False,0.71,1,1,2,2,1,1,2,2,0,,3.91
+4,2A,,3.63,True,0.07,0,0,0,0,1,0,1,0,0,,3.7
+5,StSq3,,3.3,False,0.07,0,0,0,0,1,0,0,1,0,,3.37
+6,CCoSp3p4,,3.5,False,0.5,1,1,1,1,1,1,1,2,1,,4.0
+7,LSp4,,2.7,False,0.43,0,1,1,1,1,1,2,1,0,,3.13
+,,,27.73,,,,,,,,,,,,,27.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.0,5.0,4.75,5.0,5.25,5.0,5.5,4.75,,5.0
+,Transition / Linking Footwork  ,,,,0.8,5.0,4.75,4.75,5.25,5.0,5.0,4.0,5.0,4.75,,4.89
+,Performance / Execution  ,,,,0.8,5.0,5.0,5.0,5.5,5.25,5.25,4.5,6.0,4.75,,5.11
+,Choreography / Composition  ,,,,0.8,4.75,5.0,5.5,5.25,5.25,5.25,4.25,5.25,4.5,,5.04
+,Interpretation  ,,,,0.8,4.75,5.25,5.5,5.25,5.5,5.5,4.5,6.0,4.75,,5.21
+,,,,,,,,,,,,,,,,20.2

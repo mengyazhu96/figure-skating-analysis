@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Cathy REED / Chris REED,JPN,11,24.78,13.72,13.06,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.7,False,-1.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.2
+2,1S2,,2.8,False,-0.42,-1,0,-1,-1,0,0,-2,0,0,,2.38
+3,1S3,,2.3,False,0.0,0,0,0,0,0,1,0,0,0,,2.3
+4,2S1,,2.3,False,0.0,0,-1,0,0,0,1,0,1,0,,2.3
+5,2S2,,3.4,False,0.0,0,0,0,0,1,0,-1,0,0,,3.4
+6,2S3,,3.0,False,0.14,1,0,0,0,1,0,0,0,0,,3.14
+,,,15.5,,,,,,,,,,,,,13.72
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.5,5.5,5.75,5.5,4.75,5.75,5.0,5.75,5.5,,5.45
+,Timing  ,,,,0.75,5.25,5.0,5.0,3.75,4.25,5.5,4.75,5.75,4.75,,4.85
+,Performance / Execution  ,,,,0.5,5.25,5.0,5.5,5.25,5.0,5.25,5.25,6.0,5.5,,5.25
+,Interpretation  ,,,,0.5,5.5,5.25,5.75,5.25,5.25,5.5,5.0,6.25,5.5,,5.4
+,,,,,,,,,,,,,,,,13.06
+Deduction,Falls,-2.0

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Jin Seo KIM,KOR,4,68.64,34.39,34.25,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.7,-2,-2,-3,-2,-2,-3,-1,-3,-3,,4.3
+2,3A,,8.5,False,1.0,1,1,1,0,2,1,1,1,1,,9.5
+3,CCoSp3p3,,3.0,False,0.0,0,0,0,0,0,0,0,0,1,,3.0
+4,3Lo+2T,,7.04,True,0.0,0,0,-1,0,1,0,0,0,0,,7.04
+5,CSSp4,,3.0,False,-0.1,0,-1,-1,-1,1,0,-1,-1,1,,2.9
+6,StSq3,,3.3,False,0.79,2,-1,2,1,2,2,1,1,2,,4.09
+7,FCSp4,,3.2,False,0.36,1,0,0,1,1,1,1,0,1,,3.56
+,,,34.04,,,,,,,,,,,,,34.39
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.0,6.5,5.5,6.75,7.25,7.25,6.0,7.25,7.0,,6.86
+,Transition / Linking Footwork  ,,,,1.0,7.5,5.75,5.75,6.25,6.75,6.0,6.25,6.75,7.25,,6.43
+,Performance / Execution  ,,,,1.0,7.75,6.25,7.25,6.75,7.0,6.75,6.5,7.0,7.0,,6.89
+,Choreography / Composition  ,,,,1.0,8.0,6.25,7.5,7.0,7.5,6.5,6.5,6.5,7.5,,7.0
+,Interpretation  ,,,,1.0,8.0,6.0,7.0,7.0,7.25,6.5,7.0,7.25,7.5,,7.07
+,,,,,,,,,,,,,,,,34.25

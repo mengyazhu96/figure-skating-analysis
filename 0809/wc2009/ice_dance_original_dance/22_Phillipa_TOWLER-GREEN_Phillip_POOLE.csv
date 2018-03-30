@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,Phillipa TOWLER-GREEN / Phillip POOLE,GBR,3,43.7,25.9,17.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,MiStNt3,,6.2,False,0.0,1,0,0,0,0,1,0,0,0,,6.2
+2,RoLi4,,4.0,False,0.2,2,0,0,1,0,0,0,1,1,,4.2
+3,STw4,,4.7,False,-0.3,-2,-1,1,-1,-1,1,0,-1,0,,4.4
+4,Sp4,,4.7,False,0.0,-1,0,0,0,0,-1,0,1,0,,4.7
+5,CiSt2,,6.4,False,0.0,0,0,1,0,0,1,0,0,0,,6.4
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.0,,,,,,,,,,,,,25.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,4.75,5.25,5.25,5.25,4.75,4.75,4.5,4.75,,4.8
+,Linking Footwork / Movement  ,,,,0.8,4.0,4.25,5.25,5.0,4.75,5.0,4.5,4.25,4.0,,4.35
+,Performance  ,,,,0.6,4.75,4.75,5.5,5.25,5.0,5.0,4.75,4.75,4.25,,4.8
+,Choreography  ,,,,0.6,4.25,5.0,5.5,5.25,5.0,5.0,4.75,4.75,4.0,,4.75
+,Interpretation / Timing  ,,,,1.0,4.25,4.75,5.25,5.5,5.25,5.5,5.0,4.25,4.5,,4.75
+,,,,,,,,,,,,,,,,17.8

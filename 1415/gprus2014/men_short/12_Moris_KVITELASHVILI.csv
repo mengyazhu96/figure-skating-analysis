@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Moris KVITELASHVILI,RUS,1,62.24,32.17,31.07,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A<,<,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+2,4T+2T,,11.6,False,0.29,0,0,1,0,1,0,0,0,1,,11.89
+3,CSSp2V1,,1.6,False,-0.26,-1,-1,0,-2,-1,-1,0,-1,-1,,1.34
+4,StSq3,,3.3,False,0.14,0,0,0,0,1,0,0,1,1,,3.44
+5,3F,,5.83,True,-0.2,0,0,0,-1,-1,-2,0,1,0,,5.63
+6,FCSp3,,2.8,False,0.21,1,0,1,0,1,0,1,0,0,,3.01
+7,CCoSp3p4,,3.5,False,0.36,0,1,1,0,1,0,1,1,1,,3.86
+,,,34.63,,,,,,,,,,,,,32.17
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,6.25,6.75,6.25,6.75,5.75,6.25,6.5,7.0,,6.43
+,Transition / Linking Footwork  ,,,,1.0,6.0,5.75,6.5,5.5,5.0,5.25,6.0,6.5,6.25,,5.89
+,Performance / Execution  ,,,,1.0,6.5,6.0,6.5,6.0,6.0,5.75,5.75,6.75,6.25,,6.14
+,Choreography / Composition  ,,,,1.0,6.5,5.75,7.0,6.0,6.5,5.5,6.0,6.75,6.75,,6.32
+,Interpretation  ,,,,1.0,6.5,6.75,7.0,5.5,6.5,5.25,6.0,6.5,6.25,,6.29
+,,,,,,,,,,,,,,,,31.07
+Deduction,Falls,-1.0

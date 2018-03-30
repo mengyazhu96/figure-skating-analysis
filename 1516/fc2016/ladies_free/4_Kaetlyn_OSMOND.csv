@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Kaetlyn OSMOND,CAN,16,119.49,59.09,60.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,,6.6,False,0.8,2,1,0,1,2,1,1,1,1,,7.4
+2,2A+2T,,4.6,False,0.43,1,0,1,1,1,1,1,1,0,,5.03
+3,3Lze,e,4.2,False,-1.1,-1,-2,-2,-1,0,-2,-2,-1,-2,,3.1
+4,FCCoSp3p4,,3.5,False,0.64,0,1,1,2,1,1,1,2,2,,4.14
+5,3Lo,,5.1,False,0.6,1,0,1,1,2,1,1,1,0,,5.7
+6,3F,,5.83,True,0.9,1,1,1,1,2,1,2,2,1,,6.73
+7,ChSq1,,2.0,False,1.0,1,1,2,1,2,2,2,1,1,,3.0
+8,3S+1T+2Lo,,7.26,True,-0.3,-1,-2,0,0,-1,1,0,0,-1,,6.96
+9,2A,,3.63,True,0.5,1,1,1,1,1,0,1,1,1,,4.13
+10,LSp4,,2.7,False,1.0,2,2,2,2,2,2,2,1,2,,3.7
+11,StSq4,,3.9,False,1.3,3,1,2,2,3,2,2,1,1,,5.2
+12,CCoSp3p4,,3.5,False,0.5,1,0,1,2,1,1,1,1,1,,4.0
+,,,52.82,,,,,,,,,,,,,59.09
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.5,6.5,7.5,7.5,7.75,7.5,7.25,7.25,7.5,,7.43
+,Transition / Linking Footwork  ,,,,1.6,7.5,6.5,7.5,7.5,8.0,7.75,7.0,6.75,7.25,,7.32
+,Performance / Execution  ,,,,1.6,7.25,6.75,7.75,8.25,8.25,8.0,8.0,7.0,7.5,,7.68
+,Choreography / Composition  ,,,,1.6,7.5,6.75,7.5,8.0,8.0,7.75,7.75,7.25,7.75,,7.64
+,Interpretation  ,,,,1.6,7.75,6.75,7.75,8.25,8.5,7.75,7.75,7.0,7.5,,7.68
+,,,,,,,,,,,,,,,,60.4

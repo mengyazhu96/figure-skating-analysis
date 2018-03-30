@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Ksenia MAKAROVA,RUS,42,62.06,36.9,25.16,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.0,False,0.2,0,0,2,-1,0,1,1,0,0,,8.2
+2,3F,,5.5,False,-0.8,-1,-2,1,0,-2,-2,1,-1,0,,4.7
+3,2A,,3.5,False,1.0,1,1,2,1,1,1,1,1,1,,4.5
+4,FSSp4,,3.0,False,0.4,1,0,2,1,1,1,2,0,1,,3.4
+5,SpSq4,,3.4,False,1.0,1,1,1,1,1,1,0,1,1,,4.4
+6,CCoSp4,,3.5,False,0.7,2,2,2,1,1,1,1,0,2,,4.2
+7,SlSt3,,3.3,False,0.5,1,2,1,1,1,1,1,0,1,,3.8
+8,LSp4,,2.7,False,1.0,3,2,2,2,2,2,2,1,2,,3.7
+,,,32.9,,,,,,,,,,,,,36.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.5,6.25,6.25,6.0,7.0,6.75,6.0,6.75,,6.5
+,Transition / Linking Footwork  ,,,,0.8,6.0,6.25,5.75,5.0,5.75,6.0,6.0,5.75,5.75,,5.9
+,Performance / Execution  ,,,,0.8,6.5,7.0,6.0,5.5,6.0,6.75,6.5,6.0,6.75,,6.5
+,Choreography / Composition  ,,,,0.8,6.25,6.5,6.0,5.25,6.0,7.0,6.0,6.0,6.5,,6.25
+,Interpretation  ,,,,0.8,6.5,6.5,6.0,5.5,6.0,6.75,6.0,6.0,6.5,,6.3
+,,,,,,,,,,,,,,,,25.16

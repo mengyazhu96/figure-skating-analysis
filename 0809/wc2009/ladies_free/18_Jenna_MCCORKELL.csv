@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Jenna MCCORKELL,GBR,4,83.15,45.91,38.24,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,1.0,1,1,0,1,1,1,0,2,1,,4.5
+2,3Lz,,6.0,False,1.0,1,1,1,2,1,1,1,1,1,,7.0
+3,3F,,5.5,False,0.0,0,0,0,0,-1,0,-1,0,0,,5.5
+4,1A+2T,,2.1,False,0.0,0,0,0,0,0,0,0,0,0,,2.1
+5,CCoSp3,,3.0,False,0.0,0,1,0,0,0,0,0,0,0,,3.0
+6,3T<,<,1.43,True,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.43
+7,SpSq3,,3.1,False,0.1,0,0,0,1,1,0,0,0,0,,3.2
+8,3T+2T+2T,,7.26,True,0.0,0,0,0,0,0,0,0,-1,0,,7.26
+9,CUSp4,,2.9,False,0.0,0,0,0,0,0,0,0,-1,0,,2.9
+10,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+11,2A+2T,,5.28,True,0.2,0,1,0,1,0,0,0,0,0,,5.48
+12,FSSp2,,2.3,False,-0.06,0,0,0,0,-1,0,-1,-1,0,,2.24
+,,,44.67,,,,,,,,,,,,,45.91
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.75,5.25,4.5,5.0,5.25,4.5,6.0,6.0,5.5,,5.15
+,Transition / Linking Footwork  ,,,,1.6,4.5,4.75,4.0,4.75,4.75,4.0,5.5,4.0,5.25,,4.55
+,Performance / Execution  ,,,,1.6,4.5,5.0,4.25,4.0,5.25,4.25,5.25,4.25,5.5,,4.65
+,Choreography / Composition  ,,,,1.6,4.75,5.0,4.25,5.0,5.0,4.0,5.5,4.5,5.5,,4.85
+,Interpretation  ,,,,1.6,4.5,4.75,4.0,5.0,5.0,4.25,5.25,4.0,5.75,,4.7
+,,,,,,,,,,,,,,,,38.24
+Deduction,Falls,-1.0

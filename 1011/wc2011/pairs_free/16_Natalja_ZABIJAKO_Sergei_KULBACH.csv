@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Natalja ZABIJAKO / Sergei KULBACH,EST,1,82.21,46.32,35.89,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2LzTw2,,3.2,False,0.09,1,1,0,1,0,0,0,0,0,,3.29
+2,3T+2T,,5.5,False,-0.1,0,0,0,0,0,-1,0,-1,0,,5.4
+3,5ALi3,,6.0,False,0.0,0,0,0,1,0,0,0,0,0,,6.0
+4,3LoTh,,5.0,False,0.5,1,1,0,0,1,0,1,1,1,,5.5
+5,5SLi4,,6.0,False,0.0,0,0,0,0,0,-1,1,0,0,,6.0
+6,FCCoSp2,,2.5,False,-0.17,0,-1,0,0,-1,-1,-1,0,-1,,2.33
+7,3STh,,4.95,True,0.0,0,0,0,0,0,0,0,0,1,,4.95
+8,1A,,1.21,True,-0.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,0.81
+9,ChSp1,,2.0,False,0.0,0,0,0,0,0,-1,0,0,0,,2.0
+10,3Li4,,4.4,True,0.07,1,0,0,0,0,-1,1,0,0,,4.47
+11,FiDs1,,2.8,False,-0.3,0,-1,0,0,-1,-1,0,0,-2,,2.5
+12,PCoSp2,,3.5,False,-0.43,-2,-2,-1,-1,0,-2,-1,-1,-2,,3.07
+,,,47.06,,,,,,,,,,,,,46.32
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,4.75,5.25,4.5,4.75,3.75,4.75,4.75,4.5,,4.75
+,Transition / Linking Footwork  ,,,,1.6,5.25,4.75,4.75,3.75,4.25,3.25,4.0,4.5,4.0,,4.29
+,Performance / Execution  ,,,,1.6,5.5,4.5,5.0,4.0,4.5,3.75,4.25,4.75,4.25,,4.46
+,Choreography / Composition  ,,,,1.6,5.25,4.5,4.75,4.25,4.5,3.5,4.5,4.75,4.25,,4.5
+,Interpretation  ,,,,1.6,5.0,4.5,4.75,4.0,4.75,3.5,4.25,4.75,4.0,,4.43
+,,,,,,,,,,,,,,,,35.89

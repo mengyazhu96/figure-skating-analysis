@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+38,Marina SEEH,SRB,5,29.32,16.12,13.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,-1.6,-2,-2,-3,-2,-2,-2,-2,-2,-1,,1.9
+2,3S<,<,1.3,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,2F+2T<,<,2.1,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.1
+4,FSSp4,,3.0,False,0.1,0,0,-2,0,0,0,1,1,0,,3.1
+5,SpSq3,,3.1,False,-0.28,0,0,-1,0,0,-1,-1,0,-1,,2.82
+6,CCoSp3,,3.0,False,-0.3,-2,-1,-1,0,0,-1,-1,-1,-2,,2.7
+7,CiSt2,,2.3,False,0.0,0,0,-1,0,0,0,1,0,0,,2.3
+8,LSp2,,1.9,False,0.0,0,0,0,0,0,0,1,0,-1,,1.9
+,,,20.2,,,,,,,,,,,,,16.12
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.0,3.5,3.75,3.75,3.25,3.0,3.5,3.5,3.0,,3.25
+,Transition / Linking Footwork  ,,,,0.8,2.75,3.0,4.0,3.25,3.25,2.75,3.75,3.0,3.0,,3.05
+,Performance / Execution  ,,,,0.8,3.5,3.5,3.75,3.75,3.5,2.75,4.0,3.25,3.5,,3.5
+,Choreography / Composition  ,,,,0.8,3.5,3.5,4.0,3.25,3.25,2.5,3.75,3.25,3.25,,3.3
+,Interpretation  ,,,,0.8,3.5,3.25,3.5,3.5,3.25,2.75,3.5,3.25,3.5,,3.4
+,,,,,,,,,,,,,,,,13.2

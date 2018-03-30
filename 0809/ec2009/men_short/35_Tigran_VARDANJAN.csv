@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+35,Tigran VARDANJAN,HUN,0,39.46,20.36,19.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,,9.5,False,-0.4,0,-1,0,0,0,-1,-2,-1,-1,,9.1
+2,1Lz,,0.6,False,-0.3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+3,A,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+4,FSSp2,,2.3,False,-0.18,0,0,0,-1,-2,-1,-1,-1,0,,2.12
+5,CiSt2,,2.3,False,0.0,0,0,0,0,-1,0,1,0,0,,2.3
+6,CCoSp2,,2.5,False,-0.24,-1,-1,-1,0,-1,-1,0,-1,-1,,2.26
+7,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,,1.8
+8,CSSp3,,2.6,False,-0.12,0,-1,0,0,-1,0,-1,-1,-1,,2.48
+,,,21.6,,,,,,,,,,,,,20.36
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,3.75,4.0,4.0,4.25,3.75,3.75,4.5,3.75,3.75,,3.95
+,Transition / Linking Footwork  ,,,,1.0,3.25,3.5,3.25,4.0,3.25,3.25,4.0,3.25,3.5,,3.45
+,Performance / Execution  ,,,,1.0,3.75,4.0,3.5,4.0,3.5,3.25,4.5,3.25,3.5,,3.75
+,Choreography / Composition  ,,,,1.0,4.0,4.5,3.5,4.5,3.75,3.5,5.75,3.5,3.25,,4.05
+,Interpretation  ,,,,1.0,3.75,4.25,3.75,4.25,3.5,3.5,5.25,3.75,3.5,,3.9
+,,,,,,,,,,,,,,,,19.1

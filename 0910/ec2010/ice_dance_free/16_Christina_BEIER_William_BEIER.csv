@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Christina BEIER / William BEIER,GER,2,69.5,36.5,33.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,5.5,False,0.4,1,0,0,1,1,0,1,0,1,,5.9
+2,RoLi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,DiSt2,,5.4,False,-0.4,-1,0,0,-1,0,0,0,-1,-1,,5.0
+4,CoSp4,,4.7,False,0.1,0,0,0,0,1,0,1,0,0,,4.8
+5,SeLi4,,8.0,False,0.4,1,1,0,0,1,0,1,1,1,,8.4
+6,CiSt3,,7.2,False,0.0,-1,0,0,0,0,0,0,-1,0,,7.2
+7,SlLi4,,5.0,False,0.2,1,1,0,0,0,0,0,1,1,,5.2
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,35.8,,,,,,,,,,,,,36.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.0,5.5,6.0,5.5,5.75,5.75,5.75,6.25,6.25,,5.8
+,Linking Footwork / Movement  ,,,,1.75,5.25,5.5,5.5,4.75,5.0,5.5,5.5,6.0,4.25,,5.2
+,Performance  ,,,,1.0,5.25,5.75,5.5,5.0,5.75,5.5,5.5,5.75,5.25,,5.45
+,Choreography  ,,,,1.0,5.75,5.5,6.0,5.5,5.5,5.75,5.75,6.25,5.5,,5.6
+,Interpretation / Timing  ,,,,1.0,5.0,5.75,5.75,5.25,5.5,5.75,5.75,5.75,6.0,,5.6
+,,,,,,,,,,,,,,,,33.0

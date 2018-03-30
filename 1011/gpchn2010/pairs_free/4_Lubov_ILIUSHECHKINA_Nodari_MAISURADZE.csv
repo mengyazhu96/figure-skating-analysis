@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Lubov ILIUSHECHKINA / Nodari MAISURADZE,RUS,5,106.24,53.26,52.98,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S<,<,2.9,False,-0.7,-1,-1,-1,-1,-1,-2,-1,-1,-1,,2.2
+2,3LzTw2,,5.4,False,1.1,1,1,2,3,1,2,1,2,2,,6.5
+3,2T+2T+SEQ,,2.24,False,-0.29,0,-2,-2,-2,0,-2,-2,-2,0,,1.95
+4,3FTh,,5.5,False,0.3,0,1,0,0,1,0,-1,1,1,,5.8
+5,5TLi2,,5.0,False,0.57,0,1,1,2,1,1,1,1,2,,5.57
+6,PCoSp2,,3.5,False,0.14,0,0,1,0,0,0,1,1,0,,3.64
+7,3LoTh,,5.5,True,1.3,1,2,1,2,2,2,2,2,2,,6.8
+8,5ALi3,,6.6,True,0.4,1,0,0,0,1,1,1,0,1,,7.0
+9,CCoSp3,,3.0,False,0.36,0,0,1,2,1,1,1,0,1,,3.36
+10,3Li4,,4.4,True,0.21,0,0,0,0,1,1,1,0,1,,4.61
+11,ChSp1,,2.0,False,0.43,0,0,1,0,0,1,0,1,1,,2.43
+12,FiDs2,,3.0,False,0.4,0,0,1,0,0,1,1,1,1,,3.4
+,,,49.04,,,,,,,,,,,,,53.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,6.5,7.0,7.25,7.0,6.25,7.25,6.25,6.5,,6.68
+,Transition / Linking Footwork  ,,,,1.6,5.5,6.5,6.75,7.0,6.75,6.0,6.75,5.5,6.5,,6.39
+,Performance / Execution  ,,,,1.6,6.0,6.5,7.0,7.0,7.25,6.5,7.25,6.0,6.5,,6.68
+,Choreography / Composition  ,,,,1.6,5.75,6.75,7.0,7.0,7.25,6.25,7.25,6.5,6.5,,6.75
+,Interpretation  ,,,,1.6,6.0,6.5,6.75,6.5,7.25,6.75,7.0,5.75,6.75,,6.61
+,,,,,,,,,,,,,,,,52.98

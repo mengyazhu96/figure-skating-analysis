@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Emi HIRAI / Marien DE LA ASUNCION,JPN,7,74.87,39.98,34.89,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.69,2,1,1,2,1,1,0,1,1,,7.29
+2,CiSt1,,4.1,False,0.09,2,-1,0,1,0,0,0,0,0,,4.19
+3,CuLi4,,4.5,False,0.69,2,1,1,1,1,1,0,1,2,,5.19
+4,SlLi4+RoLi4,,9.0,False,1.03,2,0,1,1,0,2,0,1,1,,10.03
+5,DiSt3,,7.1,False,-0.14,0,-1,0,0,0,0,-1,0,0,,6.96
+6,CoSp4,,5.6,False,-0.14,0,0,-1,0,0,-1,-1,0,0,,5.46
+7,ChSp1,,0.6,False,0.26,1,-1,0,1,0,1,0,0,1,,0.86
+,,,37.5,,,,,,,,,,,,,39.98
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.5,6.0,5.75,6.25,5.75,5.75,5.5,5.5,7.0,,5.93
+,Linking Footwork / Movement  ,,,,1.2,6.0,5.5,5.25,6.0,5.5,5.25,5.0,5.0,6.5,,5.5
+,Performance  ,,,,1.2,6.5,5.75,5.75,6.5,5.25,6.25,4.75,5.5,7.0,,5.93
+,Choreography  ,,,,1.2,6.0,5.5,6.0,6.25,5.75,6.0,5.0,5.75,6.75,,5.89
+,Interpretation / Timing  ,,,,1.2,6.5,5.5,5.5,6.25,5.75,5.75,5.0,5.5,6.75,,5.82
+,,,,,,,,,,,,,,,,34.89

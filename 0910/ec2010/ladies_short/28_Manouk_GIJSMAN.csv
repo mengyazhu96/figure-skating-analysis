@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Manouk GIJSMAN,NED,19,34.96,20.12,15.84,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+COMBO,,5.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+2,2F,e,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+3,FSSp2,,2.3,False,0.0,0,0,0,0,-1,0,0,-1,-1,,2.3
+4,SpSq3,,3.1,False,0.1,1,1,0,0,0,0,0,1,1,,3.2
+5,2A,,3.5,False,0.0,0,0,0,0,0,0,0,1,0,,3.5
+6,LSp3,,2.4,False,0.4,0,1,1,0,1,1,1,1,1,,2.8
+7,SlSt3,,3.3,False,0.0,0,1,0,0,0,0,0,1,1,,3.3
+8,CCoSp2,,2.5,False,-0.18,-1,-1,-1,0,-1,0,0,0,0,,2.32
+,,,23.8,,,,,,,,,,,,,20.12
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.25,4.0,3.75,3.75,4.5,4.0,5.5,4.0,,3.95
+,Transition / Linking Footwork  ,,,,0.8,4.0,4.0,4.0,3.5,3.5,4.0,3.75,5.0,3.25,,3.85
+,Performance / Execution  ,,,,0.8,4.25,4.25,4.25,4.0,4.0,4.5,4.0,5.25,4.0,,4.15
+,Choreography / Composition  ,,,,0.8,3.75,4.0,4.0,3.75,3.75,4.25,3.75,5.5,3.75,,3.85
+,Interpretation  ,,,,0.8,4.0,4.25,4.0,3.75,3.75,4.25,4.0,5.0,4.0,,4.0
+,,,,,,,,,,,,,,,,15.84
+Deduction,Falls,-1.0

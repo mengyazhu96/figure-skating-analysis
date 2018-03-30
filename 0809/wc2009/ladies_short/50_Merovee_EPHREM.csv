@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+50,Merovee EPHREM,MON,3,25.3,13.82,12.48,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+COMBO,,4.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,2Lo,,1.5,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.5
+3,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+4,CCoSp4,,3.5,False,0.3,0,1,0,1,1,0,0,1,0,,3.8
+5,SpSq3,,3.1,False,-0.28,0,0,-1,0,-1,0,0,-1,-1,,2.82
+6,FSSp1,,2.0,False,-0.24,0,-1,-1,-1,0,-1,-2,0,-1,,1.76
+7,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,-1,0,,1.8
+8,LSp2,,1.9,False,-0.06,0,0,0,1,0,-1,-1,0,0,,1.84
+,,,18.6,,,,,,,,,,,,,13.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.25,4.0,3.25,3.0,2.75,3.0,3.5,3.25,3.25,,3.2
+,Transition / Linking Footwork  ,,,,0.8,3.0,3.5,2.75,2.75,2.5,2.0,3.0,2.75,2.75,,2.75
+,Performance / Execution  ,,,,0.8,2.75,3.75,3.0,3.5,2.75,3.25,3.5,3.25,3.0,,3.3
+,Choreography / Composition  ,,,,0.8,3.0,3.75,3.0,3.25,2.75,3.0,3.5,3.0,3.25,,3.2
+,Interpretation  ,,,,0.8,3.0,4.0,2.75,3.5,3.0,3.0,3.25,3.0,3.0,,3.15
+,,,,,,,,,,,,,,,,12.48
+Deduction,Falls,-1.0

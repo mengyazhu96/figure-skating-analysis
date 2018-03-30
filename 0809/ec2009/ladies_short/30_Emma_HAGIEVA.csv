@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Emma HAGIEVA,AZE,0,33.96,21.08,13.88,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo,,5.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+2,3S+2T,,5.8,False,-1.0,-1,-1,-1,-1,-1,-1,-1,-2,-1,,4.8
+3,2A,,3.5,False,0.0,-1,-1,0,0,0,0,0,0,0,,3.5
+4,FSSp1,,2.0,False,-0.18,-1,-1,0,0,-1,-1,-1,-1,0,,1.82
+5,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,-1,,1.8
+6,CCoSp4,,3.5,False,-0.18,-1,0,0,-1,-1,1,-1,-1,0,,3.32
+7,SpSq1,,1.8,False,-0.06,-1,-2,0,0,0,0,0,0,-1,,1.74
+8,LSp2,,1.9,False,0.2,1,1,0,0,0,1,0,0,1,,2.1
+,,,25.3,,,,,,,,,,,,,21.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.0,3.5,3.75,4.0,3.75,3.5,3.5,4.75,,3.75
+,Transition / Linking Footwork  ,,,,0.8,2.75,3.5,3.0,3.25,3.75,3.25,3.0,3.25,2.75,,3.1
+,Performance / Execution  ,,,,0.8,3.75,3.5,3.25,3.5,3.75,4.0,3.5,3.25,3.75,,3.6
+,Choreography / Composition  ,,,,0.8,3.0,3.75,3.5,3.5,3.5,3.75,3.0,3.25,3.75,,3.5
+,Interpretation  ,,,,0.8,3.0,3.25,3.25,3.5,3.5,3.75,3.25,3.5,3.25,,3.4
+,,,,,,,,,,,,,,,,13.88
+Deduction,Falls,-1.0

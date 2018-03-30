@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Mari VARTMANN / Aaron VAN CLEAVE,GER,4,48.43,24.79,24.64,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3TwB,,4.6,False,0.2,0,1,-1,0,2,0,1,0,0,,4.8
+2,3T,,4.1,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.0
+3,3STh,,4.5,False,-0.4,-1,-1,0,0,1,0,-1,-1,-1,,4.1
+4,FiDs3,,3.2,False,-0.4,-2,-1,1,0,-2,1,0,-1,-1,,2.8
+5,FCCoSp3p4,,3.5,False,0.29,0,1,1,1,1,1,0,0,0,,3.79
+6,StSq3,,3.3,False,0.07,0,0,1,0,0,0,1,0,0,,3.37
+7,3Li4,,4.0,False,-0.07,1,0,-1,0,0,0,0,0,-1,,3.93
+,,,27.2,,,,,,,,,,,,,24.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,6.75,6.5,6.5,5.75,6.5,6.5,6.5,5.75,,6.32
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.25,6.25,6.0,5.25,6.25,6.0,5.75,5.75,,6.04
+,Performance / Execution  ,,,,0.8,5.75,6.5,6.75,6.25,5.25,6.25,6.25,6.0,5.75,,6.11
+,Choreography / Composition  ,,,,0.8,6.25,6.75,6.75,6.0,5.5,6.5,6.0,6.25,5.75,,6.21
+,Interpretation  ,,,,0.8,5.75,6.25,6.5,6.0,5.25,6.5,6.25,6.0,6.0,,6.11
+,,,,,,,,,,,,,,,,24.64
+Deduction,Falls,-1.0

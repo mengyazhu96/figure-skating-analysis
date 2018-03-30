@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Max AARON,USA,21,78.2,43.56,34.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4S+2T,,11.8,False,0.14,0,0,1,0,0,1,0,0,0,,11.94
+2,3Lz,,6.0,False,0.8,2,1,1,1,1,2,1,0,1,,6.8
+3,FCSp2,,2.3,False,0.21,0,1,1,0,0,1,1,0,0,,2.51
+4,3A,,9.35,True,0.71,1,1,2,1,0,1,0,0,1,,10.06
+5,CSSp4,,3.0,False,0.36,2,1,1,0,1,1,0,-1,1,,3.36
+6,StSq4,,3.9,False,0.7,2,1,1,1,1,1,0,1,1,,4.6
+7,CCoSp4,,3.5,False,0.79,2,2,2,0,1,2,1,1,2,,4.29
+,,,39.85,,,,,,,,,,,,,43.56
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,7.25,6.75,7.25,7.0,8.0,7.25,7.25,7.25,,7.14
+,Transition / Linking Footwork  ,,,,1.0,6.0,7.0,5.75,5.75,6.5,7.5,6.5,7.0,6.75,,6.5
+,Performance / Execution  ,,,,1.0,6.5,7.5,7.0,7.0,6.5,8.0,7.5,7.0,7.0,,7.07
+,Choreography / Composition  ,,,,1.0,5.5,7.25,6.75,6.75,6.5,7.75,7.0,7.25,6.75,,6.89
+,Interpretation  ,,,,1.0,6.25,7.25,6.75,7.0,6.75,8.0,7.25,7.25,7.0,,7.04
+,,,,,,,,,,,,,,,,34.64

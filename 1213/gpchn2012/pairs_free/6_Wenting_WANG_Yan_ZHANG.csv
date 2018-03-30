@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Wenting WANG / Yan ZHANG,CHN,1,93.73,51.83,42.9,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Tw2,,7.6,False,-1.71,-2,-2,-2,-2,-2,-1,-1,-1,-2,,5.89
+2,3S<<+SEQ,<<,1.04,False,-0.6,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.44
+3,2A<,<,2.3,False,-0.57,-1,-1,-2,-1,-1,-2,-1,-1,-1,,1.73
+4,BiDs3,,3.2,False,0.1,0,1,0,0,0,0,1,0,0,,3.3
+5,ChSq1,,2.0,False,0.0,0,0,0,0,0,0,-1,0,0,,2.0
+6,FCCoSp4,,3.5,False,0.14,0,1,0,1,0,1,0,0,0,,3.64
+7,5RLi3,,7.15,True,0.5,0,1,1,1,0,1,1,1,0,,7.65
+8,3FTh,,6.05,True,-0.3,-1,0,-1,0,0,0,-1,0,-1,,5.75
+9,3LoTh,,5.5,True,0.8,2,1,1,1,0,2,1,2,0,,6.3
+10,4Li3,,3.85,True,0.36,1,0,1,1,1,0,1,1,0,,4.21
+11,5BLi4,,7.15,True,0.2,1,1,-1,1,0,0,2,0,-1,,7.35
+12,PCoSp2,,3.5,False,0.07,1,0,0,0,0,0,1,0,0,,3.57
+,,,52.84,,,,,,,,,,,,,51.83
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.75,6.0,5.25,5.75,5.75,5.25,5.5,5.25,5.5,,5.54
+,Transition / Linking Footwork  ,,,,1.6,5.25,5.5,5.0,5.25,5.0,5.5,5.0,4.75,5.0,,5.14
+,Performance / Execution  ,,,,1.6,5.5,6.25,5.25,5.5,5.5,5.75,5.25,5.0,5.0,,5.39
+,Choreography / Composition  ,,,,1.6,5.75,6.5,5.25,5.75,5.5,5.5,5.0,4.75,5.25,,5.43
+,Interpretation  ,,,,1.6,5.5,6.0,5.0,5.5,5.25,5.75,5.0,5.25,5.0,,5.32
+,,,,,,,,,,,,,,,,42.9
+Deduction,Falls,-1.0

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+39,Zanna PUGACA,LAT,4,29.04,16.92,13.12,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,0.4,1,0,0,0,0,1,1,0,0,,3.9
+2,3S<+2T,<,2.6,False,-0.76,-3,-3,-2,-3,-2,-2,-2,-3,-3,,1.84
+3,3Lo<,<,1.5,False,-0.56,-3,-2,-1,-2,-1,-2,-1,-3,-2,,0.94
+4,FSSp3,,2.6,False,0.1,-1,0,1,0,0,0,0,1,0,,2.7
+5,SlSt1,,1.8,False,-1.0,-3,-3,-2,-3,-3,-3,-3,-3,-3,,0.8
+6,LSp2,,1.9,False,-0.06,0,0,0,0,-1,-1,0,1,0,,1.84
+7,SpSq3,,3.1,False,0.1,1,0,0,0,-1,1,0,0,0,,3.2
+8,CCoSp1,,2.0,False,-0.3,-1,-2,-1,-1,-1,-1,0,-1,-1,,1.7
+,,,19.0,,,,,,,,,,,,,16.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.25,4.5,3.5,3.5,3.5,3.25,3.5,3.75,3.75,,3.45
+,Transition / Linking Footwork  ,,,,0.8,2.5,4.25,3.25,3.25,3.0,3.25,3.0,3.5,3.0,,3.15
+,Performance / Execution  ,,,,0.8,3.0,4.5,3.5,3.0,3.25,3.25,3.25,4.0,3.5,,3.25
+,Choreography / Composition  ,,,,0.8,3.0,4.5,3.5,3.25,3.25,3.5,3.0,3.75,3.5,,3.3
+,Interpretation  ,,,,0.8,3.0,4.0,3.25,3.5,3.5,3.0,3.25,3.25,3.25,,3.25
+,,,,,,,,,,,,,,,,13.12
+Deduction,Falls,-1.0

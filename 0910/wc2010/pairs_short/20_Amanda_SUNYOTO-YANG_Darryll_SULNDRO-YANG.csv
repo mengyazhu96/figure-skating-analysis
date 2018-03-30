@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Amanda SUNYOTO-YANG / Darryll SULNDRO-YANG,TPE,3,41.28,25.84,16.44,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,-2.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,3LzTw1,,5.0,False,-1.4,-2,-2,-2,-2,-2,-2,-1,-2,-2,,3.6
+3,3STh,,4.5,False,-0.84,-2,-2,-1,-1,-1,-2,-1,-1,-1,,3.66
+4,BoDs3,,4.0,False,0.56,1,1,1,0,1,1,1,0,1,,4.56
+5,CCoSp3,,3.0,False,-0.18,-1,-3,0,-2,-1,0,-1,0,-1,,2.82
+6,SlSt2,,2.3,False,0.1,0,-1,0,0,-1,-1,1,0,1,,2.4
+7,4Li3,,3.5,False,-0.2,-1,0,0,0,0,-1,0,0,-1,,3.3
+8,PCoSp4,,4.5,False,0.0,0,0,1,-2,0,0,0,0,0,,4.5
+,,,30.3,,,,,,,,,,,,,25.84
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.25,4.5,4.25,4.0,4.0,3.5,4.5,4.25,,4.2
+,Transition / Linking Footwork  ,,,,0.8,3.75,3.75,4.0,4.0,3.25,3.5,3.75,4.0,4.75,,3.9
+,Performance / Execution  ,,,,0.8,4.0,4.0,4.25,4.25,3.5,4.25,3.25,4.25,4.25,,4.2
+,Choreography / Composition  ,,,,0.8,4.0,4.0,4.0,4.25,3.5,3.75,4.0,4.25,5.0,,4.1
+,Interpretation  ,,,,0.8,4.0,4.0,4.25,4.5,3.25,4.0,4.0,4.5,4.0,,4.15
+,,,,,,,,,,,,,,,,16.44
+Deduction,Falls,-1.0

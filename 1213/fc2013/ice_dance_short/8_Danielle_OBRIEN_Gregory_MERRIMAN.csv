@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Danielle OBRIEN / Gregory MERRIMAN,AUS,4,48.81,27.0,21.81,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.5,1,1,1,1,1,1,2,1,1,,6.5
+2,1YP3+kpYYN,,6.0,False,0.07,0,0,-1,0,0,0,1,0,1,,6.07
+3,2YP3+kpNYY,,6.0,False,0.14,1,0,-1,0,0,0,1,0,1,,6.14
+4,SlLi4,,4.0,False,0.43,0,1,0,1,1,1,1,1,1,,4.43
+5,NtMiSt2,,5.0,False,-1.14,-1,0,-2,-1,-3,0,-1,-1,-2,,3.86
+,,,27.0,,,,,,,,,,,,,27.0
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.25,5.0,4.75,5.5,5.5,5.5,5.75,6.0,,5.46
+,Linking Footwork / Movement  ,,,,0.7,5.0,5.0,4.75,4.75,5.75,5.25,5.25,5.75,6.25,,5.25
+,Performance  ,,,,0.7,5.5,5.0,5.0,5.0,5.75,5.25,5.5,5.5,6.0,,5.36
+,Choreography  ,,,,0.8,5.75,5.25,5.0,5.0,6.25,5.5,5.75,6.0,6.5,,5.64
+,Interpretation / Timing  ,,,,1.0,5.5,5.0,4.75,5.0,5.75,5.5,5.75,6.0,6.5,,5.5
+,,,,,,,,,,,,,,,,21.81

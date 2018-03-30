@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Yuzuru HANYU,JPN,1,79.33,43.26,36.07,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,-2.43,-3,-2,-2,-3,-2,-3,-2,-3,-2,,7.87
+2,3A,,8.5,False,1.0,1,1,0,1,1,0,2,2,1,,9.5
+3,FCSp4,,3.2,False,0.71,2,2,1,1,1,1,1,2,2,,3.91
+4,3Lz+3T,,10.1,False,0.3,1,1,0,0,0,1,0,0,2,,10.4
+5,SlSt3,,3.3,False,0.64,2,1,1,0,1,2,1,1,2,,3.94
+6,CSSp4,,3.0,False,0.43,1,1,1,1,0,0,1,2,1,,3.43
+7,CCoSp4,,3.5,False,0.71,2,1,2,1,1,1,2,1,2,,4.21
+,,,41.9,,,,,,,,,,,,,43.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.25,7.75,7.0,8.0,7.75,7.0,6.5,7.75,,7.43
+,Transition / Linking Footwork  ,,,,1.0,7.0,6.75,7.75,6.75,7.0,7.0,6.5,6.0,7.5,,6.93
+,Performance / Execution  ,,,,1.0,7.5,7.0,8.0,6.75,7.25,7.5,6.75,7.0,7.5,,7.21
+,Choreography / Composition  ,,,,1.0,7.75,6.75,8.0,7.0,7.5,7.5,7.0,6.75,7.5,,7.29
+,Interpretation  ,,,,1.0,7.5,7.0,8.0,7.0,7.25,7.5,6.75,6.5,7.5,,7.21
+,,,,,,,,,,,,,,,,36.07

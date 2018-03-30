@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Sonia LAFUENTE,ESP,22,47.34,25.23,22.11,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F,,5.3,False,0.0,-1,0,-1,1,0,0,1,0,0,,5.3
+2,3Lo+2T,,6.4,False,0.1,0,1,0,0,0,0,1,0,0,,6.5
+3,2A<,<,2.3,False,-0.64,-2,-1,-2,-1,-1,-1,-1,-1,-2,,1.66
+4,FCSp2,,2.3,False,-0.09,0,-2,-1,-1,0,0,0,0,0,,2.21
+5,LSp3,,2.4,False,0.29,0,0,0,1,1,1,1,1,0,,2.69
+6,SlSt3,,3.3,False,0.14,0,0,0,0,0,1,1,1,0,,3.44
+7,CCoSp3,,3.0,False,0.43,0,1,1,1,2,1,1,1,0,,3.43
+,,,25.0,,,,,,,,,,,,,25.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,5.75,5.75,6.0,6.0,5.5,6.0,6.5,5.25,,5.79
+,Transition / Linking Footwork  ,,,,0.8,4.75,5.5,5.5,5.75,5.75,4.75,5.25,6.0,4.75,,5.32
+,Performance / Execution  ,,,,0.8,5.25,5.75,5.75,6.0,6.0,5.25,5.5,6.75,5.0,,5.64
+,Choreography / Composition  ,,,,0.8,5.0,5.25,5.5,5.75,5.75,5.25,5.75,6.0,5.25,,5.5
+,Interpretation  ,,,,0.8,5.25,5.5,5.5,5.75,5.5,5.0,5.25,6.5,5.0,,5.39
+,,,,,,,,,,,,,,,,22.11

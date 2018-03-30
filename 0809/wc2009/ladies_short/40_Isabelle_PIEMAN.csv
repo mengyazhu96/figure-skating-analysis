@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+40,Isabelle PIEMAN,BEL,27,32.04,17.04,15.0,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+2,3T+COMBO,,4.0,False,-3.0,-3,-3,-3,-2,-3,-3,-3,-3,-3,,1.0
+3,3S,,4.5,False,-1.4,0,-1,0,-2,-1,-2,0,-1,-2,,3.1
+4,FCSp3,,2.8,False,0.1,1,1,0,0,1,0,0,0,0,,2.9
+5,SpSq2,,2.3,False,0.0,0,0,1,0,0,1,0,0,0,,2.3
+6,SlSt3,,3.3,False,0.1,0,1,1,0,1,0,0,0,0,,3.4
+7,LSp2,,1.9,False,-0.06,0,0,0,0,0,-1,0,-1,0,,1.84
+8,CCoSp2,,2.5,False,-0.3,0,0,-1,0,-1,-1,-2,-1,-2,,2.2
+,,,22.1,,,,,,,,,,,,,17.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,3.75,4.0,4.0,3.75,4.25,3.75,3.75,3.5,,3.8
+,Transition / Linking Footwork  ,,,,0.8,3.25,3.5,3.75,3.75,3.5,3.5,3.5,3.5,2.5,,3.5
+,Performance / Execution  ,,,,0.8,3.5,4.0,4.0,4.0,3.75,4.5,3.75,4.25,3.25,,3.95
+,Choreography / Composition  ,,,,0.8,3.5,3.75,4.5,4.25,3.5,3.75,3.5,4.0,3.0,,3.7
+,Interpretation  ,,,,0.8,3.5,3.75,4.75,4.25,4.0,3.75,3.5,4.0,2.75,,3.8
+,,,,,,,,,,,,,,,,15.0

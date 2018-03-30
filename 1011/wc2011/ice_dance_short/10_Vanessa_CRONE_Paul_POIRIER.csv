@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Vanessa CRONE / Paul POIRIER,CAN,18,61.01,31.85,29.16,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.93,1,2,2,1,2,2,2,2,2,,4.93
+2,GW1Se4,,6.0,False,0.5,0,1,1,1,1,1,1,1,1,,6.5
+3,GW2Se4,,8.0,False,0.64,0,1,1,1,2,1,1,2,2,,8.64
+4,NtMiSt3,,6.5,False,1.71,1,2,2,1,2,2,2,1,2,,8.21
+5,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,STw2,,4.0,False,-0.43,-1,-1,-1,-1,0,-1,-1,-1,0,,3.57
+,,,28.5,,,,,,,,,,,,,31.85
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,7.5,7.5,7.5,7.75,7.0,7.5,7.75,7.0,,7.39
+,Linking Footwork / Movement  ,,,,0.7,6.25,7.5,7.75,7.25,7.5,7.0,7.5,7.5,7.0,,7.32
+,Performance  ,,,,0.7,6.75,7.5,7.25,7.25,7.75,7.0,7.5,7.5,7.0,,7.29
+,Choreography  ,,,,0.8,6.25,7.25,7.25,7.25,7.75,7.25,6.25,7.75,7.25,,7.18
+,Interpretation / Timing  ,,,,1.0,6.75,7.25,7.0,7.5,7.5,7.0,7.5,7.75,7.25,,7.29
+,,,,,,,,,,,,,,,,29.16

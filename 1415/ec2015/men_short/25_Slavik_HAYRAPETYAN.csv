@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Slavik HAYRAPETYAN,ARM,10,48.93,25.22,24.71,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,0.2,1,0,1,1,-1,0,-1,1,0,,6.2
+2,3A<<,<<,3.3,False,-1.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.8
+3,CSSp4,,3.0,False,0.0,0,0,0,0,0,0,-1,0,0,,3.0
+4,3S+2T,,6.05,True,-1.6,-3,-2,-2,-3,-2,-2,-3,-1,-2,,4.45
+5,StSq3,,3.3,False,0.0,0,0,-1,0,0,0,0,1,0,,3.3
+6,FCSp4,,3.2,False,-0.3,-1,0,-1,-1,-2,-1,-2,-1,0,,2.9
+7,CCoSp3p4,,3.5,False,0.07,0,0,0,1,0,0,1,0,0,,3.57
+,,,28.35,,,,,,,,,,,,,25.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.5,5.0,5.5,4.75,5.25,5.25,4.75,5.0,,5.18
+,Transition / Linking Footwork  ,,,,1.0,4.0,5.0,4.5,4.75,4.5,5.0,4.75,4.25,5.0,,4.68
+,Performance / Execution  ,,,,1.0,4.75,5.0,4.75,5.25,4.75,5.25,5.0,4.5,5.25,,4.96
+,Choreography / Composition  ,,,,1.0,5.25,5.25,5.0,5.5,4.5,5.0,4.25,4.25,5.0,,4.89
+,Interpretation  ,,,,1.0,5.0,5.0,5.0,5.5,4.75,5.0,4.75,4.75,5.5,,5.0
+,,,,,,,,,,,,,,,,24.71
+Deduction,Falls,-1.0

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Tina GARABEDIAN / Simon PROULX-SENECAL,ARM,15,47.11,24.13,22.98,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RW2+kpTYN,,3.8,False,0.0,0,0,0,0,0,0,-1,0,0,,3.8
+2,2RW1+kpTNN,,3.2,False,-0.29,-1,0,-1,0,-1,-1,0,-1,1,,2.91
+3,STw4,,6.6,False,0.26,0,1,0,1,0,1,1,0,0,,6.86
+4,PSt2,,5.6,False,-0.14,-1,0,-1,0,0,0,0,0,0,,5.46
+5,RoLi4,,4.5,False,0.6,1,2,1,1,1,1,0,1,1,,5.1
+,,,23.7,,,,,,,,,,,,,24.13
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,6.0,5.75,7.0,6.0,6.5,4.75,5.5,5.75,,5.93
+,Linking Footwork / Movement  ,,,,0.8,5.75,5.5,5.5,6.5,5.75,5.75,4.5,5.25,5.75,,5.61
+,Performance  ,,,,0.8,5.75,5.75,5.25,7.25,6.0,6.0,5.25,5.5,6.0,,5.75
+,Choreography  ,,,,0.8,5.5,6.75,5.75,7.0,5.75,5.5,4.75,5.75,5.75,,5.82
+,Interpretation / Timing  ,,,,0.8,5.25,6.0,5.0,7.25,6.0,5.75,4.5,5.5,5.75,,5.61
+,,,,,,,,,,,,,,,,22.98

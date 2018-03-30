@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Xiaoyang YU / Chen WANG,CHN,3,45.33,23.99,21.34,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,GW1Se1,,2.5,False,0.21,0,0,0,1,0,1,0,1,1,,2.71
+2,GW2Se3,,7.0,False,0.0,0,-1,0,0,0,0,0,0,0,,7.0
+3,STw3,,5.0,False,0.0,0,0,0,0,0,1,0,0,0,,5.0
+4,RoLi4,,4.0,False,0.14,0,0,0,1,0,1,0,1,0,,4.14
+5,NtMiSt2,,5.0,False,0.14,0,-1,0,0,0,1,0,1,0,,5.14
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,23.5,,,,,,,,,,,,,23.99
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,4.5,5.5,5.5,5.5,5.75,5.0,5.0,6.25,,5.36
+,Linking Footwork / Movement  ,,,,0.7,5.0,4.0,5.25,4.75,5.0,5.75,5.0,5.0,6.25,,5.11
+,Performance  ,,,,0.7,5.0,4.5,5.5,5.75,5.5,5.5,5.25,5.25,6.5,,5.39
+,Choreography  ,,,,0.8,5.0,4.5,5.5,6.0,5.25,6.0,5.25,5.0,6.25,,5.43
+,Interpretation / Timing  ,,,,1.0,5.25,4.5,5.0,5.75,5.25,6.0,5.0,5.25,6.5,,5.36
+,,,,,,,,,,,,,,,,21.34

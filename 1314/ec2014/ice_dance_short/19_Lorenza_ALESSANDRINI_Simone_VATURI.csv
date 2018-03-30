@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Lorenza ALESSANDRINI / Simone VATURI,ITA,16,50.24,26.0,24.24,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.0,0,0,0,-1,0,1,0,0,0,,6.0
+2,1FS2+kpNYN,,5.0,False,-0.14,0,-1,0,0,0,-1,0,1,-1,,4.86
+3,2FS2+kpYNN,,5.0,False,0.0,0,0,0,0,0,-1,0,0,0,,5.0
+4,RoLi4,,4.0,False,0.71,1,0,2,1,2,2,1,2,1,,4.71
+5,NtMiSt2,,5.0,False,0.43,1,0,1,0,0,1,0,1,-1,,5.43
+,,,25.0,,,,,,,,,,,,,26.0
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,5.5,6.25,6.25,5.75,7.0,5.75,6.5,5.75,,6.07
+,Linking Footwork / Movement  ,,,,0.7,6.0,5.25,6.0,6.0,5.5,6.25,5.5,6.0,5.5,,5.79
+,Performance  ,,,,0.7,6.0,5.5,6.0,6.5,6.0,7.0,6.25,6.5,6.25,,6.21
+,Choreography  ,,,,0.8,6.25,5.75,6.5,6.25,6.0,7.0,6.0,6.25,6.0,,6.18
+,Interpretation / Timing  ,,,,1.0,6.5,5.5,6.25,6.25,5.75,6.75,5.5,6.5,5.5,,6.04
+,,,,,,,,,,,,,,,,24.24

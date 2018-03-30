@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,Allison REED / Vasili ROGOV,ISR,10,49.74,25.71,24.03,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.51,1,1,0,1,1,0,1,1,1,,7.11
+2,NtDiSt2,,5.6,False,0.47,0,0,0,2,1,0,1,1,0,,6.07
+3,SlLi4,,4.5,False,0.6,1,1,0,2,1,1,1,1,1,,5.1
+4,1PD2+kpYNN,,4.0,False,0.34,1,0,-1,1,0,0,1,1,1,,4.34
+5,PSt1+kpTNN,,3.0,False,0.09,0,0,0,1,1,-1,0,0,0,,3.09
+,,,23.7,,,,,,,,,,,,,25.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.0,5.75,6.75,6.5,5.5,5.75,6.25,6.25,,6.04
+,Linking Footwork / Movement  ,,,,0.8,5.75,5.75,5.5,6.75,6.25,5.0,5.5,6.0,6.0,,5.82
+,Performance  ,,,,0.8,6.0,6.0,5.75,7.0,6.75,5.5,6.0,6.5,6.0,,6.14
+,Choreography  ,,,,0.8,6.25,6.25,5.5,7.0,6.0,5.5,5.75,6.5,6.25,,6.07
+,Interpretation / Timing  ,,,,0.8,6.0,6.0,5.75,7.25,5.75,5.5,6.0,6.25,6.0,,5.96
+,,,,,,,,,,,,,,,,24.03

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Jialiang WU,CHN,0,62.74,36.94,25.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,0.6,1,0,1,0,0,1,0,2,0,,10.6
+2,3A,,8.2,False,0.6,1,1,0,0,0,1,0,1,0,,8.8
+3,CCoSp4,,3.5,False,-0.36,-1,-2,-1,-2,-2,-2,0,0,0,,3.14
+4,3Lo,,5.0,False,-1.2,-1,-2,-1,-1,-2,-2,-1,-1,0,,3.8
+5,CiSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+6,FSSp4,,3.0,False,0.0,0,0,0,0,-1,0,-1,0,0,,3.0
+7,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+8,CSSp4,,3.0,False,0.0,0,0,0,0,0,0,-1,0,-1,,3.0
+,,,37.3,,,,,,,,,,,,,36.94
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.5,5.5,5.25,5.25,5.0,5.5,5.75,5.75,,5.5
+,Transition / Linking Footwork  ,,,,1.0,4.75,5.0,5.25,5.0,4.75,4.5,4.75,5.5,5.25,,4.95
+,Performance / Execution  ,,,,1.0,5.0,5.0,5.0,5.25,5.25,4.5,5.25,5.5,5.5,,5.1
+,Choreography / Composition  ,,,,1.0,5.0,5.0,5.25,5.0,5.0,4.5,5.0,5.25,5.5,,5.05
+,Interpretation  ,,,,1.0,4.75,5.0,5.25,5.75,5.25,5.0,5.0,5.75,5.75,,5.2
+,,,,,,,,,,,,,,,,25.8

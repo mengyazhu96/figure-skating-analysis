@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,Phoebe DI TOMMASO,AUS,10,33.48,20.64,14.84,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,!,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+2,3F+COMBO,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+3,LSp2,,1.9,False,0.0,1,0,0,0,0,0,1,0,0,,1.9
+4,SpSq2,,2.3,False,0.0,0,0,0,-1,0,0,0,0,1,,2.3
+5,2A,,3.5,False,-0.8,-1,-1,-1,-1,-1,-2,-1,-1,-1,,2.7
+6,FSSp4,,3.0,False,-0.06,0,0,0,-1,1,0,0,0,-1,,2.94
+7,SlSt2,,2.3,False,0.0,1,0,0,0,0,0,0,1,1,,2.3
+8,CCoSp3,,3.0,False,0.0,1,0,0,0,0,0,1,0,0,,3.0
+,,,27.5,,,,,,,,,,,,,20.64
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.0,4.75,4.25,4.25,3.75,3.25,4.0,3.75,,4.0
+,Transition / Linking Footwork  ,,,,0.8,3.75,4.0,3.25,3.5,3.75,3.0,2.75,3.5,3.0,,3.3
+,Performance / Execution  ,,,,0.8,4.0,3.75,4.0,4.0,3.75,3.25,3.25,3.75,3.5,,3.65
+,Choreography / Composition  ,,,,0.8,3.75,4.25,4.25,4.25,4.0,3.5,3.5,4.0,3.5,,3.9
+,Interpretation  ,,,,0.8,4.25,4.25,3.75,4.25,3.75,3.25,2.75,3.75,3.5,,3.7
+,,,,,,,,,,,,,,,,14.84
+Deduction,Falls,-2.0

@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Natalia POPOVA,UKR,2,69.05,36.17,34.88,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo<,<,1.5,False,-0.24,-1,-1,0,-1,-2,-2,-1,0,-1,,1.26
+2,3S+2T,,5.8,False,0.0,0,0,0,0,0,0,0,0,0,,5.8
+3,3T+2T+2Lo,,6.8,False,0.0,0,0,0,0,0,0,0,0,0,,6.8
+4,FCoSp3,,2.5,False,0.3,0,1,1,1,1,0,1,0,0,,2.8
+5,SpSq3,,3.1,False,0.0,1,2,0,0,0,0,0,0,0,,3.1
+6,3T,,4.4,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.4
+7,3S,,4.95,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.95
+8,2A+2T,,5.28,True,-0.48,0,-1,0,0,-1,-1,0,-1,-1,,4.8
+9,2A<,<,0.88,True,-0.32,-1,-2,-1,-2,-2,-2,-2,-1,-1,,0.56
+10,CCoSp4,,3.5,False,0.0,1,0,0,1,1,0,0,0,0,,3.5
+11,SlSt1,,1.8,False,0.0,0,1,0,0,0,0,0,0,0,,1.8
+12,LSp3,,2.4,False,0.0,1,0,0,0,0,1,0,0,0,,2.4
+,,,42.91,,,,,,,,,,,,,36.17
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.5,5.0,4.25,4.5,4.0,4.75,4.75,4.75,4.5,,4.65
+,Transition / Linking Footwork  ,,,,1.6,3.5,4.5,4.0,4.0,3.25,4.0,3.75,4.0,3.75,,3.95
+,Performance / Execution  ,,,,1.6,4.0,4.5,4.5,4.75,3.5,4.25,4.5,4.25,4.75,,4.5
+,Choreography / Composition  ,,,,1.6,4.0,5.0,4.0,4.75,3.25,4.5,4.5,4.25,4.0,,4.4
+,Interpretation  ,,,,1.6,3.75,4.25,4.5,4.5,3.0,4.0,4.75,4.0,4.25,,4.3
+,,,,,,,,,,,,,,,,34.88
+Deduction,Falls,-2.0

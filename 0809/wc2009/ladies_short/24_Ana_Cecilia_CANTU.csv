@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Ana Cecilia CANTU,MEX,20,41.58,24.38,17.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F,,5.5,False,-1.0,0,-1,0,-1,-1,-1,-1,-1,-1,,4.5
+2,3S+2Lo,,6.0,False,-0.2,0,0,0,0,-2,1,0,0,-1,,5.8
+3,CCoSp4,,3.5,False,0.6,1,1,1,2,1,1,1,2,1,,4.1
+4,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+5,SpSq3,,3.1,False,0.2,0,0,1,0,1,1,0,0,1,,3.3
+6,LSp2,,1.9,False,0.0,0,0,0,0,0,0,0,1,0,,1.9
+7,SlSt2,,2.3,False,0.0,1,0,1,0,1,0,0,0,0,,2.3
+8,FSSp2,,2.3,False,-0.12,0,0,0,-1,0,-1,-1,0,0,,2.18
+,,,25.4,,,,,,,,,,,,,24.38
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.25,4.25,4.75,3.75,4.0,4.25,4.5,4.5,,4.3
+,Transition / Linking Footwork  ,,,,0.8,3.5,3.25,4.0,4.25,3.5,3.5,4.25,4.25,4.0,,3.9
+,Performance / Execution  ,,,,0.8,4.0,4.0,4.5,4.5,4.0,4.5,4.5,5.25,5.0,,4.5
+,Choreography / Composition  ,,,,0.8,3.75,3.5,4.75,4.75,4.0,4.0,4.5,5.0,4.5,,4.35
+,Interpretation  ,,,,0.8,3.75,4.0,4.75,4.75,4.25,4.5,4.5,4.5,4.5,,4.45
+,,,,,,,,,,,,,,,,17.2

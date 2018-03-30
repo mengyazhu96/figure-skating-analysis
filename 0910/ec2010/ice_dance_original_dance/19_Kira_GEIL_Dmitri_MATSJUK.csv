@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Kira GEIL / Dmitri MATSJUK,AUT,14,42.57,22.8,20.77,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiSt3,,7.0,False,0.4,1,0,0,0,0,0,0,1,2,,7.4
+2,SlLi4,,5.0,False,0.1,0,1,0,0,0,0,1,0,0,,5.1
+3,CiSt3,,7.2,False,-0.2,0,0,0,-1,-1,0,-1,0,1,,7.0
+4,SqTw1,,4.5,False,-1.2,-2,-2,-3,-3,-2,-3,-3,-2,-3,,3.3
+5,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,23.7,,,,,,,,,,,,,22.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.25,5.25,4.75,5.5,5.5,5.5,5.75,6.0,,5.5
+,Linking Footwork / Movement  ,,,,0.8,5.5,5.25,4.75,5.0,5.0,5.25,5.25,5.5,4.5,,5.25
+,Performance  ,,,,0.6,5.5,5.0,4.75,5.25,5.25,5.25,5.5,5.25,5.5,,5.35
+,Choreography  ,,,,0.6,5.5,5.75,5.0,5.0,5.25,5.5,5.75,5.5,6.25,,5.6
+,Interpretation / Timing  ,,,,1.0,5.75,5.5,5.25,5.0,5.0,5.5,5.5,5.75,6.25,,5.6
+,,,,,,,,,,,,,,,,20.77
+Deduction,Falls,-1.0

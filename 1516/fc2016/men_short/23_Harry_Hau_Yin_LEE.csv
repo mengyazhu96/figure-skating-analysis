@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Harry Hau Yin LEE,HKG,9,42.54,20.14,22.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.6,False,-0.7,-1,-1,-1,-1,-1,-1,0,-1,-1,,4.9
+2,3Lz<,<,4.2,False,-1.8,-3,-2,-2,-3,-3,-2,-2,-3,-3,,2.4
+3,FCSp4,,3.2,False,-0.47,-2,-1,-2,-2,-2,-1,-1,-2,0,,2.73
+4,2A,,3.63,True,0.0,-1,0,0,0,0,0,0,0,0,,3.63
+5,CCoSp2p1,,1.7,False,-0.51,-2,-2,-3,-2,-2,-1,-1,-1,-2,,1.19
+6,StSq2,,2.6,False,-0.14,-1,0,-1,-2,0,0,1,0,0,,2.46
+7,CSSp4,,3.0,False,-0.17,-1,0,-1,-1,-1,0,0,-1,1,,2.83
+,,,23.93,,,,,,,,,,,,,20.14
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.5,4.75,4.0,3.5,4.0,4.5,5.25,4.75,5.0,,4.5
+,Transition / Linking Footwork  ,,,,1.0,4.25,4.5,3.25,3.5,4.25,4.0,5.25,4.25,4.5,,4.18
+,Performance / Execution  ,,,,1.0,4.5,4.75,3.5,4.0,4.25,4.5,5.5,4.5,5.25,,4.54
+,Choreography / Composition  ,,,,1.0,4.25,4.75,4.25,3.75,4.5,4.25,5.5,4.5,5.0,,4.5
+,Interpretation  ,,,,1.0,4.75,5.0,3.75,3.5,4.5,4.5,6.0,4.75,5.5,,4.68
+,,,,,,,,,,,,,,,,22.4

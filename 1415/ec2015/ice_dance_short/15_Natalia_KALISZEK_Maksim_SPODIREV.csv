@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Natalia KALISZEK / Maksim SPODIREV,POL,14,51.69,26.09,25.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,1.03,2,1,2,2,2,1,1,2,2,,5.53
+2,NtMiSt3,,7.1,False,1.1,1,1,1,1,1,1,0,1,1,,8.2
+3,STw3,,5.6,False,-0.5,-1,-1,-2,-1,-1,-1,-1,-1,-1,,5.1
+4,1PD1+kpNNT,,3.0,False,0.09,0,0,0,0,1,1,0,0,0,,3.09
+5,PSt2+kpNNY,,4.0,False,0.17,0,0,0,1,1,0,0,0,1,,4.17
+,,,24.2,,,,,,,,,,,,,26.09
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.75,5.5,6.5,6.5,6.5,6.25,6.5,6.75,,6.46
+,Linking Footwork / Movement  ,,,,0.8,6.0,6.5,5.25,6.25,6.75,6.5,6.25,6.25,6.5,,6.32
+,Performance  ,,,,0.8,6.25,6.75,5.0,6.5,7.0,6.5,6.25,6.5,6.5,,6.46
+,Choreography  ,,,,0.8,6.0,6.75,5.75,6.25,6.25,6.25,6.5,6.5,6.5,,6.32
+,Interpretation / Timing  ,,,,0.8,6.5,6.5,5.25,6.0,6.75,6.5,6.5,6.25,6.75,,6.43
+,,,,,,,,,,,,,,,,25.6

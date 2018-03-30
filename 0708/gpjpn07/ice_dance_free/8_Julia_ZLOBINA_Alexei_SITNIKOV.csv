@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Julia ZLOBINA / Alexei SITNIKOV,RUS,0,73.04,43.5,30.54,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,SlLi4,,4.0,False,0.6,2,0,2,0,1,2,0,1,2,1,,4.6
+2,CiSt3,,7.2,False,-0.2,0,0,0,0,-1,0,-1,0,0,1,,7.0
+3,Sp4,,4.7,False,0.0,1,0,1,0,0,0,0,0,0,0,,4.7
+4,RRoLi4,,6.4,False,0.1,0,1,1,0,-1,0,0,0,0,0,,6.5
+5,STw4,,4.7,False,-0.3,-1,-1,1,0,-1,0,-2,-1,0,-1,,4.4
+6,CuLi3,,3.5,False,0.1,1,0,0,0,0,0,0,1,1,0,,3.6
+7,DiSt3,,6.2,False,0.0,0,0,1,0,0,0,0,-1,0,1,,6.2
+8,CuLi4+RoLi4,,6.4,False,0.1,0,-1,1,-1,1,0,0,-1,1,0,,6.5
+,,,43.1,,,,,,,,,,,,,,43.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.0,4.75,5.5,4.75,4.75,5.5,5.0,4.75,5.75,5.5,,5.1
+,Linking Footwork / Movement  ,,,,1.75,4.5,4.5,5.5,4.5,4.5,5.25,4.75,4.75,5.5,5.0,,4.95
+,Performance  ,,,,1.0,5.0,4.5,5.25,4.5,4.75,5.5,5.0,5.0,5.5,5.25,,5.1
+,Choreography  ,,,,1.0,4.75,5.0,5.25,4.75,4.75,5.5,5.25,5.5,5.5,5.25,,5.3
+,Interpretation / Timing  ,,,,1.0,5.0,4.75,5.5,4.75,4.75,5.25,5.0,5.0,5.75,5.5,,5.1
+,,,,,,,,,,,,,,,,,30.54
+Deduction,Extended lifts,-1.0

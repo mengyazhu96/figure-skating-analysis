@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Diane SZMIETT,CAN,4,44.24,25.08,21.16,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,e,6.8,False,-1.6,-2,-2,-2,-2,-1,-1,-2,-1,-2,,5.2
+2,3Lz,,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+3,FSSp3,,2.6,False,0.3,2,1,-1,0,1,0,1,1,0,,2.9
+4,2A,,3.5,False,-1.6,-2,-2,-2,-2,-2,-2,-2,-2,-2,,1.9
+5,CCoSp2,,2.5,False,-0.02,1,0,-1,-1,0,-1,-1,1,0,,2.48
+6,SpSq4,,3.4,False,0.6,1,0,1,0,1,0,0,1,0,,4.0
+7,CiSt3,,3.3,False,0.1,0,0,0,-1,1,0,0,1,0,,3.4
+8,LSp2,,1.9,False,0.3,1,0,0,1,1,0,1,1,0,,2.2
+,,,30.0,,,,,,,,,,,,,25.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,5.75,5.75,5.0,5.5,5.5,5.0,5.5,5.5,,5.55
+,Transition / Linking Footwork  ,,,,0.8,5.75,5.5,5.0,5.25,5.25,5.0,4.5,5.0,5.0,,5.05
+,Performance / Execution  ,,,,0.8,5.5,5.5,5.25,5.25,5.25,5.25,5.0,5.25,5.0,,5.2
+,Choreography / Composition  ,,,,0.8,6.0,5.75,5.25,5.25,5.5,5.25,5.0,5.5,5.25,,5.35
+,Interpretation  ,,,,0.8,5.5,5.5,5.0,5.0,5.25,5.25,5.25,5.5,5.25,,5.3
+,,,,,,,,,,,,,,,,21.16
+Deduction,Time violation,-1.0
+Deduction,Falls,-1.0

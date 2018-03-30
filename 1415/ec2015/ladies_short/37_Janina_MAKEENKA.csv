@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+37,Janina MAKEENKA,BLR,10,33.78,15.15,18.63,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,,6.6,False,-1.6,-3,-2,-3,-3,-2,-2,-2,-2,-2,,5.0
+2,3Lo<<,<<,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,CCoSp3p2,,2.5,False,0.03,1,0,0,1,0,0,0,-1,-2,,2.53
+4,StSq2,,2.6,False,0.36,1,0,0,1,1,0,1,1,1,,2.96
+5,1A*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,FSSp3,,2.6,False,0.0,0,0,0,0,0,0,-1,0,0,,2.6
+7,LSpB,,1.2,False,-0.04,0,0,0,-1,0,0,-1,0,0,,1.16
+,,,17.3,,,,,,,,,,,,,15.15
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,4.25,4.5,4.75,4.5,4.75,5.25,5.0,5.0,,4.82
+,Transition / Linking Footwork  ,,,,0.8,4.75,4.25,4.0,4.25,4.5,4.5,4.75,4.75,5.0,,4.54
+,Performance / Execution  ,,,,0.8,5.0,4.0,4.75,4.5,4.25,4.5,4.5,4.75,4.5,,4.54
+,Choreography / Composition  ,,,,0.8,5.0,4.5,4.25,4.5,4.75,5.0,4.5,4.75,5.0,,4.71
+,Interpretation  ,,,,0.8,5.25,4.5,4.5,4.75,4.75,4.75,4.75,4.5,4.75,,4.68
+,,,,,,,,,,,,,,,,18.63

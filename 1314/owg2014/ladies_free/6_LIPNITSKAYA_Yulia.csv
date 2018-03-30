@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,LIPNITSKAYA Yulia,RUS,19,135.34,66.28,70.06,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,,10.1,False,1.1,2,2,2,1,3,0,0,1,3,,11.2
+2,2A+3T+2T,,8.7,False,1.0,1,2,1,1,3,1,1,2,2,,9.7
+3,FCSp4,,3.2,False,1.0,1,2,2,2,3,2,2,2,2,,4.2
+4,StSq3,,3.3,False,1.07,2,2,3,2,3,2,2,2,2,,4.37
+5,3F,,5.83,True,1.3,2,2,2,2,2,1,1,2,3,,7.13
+6,2A,,3.63,True,0.71,1,2,2,1,2,0,1,1,2,,4.34
+7,3Lo<,<,3.96,True,-1.8,-3,-2,-2,-3,-2,-3,-3,-3,-2,,2.16
+8,3S,,4.62,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.52
+9,3Lz+2T,e,8.03,True,-0.3,0,0,-1,-1,0,-1,-2,0,1,,7.73
+10,LSp4,,2.7,False,1.43,3,3,3,3,3,2,3,2,3,,4.13
+11,ChSq1,,2.0,False,1.8,2,3,3,3,2,2,3,2,3,,3.8
+12,CCoSp4,,3.5,False,1.5,3,3,3,3,3,2,3,3,3,,5.0
+,,,59.57,,,,,,,,,,,,,66.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.25,9.25,8.75,8.25,9.0,8.5,8.25,9.25,8.75,,8.68
+,Transitions / Linking Footwork / Movement  ,,,,1.6,8.0,9.0,8.5,8.25,8.75,8.0,8.0,9.0,8.75,,8.46
+,Performance / Execution  ,,,,1.6,8.75,9.25,8.5,7.75,9.5,8.5,8.25,8.75,8.75,,8.68
+,Choreography / Composition  ,,,,1.6,9.0,9.5,9.25,8.25,9.25,8.75,8.25,9.25,9.25,,9.0
+,Interpretation  ,,,,1.6,8.75,9.5,9.0,8.75,9.0,8.5,8.0,9.5,9.25,,8.96
+,,,,,,,,,,,,,,,,70.06
+Deduction,Falls,-1.0

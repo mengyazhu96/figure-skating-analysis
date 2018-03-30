@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Joey RUSSELL,CAN,1,61.82,34.72,27.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A<,<,3.5,False,-1.78,-2,-3,-2,-3,-2,-2,-3,-2,-3,,1.72
+2,3F+3Lo,,10.5,False,0.6,1,-1,1,0,0,1,0,1,0,,11.1
+3,3Lz,,6.0,False,0.0,0,-1,0,0,0,0,0,0,0,,6.0
+4,FSSp4,,3.0,False,0.2,1,-1,1,0,0,1,0,0,1,,3.2
+5,SeSt2,,2.3,False,0.2,0,0,0,0,0,1,1,1,0,,2.5
+6,SlSt3,,3.3,False,0.3,1,1,1,1,0,1,0,0,0,,3.6
+7,CSSp4,,3.0,False,0.0,0,-1,0,1,0,0,0,1,1,,3.0
+8,CCoSp4,,3.5,False,0.1,0,0,0,0,1,0,0,1,1,,3.6
+,,,35.1,,,,,,,,,,,,,34.72
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.0,5.75,5.0,6.0,5.75,5.75,4.75,4.75,,5.6
+,Transition / Linking Footwork  ,,,,1.0,5.25,4.5,4.0,4.75,5.25,5.5,5.5,4.75,4.0,,5.05
+,Performance / Execution  ,,,,1.0,5.5,5.25,5.5,5.75,5.5,6.0,6.0,5.25,4.75,,5.55
+,Choreography / Composition  ,,,,1.0,5.25,5.25,5.0,5.0,5.75,5.75,6.25,5.0,4.75,,5.4
+,Interpretation  ,,,,1.0,5.25,5.0,5.25,5.25,5.75,6.0,6.0,5.25,4.0,,5.5
+,,,,,,,,,,,,,,,,27.1

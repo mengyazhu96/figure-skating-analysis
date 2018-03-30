@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Mirai NAGASU,USA,2,60.44,32.45,27.99,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,0.7,1,1,0,1,1,1,1,1,1,,8.9
+2,CCoSp1,,2.0,False,0.5,0,1,1,1,2,1,1,1,1,,2.5
+3,FCSp4,,3.2,False,0.14,1,0,0,0,1,0,0,1,0,,3.34
+4,3Lo,,5.61,True,0.4,1,0,0,1,1,1,0,0,1,,6.01
+5,StSq3,,3.3,False,0.14,0,0,0,0,1,1,0,0,1,,3.44
+6,2A,,3.63,True,0.79,2,2,1,2,3,1,1,2,1,,4.42
+7,LSp4,,2.7,False,1.14,2,2,1,2,3,2,2,3,3,,3.84
+,,,28.64,,,,,,,,,,,,,32.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,7.75,6.25,7.0,7.75,7.0,7.25,7.25,7.25,,7.18
+,Transition / Linking Footwork  ,,,,0.8,6.5,7.5,6.0,6.75,7.25,6.75,6.5,7.5,7.25,,6.93
+,Performance / Execution  ,,,,0.8,6.5,7.25,6.25,6.75,7.75,7.0,6.75,7.0,7.0,,6.89
+,Choreography / Composition  ,,,,0.8,6.5,7.5,6.25,7.0,7.5,7.25,6.75,7.25,7.5,,7.11
+,Interpretation  ,,,,0.8,6.75,7.75,6.0,6.5,7.25,7.25,6.5,7.0,7.0,,6.89
+,,,,,,,,,,,,,,,,27.99

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Elizabet TURSYNBAEVA,KAZ,25,61.63,35.09,26.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.7,-2,-2,-2,-3,-2,-2,-3,-3,-3,,4.3
+2,CCoSp3p4,,3.5,False,0.57,1,1,1,2,1,1,1,2,-1,,4.07
+3,3S+3T,,9.57,True,0.7,1,2,0,2,1,1,2,0,0,,10.27
+4,StSq4,,3.9,False,1.0,1,1,2,1,2,1,3,2,1,,4.9
+5,2A,,3.63,True,0.64,2,2,1,1,2,1,1,1,1,,4.27
+6,FCSp4,,3.2,False,0.24,1,1,1,-1,0,1,-1,0,1,,3.44
+7,LSp4,,2.7,False,1.14,3,2,2,3,2,2,3,2,2,,3.84
+,,,32.5,,,,,,,,,,,,,35.09
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,7.0,6.5,6.75,6.25,7.0,5.5,6.75,6.5,,6.61
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.75,6.75,6.0,6.0,7.0,5.0,7.0,6.25,,6.43
+,Performance / Execution  ,,,,0.8,6.5,7.0,6.75,6.5,6.75,7.25,6.0,7.25,7.0,,6.82
+,Choreography / Composition  ,,,,0.8,6.25,6.75,7.0,6.5,6.5,7.0,5.5,7.25,6.5,,6.64
+,Interpretation  ,,,,0.8,6.25,7.0,7.0,6.0,7.0,7.0,6.0,7.5,6.5,,6.68
+,,,,,,,,,,,,,,,,26.54

@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Tomas VERNER,CZE,2,138.16,68.06,71.1,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,9.8,False,-4.8,-3,-3,-3,-3,-,-3,-3,-3,-3,,5.0
+2,3T,,4.0,False,1.4,1,1,2,1,-,1,1,2,2,,5.4
+3,3A,,8.2,False,1.0,1,2,1,1,-,1,1,1,1,,9.2
+4,CiSt3,,3.3,False,0.7,1,1,2,1,-,1,1,2,2,,4.0
+5,FSSp3,,2.6,False,0.3,1,2,1,1,-,1,0,0,0,,2.9
+6,3A+2T,,10.45,True,0.6,0,1,0,1,-,1,0,1,1,,11.05
+7,3Lz,,6.6,True,1.0,1,2,1,1,-,1,1,1,2,,7.6
+8,3F,e,6.05,True,-1.4,-2,-2,-1,-2,-,-1,-1,-2,-1,,4.65
+9,2S,,1.43,True,0.0,0,0,0,0,-,0,0,0,0,,1.43
+10,3Lo+2T,,6.93,True,0.8,1,1,0,1,-,1,0,1,1,,7.73
+11,CSSp1,,1.9,False,0.0,0,0,0,0,-,0,0,0,0,,1.9
+12,SlSt3,,3.3,False,0.4,0,2,1,1,-,1,0,1,2,,3.7
+13,CCoSp3,,3.0,False,0.5,0,1,1,1,-,1,1,1,1,,3.5
+,,,67.56,,,,,,,,,,,,,68.06
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,7.75,7.5,7.5,7.5,-,7.5,7.25,7.25,8.5,,7.5
+,Transition / Linking Footwork  ,,,,2.0,7.25,6.25,6.0,6.5,-,6.0,7.0,6.75,8.25,,6.7
+,Performance / Execution  ,,,,2.0,7.25,7.0,6.5,6.5,-,7.25,7.25,7.0,8.5,,7.05
+,Choreography / Composition  ,,,,2.0,7.5,6.75,7.0,6.75,-,7.25,7.0,7.0,8.25,,7.15
+,Interpretation  ,,,,2.0,7.25,7.0,6.75,6.5,-,7.0,7.25,7.5,8.0,,7.15
+,,,,,,,,,,,,,,,,71.1
+Deduction,Falls,-1.0

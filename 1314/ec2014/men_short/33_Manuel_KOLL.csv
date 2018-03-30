@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+33,Manuel KOLL,AUT,4,45.61,22.18,24.43,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz<,<,4.2,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.1
+2,3S+2T,,5.5,False,0.3,0,0,1,1,0,0,1,1,0,,5.8
+3,FCSp2,,2.3,False,-0.13,0,0,0,0,0,-1,-1,-1,-1,,2.17
+4,StSq2,,2.6,False,0.36,0,1,1,1,1,0,2,1,0,,2.96
+5,2A,,3.63,True,0.21,1,1,0,0,0,0,1,2,0,,3.84
+6,CCoSp2,,2.5,False,0.21,0,1,1,0,0,0,1,1,0,,2.71
+7,CSSp3,,2.6,False,0.0,0,0,1,0,0,0,0,0,0,,2.6
+,,,23.33,,,,,,,,,,,,,22.18
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.5,5.0,4.75,4.75,4.75,4.75,4.75,5.5,4.25,,4.75
+,Transition / Linking Footwork  ,,,,1.0,4.75,4.5,4.75,5.25,4.5,4.5,5.0,5.25,4.25,,4.75
+,Performance / Execution  ,,,,1.0,4.75,4.75,5.0,5.25,4.75,4.75,4.75,5.25,4.5,,4.86
+,Choreography / Composition  ,,,,1.0,4.75,5.0,4.75,5.5,5.0,4.75,4.25,5.5,4.5,,4.89
+,Interpretation  ,,,,1.0,5.0,5.0,5.25,5.75,5.25,5.0,5.0,5.75,4.75,,5.18
+,,,,,,,,,,,,,,,,24.43
+Deduction,Falls,-1.0

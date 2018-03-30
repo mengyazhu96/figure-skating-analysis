@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Christina CHITWOOD / Mark HANRETTY,GBR,3,44.27,26.7,17.57,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiSt3,,7.0,False,0.0,0,0,0,0,0,0,0,-1,0,,7.0
+2,SqTw4,,6.5,False,-0.1,0,-1,-1,0,1,0,0,0,-2,,6.4
+3,CiSt4,,8.0,False,0.0,0,0,0,0,0,-1,0,0,0,,8.0
+4,SlLi4,,5.0,False,0.3,1,-1,0,0,1,0,1,1,1,,5.3
+5,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.5,,,,,,,,,,,,,26.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.5,4.75,4.25,4.75,5.0,5.0,5.25,4.0,,4.65
+,Linking Footwork / Movement  ,,,,0.8,4.75,4.0,4.5,4.0,4.5,5.0,4.75,5.0,3.5,,4.45
+,Performance  ,,,,0.6,5.25,4.5,4.75,4.0,4.75,5.25,5.0,5.25,4.0,,4.75
+,Choreography  ,,,,0.6,5.0,4.0,5.0,4.25,4.75,5.0,5.25,5.25,4.25,,4.65
+,Interpretation / Timing  ,,,,1.0,5.0,4.25,5.0,4.25,4.75,5.0,5.0,5.75,4.0,,4.65
+,,,,,,,,,,,,,,,,17.57

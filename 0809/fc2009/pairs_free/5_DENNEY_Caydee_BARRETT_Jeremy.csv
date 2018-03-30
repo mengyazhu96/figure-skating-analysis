@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,DENNEY Caydee / BARRETT Jeremy,USA,0,108.09,57.05,51.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw2,,5.5,False,0.42,1,1,1,0,0,1,0,1,0,,5.92
+2,3T+2T+SEQ,,4.24,False,0.4,1,0,1,0,0,2,1,1,0,,4.64
+3,3FTh,,5.5,False,0.56,1,1,1,0,0,0,1,1,1,,6.06
+4,5ALi4,,6.5,False,0.4,1,1,0,0,1,0,0,0,0,,6.9
+5,2A,,3.5,False,0.0,1,0,0,0,0,1,0,0,0,,3.5
+6,FiDs3,,3.2,False,0.14,1,1,0,0,0,0,0,0,0,,3.34
+7,FCCoSp3,,3.0,False,-0.12,0,-1,0,0,0,1,-1,-1,-1,,2.88
+8,3Li4,,4.4,True,0.0,1,0,0,0,0,1,-1,-1,0,,4.4
+9,3LoTh,,5.5,True,0.56,1,0,1,0,1,1,1,1,1,,6.06
+10,SlSt2,,2.3,False,0.0,1,0,0,0,0,-1,0,0,0,,2.3
+11,5SLi3,,6.05,True,0.1,1,0,1,0,0,1,0,0,0,,6.15
+12,PCoSp4,,4.5,False,0.4,1,-1,1,0,1,2,1,1,1,,4.9
+,,,54.19,,,,,,,,,,,,,57.05
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.75,6.5,6.75,6.0,6.75,6.25,6.25,6.75,7.0,,6.7
+,Transitions / Linking Footwork  ,,,,1.6,6.25,5.0,6.0,5.25,6.0,5.75,5.75,6.0,6.25,,5.9
+,Performance / Execution  ,,,,1.6,6.75,6.0,6.75,5.75,6.5,7.0,6.25,6.5,6.75,,6.5
+,Choreography / Composition  ,,,,1.6,6.75,5.75,6.5,5.75,6.25,6.75,6.5,7.0,6.5,,6.35
+,Interpretation  ,,,,1.6,6.75,5.75,6.5,5.75,6.5,6.75,6.0,7.0,6.75,,6.45
+,,,,,,,,,,,,,,,,51.04

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,Laurence FOURNIER BEAUDRY / Nikolaj SORENSEN,DEN,5,75.59,39.31,36.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.57,1,1,1,1,2,1,1,1,2,,4.57
+2,CiSt2,,5.0,False,0.43,0,1,0,1,2,0,0,1,0,,5.43
+3,CuLi4+RoLi4,,8.0,False,1.14,1,1,1,1,2,2,0,1,1,,9.14
+4,STw3,,5.0,False,0.0,-1,0,0,0,0,1,0,0,0,,5.0
+5,DiSt2,,5.0,False,0.0,0,0,0,0,2,0,0,0,0,,5.0
+6,SlLi4,,4.0,False,0.5,1,1,0,1,2,1,1,1,1,,4.5
+7,CoSp4,,5.0,False,0.21,1,1,1,1,0,0,0,0,0,,5.21
+8,ChLi1,,0.2,False,0.26,1,1,0,0,2,1,1,1,1,,0.46
+,,,36.2,,,,,,,,,,,,,39.31
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.0,6.75,5.75,6.25,7.25,6.0,6.25,6.5,6.25,,6.29
+,Linking Footwork / Movement  ,,,,1.75,5.5,5.75,5.25,5.75,7.0,5.5,6.0,6.0,6.0,,5.79
+,Performance  ,,,,1.0,6.0,6.25,5.5,6.0,7.25,5.75,6.0,6.25,6.0,,6.04
+,Choreography  ,,,,1.0,6.5,6.75,5.25,6.0,7.75,5.75,5.75,6.5,6.5,,6.25
+,Interpretation / Timing  ,,,,1.0,6.25,6.25,5.25,5.75,7.0,6.0,5.5,6.25,6.0,,6.0
+,,,,,,,,,,,,,,,,36.28

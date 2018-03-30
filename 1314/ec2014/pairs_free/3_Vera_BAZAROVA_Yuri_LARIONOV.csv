@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Vera BAZAROVA / Yuri LARIONOV,RUS,14,129.91,65.97,63.94,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,-1.4,-2,-2,-1,-2,-2,-2,-2,-2,-2,,2.7
+2,2A<+2A+SEQ,<,4.48,False,-1.07,-2,-2,-2,-2,-2,-2,-3,-2,-3,,3.41
+3,3FTh,,5.5,False,1.1,0,1,2,1,1,2,2,2,2,,6.6
+4,FiDs1,,2.8,False,1.1,1,2,2,1,1,2,1,2,2,,3.9
+5,FCCoSp4,,3.5,False,0.79,0,2,2,1,1,1,2,2,3,,4.29
+6,3Tw3,,6.38,True,1.2,2,2,2,1,1,2,2,2,1,,7.58
+7,5RLi4,,7.7,True,1.4,2,2,2,1,2,2,2,2,2,,9.1
+8,3LoTh,,5.5,True,1.2,1,2,2,1,1,2,2,2,2,,6.7
+9,ChSq1,,2.0,False,1.1,0,2,3,1,1,1,2,2,2,,3.1
+10,3Li4,,4.4,True,0.93,2,2,2,1,1,2,2,2,2,,5.33
+11,5BLi4,,7.15,True,0.9,1,1,2,1,1,1,1,2,2,,8.05
+12,PCoSp4,,4.5,False,0.71,1,2,2,1,1,1,1,2,2,,5.21
+,,,58.01,,,,,,,,,,,,,65.97
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.0,8.0,8.25,7.5,8.25,8.25,8.0,8.0,8.25,,8.11
+,Transition / Linking Footwork  ,,,,1.6,7.75,8.5,8.25,7.25,7.75,8.0,7.75,7.75,8.0,,7.89
+,Performance / Execution  ,,,,1.6,7.75,8.25,8.5,7.5,8.0,8.0,7.5,8.0,8.25,,7.96
+,Choreography / Composition  ,,,,1.6,7.75,8.25,8.5,7.5,8.25,8.25,8.0,8.25,8.25,,8.14
+,Interpretation  ,,,,1.6,7.5,8.5,8.5,7.0,8.0,7.5,7.75,8.25,7.5,,7.86
+,,,,,,,,,,,,,,,,63.94

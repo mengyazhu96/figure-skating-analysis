@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,LAWRENCE Paige / SWIEGERS Rudi,CAN,11,58.97,32.69,26.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw1,,5.0,False,-0.4,0,-1,0,0,0,-1,0,-2,-2,,4.6
+2,3T,,4.1,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,2.7
+3,PCoSp4,,4.5,False,0.29,0,1,1,0,0,1,1,0,1,,4.79
+4,5ALi4,,6.5,False,0.8,1,1,1,1,2,2,1,1,1,,7.3
+5,BiDs2,,3.0,False,0.9,1,1,2,1,2,2,1,1,0,,3.9
+6,StSq4,,3.9,False,0.7,1,1,2,1,1,1,1,1,1,,4.6
+7,3LzTh,,5.5,False,-0.7,-1,-1,-1,-1,-1,-1,-1,-1,-1,,4.8
+,,,32.5,,,,,,,,,,,,,32.69
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.25,6.0,6.5,7.25,6.5,6.25,6.5,6.5,,6.39
+,Transitions / Linking Footwork / Movement  ,,,,0.8,6.75,6.25,6.25,6.5,7.25,6.75,5.5,6.5,6.0,,6.43
+,Performance / Execution  ,,,,0.8,6.5,6.0,6.75,7.5,7.5,6.5,6.75,6.5,6.5,,6.71
+,Choreography / Composition  ,,,,0.8,6.5,6.25,6.75,6.25,7.5,7.5,6.0,6.5,6.5,,6.61
+,Interpretation  ,,,,0.8,6.75,6.5,6.75,6.75,7.5,6.75,6.5,6.75,6.75,,6.71
+,,,,,,,,,,,,,,,,26.28

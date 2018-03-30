@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Ivan RIGHINI,ITA,4,69.74,34.89,34.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-1.71,-2,-2,-1,-2,-2,-2,-1,-1,-2,,6.79
+2,3F,,5.3,False,1.0,2,2,1,2,0,0,1,2,2,,6.3
+3,FCSp4,,3.2,False,0.36,1,1,1,1,0,1,0,0,1,,3.56
+4,3Lz+3T,,10.1,False,0.7,1,1,2,1,1,1,1,1,1,,10.8
+5,CSSp4,,3.0,False,0.14,-1,1,1,0,0,0,0,0,1,,3.14
+6,StSq3,,3.3,False,1.0,3,1,2,2,2,2,2,2,2,,4.3
+7,CCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,33.4,,,,,,,,,,,,,34.89
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.5,6.75,7.25,6.75,5.75,6.5,6.5,7.25,6.75,,6.71
+,Transition / Linking Footwork  ,,,,1.0,6.0,6.5,6.75,6.5,6.25,6.25,6.5,7.25,6.25,,6.43
+,Performance / Execution  ,,,,1.0,6.75,6.75,7.0,7.75,6.5,7.0,7.5,8.0,7.25,,7.14
+,Choreography / Composition  ,,,,1.0,7.0,6.5,7.0,7.5,6.75,6.75,7.0,7.75,7.0,,7.0
+,Interpretation  ,,,,1.0,8.0,7.0,7.25,7.75,7.5,7.25,7.75,8.25,7.5,,7.57
+,,,,,,,,,,,,,,,,34.85

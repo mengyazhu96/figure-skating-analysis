@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Dong Won LEE,KOR,9,61.16,34.89,26.27,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T,e,10.1,False,-0.6,-1,-1,1,-2,-1,-1,-1,0,-1,,9.5
+2,3A,,8.5,False,-1.43,-1,-1,0,-2,-1,-2,-1,-2,-2,,7.07
+3,CSSp4,,3.0,False,0.0,0,0,0,0,0,0,1,0,0,,3.0
+4,3F,,5.83,True,-0.1,0,0,1,-1,-1,-2,1,1,-1,,5.73
+5,FCSp3,,2.8,False,0.21,1,1,0,0,0,1,1,-1,0,,3.01
+6,StSq3,,3.3,False,0.07,0,1,0,0,0,0,1,0,0,,3.37
+7,CCoSp3,,3.0,False,0.21,1,1,0,0,0,1,1,-1,0,,3.21
+,,,36.53,,,,,,,,,,,,,34.89
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,5.75,4.75,4.75,5.5,5.5,6.25,5.0,5.5,,5.46
+,Transition / Linking Footwork  ,,,,1.0,5.75,5.25,4.5,4.0,5.0,4.75,5.75,4.25,5.25,,4.96
+,Performance / Execution  ,,,,1.0,6.25,5.75,4.5,4.75,5.25,5.25,6.25,4.0,5.5,,5.32
+,Choreography / Composition  ,,,,1.0,6.0,6.0,4.5,4.25,5.5,5.5,6.0,4.5,5.75,,5.39
+,Interpretation  ,,,,1.0,6.0,5.75,4.25,4.25,5.25,5.0,6.0,4.0,5.5,,5.14
+,,,,,,,,,,,,,,,,26.27

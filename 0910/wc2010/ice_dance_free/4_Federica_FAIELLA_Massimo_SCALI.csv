@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Federica FAIELLA / Massimo SCALI,ITA,19,97.84,47.1,50.74,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,5.0,False,1.1,2,2,2,3,2,3,2,2,2,,6.1
+2,CoSp2,,3.5,False,0.5,2,0,0,1,1,2,1,2,1,,4.0
+3,CiSt4,,8.0,False,1.8,2,2,1,2,2,2,2,1,1,,9.8
+4,CuLi4+RoLi4,,8.0,False,1.0,2,3,2,1,2,2,2,2,2,,9.0
+5,DiSt3,,6.2,False,1.4,1,1,1,2,2,2,2,1,1,,7.6
+6,STw2,,4.0,False,0.6,1,0,1,2,1,2,1,2,1,,4.6
+7,CuLi4,,5.0,False,1.0,2,2,2,2,2,2,1,2,2,,6.0
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,39.7,,,,,,,,,,,,,47.1
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,8.5,8.25,8.5,8.25,8.5,8.0,9.25,9.0,8.25,,8.35
+,Linking Footwork / Movement  ,,,,1.75,8.25,8.0,8.5,8.0,8.25,8.25,9.0,8.75,8.0,,8.2
+,Performance  ,,,,1.0,8.5,8.25,8.75,8.0,8.5,9.0,9.25,9.0,8.5,,8.6
+,Choreography  ,,,,1.0,8.25,8.5,8.75,8.25,8.25,9.0,9.5,9.25,8.75,,8.65
+,Interpretation / Timing  ,,,,1.0,8.25,8.5,9.0,8.25,8.5,9.25,9.5,9.25,8.5,,8.7
+,,,,,,,,,,,,,,,,50.74

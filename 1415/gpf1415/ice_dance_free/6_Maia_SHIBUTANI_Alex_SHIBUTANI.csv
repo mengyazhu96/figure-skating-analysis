@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Maia SHIBUTANI / Alex SHIBUTANI,USA,4,95.04,45.16,49.88,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,1.37,2,3,0,3,2,2,3,2,2,,5.87
+2,RoLi2,,3.0,False,1.2,2,2,2,2,1,2,2,2,3,,4.2
+3,CiSt2,,5.6,False,1.26,2,1,0,1,1,1,1,2,1,,6.86
+4,CoSp3,,4.6,False,0.77,1,2,1,2,1,1,2,1,1,,5.37
+5,CuLi4,,4.5,False,0.94,1,1,0,2,1,2,2,2,2,,5.44
+6,STw4,,6.6,False,1.11,2,2,2,1,1,2,2,2,2,,7.71
+7,DiSt3,,7.1,False,1.41,2,1,1,0,1,0,2,2,2,,8.51
+8,ChSp1,,0.6,False,0.6,1,1,1,1,1,1,1,2,1,,1.2
+,,,36.5,,,,,,,,,,,,,45.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,8.75,8.5,8.25,8.5,8.0,8.25,8.25,8.75,8.75,,8.46
+,Linking Footwork / Movement  ,,,,1.2,8.25,8.5,8.0,8.0,7.75,8.0,8.0,8.5,7.75,,8.07
+,Performance  ,,,,1.2,8.5,8.75,7.75,8.25,8.0,8.25,8.5,8.5,8.5,,8.36
+,Choreography  ,,,,1.2,8.75,8.75,7.25,8.5,7.5,8.75,8.75,8.75,8.5,,8.5
+,Interpretation / Timing  ,,,,1.2,9.0,8.75,7.25,8.0,8.0,7.75,8.5,8.5,7.75,,8.18
+,,,,,,,,,,,,,,,,49.88

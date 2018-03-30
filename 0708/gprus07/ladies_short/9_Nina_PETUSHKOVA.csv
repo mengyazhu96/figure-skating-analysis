@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Nina PETUSHKOVA,RUS,0,44.7,26.9,17.8,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.0,1,0,0,0,0,0,0,0,0,0,,7.3
+2,3Lo,,5.0,False,0.0,0,0,0,0,-1,0,1,-1,1,0,,5.0
+3,LSp3,,2.4,False,0.4,1,0,1,1,0,1,1,0,1,1,,2.8
+4,2A,,3.5,False,-0.8,0,0,-1,-1,-1,-1,-1,-1,-1,0,,2.7
+5,FCSp2,,2.0,False,0.0,0,0,0,0,0,0,0,0,-1,0,,2.0
+6,CiSt1,,1.8,False,-0.18,0,0,-1,-2,0,-1,0,-1,-1,0,,1.62
+7,SpSq3,,3.1,False,0.0,0,0,0,0,0,0,0,0,-1,0,,3.1
+8,CCoSp2,,2.5,False,-0.12,0,0,0,0,-2,0,-1,-1,0,-1,,2.38
+,,,27.6,,,,,,,,,,,,,,26.9
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.5,4.75,4.75,3.75,4.75,4.5,4.75,4.25,4.5,5.5,,4.6
+,Transition / Linking Footwork ,,,,0.8,4.0,4.25,4.5,3.0,4.25,4.0,4.5,3.0,4.5,5.0,,4.25
+,Performance / Execution ,,,,0.8,4.25,4.25,4.75,3.5,4.5,4.75,4.75,4.0,4.75,5.5,,4.6
+,Choreography / Composition ,,,,0.8,4.0,4.25,5.0,4.0,4.5,4.5,4.75,4.0,4.5,5.0,,4.45
+,Interpretation ,,,,0.8,4.0,4.5,4.75,3.5,4.25,4.5,4.5,4.0,4.5,4.5,,4.35
+,,,,,,,,,,,,,,,,,17.8

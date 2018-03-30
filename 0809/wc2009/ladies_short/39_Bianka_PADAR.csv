@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+39,Bianka PADAR,HUN,5,32.1,20.58,12.52,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.3,False,-0.2,0,0,0,-1,0,0,0,-1,0,,5.1
+2,3S,,4.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+3,FSSp1,,2.0,False,-0.36,-1,-1,-2,-1,0,-2,-2,-2,0,,1.64
+4,SpSq4,,3.4,False,-0.14,0,0,-1,0,0,-1,0,0,-1,,3.26
+5,2A,,3.5,False,0.0,0,0,-1,-1,0,0,0,0,0,,3.5
+6,LSp1,,1.5,False,-0.18,-2,0,-2,0,-1,-2,0,-1,-1,,1.32
+7,SlSt2,,2.3,False,-0.12,0,0,0,0,0,-1,0,-1,-1,,2.18
+8,CCoSp2,,2.5,False,-0.42,-2,-1,-2,-1,-1,-3,-1,-2,-2,,2.08
+,,,25.0,,,,,,,,,,,,,20.58
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.25,4.0,3.25,3.5,3.5,2.5,3.75,3.5,3.0,,3.45
+,Transition / Linking Footwork  ,,,,0.8,2.75,3.25,2.75,3.25,2.75,1.75,3.5,2.5,2.75,,2.9
+,Performance / Execution  ,,,,0.8,3.0,3.25,2.75,3.25,3.0,2.0,3.25,3.0,2.75,,3.05
+,Choreography / Composition  ,,,,0.8,3.0,3.5,3.0,3.5,3.0,2.25,3.5,3.25,3.0,,3.25
+,Interpretation  ,,,,0.8,3.0,3.5,2.75,3.25,3.0,1.5,3.25,3.0,2.5,,3.0
+,,,,,,,,,,,,,,,,12.52
+Deduction,Falls,-1.0

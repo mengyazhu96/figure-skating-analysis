@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Anastasia KHROMOVA / Daryn ZHUNUSSOV,KAZ,5,62.52,33.79,30.73,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.51,0,1,2,1,1,2,0,0,1,,5.01
+2,CiSt2,,5.6,False,0.47,-1,1,0,1,0,1,0,0,1,,6.07
+3,CoSp2,,3.6,False,-0.64,-2,-1,-1,0,-2,-1,-1,-1,-2,,2.96
+4,STw1,,3.1,False,-0.41,-2,-1,-1,-1,-1,-1,-1,-2,-2,,2.69
+5,DiSt3,,7.1,False,-0.29,-1,0,-1,1,0,0,-1,0,0,,6.81
+6,CuLi4,,4.5,False,0.43,1,0,1,1,0,1,0,1,1,,4.93
+7,RoLi4,,4.5,False,0.26,-1,1,1,1,0,0,0,0,1,,4.76
+8,ChSp1,,0.6,False,-0.04,-3,0,0,-1,-2,0,0,0,-2,,0.56
+,,,33.5,,,,,,,,,,,,,33.79
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,4.25,5.0,6.0,6.0,5.0,5.5,5.25,5.5,4.5,,5.25
+,Linking Footwork / Movement  ,,,,1.2,4.5,4.5,5.75,5.75,4.75,5.25,4.75,5.25,4.5,,4.96
+,Performance  ,,,,1.2,4.0,5.0,6.25,5.75,4.25,5.5,5.0,5.5,4.25,,5.04
+,Choreography  ,,,,1.2,4.25,5.25,6.25,6.25,5.0,5.25,5.5,5.75,4.0,,5.32
+,Interpretation / Timing  ,,,,1.2,4.75,4.5,6.5,5.75,4.5,5.5,4.75,5.5,3.75,,5.04
+,,,,,,,,,,,,,,,,30.73
+Deduction,Extended lifts,-2.0

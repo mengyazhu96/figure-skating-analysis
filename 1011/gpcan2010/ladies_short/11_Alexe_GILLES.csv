@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Alexe GILLES,USA,4,41.02,22.35,20.67,-2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T<,<,7.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.9
+2,3Lz<,<,4.2,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.1
+3,CCoSp4,,3.5,False,0.0,-1,0,0,0,0,0,0,0,0,,3.5
+4,2A,,3.3,False,0.5,1,1,1,1,1,1,1,1,1,,3.8
+5,FSSp4,,3.0,False,-0.09,-1,0,-1,0,0,0,-1,0,0,,2.91
+6,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+7,LSp4,,2.7,False,0.14,1,1,0,-1,0,0,0,1,0,,2.84
+,,,26.0,,,,,,,,,,,,,22.35
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,5.25,4.75,5.25,5.25,5.5,4.5,5.75,5.75,,5.36
+,Transition / Linking Footwork  ,,,,0.8,5.25,4.75,4.5,5.0,5.0,4.75,5.0,5.25,5.5,,5.0
+,Performance / Execution  ,,,,0.8,5.0,5.0,5.0,5.25,5.25,5.0,5.0,5.75,5.0,,5.07
+,Choreography / Composition  ,,,,0.8,6.0,5.0,5.25,5.25,5.25,5.5,5.0,5.25,5.5,,5.29
+,Interpretation  ,,,,0.8,5.5,4.75,5.0,5.0,5.5,5.25,4.75,5.5,4.75,,5.11
+,,,,,,,,,,,,,,,,20.67
+Deduction, Falls,-2.0

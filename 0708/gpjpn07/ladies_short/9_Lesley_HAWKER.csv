@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Lesley HAWKER,CAN,0,45.94,25.3,20.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,LSp2,,1.8,False,0.0,1,0,0,0,0,1,0,0,0,0,,1.8
+2,2Lz+2T,,3.2,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.2
+3,3F,,5.5,False,-1.0,-1,-2,-1,-1,-1,-2,-1,-1,-1,-1,,4.5
+4,SlSt3,,3.1,False,0.0,1,0,0,0,0,0,0,0,0,0,,3.1
+5,FCSp3,,2.3,False,0.0,1,0,0,0,0,0,0,0,1,0,,2.3
+6,SpSq4,,3.4,False,0.0,1,0,0,0,0,0,0,0,1,0,,3.4
+7,2A,,3.5,False,0.8,1,1,0,0,0,0,1,1,0,1,,4.3
+8,CCoSp4,,3.5,False,0.2,1,0,0,0,0,1,1,1,1,0,,3.7
+,,,26.3,,,,,,,,,,,,,,25.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.5,5.75,5.5,5.75,5.5,5.25,5.25,6.25,5.25,,5.4
+,Transition / Linking Footwork  ,,,,0.8,5.0,5.25,5.25,5.25,5.0,4.75,4.75,4.5,5.75,5.0,,5.0
+,Performance / Execution  ,,,,0.8,5.5,5.25,5.0,5.75,5.5,4.75,5.25,4.5,6.0,4.75,,5.15
+,Choreography / Composition  ,,,,0.8,5.25,5.75,5.25,5.5,5.5,5.0,5.25,4.75,6.25,5.0,,5.25
+,Interpretation  ,,,,0.8,5.75,4.75,5.25,5.75,5.25,5.0,5.0,4.75,6.25,4.75,,5.0
+,,,,,,,,,,,,,,,,,20.64

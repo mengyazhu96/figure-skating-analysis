@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Ivana REITMAYEROVA,SVK,38,45.96,25.6,20.36,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.3,False,0.8,1,1,1,1,1,1,0,1,0,,6.1
+2,2A,,3.5,False,0.2,0,0,0,1,1,1,0,1,0,,3.7
+3,CCoSp4,,3.5,False,0.0,0,0,0,1,0,0,1,0,0,,3.5
+4,SpSq4,,3.4,False,0.0,0,0,0,1,0,0,1,0,0,,3.4
+5,2S,,1.3,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+6,LSp4,,2.7,False,0.5,1,0,1,1,2,2,1,1,1,,3.2
+7,SlSt2,,2.3,False,0.2,1,0,0,1,1,0,1,1,-1,,2.5
+8,FCSp3,,2.8,False,0.1,1,-1,1,0,1,0,0,0,0,,2.9
+,,,24.8,,,,,,,,,,,,,25.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,4.75,5.75,5.75,4.75,5.25,5.5,6.0,5.0,,5.4
+,Transition / Linking Footwork  ,,,,0.8,4.75,4.5,4.5,5.5,4.5,4.75,4.75,5.0,4.75,,4.7
+,Performance / Execution  ,,,,0.8,5.25,4.5,5.25,6.0,4.75,5.0,5.25,5.75,5.25,,5.2
+,Choreography / Composition  ,,,,0.8,5.0,4.25,5.0,5.5,4.75,5.25,5.25,5.25,5.0,,5.1
+,Interpretation  ,,,,0.8,5.0,4.75,5.0,5.5,4.5,4.75,5.5,5.5,5.0,,5.05
+,,,,,,,,,,,,,,,,20.36

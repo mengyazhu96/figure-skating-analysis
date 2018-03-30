@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Kevin VAN DER PERREN,BEL,0,66.11,35.96,31.15,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,4T+3T,,13.0,False,-2.0,-3,-2,-2,-2,-2,-2,-2,-2,-1,-2,,11.0
+2,3A,,7.5,False,0.0,0,0,0,-1,0,0,0,0,2,1,,7.5
+3,3Lz,,6.0,False,-0.4,0,-1,-1,0,-1,0,-1,-1,0,0,,5.6
+4,FSSp2,,2.0,False,-0.36,-2,-2,0,-1,-1,-2,-2,-1,0,-1,,1.64
+5,SlSt2,,2.3,False,0.0,1,0,0,-1,0,0,-1,0,0,0,,2.3
+6,CSSp4,,3.0,False,0.1,0,0,0,0,1,0,0,0,1,0,,3.1
+7,CiSt2,,2.3,False,0.0,0,0,0,0,0,0,0,-1,1,0,,2.3
+8,CCoSp3,,3.0,False,-0.48,-1,-2,-2,-1,-2,-2,-1,-2,-1,-2,,2.52
+,,,39.1,,,,,,,,,,,,,,35.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.75,6.25,6.5,6.25,6.25,6.75,5.5,6.0,7.0,6.5,,6.5
+,Transition / Linking Footwork  ,,,,1.0,6.25,6.25,6.0,5.75,5.75,5.5,4.75,5.0,6.0,6.0,,5.95
+,Performance / Execution  ,,,,1.0,6.5,6.0,6.0,5.5,6.25,6.25,5.5,5.0,6.25,6.25,,6.15
+,Choreography / Composition  ,,,,1.0,6.25,6.25,6.5,5.5,6.25,6.25,5.5,5.25,6.75,6.25,,6.3
+,Interpretation  ,,,,1.0,6.25,6.25,6.5,6.0,6.25,6.0,5.75,5.5,6.5,6.0,,6.25
+,,,,,,,,,,,,,,,,,31.15
+Deduction,Falls,-1.0

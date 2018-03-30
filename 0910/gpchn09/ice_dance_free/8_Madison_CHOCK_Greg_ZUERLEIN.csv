@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Madison CHOCK / Greg ZUERLEIN,USA,3,73.14,39.2,33.94,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CiSt3,,7.2,False,0.2,0,0,0,1,0,1,0,0,1,,7.4
+2,SlLi4+RoLi4,,8.0,False,0.4,1,1,1,0,1,0,1,0,2,,8.4
+3,STw2,,4.0,False,-0.5,-1,-1,-1,0,-1,-1,-1,-1,-1,,3.5
+4,CuLi3,,4.2,False,0.0,0,0,-1,0,0,0,0,0,0,,4.2
+5,CoSp3,,4.0,False,0.1,0,1,0,1,1,0,0,0,0,,4.1
+6,DiSt3,,6.2,False,0.0,0,0,0,1,-1,0,0,0,0,,6.2
+7,RoLi4,,5.0,False,0.4,1,1,1,1,0,1,1,0,1,,5.4
+,,,38.6,,,,,,,,,,,,,39.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,6.25,5.5,6.5,5.5,6.0,5.5,5.5,6.25,,5.75
+,Linking Footwork / Movement  ,,,,1.75,5.25,6.0,5.5,6.0,5.5,5.5,5.5,5.0,6.0,,5.6
+,Performance  ,,,,1.0,5.5,6.25,5.75,6.75,5.5,5.75,5.5,5.5,6.25,,5.75
+,Choreography  ,,,,1.0,5.75,6.0,6.0,6.25,5.25,5.0,5.75,5.25,6.25,,5.65
+,Interpretation / Timing  ,,,,1.0,5.75,6.25,5.75,6.5,5.0,5.0,5.5,5.25,6.25,,5.55
+,,,,,,,,,,,,,,,,33.94

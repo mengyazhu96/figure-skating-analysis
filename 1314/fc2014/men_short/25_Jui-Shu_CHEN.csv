@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Jui-Shu CHEN,TPE,2,46.13,24.53,21.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,-0.5,-1,0,0,-1,-1,-1,-1,0,-1,,7.7
+2,3Lo,,5.1,False,-0.5,0,0,0,0,-2,-1,-1,-1,-2,,4.6
+3,FCSp1,,1.9,False,-0.21,0,0,-2,-1,-1,0,-1,-2,0,,1.69
+4,2A,,3.63,True,0.0,0,0,0,0,0,0,0,0,0,,3.63
+5,CCoSp1,,2.0,False,-0.26,-1,0,-2,-1,-1,0,-1,-2,0,,1.74
+6,StSq2,,2.6,False,-0.09,-1,1,-1,0,0,0,0,-1,0,,2.51
+7,CSSp3,,2.6,False,0.06,0,1,-1,0,1,0,-1,-1,1,,2.66
+,,,26.03,,,,,,,,,,,,,24.53
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,4.25,5.75,4.0,3.75,5.25,4.75,4.0,3.75,5.25,,4.46
+,Transition / Linking Footwork  ,,,,1.0,4.0,5.0,3.5,3.25,4.75,4.25,3.75,2.75,4.5,,4.0
+,Performance / Execution  ,,,,1.0,4.75,5.5,4.0,3.75,5.25,4.75,4.25,3.0,4.75,,4.5
+,Choreography / Composition  ,,,,1.0,4.25,5.5,3.5,4.0,5.25,4.25,4.25,3.0,4.75,,4.32
+,Interpretation  ,,,,1.0,4.5,5.25,3.75,3.5,5.0,4.25,4.25,3.25,5.0,,4.32
+,,,,,,,,,,,,,,,,21.6

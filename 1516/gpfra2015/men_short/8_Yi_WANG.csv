@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Yi WANG,CHN,2,72.08,38.93,33.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.14,1,1,1,1,2,1,2,1,0,,9.64
+2,3F+3T,,9.6,False,-0.2,0,0,0,-1,0,0,0,-1,-1,,9.4
+3,CSSp3,,2.6,False,0.21,0,0,0,1,1,0,1,1,0,,2.81
+4,3Lo,,5.61,True,0.4,0,0,1,1,1,1,1,0,0,,6.01
+5,FCSp4,,3.2,False,0.14,0,0,0,1,1,1,0,0,0,,3.34
+6,CCoSp3p4,,3.5,False,0.64,0,0,2,2,2,2,1,1,1,,4.14
+7,StSq3,,3.3,False,0.29,0,0,0,2,2,1,1,0,0,,3.59
+,,,36.31,,,,,,,,,,,,,38.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.5,6.0,6.75,6.75,7.25,6.5,7.0,6.75,7.0,,6.75
+,Transition / Linking Footwork  ,,,,1.0,6.0,5.5,6.5,6.5,7.0,6.0,7.0,6.25,6.25,,6.36
+,Performance / Execution  ,,,,1.0,6.5,5.75,6.75,6.75,7.0,6.5,7.25,6.75,6.5,,6.68
+,Choreography / Composition  ,,,,1.0,6.25,6.0,6.5,7.0,7.25,6.25,7.0,6.5,6.75,,6.61
+,Interpretation  ,,,,1.0,6.75,5.75,6.5,7.0,7.5,6.5,7.25,6.75,6.5,,6.75
+,,,,,,,,,,,,,,,,33.15

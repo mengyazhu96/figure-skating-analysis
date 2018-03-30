@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Jane SUMMERSETT / Todd GILLES,USA,1,66.85,37.6,29.25,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,5.5,False,-0.4,-1,0,-1,0,-1,-1,0,-1,-1,,5.1
+2,SlLi4+CuLi4,,8.0,False,0.4,1,1,1,1,1,0,0,1,1,,8.4
+3,CuLi4,,5.0,False,0.5,1,1,1,2,1,0,1,1,2,,5.5
+4,DiSt1,,4.6,False,-0.4,-1,0,0,-1,0,-1,0,0,0,,4.2
+5,CoSp4,,4.7,False,0.1,0,0,0,1,1,0,0,0,-1,,4.8
+6,RoLi3,,4.2,False,0.0,0,1,0,0,0,0,1,0,0,,4.2
+7,CiSt1,,5.6,False,-0.2,0,0,-1,0,-1,0,0,0,0,,5.4
+8,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,37.6,,,,,,,,,,,,,37.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.25,5.25,5.0,5.25,4.0,5.25,4.75,4.75,4.75,,5.0
+,Linking Footwork / Movement  ,,,,1.75,5.25,4.75,4.5,5.0,5.25,4.75,4.5,4.0,5.25,,4.8
+,Performance  ,,,,1.0,5.5,5.25,4.75,5.0,4.25,5.0,4.75,5.0,4.75,,4.9
+,Choreography  ,,,,1.0,5.0,5.25,4.5,5.25,4.5,5.0,4.75,4.75,4.75,,4.8
+,Interpretation / Timing  ,,,,1.0,5.0,5.0,4.75,5.0,4.75,4.75,5.0,5.25,4.5,,4.9
+,,,,,,,,,,,,,,,,29.25

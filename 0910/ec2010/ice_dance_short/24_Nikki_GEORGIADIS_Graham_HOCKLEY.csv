@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Nikki GEORGIADIS / Graham HOCKLEY,GRE,8,21.18,11.58,9.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.9,False,-0.84,-2,-2,-2,-1,-1,-2,-1,-1,-1,,2.06
+2,1S2,,1.6,False,-0.4,-2,0,-1,-1,-1,-1,-1,0,-1,,1.2
+3,1S3,,2.4,False,-0.5,-1,-1,-1,0,-1,-1,-1,-1,-1,,1.9
+4,2S1,,3.2,False,-0.7,-2,-1,-1,-1,-1,-2,-1,-1,0,,2.5
+5,2S2,,2.3,False,-0.5,-2,-1,-1,-1,-1,-1,0,-1,-2,,1.8
+6,2S3,,3.1,False,-0.98,-2,-2,-2,-1,-1,-2,-1,-2,-1,,2.12
+,,,15.5,,,,,,,,,,,,,11.58
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,3.25,4.25,3.5,4.0,3.5,3.5,4.25,4.5,4.75,,4.1
+,Timing  ,,,,0.75,2.25,3.5,3.0,3.25,3.25,3.0,3.75,4.0,4.0,,3.55
+,Performance / Execution  ,,,,0.5,2.5,4.0,3.0,3.5,3.5,3.25,4.0,4.25,4.25,,3.85
+,Interpretation  ,,,,0.5,3.0,4.0,3.25,3.75,3.75,3.5,4.25,4.0,3.75,,3.85
+,,,,,,,,,,,,,,,,9.6

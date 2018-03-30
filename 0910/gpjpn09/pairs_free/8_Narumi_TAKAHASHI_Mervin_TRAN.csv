@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Narumi TAKAHASHI / Mervin TRAN,JPN,1,79.68,43.16,39.52,-3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,-2.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,2FTw2,,3.5,False,0.2,0,1,1,0,1,0,0,0,1,,3.7
+3,3TTh,,4.5,False,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+4,3Li3,,3.5,False,0.1,0,1,0,0,1,0,0,0,1,,3.6
+5,FCCoSp4,,3.5,False,-0.3,-1,-1,-1,-1,-1,-1,-1,-1,-1,,3.2
+6,5TLi4,,6.6,True,0.0,0,0,0,0,0,1,0,0,0,,6.6
+7,3STh,,4.95,True,0.0,0,0,0,-1,-1,0,0,0,0,,4.95
+8,2S+SEQ,,1.14,True,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.14
+9,PCoSp3,,4.0,False,0.0,0,1,0,0,0,0,0,0,0,,4.0
+10,5ALi4,,7.15,True,-0.42,0,-1,-1,0,1,0,-1,-1,0,,6.73
+11,SpSq4,,3.4,False,0.0,0,0,0,0,-1,0,0,1,0,,3.4
+12,FiDs3,,3.2,False,0.14,0,0,1,0,1,0,0,0,1,,3.34
+,,,48.94,,,,,,,,,,,,,43.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,5.25,5.5,5.0,4.75,5.0,5.25,5.25,5.25,5.0,,5.15
+,Transition / Linking Footwork  ,,,,1.6,4.75,5.0,5.25,4.25,4.5,4.75,4.75,4.75,5.25,,4.9
+,Performance / Execution  ,,,,1.6,4.75,5.0,4.75,4.25,5.0,4.75,4.75,4.75,4.5,,4.7
+,Choreography / Composition  ,,,,1.6,5.0,5.25,5.25,4.5,4.5,4.75,5.25,5.0,5.5,,5.1
+,Interpretation  ,,,,1.6,4.75,5.0,5.0,4.5,4.5,4.75,5.0,5.0,4.25,,4.85
+,,,,,,,,,,,,,,,,39.52
+Deduction,Falls,-3.0

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,AGANINA Marina / ZOBNIN Dmitri,UZB,0,36.88,21.04,16.84,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,-2.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,3STh,,4.5,False,-1.52,-3,-3,-2,-3,-2,-2,-2,-2,-2,,2.98
+3,3Li2,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,,3.0
+4,FCCoSp3,,3.0,False,-0.3,-2,-1,-1,-1,0,-1,-2,-1,-2,,2.7
+5,SpSq3,,3.1,False,0.0,-2,0,0,-1,0,0,0,0,0,,3.1
+6,2LzTw1,,3.0,False,-0.42,-2,0,-1,-2,-1,-2,-1,-1,-2,,2.58
+7,FiDs1,,2.8,False,0.0,0,0,1,0,0,0,0,0,0,,2.8
+8,PCoSp1,,3.0,False,-0.12,-1,-1,-2,0,0,0,-1,0,-1,,2.88
+,,,25.9,,,,,,,,,,,,,21.04
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,4.0,4.5,4.0,5.25,4.25,4.0,4.5,4.0,,4.25
+,Transitions / Linking Footwork  ,,,,0.8,3.5,3.25,4.75,3.75,4.75,3.75,4.0,3.75,4.0,,4.0
+,Performance / Execution  ,,,,0.8,3.0,4.0,5.0,4.25,5.25,4.0,4.25,4.0,4.0,,4.25
+,Choreography / Composition  ,,,,0.8,3.75,4.0,5.25,4.0,5.25,4.0,3.75,4.0,4.5,,4.35
+,Interpretation  ,,,,0.8,4.0,3.75,5.0,4.25,5.0,4.0,3.75,3.75,4.0,,4.2
+,,,,,,,,,,,,,,,,16.84
+Deduction,Falls,-1.0

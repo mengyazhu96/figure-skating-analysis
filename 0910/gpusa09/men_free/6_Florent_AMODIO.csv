@@ -1,0 +1,26 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Florent AMODIO,FRA,11,124.93,57.63,68.3,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.5,False,1.0,1,1,2,1,-,0,1,0,2,,4.5
+2,3A,,8.2,False,0.12,-1,0,1,-1,-,1,1,-1,0,,8.32
+3,3Lo,,5.0,False,1.0,1,1,1,1,-,1,2,0,1,,6.0
+4,CCoSp3,,3.0,False,0.9,2,1,2,2,-,2,2,1,2,,3.9
+5,CiSt3,,3.3,False,1.0,1,2,2,2,-,2,2,2,2,,4.3
+6,3A+SEQ,,7.22,True,-3.08,-2,-3,-2,-2,-,-2,-2,-2,-3,,4.14
+7,3S+3T,,9.35,True,-0.8,-2,0,-1,-1,-,0,-1,-1,-1,,8.55
+8,3Lz,,6.6,True,-2.0,-2,-2,-2,-2,-,-2,-2,-2,-2,,4.6
+9,CSSp3,,2.6,False,0.2,1,0,1,0,-,1,1,0,0,,2.8
+10,3F,e,6.05,True,-2.0,-3,-2,-2,-2,-,-2,-3,-2,-2,,4.05
+11,3Lz<+SEQ,<,1.67,True,-0.6,-2,-2,-2,-1,-,-2,-2,-2,-2,,1.07
+12,SlSt2,,2.3,False,0.5,1,1,1,1,-,1,1,1,1,,2.8
+13,FSSp2,,2.3,False,0.3,1,-1,1,1,-,1,0,1,0,,2.6
+,,,61.09,,,,,,,,,,,,,57.63
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,6.5,6.25,6.5,6.75,-,7.0,7.0,7.0,7.0,,6.85
+,Transition / Linking Footwork  ,,,,2.0,6.0,6.0,7.0,6.75,-,6.75,6.25,7.0,5.75,,6.55
+,Performance / Execution  ,,,,2.0,6.5,6.25,6.75,7.0,-,7.0,6.75,6.75,6.5,,6.75
+,Choreography / Composition  ,,,,2.0,5.75,6.0,6.5,7.25,-,7.25,7.25,7.0,7.0,,7.0
+,Interpretation  ,,,,2.0,6.75,6.75,6.5,7.25,-,7.5,7.25,6.5,7.25,,7.0
+,,,,,,,,,,,,,,,,68.3
+Deduction,Falls,-1.0

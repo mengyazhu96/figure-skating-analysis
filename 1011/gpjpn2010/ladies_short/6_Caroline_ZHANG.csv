@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Caroline ZHANG,USA,8,50.71,25.93,24.78,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+2T,,6.7,False,0.0,0,0,0,0,1,0,0,0,0,,6.7
+2,3Lo,,5.1,False,-0.2,1,-1,0,-1,0,0,-1,0,0,,4.9
+3,FSSp3,,2.6,False,0.0,0,-2,0,0,0,0,0,0,0,,2.6
+4,2A,,3.3,False,-0.14,0,-1,0,0,1,-1,-1,0,0,,3.16
+5,LSp4,,2.7,False,0.93,2,2,2,1,2,2,2,1,2,,3.63
+6,SlSt2,,2.3,False,0.07,1,0,0,0,1,0,0,0,0,,2.37
+7,CCoSp1,,2.0,False,0.57,0,1,2,2,1,1,1,1,1,,2.57
+,,,24.7,,,,,,,,,,,,,25.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.0,6.5,6.25,6.75,5.75,6.5,6.25,6.5,,6.36
+,Transition / Linking Footwork  ,,,,0.8,6.75,5.5,6.25,6.0,6.25,5.75,6.25,5.75,6.0,,6.04
+,Performance / Execution  ,,,,0.8,6.25,5.75,6.0,6.0,6.5,6.0,6.5,6.0,6.5,,6.18
+,Choreography / Composition  ,,,,0.8,6.25,6.0,6.5,6.25,6.75,5.75,6.5,6.0,6.5,,6.29
+,Interpretation  ,,,,0.8,6.25,5.75,6.25,6.0,6.5,5.75,6.25,6.0,6.25,,6.11
+,,,,,,,,,,,,,,,,24.78

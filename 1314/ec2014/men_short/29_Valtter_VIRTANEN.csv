@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Valtter VIRTANEN,FIN,10,48.55,25.37,24.18,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.9
+2,2A,,3.3,False,-0.14,-1,-1,0,-1,0,0,0,0,0,,3.16
+3,3Lo+3T<,<,8.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.9
+4,FCSp2,,2.3,False,0.21,0,0,0,0,0,1,1,1,1,,2.51
+5,CSSp3,,2.6,False,0.14,0,0,0,0,0,1,0,1,1,,2.74
+6,StSq3,,3.3,False,0.36,0,0,1,0,1,2,1,1,1,,3.66
+7,CCoSp4,,3.5,False,0.0,0,0,0,0,0,0,0,0,0,,3.5
+,,,29.0,,,,,,,,,,,,,25.37
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.0,4.75,4.5,4.5,5.25,5.5,5.5,5.25,4.75,,5.0
+,Transition / Linking Footwork  ,,,,1.0,4.5,4.25,4.25,4.0,5.0,5.25,5.0,5.0,4.25,,4.61
+,Performance / Execution  ,,,,1.0,4.75,4.5,4.0,4.25,5.25,5.0,5.25,5.25,4.5,,4.79
+,Choreography / Composition  ,,,,1.0,4.75,4.5,4.25,4.0,5.25,5.5,5.5,5.5,4.5,,4.89
+,Interpretation  ,,,,1.0,5.0,4.75,4.5,4.25,5.0,5.5,5.25,5.5,4.25,,4.89
+,,,,,,,,,,,,,,,,24.18
+Deduction,Falls,-1.0

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Akiko SUZUKI,JPN,7,59.52,34.4,25.12,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+2T<,!,6.4,False,-0.8,-1,1,-1,-1,0,-1,-1,-2,-1,,5.6
+2,3F,,5.5,False,0.4,0,1,0,1,1,0,-1,-1,0,,5.9
+3,FCSp4,,3.2,False,0.3,0,1,0,1,0,1,0,0,1,,3.5
+4,SpSq4,,3.4,False,1.2,1,2,1,1,1,2,0,1,1,,4.6
+5,2A,,3.5,False,1.0,1,1,0,1,1,1,1,1,1,,4.5
+6,LSp4,,2.7,False,0.5,1,1,0,1,1,2,1,1,1,,3.2
+7,SlSt2,,2.3,False,0.8,1,2,0,2,1,2,1,2,1,,3.1
+8,CCoSp4,,3.5,False,0.5,1,1,1,1,0,1,1,1,1,,4.0
+,,,30.5,,,,,,,,,,,,,34.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,7.5,6.75,7.0,6.25,6.5,6.5,6.25,5.5,,6.55
+,Transition / Linking Footwork  ,,,,0.8,6.0,7.0,6.0,6.25,6.0,6.0,6.5,5.25,5.25,,5.9
+,Performance / Execution  ,,,,0.8,6.5,7.5,6.5,6.5,6.5,6.25,6.5,6.0,5.5,,6.35
+,Choreography / Composition  ,,,,0.8,6.25,7.25,6.5,6.75,6.25,6.5,6.75,5.5,5.5,,6.3
+,Interpretation  ,,,,0.8,6.5,7.5,6.5,6.75,6.25,6.0,6.5,6.0,5.75,,6.3
+,,,,,,,,,,,,,,,,25.12

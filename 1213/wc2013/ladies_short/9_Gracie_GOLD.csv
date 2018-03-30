@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Gracie GOLD,USA,21,58.85,30.23,28.62,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz+3T<,<,8.9,False,-0.7,1,-1,-1,-1,-1,-1,-1,-2,-1,,8.2
+2,3F,e,5.3,False,-0.6,0,-1,0,-2,-1,-1,-1,-1,-1,,4.7
+3,2A,,3.3,False,0.5,2,1,1,1,1,1,1,0,1,,3.8
+4,FCSp2,,2.3,False,-0.34,-2,0,-1,-1,-2,-1,1,-1,-2,,1.96
+5,StSq3,,3.3,False,0.5,2,1,1,0,1,1,1,1,1,,3.8
+6,LSp4,,2.7,False,1.0,2,2,2,2,2,1,2,2,2,,3.7
+7,CCoSp4,,3.5,False,0.57,2,1,1,1,2,1,1,1,1,,4.07
+,,,29.3,,,,,,,,,,,,,30.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.5,7.0,7.75,7.0,7.0,7.25,7.0,6.75,7.5,,7.18
+,Transition / Linking Footwork  ,,,,0.8,7.25,6.5,7.5,6.25,7.0,7.0,6.75,6.5,7.25,,6.89
+,Performance / Execution  ,,,,0.8,7.75,6.75,7.75,6.5,7.5,7.5,7.0,6.75,7.5,,7.25
+,Choreography / Composition  ,,,,0.8,7.5,7.25,7.75,6.75,7.25,7.25,7.0,6.75,7.75,,7.25
+,Interpretation  ,,,,0.8,7.5,7.0,7.5,6.5,7.5,7.25,7.0,6.75,7.5,,7.21
+,,,,,,,,,,,,,,,,28.62

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Sergei DOBRIN,RUS,0,66.14,35.44,30.7,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,4T+3T,,13.0,False,0.0,2,0,1,0,-1,-1,0,0,0,0,,13.0
+2,3A,,7.5,False,-2.0,-2,-2,-2,-2,-2,-2,-2,-2,-2,-2,,5.5
+3,3F,,5.5,False,0.0,0,0,0,0,0,0,0,0,0,0,,5.5
+4,FCSp2,,2.0,False,0.3,1,0,1,1,1,-1,0,1,0,1,,2.3
+5,CiSt2,,2.3,False,0.1,0,0,1,0,1,0,0,0,-1,0,,2.4
+6,CSSp3,,2.3,False,0.1,0,0,1,-1,0,0,0,1,0,0,,2.4
+7,SlSt2,,2.3,False,0.1,0,0,1,0,0,1,1,0,-1,0,,2.4
+8,CCoSp1,,2.0,False,-0.06,-1,-1,0,-1,0,-2,0,0,0,0,,1.94
+,,,36.9,,,,,,,,,,,,,,35.44
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.75,6.0,6.75,5.75,6.75,6.5,6.75,5.0,6.0,6.0,,6.25
+,Transition / Linking Footwork  ,,,,1.0,6.25,5.75,6.75,5.75,6.5,5.0,6.5,5.0,4.75,6.25,,5.9
+,Performance / Execution  ,,,,1.0,6.5,6.25,7.0,5.75,6.5,6.0,6.25,5.25,6.0,6.25,,6.15
+,Choreography / Composition  ,,,,1.0,6.5,6.25,7.0,6.0,6.5,5.5,6.5,5.75,5.75,6.75,,6.2
+,Interpretation  ,,,,1.0,6.25,6.75,7.0,5.5,6.75,5.25,6.5,5.5,5.5,6.5,,6.2
+,,,,,,,,,,,,,,,,,30.7

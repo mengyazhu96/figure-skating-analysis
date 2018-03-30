@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Elene GEDEVANISHVILI,GEO,36,60.82,33.7,27.12,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-0.4,-1,0,0,-1,-1,1,0,-1,-1,,5.6
+2,3T+2T,,5.3,False,0.6,1,1,0,0,0,1,1,0,0,,5.9
+3,LSp2,,1.9,False,0.8,2,0,2,1,1,1,2,2,2,,2.7
+4,SpSq3,,3.1,False,0.6,2,1,1,2,2,1,1,1,2,,3.7
+5,2A,,3.5,False,0.8,2,0,1,1,1,1,0,1,0,,4.3
+6,CCoSp4,,3.5,False,0.8,2,1,2,0,1,1,2,2,0,,4.3
+7,SlSt3,,3.3,False,1.0,3,2,1,2,2,2,2,2,3,,4.3
+8,FSSp3,,2.6,False,0.3,1,1,1,0,1,0,0,1,0,,2.9
+,,,29.2,,,,,,,,,,,,,33.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.5,6.5,6.5,6.5,7.0,7.0,6.5,7.5,,6.7
+,Transition / Linking Footwork  ,,,,0.8,7.25,6.25,6.25,6.5,6.0,7.0,6.75,6.25,7.75,,6.55
+,Performance / Execution  ,,,,0.8,7.5,6.5,7.0,6.75,6.75,7.25,6.75,6.75,7.5,,6.9
+,Choreography / Composition  ,,,,0.8,7.5,6.25,6.75,6.5,6.5,7.5,7.0,6.5,8.0,,6.85
+,Interpretation  ,,,,0.8,7.5,6.5,6.75,6.75,6.75,7.5,7.0,6.5,7.25,,6.9
+,,,,,,,,,,,,,,,,27.12

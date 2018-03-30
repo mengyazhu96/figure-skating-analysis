@@ -1,0 +1,17 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Nelli ZHIGANSHINA / Alexander GAZSI,GER,0,24.44,12.82,11.62,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,1S1,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,0,,2.3
+2,1S2,,2.8,False,-0.5,-1,0,-1,-1,-1,-1,-1,-1,0,-1,,2.3
+3,1S3,,1.6,False,0.0,0,0,-1,0,0,0,0,0,0,0,,1.6
+4,2S1,,2.8,False,-0.42,0,0,0,-1,-1,-1,0,-1,0,-1,,2.38
+5,2S2,,3.5,False,-0.7,-1,-1,-1,-1,-1,-2,-1,-1,-1,-1,,2.8
+6,2S3,,2.0,False,-0.56,0,-1,-1,-1,0,-1,-1,-1,0,-1,,1.44
+,,,15.0,,,,,,,,,,,,,,12.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,4.75,4.5,4.75,4.5,4.5,5.25,5.5,4.5,4.75,5.0,,4.8
+,Timing  ,,,,0.75,4.5,4.25,4.25,4.0,4.0,3.5,5.0,4.25,4.25,4.25,,4.25
+,Performance / Execution  ,,,,0.5,4.75,5.0,4.75,5.0,4.5,4.5,5.5,4.75,4.5,4.75,,4.75
+,Interpretation  ,,,,0.5,5.25,5.0,4.75,4.75,4.5,4.75,5.25,5.0,4.5,4.5,,4.9
+,,,,,,,,,,,,,,,,,11.62

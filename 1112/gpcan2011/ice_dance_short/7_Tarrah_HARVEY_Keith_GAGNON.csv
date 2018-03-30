@@ -1,0 +1,18 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Tarrah HARVEY / Keith GAGNON,CAN,1,49.65,27.42,22.23,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,R2Sq3+kpYNY,,6.0,False,0.0,0,0,0,0,0,0,0,0,,6.0
+2,NtCiSt2,,5.0,False,0.5,1,0,1,0,0,1,1,0,,5.5
+3,R1Sq3+kpNYY,,6.0,False,-0.33,0,-1,0,0,-1,-1,-1,-1,,5.67
+4,STw4,,6.0,False,-0.25,0,0,-1,-1,0,-1,-1,1,,5.75
+5,RoLi4,,4.0,False,0.5,1,1,1,1,1,0,1,1,,4.5
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,27.0,,,,,,,,,,,,27.42
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.75,5.75,5.75,5.75,6.0,5.5,5.5,,5.67
+,Linking Footwork / Movement  ,,,,0.7,5.0,6.0,5.5,5.0,5.5,5.5,5.0,5.25,,5.29
+,Performance  ,,,,0.7,5.5,5.75,6.0,5.5,5.75,6.25,5.75,5.25,,5.71
+,Choreography  ,,,,0.8,5.5,6.25,5.75,6.0,5.5,5.5,6.0,5.0,,5.71
+,Interpretation / Timing  ,,,,1.0,5.25,5.5,6.25,5.25,5.0,5.75,5.5,5.25,,5.42
+,,,,,,,,,,,,,,,22.23

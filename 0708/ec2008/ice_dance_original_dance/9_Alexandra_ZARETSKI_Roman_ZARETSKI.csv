@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Alexandra ZARETSKI / Roman ZARETSKI,ISR,0,53.31,28.87,24.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp3,,4.0,False,0.57,1,1,2,0,1,2,1,2,2,2,2,0,,4.57
+2,SlLi4,,4.0,False,0.5,1,1,2,1,1,2,1,2,1,1,1,1,,4.5
+3,NtMiTw4,,3.3,False,0.07,-1,-1,1,0,1,1,0,1,1,0,1,0,,3.37
+4,NtMiSt3,,3.8,False,0.29,0,0,1,0,1,1,1,1,0,1,1,1,,4.09
+5,CiSt3,,7.2,False,0.57,1,1,1,0,1,1,0,1,0,1,1,0,,7.77
+6,RoLi4,,4.0,False,0.57,2,1,1,0,1,2,1,1,1,2,0,1,,4.57
+,,,26.3,,,,,,,,,,,,,,,,28.87
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.25,7.0,6.5,6.5,6.25,5.75,7.0,6.5,6.75,6.75,6.25,,6.5
+,Linking Footwork / Movement  ,,,,0.8,6.5,6.0,7.0,6.25,6.25,6.25,5.5,6.75,6.0,6.75,6.75,6.0,,6.25
+,Performance  ,,,,0.6,7.0,6.25,7.25,6.25,6.5,6.75,5.5,7.0,6.25,7.0,6.5,6.0,,6.46
+,Choreography  ,,,,0.6,6.75,6.5,7.25,6.5,6.5,6.5,6.0,7.0,6.25,6.75,6.5,6.25,,6.5
+,Interpretation / Timing  ,,,,1.0,6.5,6.25,7.0,6.5,6.5,7.0,6.25,7.25,6.25,7.0,6.5,6.25,,6.46
+,,,,,,,,,,,,,,,,,,,24.44

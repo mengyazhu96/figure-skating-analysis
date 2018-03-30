@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Andrei LUTAI,RUS,0,65.55,35.5,30.05,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3A,,7.5,False,0.2,0,1,0,0,0,0,0,0,1,0,,7.7
+2,4T+2T,,10.3,False,0.2,0,0,-1,0,1,1,0,1,0,0,,10.5
+3,3Lo,,5.0,False,0.6,0,0,0,1,1,0,1,0,1,1,,5.6
+4,FCSp2,,2.0,False,0.3,1,0,-1,1,1,0,1,0,0,0,,2.3
+5,CiSt2,,2.3,False,0.3,1,1,0,0,0,0,1,1,2,1,,2.6
+6,CCoSp1,,2.0,False,0.0,0,-1,0,0,0,0,0,0,0,0,,2.0
+7,SlSt2,,2.3,False,0.2,1,0,0,0,1,0,0,0,1,0,,2.5
+8,CSSp3,,2.3,False,0.0,0,-1,0,0,0,0,0,0,1,0,,2.3
+,,,33.7,,,,,,,,,,,,,,35.5
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.25,6.25,4.75,5.75,6.75,5.75,6.25,6.25,6.0,6.5,,6.1
+,Transition / Linking Footwork ,,,,1.0,6.25,5.75,4.5,5.25,6.25,5.5,5.75,5.0,5.5,6.0,,5.75
+,Performance / Execution ,,,,1.0,6.75,6.0,5.0,6.5,6.5,5.5,5.75,6.0,5.75,6.25,,6.1
+,Choreography / Composition ,,,,1.0,6.75,6.0,5.0,5.75,6.75,5.5,6.0,5.75,6.0,5.75,,6.1
+,Interpretation ,,,,1.0,6.5,6.0,5.0,5.75,6.5,5.75,6.0,6.25,5.75,6.0,,6.0
+,,,,,,,,,,,,,,,,,30.05

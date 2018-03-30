@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Marissa CASTELLI / Simon SHNAPIR,USA,2,49.5,29.06,20.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,BoDs1,,3.0,False,0.56,1,0,1,2,1,1,0,0,0,,3.56
+2,2FTw2,,3.5,False,0.2,-1,1,1,1,0,0,0,0,0,,3.7
+3,3S,,4.5,False,0.0,0,0,0,0,0,0,-1,0,0,,4.5
+4,FCCoSp3,,3.0,False,-0.3,-1,-1,-1,-1,-1,0,-1,-1,-1,,2.7
+5,3STh,,4.5,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,3.1
+6,4Li4,,4.0,False,-0.3,0,0,0,-1,-1,-1,0,-1,0,,3.7
+7,PCoSp4,,4.5,False,0.0,0,0,0,-1,0,0,0,0,0,,4.5
+8,SlSt3,,3.3,False,0.0,1,0,0,-1,0,0,0,0,0,,3.3
+,,,30.3,,,,,,,,,,,,,29.06
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.0,5.5,5.5,5.5,5.25,5.5,5.25,5.5,4.5,,5.45
+,Transition / Linking Footwork  ,,,,0.8,4.75,4.75,4.75,5.0,4.75,4.75,4.5,5.0,4.0,,4.8
+,Performance / Execution  ,,,,0.8,5.0,5.0,5.0,5.0,5.0,5.25,4.75,5.25,4.25,,5.05
+,Choreography / Composition  ,,,,0.8,5.0,5.0,5.25,5.5,5.0,5.25,5.0,5.25,4.25,,5.15
+,Interpretation  ,,,,0.8,5.0,5.0,5.25,5.25,5.0,5.25,4.75,5.0,4.5,,5.1
+,,,,,,,,,,,,,,,,20.44

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Kirsten MOORE-TOWERS / Michael MARINARO,CAN,2,59.3,31.76,27.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.4,False,0.1,1,1,-2,-1,0,-1,0,1,2,,5.5
+2,3T,,4.1,False,0.6,1,1,0,1,0,1,1,1,1,,4.7
+3,3LoTh,,5.0,False,0.6,2,1,0,0,1,0,1,1,2,,5.6
+4,FiDs2,,3.0,False,1.0,1,1,1,1,2,1,2,2,2,,4.0
+5,3Li4,,4.0,False,0.43,0,2,0,2,1,0,0,2,1,,4.43
+6,StSq4,,3.9,False,0.6,0,2,1,1,1,0,1,1,1,,4.5
+7,FCCoSp3p3,,3.0,False,0.03,1,-1,0,1,0,0,0,-1,0,,3.03
+,,,28.4,,,,,,,,,,,,,31.76
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,8.0,6.5,7.5,7.25,6.25,6.75,7.0,6.75,,6.89
+,Transition / Linking Footwork  ,,,,0.8,6.0,7.75,6.25,7.25,7.0,6.25,6.25,6.75,6.5,,6.61
+,Performance / Execution  ,,,,0.8,6.5,7.75,6.5,7.5,7.5,6.5,6.5,7.0,7.0,,6.93
+,Choreography / Composition  ,,,,0.8,6.5,8.25,6.5,7.25,7.5,6.75,6.5,7.25,7.25,,7.0
+,Interpretation  ,,,,0.8,6.25,8.25,6.75,7.75,7.75,6.0,6.5,7.0,7.0,,7.0
+,,,,,,,,,,,,,,,,27.54

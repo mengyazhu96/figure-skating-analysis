@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Felicia ZHANG / Taylor TOTH,USA,3,78.57,40.43,39.14,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,-1.6,-2,-3,-2,-2,-2,-3,-2,-3,-2,,3.4
+2,3T+2T+SEQ,,4.4,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.3
+3,5SLi2,,5.0,False,0.0,0,0,1,0,0,0,0,0,0,,5.0
+4,FCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,ChSp1,,2.0,False,0.14,0,0,0,1,0,1,0,0,0,,2.14
+6,3STh,,4.95,True,0.2,0,0,0,1,1,1,0,0,0,,5.15
+7,3Li1,,2.75,True,-1.0,-2,-2,-2,-2,-2,-2,-2,-3,-2,,1.75
+8,3LoTh,,5.5,True,-0.7,-1,-1,-1,-1,-2,-1,-1,-1,-1,,4.8
+9,5TLi2,,5.5,True,0.0,-1,0,0,0,0,0,0,0,0,,5.5
+10,2A,,3.63,True,-0.5,0,-1,-1,-1,-1,-1,-1,-1,-1,,3.13
+11,PCoSp3,,4.0,False,-0.04,0,0,0,0,1,0,-1,-1,0,,3.96
+12,FiDs2,,3.0,False,0.3,1,0,0,1,1,0,1,0,0,,3.3
+,,,45.73,,,,,,,,,,,,,40.43
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,4.5,5.5,3.75,5.5,5.5,5.25,5.0,5.5,5.5,,5.25
+,Transition / Linking Footwork  ,,,,1.6,4.25,4.5,3.5,4.5,4.75,4.75,4.75,5.25,5.0,,4.64
+,Performance / Execution  ,,,,1.6,4.0,4.5,3.75,5.0,5.25,4.75,4.75,4.75,5.25,,4.71
+,Choreography / Composition  ,,,,1.6,4.5,5.0,3.75,5.0,5.5,5.0,5.0,5.0,5.0,,4.93
+,Interpretation  ,,,,1.6,4.25,4.75,4.0,5.5,5.5,5.0,4.75,5.0,5.25,,4.93
+,,,,,,,,,,,,,,,,39.14
+Deduction, Falls,-1.0

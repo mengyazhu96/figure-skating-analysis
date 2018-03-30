@@ -1,0 +1,18 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Ekaterina PUSHKASH / Jonathan GUERREIRO,RUS,3,51.24,26.18,25.06,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,STw4,,6.0,False,-0.08,0,1,2,-1,0,0,-1,-1,,5.92
+2,NtCiSt2,,5.0,False,0.17,0,0,1,0,1,0,0,-1,,5.17
+3,R1Sq2+kpYNN,,5.0,False,0.0,0,0,-1,1,0,0,0,0,,5.0
+4,R2Sq3+kpYNY,,6.0,False,-0.08,0,-1,0,1,-1,0,0,0,,5.92
+5,RoLi4,,4.0,False,0.17,0,-1,1,0,2,0,0,1,,4.17
+6,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,26.0,,,,,,,,,,,,26.18
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.0,6.75,6.25,6.75,6.5,5.75,5.75,,6.25
+,Linking Footwork / Movement  ,,,,0.7,6.25,5.75,6.5,6.0,7.0,6.0,5.5,5.25,,6.0
+,Performance  ,,,,0.7,6.5,6.0,6.75,6.5,6.75,6.5,6.0,6.0,,6.38
+,Choreography  ,,,,0.8,6.5,6.25,6.75,6.25,6.75,6.5,6.25,6.0,,6.42
+,Interpretation / Timing  ,,,,1.0,6.5,6.0,6.5,6.5,7.0,6.0,6.0,6.0,,6.25
+,,,,,,,,,,,,,,,25.06

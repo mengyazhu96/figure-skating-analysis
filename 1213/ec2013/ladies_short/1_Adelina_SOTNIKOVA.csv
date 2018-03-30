@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Adelina SOTNIKOVA,RUS,27,67.61,37.25,30.36,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,1.1,1,0,1,1,2,2,2,2,2,,9.3
+2,3F,,5.3,False,1.2,1,1,2,2,2,2,1,2,2,,6.5
+3,FCSp4,,3.2,False,0.86,2,1,2,2,2,2,1,1,2,,4.06
+4,2A,,3.3,False,0.93,2,1,2,2,2,2,1,2,2,,4.23
+5,LSp4,,2.7,False,0.93,2,1,2,1,2,2,2,2,2,,3.63
+6,StSq4,,3.9,False,1.2,1,1,2,2,2,2,1,2,2,,5.1
+7,CCoSp4,,3.5,False,0.93,2,2,2,3,2,2,1,2,1,,4.43
+,,,30.1,,,,,,,,,,,,,37.25
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.25,7.75,8.25,7.75,7.5,7.5,7.5,7.25,,7.57
+,Transition / Linking Footwork  ,,,,0.8,7.5,7.0,7.75,7.75,7.5,7.0,7.5,7.0,7.0,,7.32
+,Performance / Execution  ,,,,0.8,7.5,7.25,8.0,8.0,8.0,7.75,7.75,8.0,8.0,,7.86
+,Choreography / Composition  ,,,,0.8,7.5,7.25,7.75,7.75,7.5,7.5,7.75,7.75,7.0,,7.57
+,Interpretation  ,,,,0.8,7.5,7.25,7.75,8.0,8.0,7.5,7.5,7.75,7.25,,7.61
+,,,,,,,,,,,,,,,,30.36

@@ -1,0 +1,27 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Jeremy ABBOTT,USA,8,133.64,55.5,81.14,-3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,0.9,1,1,1,2,1,1,1,2,2,,6.9
+2,4T<,<,7.2,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.2
+3,CCSp3,,2.8,False,0.64,1,2,1,2,2,1,1,1,1,,3.44
+4,3F,,5.3,False,1.0,2,2,1,2,0,1,1,2,1,,6.3
+5,CCoSp4,,3.5,False,0.79,1,2,2,2,1,1,2,1,2,,4.29
+6,3A,,9.35,True,0.29,-1,1,1,1,-1,0,0,0,1,,9.64
+7,3A+SEQ,,7.48,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.48
+8,FSSp2,,2.3,False,0.21,-1,0,1,1,2,0,0,1,0,,2.51
+9,2Lz+2T+2T<<,<<,4.18,True,-0.47,-2,-2,0,-2,-1,-2,-1,-1,-2,,3.71
+10,2Lo,,1.98,True,0.0,0,0,0,0,2,0,0,0,0,,1.98
+11,StSq3,,3.3,False,0.79,1,3,2,2,1,1,2,1,2,,4.09
+12,2S,,1.43,True,0.03,0,0,1,0,1,0,0,0,0,,1.46
+13,ChSq1,,2.0,False,0.5,1,1,0,2,0,-1,1,0,2,,2.5
+,,,56.82,,,,,,,,,,,,,55.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,8.0,8.5,9.25,8.0,7.0,7.5,7.5,8.0,8.5,,8.0
+,Transition / Linking Footwork  ,,,,2.0,7.75,9.0,9.5,8.5,7.25,7.0,7.25,8.0,7.75,,7.93
+,Performance / Execution  ,,,,2.0,8.0,8.75,9.0,8.25,7.0,7.25,7.5,7.5,7.5,,7.82
+,Choreography / Composition  ,,,,2.0,8.0,9.0,9.5,8.75,7.75,7.25,8.0,8.5,8.75,,8.39
+,Interpretation  ,,,,2.0,7.75,9.25,9.25,9.0,8.0,7.75,8.0,8.5,8.5,,8.43
+,,,,,,,,,,,,,,,,81.14
+Deduction,Time violation,-1.0
+Deduction,Falls,-2.0

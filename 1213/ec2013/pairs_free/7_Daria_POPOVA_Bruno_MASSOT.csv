@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Daria POPOVA / Bruno MASSOT,FRA,8,103.37,52.23,51.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.4,False,1.1,2,1,2,1,2,1,2,1,2,,6.5
+2,3T+1Lo+2T+SEQ,,4.32,False,0.7,1,1,1,1,1,0,1,1,1,,5.02
+3,3Li3,,3.5,False,0.64,2,2,1,1,2,1,1,1,1,,4.14
+4,2A,,3.3,False,-0.21,-2,0,-1,0,-1,0,0,-1,0,,3.09
+5,3LoTh,,5.0,False,0.3,0,0,1,0,1,0,1,0,1,,5.3
+6,FCCoSp3,,3.0,False,0.29,0,0,1,0,1,1,1,0,1,,3.29
+7,ChSq1,,2.0,False,0.7,2,1,1,1,1,0,1,1,1,,2.7
+8,3STh,,4.95,True,-1.4,-2,-2,-2,-2,-1,-2,-2,-2,-2,,3.55
+9,5ALi3,,6.6,True,0.4,1,2,1,0,1,0,0,0,1,,7.0
+10,5SLiB,,4.4,True,-0.93,-1,-2,-2,-2,-2,-1,-2,-2,-3,,3.47
+11,FiDs2,,3.0,False,0.6,1,1,0,1,1,1,0,1,1,,3.6
+12,PCoSp4,,4.5,False,0.07,0,0,0,0,1,0,0,0,1,,4.57
+,,,49.97,,,,,,,,,,,,,52.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.0,6.5,7.0,6.75,7.25,6.0,6.25,6.25,7.0,,6.54
+,Transition / Linking Footwork  ,,,,1.6,5.75,6.0,6.75,6.25,7.0,5.5,5.75,5.5,6.75,,6.11
+,Performance / Execution  ,,,,1.6,5.5,6.25,7.0,6.25,7.0,6.25,6.5,6.0,7.0,,6.46
+,Choreography / Composition  ,,,,1.6,5.5,6.25,7.25,6.5,7.0,6.0,6.5,6.5,6.5,,6.46
+,Interpretation  ,,,,1.6,5.5,6.5,7.25,6.25,7.25,5.75,6.0,6.25,6.75,,6.39
+,,,,,,,,,,,,,,,,51.14

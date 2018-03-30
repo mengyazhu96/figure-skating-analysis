@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Nicole DELLA MONICA / Matteo GUARISE,ITA,11,54.48,27.82,26.66,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw1,,5.0,False,0.7,1,0,1,1,1,1,1,1,1,,5.7
+2,3S,,4.2,False,-1.4,-3,-2,-2,-2,-2,-2,-2,-2,-2,,2.8
+3,3LoTh,,5.0,False,-1.6,-3,-3,-2,-2,-2,-2,-2,-3,-2,,3.4
+4,3Li3,,3.5,False,0.36,0,0,2,1,0,1,1,2,0,,3.86
+5,StSq3,,3.3,False,0.29,1,1,1,0,0,1,0,3,0,,3.59
+6,FiDs4,,3.5,False,0.9,1,1,2,1,1,2,1,2,1,,4.4
+7,FCCoSp3p4,,3.5,False,0.57,0,2,1,1,1,2,1,2,0,,4.07
+,,,28.0,,,,,,,,,,,,,27.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,7.0,7.25,6.5,7.0,6.75,6.75,7.0,6.5,,6.79
+,Transition / Linking Footwork  ,,,,0.8,5.5,6.75,6.75,6.25,6.75,6.5,6.5,6.5,6.25,,6.5
+,Performance / Execution  ,,,,0.8,5.75,6.75,7.25,6.5,7.0,6.75,6.75,6.25,6.25,,6.61
+,Choreography / Composition  ,,,,0.8,6.0,7.0,7.25,6.5,6.75,7.0,6.5,6.75,6.5,,6.71
+,Interpretation  ,,,,0.8,6.0,7.0,7.0,6.5,6.5,6.75,6.75,7.25,6.5,,6.71
+,,,,,,,,,,,,,,,,26.66

@@ -1,0 +1,22 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Isabella CANNUSCIO / Ian LORELLO,USA,4,64.41,32.92,32.49,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,CoSp4,,5.0,False,0.0,-1,0,0,0,0,0,0,0,,5.0
+2,CuLi2,,2.5,False,-0.75,-2,-2,-1,-1,-2,-1,-1,-2,,1.75
+3,SlLi4,,4.0,False,0.25,0,0,1,1,0,0,1,1,,4.25
+4,STw3,,5.0,False,-0.17,-1,-1,0,0,-1,0,0,0,,4.83
+5,CiSt1,,3.5,False,-0.08,-1,0,-1,0,0,0,0,0,,3.42
+6,RoLi4,,4.0,False,0.0,-1,-1,0,0,1,1,0,0,,4.0
+7,DiSt2,,5.0,False,0.17,0,0,0,0,1,1,0,0,,5.17
+8,RoLi4,,4.0,False,0.5,1,1,1,1,2,1,1,1,,4.5
+9,Li+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,33.0,,,,,,,,,,,,32.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.75,5.5,5.5,5.75,5.5,5.75,5.25,5.5,,5.5
+,Linking Footwork / Movement  ,,,,1.75,5.0,5.25,5.0,6.0,5.5,5.5,5.25,5.0,,5.25
+,Performance  ,,,,1.0,4.75,4.75,5.25,6.0,5.25,5.5,5.75,5.25,,5.29
+,Choreography  ,,,,1.0,5.5,5.5,5.25,6.0,5.25,5.5,6.0,5.0,,5.5
+,Interpretation / Timing  ,,,,1.0,5.0,5.25,5.5,6.25,5.75,6.0,6.0,5.25,,5.63
+,,,,,,,,,,,,,,,32.49
+Deduction, Falls,-1.0

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+26,Moris PFEIFHOFER,SUI,6,46.93,22.75,25.18,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz<<+COMBO,<<,2.1,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.2
+2,3Lo<,<,3.6,False,-0.7,-1,-1,-1,-1,-1,-1,-1,-2,-1,,2.9
+3,CSSp4,,3.0,False,0.64,2,1,1,2,1,2,1,1,1,,3.64
+4,2A,,3.3,False,0.0,0,0,0,0,0,0,0,0,0,,3.3
+5,FCSp4,,3.2,False,0.64,2,1,1,2,1,1,1,2,1,,3.84
+6,SlSt3,,3.3,False,0.43,1,1,1,1,1,0,1,1,0,,3.73
+7,CCoSp4,,3.5,False,0.64,2,1,2,1,1,1,2,1,1,,4.14
+,,,22.0,,,,,,,,,,,,,22.75
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.25,5.5,5.25,5.25,5.5,3.75,5.0,5.25,4.5,,5.14
+,Transition / Linking Footwork  ,,,,1.0,5.25,4.75,4.75,4.25,5.25,4.0,4.5,4.75,4.0,,4.61
+,Performance / Execution  ,,,,1.0,5.25,5.5,5.5,5.0,5.5,4.5,5.0,5.25,4.25,,5.14
+,Choreography / Composition  ,,,,1.0,5.5,5.25,5.25,4.75,5.5,4.75,5.0,5.25,4.5,,5.11
+,Interpretation  ,,,,1.0,5.5,5.0,5.5,5.0,5.5,4.0,5.25,5.5,4.5,,5.18
+,,,,,,,,,,,,,,,,25.18
+Deduction, Falls,-1.0

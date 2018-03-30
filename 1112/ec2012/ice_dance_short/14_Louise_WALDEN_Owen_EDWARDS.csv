@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Louise WALDEN / Owen EDWARDS,GBR,6,48.36,25.71,22.65,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtCiSt2,,5.0,False,0.14,1,0,0,0,0,1,0,0,0,,5.14
+2,R2Sq3+kpYYN,,6.0,False,-0.57,-1,-2,0,-1,-2,-1,0,-1,-2,,5.43
+3,STw3,,5.0,False,0.0,0,0,0,0,0,0,1,0,0,,5.0
+4,SlLi4,,4.0,False,0.5,1,1,1,1,1,1,1,1,1,,4.5
+5,R1Sq3+kpYYN,,6.0,False,-0.36,0,-1,-1,-1,-1,-1,0,0,-1,,5.64
+,,,26.0,,,,,,,,,,,,,25.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.5,5.5,5.5,5.75,5.75,5.5,5.75,5.5,,5.71
+,Linking Footwork / Movement  ,,,,0.7,6.0,6.5,5.25,5.25,5.5,6.0,5.25,5.5,4.5,,5.54
+,Performance  ,,,,0.7,6.0,6.5,5.5,6.0,5.75,6.0,5.25,5.5,5.0,,5.71
+,Choreography  ,,,,0.8,6.25,6.5,5.5,5.75,5.75,6.25,5.5,5.75,5.25,,5.82
+,Interpretation / Timing  ,,,,1.0,6.25,6.25,5.0,5.5,5.0,6.0,5.25,5.75,4.25,,5.54
+,,,,,,,,,,,,,,,,22.65

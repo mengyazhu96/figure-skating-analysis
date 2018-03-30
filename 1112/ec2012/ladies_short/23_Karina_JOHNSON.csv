@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Karina JOHNSON,DEN,12,38.23,19.88,18.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,0.14,0,0,1,0,1,1,0,0,0,,3.44
+2,3Lz<<+COMBO,<<,2.1,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.2
+3,3S,,4.2,False,-0.4,-1,-1,-1,-2,-1,0,0,0,1,,3.8
+4,FSSp3,,2.6,False,0.14,0,0,1,0,1,0,0,0,1,,2.74
+5,LSp2,,1.9,False,0.0,0,0,0,-1,1,0,0,0,0,,1.9
+6,SlSt3,,3.3,False,0.0,0,0,0,0,0,1,0,0,0,,3.3
+7,CCoSp3,,3.0,False,0.5,1,1,1,1,1,1,1,1,1,,3.5
+,,,20.4,,,,,,,,,,,,,19.88
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.75,4.75,4.75,6.0,4.75,4.5,4.5,5.0,,4.75
+,Transition / Linking Footwork  ,,,,0.8,4.5,4.25,4.25,4.25,5.75,4.0,4.0,4.5,4.75,,4.36
+,Performance / Execution  ,,,,0.8,4.5,4.5,4.25,4.5,5.75,4.5,4.75,3.75,4.5,,4.5
+,Choreography / Composition  ,,,,0.8,4.75,4.25,5.0,4.5,5.25,4.75,4.5,4.5,4.25,,4.61
+,Interpretation  ,,,,0.8,4.75,4.5,4.75,4.75,5.75,5.0,4.75,4.25,4.5,,4.71
+,,,,,,,,,,,,,,,,18.35

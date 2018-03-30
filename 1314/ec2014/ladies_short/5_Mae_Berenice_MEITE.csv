@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Mae Berenice MEITE,FRA,30,58.64,31.58,27.06,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+3T,,8.2,False,1.3,2,2,2,3,2,1,2,2,1,,9.5
+2,3Lo,,5.1,False,-1.4,-2,-2,-2,-2,-2,-2,-3,-1,-2,,3.7
+3,FCSp3,,2.8,False,0.21,1,0,0,0,1,1,0,1,0,,3.01
+4,2A,,3.3,False,0.5,1,1,1,1,0,1,1,1,1,,3.8
+5,CCoSp4,,3.5,False,0.5,1,1,1,1,0,1,1,1,1,,4.0
+6,StSq3,,3.3,False,0.71,2,1,2,2,1,1,1,2,1,,4.01
+7,LSp4,,2.7,False,0.86,1,2,2,2,1,1,2,2,2,,3.56
+,,,28.9,,,,,,,,,,,,,31.58
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.5,6.5,7.0,6.25,6.75,7.0,7.5,6.75,,6.75
+,Transition / Linking Footwork  ,,,,0.8,6.5,6.25,6.25,6.0,6.0,6.25,6.5,7.25,6.25,,6.29
+,Performance / Execution  ,,,,0.8,7.0,6.75,7.0,8.0,6.25,7.0,7.25,7.75,6.5,,7.04
+,Choreography / Composition  ,,,,0.8,6.75,6.5,7.0,6.5,6.0,6.75,7.25,7.25,6.5,,6.75
+,Interpretation  ,,,,0.8,7.0,6.75,7.25,7.75,6.5,6.75,7.0,8.0,6.25,,7.0
+,,,,,,,,,,,,,,,,27.06

@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Yura MIN / Timothy KOLETO,KOR,7,66.11,36.45,29.66,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4+RoLi4,,8.0,False,1.0,1,2,1,1,1,1,1,1,1,,9.0
+2,STw3,,5.0,False,0.14,0,0,1,0,1,0,1,0,0,,5.14
+3,CoSp4,,5.0,False,0.07,0,0,0,0,0,1,1,0,0,,5.07
+4,CiSt2,,5.0,False,0.0,0,-1,0,0,0,0,1,0,0,,5.0
+5,CuLi4,,4.0,False,0.36,1,1,0,1,0,1,1,1,0,,4.36
+6,RoLi4,,4.0,False,0.21,0,1,1,-1,-1,0,2,1,1,,4.21
+7,DiSt1,,3.5,False,-0.07,0,-1,0,-1,0,0,1,0,0,,3.43
+8,ChLi1,,0.2,False,0.04,0,1,0,-1,0,0,1,0,0,,0.24
+,,,34.7,,,,,,,,,,,,,36.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.0,5.75,5.0,5.0,4.0,4.75,6.25,4.75,5.5,,5.11
+,Linking Footwork / Movement  ,,,,1.75,4.75,5.25,5.0,4.5,4.0,4.25,6.0,4.25,5.0,,4.71
+,Performance  ,,,,1.0,5.0,5.75,5.25,5.25,4.25,4.5,6.0,4.5,5.25,,5.07
+,Choreography  ,,,,1.0,5.25,5.25,5.25,5.0,4.25,4.5,6.0,4.75,5.0,,5.0
+,Interpretation / Timing  ,,,,1.0,5.0,5.5,5.0,4.75,4.5,4.5,6.0,4.75,5.25,,4.96
+,,,,,,,,,,,,,,,,29.66

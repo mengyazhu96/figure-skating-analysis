@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Armin MAHBANOOZADEH,USA,9,143.56,73.62,69.94,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.1,False,0.8,1,1,1,1,1,2,1,1,2,,4.9
+2,3A,,8.5,False,1.57,2,2,2,2,1,1,1,1,2,,10.07
+3,3Lz+2T,,7.4,False,0.7,1,1,1,1,1,1,1,1,1,,8.1
+4,3Lo,,5.1,False,0.7,1,1,1,1,1,1,1,1,1,,5.8
+5,CiSt3,,3.3,False,0.29,1,0,1,0,1,1,0,0,1,,3.59
+6,3A+2T,,10.89,True,0.71,1,1,1,1,1,0,0,1,0,,11.6
+7,FSSp4,,3.0,False,0.79,2,2,1,1,2,2,1,1,2,,3.79
+8,3F,,5.83,True,0.5,1,1,1,0,2,0,1,0,1,,6.33
+9,FCCoSp3,,3.0,False,0.5,1,1,1,1,1,1,2,1,1,,3.5
+10,3S,,4.62,True,0.0,0,0,0,0,0,0,0,0,0,,4.62
+11,1Lz+2T+2Lo,,4.18,True,0.0,0,0,0,0,0,0,0,0,0,,4.18
+12,ChSt1,,2.0,False,1.14,1,0,1,1,2,0,2,2,1,,3.14
+13,CCoSp3,,3.0,False,1.0,1,2,2,2,2,2,2,2,2,,4.0
+,,,64.92,,,,,,,,,,,,,73.62
+,Program Components,,,,Factor
+,Skating Skills  ,,,,2.0,6.75,7.25,7.25,7.0,7.0,6.5,6.75,7.25,7.25,,7.04
+,Transition / Linking Footwork  ,,,,2.0,6.25,7.0,7.0,6.5,6.5,6.5,6.5,7.0,7.0,,6.71
+,Performance / Execution  ,,,,2.0,6.75,7.5,7.5,6.75,6.75,6.5,7.0,7.5,7.5,,7.11
+,Choreography / Composition  ,,,,2.0,6.75,7.75,7.25,7.25,6.75,6.25,7.0,7.0,7.5,,7.07
+,Interpretation  ,,,,2.0,7.0,7.5,7.5,6.75,6.25,6.25,6.75,7.5,7.5,,7.04
+,,,,,,,,,,,,,,,,69.94

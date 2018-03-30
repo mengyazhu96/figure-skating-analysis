@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Maylin HAUSCH / Daniel WENDE,GER,1,92.6,46.25,46.35,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3LzTw1,,5.0,False,-1.1,-1,-2,-2,-2,-1,-2,-1,-2,-1,,3.9
+2,3STh,,4.5,False,0.7,1,1,1,1,1,1,1,1,2,,5.2
+3,3T+COMBO,,4.1,False,-1.7,-2,-3,-3,-2,-2,-2,-3,-2,-3,,2.4
+4,2S,,1.3,False,-0.49,-2,-3,-3,-2,-2,-2,-3,-2,-3,,0.81
+5,FCCoSp4,,3.5,False,0.07,0,1,0,0,0,0,0,0,1,,3.57
+6,ChSp1,,2.0,False,0.3,0,0,0,0,0,1,1,1,1,,2.3
+7,5ALi2,,6.05,True,-0.6,-2,-1,-2,0,0,0,-1,1,-2,,5.45
+8,3Li3,,3.85,True,0.29,0,1,-1,1,0,1,1,0,1,,4.14
+9,3FTh,,6.05,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,4.65
+10,5SLi4,,6.6,True,-0.14,0,-1,-1,0,0,0,0,0,-2,,6.46
+11,BoDs1,,3.0,False,-0.2,0,-1,-1,1,0,-1,0,0,0,,2.8
+12,PCoSp4,,4.5,False,0.07,0,1,0,0,0,0,0,0,1,,4.57
+,,,50.45,,,,,,,,,,,,,46.25
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.0,5.75,5.25,6.25,6.0,6.0,5.75,6.25,5.25,,5.86
+,Transition / Linking Footwork  ,,,,1.6,5.0,6.25,5.0,6.0,5.75,5.25,5.5,6.5,5.0,,5.54
+,Performance / Execution  ,,,,1.6,5.5,5.75,5.5,6.0,5.75,5.5,5.75,6.5,5.75,,5.71
+,Choreography / Composition  ,,,,1.6,6.5,6.0,5.75,6.25,6.0,5.75,6.0,6.75,6.0,,6.07
+,Interpretation  ,,,,1.6,5.75,5.5,5.25,6.25,5.75,6.0,5.5,6.5,5.75,,5.79
+,,,,,,,,,,,,,,,,46.35

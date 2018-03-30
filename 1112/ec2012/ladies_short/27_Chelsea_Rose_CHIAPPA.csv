@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Chelsea Rose CHIAPPA,HUN,1,34.46,18.46,17.0,-1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2A,,3.3,False,-0.21,0,-1,-1,0,0,-1,-1,0,0,,3.09
+2,LSp2,,1.9,False,0.0,0,1,0,-1,0,0,0,0,0,,1.9
+3,3S<<+2Lo,<<,3.1,False,-0.77,-3,-3,-2,-3,-3,-2,-3,-2,-2,,2.33
+4,FSSp4,,3.0,False,-0.13,0,0,-1,-1,-2,-1,0,0,0,,2.87
+5,3Lo<<,<<,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+6,SlSt3,,3.3,False,0.0,0,1,0,0,0,0,0,0,0,,3.3
+7,CCoSp4,,3.5,False,0.57,1,2,1,1,2,1,1,1,1,,4.07
+,,,19.9,,,,,,,,,,,,,18.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.0,4.0,4.0,4.0,4.5,4.5,4.25,4.5,,4.25
+,Transition / Linking Footwork  ,,,,0.8,4.25,3.5,3.75,3.5,4.0,4.0,4.0,3.75,4.25,,3.89
+,Performance / Execution  ,,,,0.8,4.5,4.25,4.25,4.0,4.5,4.5,4.5,4.25,4.25,,4.36
+,Choreography / Composition  ,,,,0.8,4.5,4.0,4.0,3.75,4.5,4.0,4.5,4.5,4.75,,4.29
+,Interpretation  ,,,,0.8,4.5,4.5,4.25,4.0,4.75,4.75,4.75,4.0,4.5,,4.46
+,,,,,,,,,,,,,,,,17.0
+Deduction,Falls,-1.0

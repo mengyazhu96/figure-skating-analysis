@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Brooke CASTILE / Benjamin OKOLSKI,USA,0,56.44,32.13,24.31,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,PCoSp4,,4.5,False,0.36,1,0,1,1,1,1,1,-1,0,0,0,1,,4.86
+2,3LzTw1,,5.0,False,0.4,1,1,1,0,1,0,1,0,0,0,0,1,,5.4
+3,3STh,,4.5,False,1.1,1,1,2,2,1,2,1,2,1,1,1,2,,5.6
+4,1A,,0.8,False,-0.46,-3,-2,-3,-3,-3,-2,-3,-2,-2,-2,-3,-3,,0.34
+5,CCoSp2,,2.5,False,-0.47,-1,-1,-2,-1,-2,-2,-1,0,0,-2,-1,-2,,2.03
+6,SlSt3,,3.1,False,0.0,0,0,0,0,0,0,0,0,0,-1,0,0,,3.1
+7,5ALi3,,6.0,False,1.0,1,1,1,1,1,1,1,1,1,0,1,1,,7.0
+8,BiDs3,,3.2,False,0.6,1,1,1,1,1,1,1,0,0,1,1,0,,3.8
+,,,29.6,,,,,,,,,,,,,,,,32.13
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.5,6.25,6.25,6.25,6.0,6.0,5.75,5.75,5.25,6.5,6.25,,6.11
+,Transition / Linking Footwork  ,,,,0.8,5.75,6.25,5.25,5.75,5.5,6.0,6.25,5.75,5.0,4.75,5.5,6.0,,5.79
+,Performance / Execution  ,,,,0.8,6.25,6.5,6.25,6.5,6.0,5.75,6.25,6.0,5.25,5.0,6.5,6.25,,6.14
+,Choreography / Composition  ,,,,0.8,6.0,7.0,5.75,6.5,5.75,6.25,6.25,6.25,5.5,5.25,6.0,6.25,,6.14
+,Interpretation  ,,,,0.8,6.25,6.75,5.75,6.75,6.0,6.0,6.5,6.25,5.5,5.0,6.0,6.25,,6.21
+,,,,,,,,,,,,,,,,,,,24.31

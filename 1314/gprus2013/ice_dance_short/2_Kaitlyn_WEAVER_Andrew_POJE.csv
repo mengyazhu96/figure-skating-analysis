@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Kaitlyn WEAVER / Andrew POJE,CAN,7,61.5,27.36,34.14,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.0,False,0.79,2,1,1,1,2,2,1,2,2,,6.79
+2,1FS2+kpYNN,,5.0,False,0.5,1,1,1,1,1,1,1,1,1,,5.5
+3,2FS1+kpNNN,,3.0,False,0.5,1,1,1,1,1,1,1,1,1,,3.5
+4,NtMiSt3,,6.5,False,1.57,2,1,2,1,2,1,1,2,2,,8.07
+5,CuLi2,,2.5,False,1.0,1,1,3,2,3,2,2,2,2,,3.5
+,,,23.0,,,,,,,,,,,,,27.36
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.5,8.5,8.0,8.75,9.0,8.25,8.75,8.25,8.5,,8.5
+,Linking Footwork / Movement  ,,,,0.7,8.5,8.5,8.0,8.5,8.75,7.75,8.5,8.0,8.25,,8.32
+,Performance  ,,,,0.7,8.5,8.75,8.5,8.75,9.0,8.25,8.75,8.25,8.5,,8.57
+,Choreography  ,,,,0.8,8.75,8.5,8.75,8.75,9.5,8.5,8.75,8.25,8.5,,8.64
+,Interpretation / Timing  ,,,,1.0,8.75,8.75,8.75,8.5,9.25,8.0,8.75,8.5,8.25,,8.61
+,,,,,,,,,,,,,,,,34.14
