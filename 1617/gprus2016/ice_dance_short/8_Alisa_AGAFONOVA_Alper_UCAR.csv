@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Alisa AGAFONOVA / Alper UCAR,TUR,9,59.31,31.16,28.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1MB4+kpYYY,,5.0,False,0.26,1,1,0,0,0,1,0,0,1,,5.26
+2,PSt2,,5.6,False,1.26,1,2,0,1,1,2,1,1,1,,6.86
+3,STw4,,6.6,False,0.86,2,2,1,2,1,2,1,1,1,,7.46
+4,NtMiSt2,,5.6,False,0.79,1,2,-1,1,1,1,0,0,1,,6.39
+5,RoLi4,,4.5,False,0.69,2,1,1,1,2,1,1,1,1,,5.19
+,,,27.3,,,,,,,,,,,,,31.16
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.0,7.25,6.0,7.0,7.0,7.5,7.0,7.0,7.25,,7.07
+,Transitions  ,,,,0.8,6.25,7.25,5.75,6.75,6.75,7.25,6.75,6.75,7.0,,6.79
+,Performance  ,,,,0.8,6.75,8.0,6.0,6.75,7.25,8.0,7.25,7.25,7.25,,7.21
+,Composition  ,,,,0.8,7.0,7.5,6.25,7.0,7.0,7.5,7.0,7.25,7.0,,7.11
+,Interpretation of the Music / Timing  ,,,,0.8,6.25,7.75,6.0,7.0,6.75,7.75,7.0,7.0,7.25,,7.0
+,,,,,,,,,,,,,,,,28.15

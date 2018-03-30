@@ -1,0 +1,18 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Morgan MATTHEWS / Maxim ZAVOZIN,USA,0,50.46,27.5,22.96,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,NtMiTw4,,3.3,False,0.0,0,0,1,0,0,1,1,0,-1,0,,3.3
+2,NtMiSt3,,3.8,False,0.0,0,0,1,0,0,1,0,0,0,0,,3.8
+3,SlLi4,,4.0,False,0.6,0,1,2,1,1,2,1,0,2,1,,4.6
+4,Sp4,,4.7,False,0.5,0,0,1,0,2,2,1,1,1,1,,5.2
+5,DiSt3,,6.2,False,0.0,0,0,2,0,0,0,1,0,0,0,,6.2
+6,RoLi4,,4.0,False,0.4,1,1,2,0,0,2,2,1,1,1,,4.4
+,,,26.0,,,,,,,,,,,,,,27.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,6.25,6.5,5.75,5.75,6.25,6.25,5.75,6.75,6.0,,6.0
+,Linking Footwork / Movement  ,,,,0.8,5.25,6.0,6.0,5.5,5.75,6.25,6.0,5.5,6.5,6.0,,5.9
+,Performance  ,,,,0.6,5.5,6.0,6.5,5.75,6.0,6.25,6.0,6.0,6.75,6.0,,6.05
+,Choreography  ,,,,0.6,5.5,6.25,6.5,6.0,5.75,6.25,6.0,6.0,7.0,6.0,,6.1
+,Interpretation / Timing  ,,,,1.0,5.5,6.25,6.75,6.0,6.25,6.25,5.75,5.75,7.25,6.0,,6.15
+,,,,,,,,,,,,,,,,,22.96

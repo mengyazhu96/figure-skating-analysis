@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Ekaterina RUBLEVA / Ivan SHEFER,RUS,0,77.29,43.54,33.75,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,STw3,,4.0,False,0.07,0,0,0,1,0,0,0,-1,1,0,0,0,,4.07
+2,Sp4,,4.7,False,0.64,1,2,2,0,1,1,1,1,1,2,2,1,,5.34
+3,SlLi4+CuLi3,,6.0,False,0.36,0,1,0,1,1,1,0,0,0,1,1,1,,6.36
+4,CiSt2,,6.4,False,0.29,1,1,1,0,0,0,0,0,1,0,0,0,,6.69
+5,SlLi4,,4.0,False,0.5,0,1,1,0,2,1,0,1,1,2,1,1,,4.5
+6,DiSt2,,5.4,False,0.0,0,1,1,0,0,0,0,0,0,0,0,0,,5.4
+7,RoLi4,,4.0,False,0.57,1,2,1,1,1,1,1,1,1,2,1,1,,4.57
+8,SeLi4,,6.4,False,0.21,0,1,1,0,0,0,1,1,1,0,1,0,,6.61
+,,,40.9,,,,,,,,,,,,,,,,43.54
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.75,6.25,5.5,5.5,5.5,5.75,5.5,5.75,5.75,5.5,6.0,5.75,,5.71
+,Linking Footwork / Movement  ,,,,1.75,5.5,5.75,5.25,5.25,5.25,5.5,5.25,5.5,5.25,5.25,5.5,5.5,,5.39
+,Performance  ,,,,1.0,5.75,6.25,5.5,5.5,5.5,5.5,5.5,6.0,5.75,5.5,5.75,6.0,,5.68
+,Choreography  ,,,,1.0,5.75,6.0,5.5,5.5,5.5,5.75,5.5,5.75,6.0,5.5,5.75,6.0,,5.71
+,Interpretation / Timing  ,,,,1.0,6.0,6.25,6.0,5.25,5.5,5.5,5.75,6.0,6.0,5.75,5.75,6.0,,5.79
+,,,,,,,,,,,,,,,,,,,33.75

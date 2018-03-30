@@ -1,0 +1,17 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Nakako TSUZUKI / Kenji MIYAMOTO,JPN,0,37.3,20.6,16.7,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,NtMiSt2+BSTw3,,6.5,False,-1.6,-1,-2,-2,-1,-2,-1,-2,-2,-2,-1,,4.9
+2,RoLi4,,4.0,False,0.0,0,0,0,0,0,0,0,-1,-1,-1,,4.0
+3,Sp3,,3.5,False,0.0,0,0,-1,0,0,1,0,-1,0,0,,3.5
+4,CuLi4,,4.0,False,0.0,0,0,-1,0,0,0,0,-1,0,0,,4.0
+5,DiSt2,,4.8,False,-0.6,0,-1,-1,-1,0,-1,0,-1,0,-1,,4.2
+,,,22.8,,,,,,,,,,,,,,20.6
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.25,4.5,4.5,4.25,4.25,4.75,4.5,4.25,4.5,4.5,,4.55
+,Linking Footwork / Movement ,,,,0.8,5.0,4.5,4.25,4.0,4.0,4.5,4.0,4.0,4.0,4.25,,4.25
+,Performance ,,,,0.6,4.75,4.75,4.0,4.25,4.0,4.5,4.25,4.0,4.25,4.5,,4.4
+,Choreography ,,,,0.6,5.0,4.75,4.0,4.25,4.25,4.75,4.5,4.5,4.0,4.5,,4.45
+,Interpretation / Timing ,,,,1.0,4.75,4.75,4.0,4.0,4.0,4.5,4.25,4.25,4.25,4.25,,4.35
+,,,,,,,,,,,,,,,,,16.7

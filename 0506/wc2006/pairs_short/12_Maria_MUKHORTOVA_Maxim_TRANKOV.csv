@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Maria MUKHORTOVA / Maxim TRANKOV,RUS,0,46.67,24.05,23.62,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3T,,4.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.0
+2,3LoTh,,5.0,False,1.0,1,1,2,1,2,2,1,1,2,1,1,1,,6.0
+3,2Tw3,,4.0,False,0.14,1,0,0,0,1,0,0,0,1,0,0,1,,4.14
+4,3Li4,,4.0,False,0.14,0,0,0,0,1,0,0,1,0,1,0,1,,4.14
+5,FCCoSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,1.8
+7,FiDs3,,3.2,False,0.2,0,0,1,0,0,1,0,0,1,-1,0,0,,3.4
+8,PCoSp2,,3.5,False,0.07,0,0,0,0,1,0,0,0,1,0,0,0,,3.57
+,,,25.5,,,,,,,,,,,,,,,,24.05
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.25,6.25,6.25,6.25,6.5,6.25,6.0,6.0,6.25,6.0,6.25,6.25,,6.21
+,Transition / Linking Footwork ,,,,0.8,6.0,5.75,5.75,6.0,6.0,6.0,5.75,5.25,5.0,4.75,5.0,5.5,,5.57
+,Performance / Execution ,,,,0.8,6.25,6.25,6.0,6.25,6.25,5.75,6.0,5.25,6.25,5.25,5.75,5.5,,5.93
+,Choreography / Composition ,,,,0.8,6.0,6.0,6.25,6.25,6.5,5.75,6.25,5.5,6.25,5.25,5.25,5.25,,5.89
+,Interpretation ,,,,0.8,6.0,6.0,6.0,6.25,6.25,6.25,6.0,5.0,5.75,5.25,6.0,5.5,,5.93
+,,,,,,,,,,,,,,,,,,,23.62
+Deduction,Falls,-1.0

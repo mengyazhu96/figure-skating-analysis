@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Brittany VISE / Nicholas KOLE,USA,0,46.78,25.22,21.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,FiDs3,,3.2,False,0.28,0,0,0,1,0,1,0,0,1,1,,3.48
+2,3T,,4.0,False,-1.0,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,,3.0
+3,3LoTh,,5.0,False,-0.7,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,,4.3
+4,FCCoSp2,,2.5,False,-0.06,0,0,0,0,0,0,0,0,-1,-1,,2.44
+5,2Tw3,,4.0,False,0.0,0,0,0,0,-2,0,0,0,-1,0,,4.0
+6,3Li2,,3.0,False,0.0,0,0,0,0,0,1,0,0,0,-1,,3.0
+7,CiSt1,,1.8,False,-0.3,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,,1.5
+8,PCoSp2,,3.5,False,0.0,0,0,0,-1,-1,0,0,0,0,0,,3.5
+,,,27.0,,,,,,,,,,,,,,25.22
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.25,4.75,6.0,5.25,5.25,5.75,5.75,5.5,6.0,5.5,,5.55
+,Transition / Linking Footwork ,,,,0.8,5.0,4.25,5.75,5.0,4.75,5.5,5.5,5.0,5.0,5.0,,5.1
+,Performance / Execution ,,,,0.8,5.25,4.5,5.75,5.25,5.0,5.75,5.75,5.5,5.75,5.25,,5.45
+,Choreography / Composition ,,,,0.8,5.0,4.5,6.0,5.5,5.25,6.0,5.5,5.5,5.75,5.25,,5.4
+,Interpretation ,,,,0.8,5.0,4.5,6.0,5.5,4.75,5.5,5.75,5.25,5.5,5.5,,5.45
+,,,,,,,,,,,,,,,,,21.56

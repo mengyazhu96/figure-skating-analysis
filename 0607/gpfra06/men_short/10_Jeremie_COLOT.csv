@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Jeremie COLOT,FRA,0,56.26,30.66,26.6,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3A,,7.5,False,-0.2,0,0,0,0,0,0,-1,-1,0,-2,,7.3
+2,3S+3T,,8.5,False,0.0,0,0,0,0,0,0,0,0,0,-1,,8.5
+3,CSSp3,,2.3,False,-0.06,-2,0,0,0,1,0,0,0,-1,-1,,2.24
+4,3F,,5.5,False,-1.0,1,-2,-1,0,-1,0,-2,-2,1,-2,,4.5
+5,FSSp1,,1.7,False,-0.18,-1,-1,0,-2,-1,0,-1,-1,0,-1,,1.52
+6,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,-1,,1.8
+7,CCoSp3,,3.0,False,0.0,0,0,0,0,-1,0,0,-1,0,-2,,3.0
+8,CiSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,-1,,1.8
+,,,32.1,,,,,,,,,,,,,,30.66
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,5.25,5.5,5.75,5.75,5.75,5.25,5.0,6.25,4.75,,5.5
+,Transition / Linking Footwork  ,,,,1.0,4.5,4.75,5.0,5.5,5.5,5.25,4.75,4.5,5.75,4.25,,5.05
+,Performance / Execution  ,,,,1.0,5.0,5.0,5.5,5.5,6.0,5.75,5.25,4.75,6.25,4.5,,5.4
+,Choreography / Composition  ,,,,1.0,5.25,5.0,5.25,5.75,5.75,5.5,5.0,5.25,6.0,4.5,,5.3
+,Interpretation  ,,,,1.0,5.25,5.0,5.25,5.5,5.75,5.75,5.25,4.75,6.25,4.25,,5.35
+,,,,,,,,,,,,,,,,,26.6
+Deduction,Time violation,-1.0

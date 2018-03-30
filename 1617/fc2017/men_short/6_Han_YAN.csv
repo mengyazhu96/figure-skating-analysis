@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Han YAN,CHN,15,84.08,44.61,39.47,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,0.43,1,0,0,0,1,0,1,-2,2,,10.73
+2,CSSp2,,2.3,False,0.64,0,1,2,2,2,0,1,2,1,,2.94
+3,FCSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+4,3A,,9.35,True,0.43,0,0,0,-1,2,0,1,1,1,,9.78
+5,3Lz+3T,,11.33,True,0.3,0,0,2,0,2,0,0,-1,1,,11.63
+6,StSq4,,3.9,False,1.2,1,2,1,2,2,1,2,2,2,,5.1
+7,CCoSp4,,3.5,False,0.93,1,2,2,2,2,1,2,2,2,,4.43
+,,,40.68,,,,,,,,,,,,,44.61
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,8.5,8.0,8.25,8.0,7.75,8.5,7.75,8.0,,8.04
+,Transitions  ,,,,1.0,7.0,8.0,7.5,8.0,7.75,7.5,8.0,7.0,7.5,,7.61
+,Performance  ,,,,1.0,7.75,8.0,7.5,8.25,8.0,7.75,8.25,7.5,8.0,,7.89
+,Composition  ,,,,1.0,7.75,8.25,7.75,8.0,7.75,7.5,8.5,7.0,8.0,,7.86
+,Interpretation of the Music  ,,,,1.0,7.75,8.5,8.0,8.25,8.25,7.75,8.5,7.25,8.0,,8.07
+,,,,,,,,,,,,,,,,39.47

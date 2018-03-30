@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Natalia KALISZEK / Maksym SPODYRIEV,POL,3,58.58,29.3,29.28,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH4+kpYYY,,5.0,False,0.43,1.0,1.0,1.0,0.0,0.0,1.0,1.0,-1.0,1.0,,5.43
+2,NtMiSt3,,7.1,False,0.63,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,7.73
+3,PSt2,,5.6,False,0.47,0.0,1.0,1.0,0.0,0.0,0.0,1.0,-1.0,1.0,,6.07
+4,STw3,,5.6,False,0.26,-1.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,,5.86
+5,RoLi4,,4.5,False,-0.29,-1.0,-1.0,-1.0,0.0,-1.0,0.0,0.0,-1.0,0.0,,4.21
+,,,27.8,,,,,,,,,,,,,29.3
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,7.75,7.25,7.25,7.5,7.0,7.5,6.25,7.5,,7.32
+,Transitions,,,,0.8,6.75,7.5,7.25,7.25,6.75,7.0,7.5,5.75,7.5,,7.14
+,Performance,,,,0.8,7.0,7.5,7.25,7.5,7.25,7.0,7.75,6.0,7.75,,7.32
+,Composition,,,,0.8,7.0,7.75,7.25,7.75,7.5,7.0,7.75,6.0,7.5,,7.39
+,Interpretation of the Music/Timing,,,,0.8,7.5,7.75,7.25,7.5,7.5,7.0,7.5,5.75,7.75,,7.43
+,,,,,,,,,,,,,,,,29.28

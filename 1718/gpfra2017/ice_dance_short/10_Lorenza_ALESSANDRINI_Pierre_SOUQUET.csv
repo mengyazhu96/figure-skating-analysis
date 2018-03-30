@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Lorenza ALESSANDRINI / Pierre SOUQUET,FRA,1,54.07,28.53,26.54,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH3+kpYYN,,4.4,False,-0.14,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,-1.0,-1.0,,4.26
+2,NtCiSt3,,7.1,False,-0.29,0.0,0.0,-1.0,-1.0,0.0,0.0,1.0,-1.0,0.0,,6.81
+3,PSt2,,5.6,False,0.01,-1.0,0.0,0.0,0.0,0.0,1.0,1.0,-1.0,0.0,,5.61
+4,StaLi4,,4.5,False,1.11,3.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,,5.61
+5,STw4,,6.6,False,-0.36,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,0.0,0.0,-1.0,,6.24
+,,,28.2,,,,,,,,,,,,,28.53
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.75,6.75,6.75,7.0,7.0,6.75,7.0,6.5,6.5,,6.79
+,Transitions,,,,0.8,6.75,6.25,6.5,6.75,6.5,6.75,6.5,6.0,6.25,,6.5
+,Performance,,,,0.8,6.5,6.75,6.75,6.75,7.0,6.5,6.75,6.25,6.5,,6.64
+,Composition,,,,0.8,7.0,6.5,6.5,6.75,6.75,7.0,7.0,6.0,6.25,,6.68
+,Interpretation of the Music/Timing,,,,0.8,6.25,6.75,6.75,6.5,7.0,6.5,6.75,6.25,6.5,,6.57
+,,,,,,,,,,,,,,,,26.54
+Deduction,Deductions Time violation,-1.0

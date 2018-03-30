@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,Julian Zhi Jie YEE,MAS,16,68.45,37.31,32.14,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-0.29,-1.0,0.0,0.0,-1.0,0.0,-1.0,0.0,0.0,0.0,,8.21
+2,3Lz,,6.0,False,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.0,,6.0
+3,FCSp4,,3.2,False,0.14,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,,3.34
+4,3F+3T,,10.56,True,-1.9,-3.0,-3.0,-2.0,-2.0,-3.0,-3.0,-3.0,-2.0,-3.0,,8.66
+5,CSSp4,,3.0,False,0.21,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,,3.21
+6,StSq4,,3.9,False,0.7,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,,4.6
+7,CCoSp3,,3.0,False,0.29,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,,3.29
+,,,38.16,,,,,,,,,,,,,37.31
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,6.25,6.0,5.5,6.75,6.75,6.0,6.5,7.0,6.75,,6.43
+,Transitions,,,,1.0,5.5,5.75,5.25,6.5,6.5,6.0,6.25,6.25,6.75,,6.11
+,Performance,,,,1.0,7.0,6.0,6.0,6.75,6.75,6.25,6.5,6.75,7.0,,6.57
+,Composition,,,,1.0,6.5,6.25,5.5,6.5,7.0,6.0,6.25,6.75,7.0,,6.46
+,Interpretation of the Music,,,,1.0,6.5,6.25,5.75,7.0,6.75,6.5,6.5,6.5,7.0,,6.57
+,,,,,,,,,,,,,,,,32.14
+Deduction,Deductions Time violation,-1.0

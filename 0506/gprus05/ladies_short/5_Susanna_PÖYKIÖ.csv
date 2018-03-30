@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Susanna PÖYKIÖ,FIN,0,45.94,21.3,24.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T+2T,,5.3,False,0.8,0,0,1,0,1,1,0,1,1,1,,6.1
+2,2Lz,,1.9,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,FCSp3,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,0,,2.3
+4,2A,,3.3,False,0.2,0,1,0,0,1,0,0,0,0,0,,3.5
+5,SpSt2,,2.3,False,0.0,0,0,0,0,0,0,0,1,0,0,,2.3
+6,LSp3,,1.8,False,0.1,0,0,0,0,1,0,1,1,1,0,,1.9
+7,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,0,,1.8
+8,CCoSp2,,2.5,False,0.0,0,0,1,0,0,0,0,-1,1,0,,2.5
+,,,21.2,,,,,,,,,,,,,,21.3
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.5,5.75,6.25,6.75,7.0,6.25,6.5,7.0,6.5,5.5,,6.35
+,Transition / Linking Footwork ,,,,0.8,6.0,5.5,6.0,6.0,7.25,5.75,5.5,6.5,6.0,5.25,,5.95
+,Performance / Execution ,,,,0.8,6.25,5.75,6.25,6.0,7.0,6.0,6.25,6.75,6.5,5.5,,6.2
+,Choreography / Composition ,,,,0.8,6.25,5.75,6.5,6.5,7.5,6.0,6.25,6.5,6.75,5.5,,6.2
+,Interpretation ,,,,0.8,6.0,5.5,6.25,6.5,7.0,6.0,6.5,6.75,6.75,5.5,,6.1
+,,,,,,,,,,,,,,,,,24.64

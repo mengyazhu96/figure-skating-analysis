@@ -1,0 +1,20 @@
+11
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Olga AKIMOVA / Alexander SHAKALOV,UZB,0,66.36,38.87,27.49,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,Ref,Scores of Panel
+1,SlLi3,,3.5,False,0.42,0,0,0,1,1,1,1,2,1,0,0,,3.92
+2,CiSt2,,6.4,False,-0.17,-1,0,-1,0,-1,0,0,0,0,0,0,,6.23
+3,SlLi3+RoLi3,,5.6,False,0.17,-1,1,0,-1,0,0,1,1,1,1,0,,5.77
+4,CoSp2,,3.5,False,0.08,-1,0,0,-1,1,1,0,1,0,0,0,,3.58
+5,STw4,,4.7,False,-0.33,-1,-1,-1,-2,-1,-1,0,0,0,-1,0,,4.37
+6,DiSt2,,5.4,False,0.0,0,0,0,0,-1,0,0,0,0,0,0,,5.4
+7,SeLi3,,5.6,False,0.17,-1,-1,0,-1,0,1,1,1,1,0,1,,5.77
+8,RoLi4,,4.0,False,-0.17,-1,0,0,0,-1,-1,0,0,1,0,0,,3.83
+,,,38.7,,,,,,,,,,,,,,,38.87
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,4.75,4.5,4.5,4.5,5.0,3.75,5.0,4.75,5.0,4.75,4.5,,4.79
+,Linking Footwork / Movement ,,,,1.75,3.75,4.25,4.25,4.25,4.75,3.25,5.0,4.0,4.75,4.5,4.25,,4.33
+,Performance ,,,,1.0,4.5,4.5,4.5,4.5,4.5,4.25,5.25,4.75,5.0,4.75,4.75,,4.67
+,Choreography ,,,,1.0,4.25,4.5,4.75,4.75,5.0,4.0,5.0,4.5,5.25,4.75,4.5,,4.71
+,Interpretation / Timing ,,,,1.0,4.0,4.75,4.5,4.25,4.5,4.0,5.25,4.5,5.25,4.75,4.5,,4.54
+,,,,,,,,,,,,,,,,,,27.49

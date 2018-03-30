@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+32,Birce ATABEY,TUR,2,35.59,18.41,17.18,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz<+2T,<,5.5,False,-0.9,-2,-1,-1,-2,-1,-2,-1,-1,-1,,4.6
+2,3S,,4.4,False,-0.3,0,1,0,0,0,-1,-2,-1,-1,,4.1
+3,CCoSp4,,3.5,False,-0.09,0,0,0,-1,-1,0,-1,0,0,,3.41
+4,FCSp2,,2.3,False,0.0,0,0,1,-2,0,0,0,0,0,,2.3
+5,StSq1,,1.8,False,-0.3,-1,-1,-1,-2,-1,-1,-1,-1,-1,,1.5
+6,1A*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,SSp4,,2.5,False,0.0,0,0,0,-1,0,0,0,0,0,,2.5
+,,,20.0,,,,,,,,,,,,,18.41
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.0,4.75,4.75,3.75,5.0,3.5,4.5,4.75,4.0,,4.36
+,Transitions  ,,,,0.8,3.75,4.75,4.5,4.0,4.5,3.75,4.25,5.25,3.75,,4.21
+,Performance  ,,,,0.8,3.75,4.5,4.75,4.0,4.75,4.0,4.5,5.0,3.75,,4.32
+,Composition  ,,,,0.8,3.5,5.0,4.5,4.25,4.75,4.0,4.25,5.25,3.5,,4.32
+,Interpretation of the Music  ,,,,0.8,4.0,4.5,4.5,4.0,4.5,4.0,4.25,4.75,4.0,,4.25
+,,,,,,,,,,,,,,,,17.18

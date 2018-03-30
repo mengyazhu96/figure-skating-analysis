@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Tarah KAYNE / Danny O'SHEA,USA,3,57.93,30.83,28.1,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,BiDs4,,3.5,False,0.7,1,-1,2,1,2,-,1,0,1,,4.2
+2,3TwB,,5.0,False,-0.82,-1,-2,-2,-1,-1,-,-1,-1,-1,,4.18
+3,3S,,4.4,False,-0.23,0,-1,-1,-1,0,-,0,1,0,,4.17
+4,3LzTh,,5.5,False,-2.1,-3,-3,-3,-3,-3,-,-3,-3,-3,,3.4
+5,StSq2,,2.6,False,0.25,1,-2,1,0,1,-,0,0,1,,2.85
+6,5ALi4,,7.5,False,0.7,1,1,1,1,1,-,1,1,1,,8.2
+7,FCCoSp4,,3.5,False,0.33,1,0,2,0,1,-,0,1,1,,3.83
+,,,32.0,,,,,,,,,,,,,30.83
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.75,7.0,7.25,7.25,-,7.5,7.0,7.5,,7.13
+,Transitions  ,,,,0.8,7.0,7.0,6.5,6.75,7.25,-,7.25,7.0,7.0,,7.0
+,Performance  ,,,,0.8,6.75,6.75,7.0,6.75,7.0,-,7.5,7.0,7.25,,6.96
+,Composition  ,,,,0.8,6.5,6.75,7.25,7.0,7.25,-,7.5,6.75,7.5,,7.08
+,Interpretation of the Music  ,,,,0.8,6.75,6.75,7.0,6.75,7.25,-,7.25,6.5,7.25,,6.96
+,,,,,,,,,,,,,,,,28.1
+Deduction,Deductions Falls,-1.0

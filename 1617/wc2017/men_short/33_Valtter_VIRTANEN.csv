@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+33,Valtter VIRTANEN,FIN,16,59.45,30.67,29.78,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,-4.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.3
+2,2A,,3.3,False,-0.43,-1,-1,0,-1,-1,-1,-1,0,-1,,2.87
+3,FCSp3,,2.8,False,0.43,1,0,0,2,1,1,1,1,1,,3.23
+4,3T+3T,,9.46,True,-1.3,-2,-2,-2,-2,-2,-1,-2,-2,-1,,8.16
+5,StSq3,,3.3,False,0.43,0,1,0,2,1,1,1,1,1,,3.73
+6,CCoSp4,,3.5,False,0.14,0,0,0,0,1,1,0,0,1,,3.64
+7,CSSp3,,2.6,False,0.14,1,0,1,1,0,0,0,0,0,,2.74
+,,,35.26,,,,,,,,,,,,,30.67
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.0,6.0,6.0,6.5,5.75,6.5,6.25,6.25,6.0,,6.14
+,Transitions  ,,,,1.0,5.5,5.75,5.75,6.0,5.75,5.75,6.0,5.75,5.75,,5.79
+,Performance  ,,,,1.0,5.5,5.75,6.0,6.0,6.0,6.0,6.5,5.75,5.75,,5.89
+,Composition  ,,,,1.0,5.75,6.0,6.0,6.25,5.75,5.5,6.25,6.25,6.0,,6.0
+,Interpretation of the Music  ,,,,1.0,5.75,6.0,6.0,6.25,5.75,5.5,6.25,6.0,6.0,,5.96
+,,,,,,,,,,,,,,,,29.78
+Deduction,Deductions Falls,-1.0

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+24,Daniel Albert NAURITS,EST,8,55.14,26.71,28.43,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A<,<,5.9,False,-1.14,-1,-2,-1,-1,-1,-1,-2,-1,-1,,4.76
+2,3Lz<+3T,<,8.5,False,-0.5,0,-1,-1,-1,-2,-1,-1,0,0,,8.0
+3,StSq3,,3.3,False,0.57,1,1,1,1,2,1,1,1,2,,3.87
+4,FCSp4,,3.2,False,0.43,1,1,1,1,1,1,0,0,1,,3.63
+5,2Lo*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,CCoSp4,,3.5,False,0.29,0,1,1,1,0,1,0,1,0,,3.79
+7,CSSp2,,2.3,False,0.36,1,1,1,1,0,1,0,1,0,,2.66
+,,,26.7,,,,,,,,,,,,,26.71
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.75,6.5,5.25,6.0,6.0,5.75,6.0,6.0,5.75,,5.89
+,Transitions  ,,,,1.0,5.0,6.5,5.0,5.5,5.0,5.75,5.75,5.0,5.0,,5.29
+,Performance  ,,,,1.0,5.5,6.5,5.25,6.25,5.5,6.0,5.75,6.5,5.5,,5.86
+,Composition  ,,,,1.0,5.5,6.5,5.25,6.25,5.25,6.0,6.0,5.5,5.25,,5.68
+,Interpretation of the Music  ,,,,1.0,5.25,6.5,5.25,6.25,5.25,6.25,5.5,6.0,5.5,,5.71
+,,,,,,,,,,,,,,,,28.43

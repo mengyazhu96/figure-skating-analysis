@@ -1,0 +1,22 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Alessia AURELI / Andrea VATURI,ITA,0,67.62,40.7,28.92,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,CoSp2,,3.5,False,-0.1,0,-1,0,0,-1,0,2,0,0,-1,,3.4
+2,SeLi4,,5.6,False,0.3,1,0,1,0,0,1,1,0,0,0,,5.9
+3,FSTw4,,4.7,False,-0.7,-1,-2,-1,-1,-2,-1,-2,-1,-1,-2,,4.0
+4,RoLi4,,4.0,False,0.0,0,0,0,1,0,0,-1,0,0,0,,4.0
+5,CSeSt2,,5.3,False,-0.4,-1,-2,0,0,0,0,-1,0,0,0,,4.9
+6,CuLi4,,4.0,False,0.0,0,-1,0,0,0,0,0,0,0,0,,4.0
+7,BSTw4,,4.7,False,-0.7,-1,-2,-1,-1,-1,-1,-2,-1,-1,-2,,4.0
+8,CCiSt2,,5.3,False,-0.2,0,-2,0,0,0,0,-1,0,0,0,,5.1
+9,CuLi4+RoLi3,,5.3,False,0.1,0,-1,1,1,0,0,0,0,1,0,,5.4
+,,,42.4,,,,,,,,,,,,,,40.7
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,4.75,4.0,4.75,5.0,4.75,4.5,4.75,5.25,5.25,5.0,,4.75
+,Linking Footwork / Movement ,,,,1.75,5.0,3.75,5.0,4.75,4.5,4.5,4.75,5.0,4.5,4.75,,4.7
+,Performance ,,,,1.0,4.75,4.25,4.75,5.25,4.75,4.75,4.75,5.5,5.25,5.25,,4.85
+,Choreography ,,,,1.0,5.0,4.5,5.0,5.0,4.75,4.75,4.75,5.75,5.0,5.25,,4.9
+,Interpretation / Timing ,,,,1.0,5.0,4.25,5.0,5.0,4.5,5.0,5.0,5.75,5.0,5.0,,5.0
+,,,,,,,,,,,,,,,,,28.92
+Deduction,Extended lifts,-2.0

@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Sarah ARNOLD / Thomas WILLIAMS,CAN,2,52.5,27.59,25.91,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,PSt2,,5.6,False,1.1,0.0,2.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,,6.7
+2,1RH2+kpNYN,,3.8,False,0.26,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,-1.0,,4.06
+3,SlLi4,,4.5,False,0.86,1.0,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,,5.36
+4,STw4,,6.6,False,0.26,0.0,0.0,1.0,-1.0,1.0,0.0,0.0,1.0,1.0,,6.86
+5,NtCiSt1,,4.1,False,0.51,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,,4.61
+,,,24.6,,,,,,,,,,,,,27.59
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,5.5,7.0,7.0,6.5,6.5,6.25,6.5,6.25,6.75,,6.54
+,Transitions,,,,0.8,5.5,6.75,6.5,6.75,6.25,6.0,6.5,6.25,6.5,,6.39
+,Performance,,,,0.8,5.75,7.0,6.75,6.0,6.5,6.25,6.5,6.5,6.5,,6.43
+,Composition,,,,0.8,5.75,7.25,6.75,6.25,6.75,6.5,6.25,6.75,6.5,,6.54
+,Interpretation of the Music/Timing,,,,0.8,5.75,7.25,6.75,6.25,6.5,6.5,6.25,6.5,6.75,,6.5
+,,,,,,,,,,,,,,,,25.91
+Deduction,Deductions Extended lifts,-1.0

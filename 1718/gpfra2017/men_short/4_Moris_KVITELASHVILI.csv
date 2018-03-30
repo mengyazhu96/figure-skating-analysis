@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Moris KVITELASHVILI,GEO,4,86.98,48.98,39.0,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,,10.5
+2,4S+3T,,14.8,False,1.43,2.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,,16.23
+3,FCSp4,,3.2,False,0.21,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,,3.41
+4,CSSp4,,3.0,False,0.64,2.0,1.0,1.0,-1.0,1.0,2.0,1.0,1.0,2.0,,3.64
+5,4T,,11.33,True,-4.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,,7.33
+6,StSq3,,3.3,False,0.57,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,,3.87
+7,CCoSp4,,3.5,False,0.5,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,,4.0
+,,,47.63,,,,,,,,,,,,,48.98
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,7.75,7.75,8.0,7.5,8.0,8.5,8.0,8.25,7.75,,7.93
+,Transitions,,,,1.0,7.0,7.25,7.75,7.25,7.75,8.5,7.75,7.75,7.5,,7.57
+,Performance,,,,1.0,7.0,7.5,7.75,7.5,7.75,8.25,8.25,8.0,7.5,,7.75
+,Composition,,,,1.0,7.5,7.75,8.0,7.75,7.5,8.5,8.25,8.25,7.75,,7.89
+,Interpretation of the Music,,,,1.0,7.5,7.75,8.0,7.5,7.75,8.25,8.0,8.5,7.75,,7.86
+,,,,,,,,,,,,,,,,39.0
+Deduction,Deductions Falls,-1.0

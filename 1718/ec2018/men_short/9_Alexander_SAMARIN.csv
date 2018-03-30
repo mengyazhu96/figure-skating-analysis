@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Alexander SAMARIN,RUS,36,74.25,37.11,39.14,2.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Lz<+COMBO,<,9.5,False,-4.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,,5.5
+2,4T,,10.3,False,-4.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,,6.3
+3,FCSp4,,3.2,False,0.71,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,,3.91
+4,3A,,9.35,True,1.29,2.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,,10.64
+5,CSSp3,,2.6,False,0.36,1.0,1.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,,2.96
+6,StSq3,,3.3,False,0.5,1.0,1.0,1.0,0.0,1.0,1.0,1.0,3.0,1.0,,3.8
+7,CCoSp4,,3.5,False,0.5,2.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,0.0,,4.0
+,,,41.75,,,,,,,,,,,,,37.11
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,7.75,8.5,7.5,7.5,7.75,8.5,9.0,8.25,7.75,,8.0
+,Transitions,,,,1.0,6.75,8.25,6.75,6.75,7.5,7.75,8.75,7.75,7.5,,7.46
+,Performance,,,,1.0,7.75,8.5,7.5,7.5,7.25,7.5,9.0,8.5,7.5,,7.82
+,Composition,,,,1.0,7.5,8.5,6.75,7.75,7.75,8.25,9.0,8.0,7.75,,7.93
+,Interpretation of the Music,,,,1.0,7.75,8.5,6.75,7.5,7.5,8.0,8.75,8.5,7.75,,7.93
+,,,,,,,,,,,,,,,,39.14
+Deduction,Deductions Falls,-2.0

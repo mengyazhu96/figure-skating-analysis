@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Roberta RODEGHIERO,ITA,7,52.62,26.32,26.3,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.6,False,0.2,0,1,0,0,0,1,1,0,0,,5.8
+2,3F,,5.3,False,0.2,0,0,0,0,1,0,1,-1,1,,5.5
+3,LSp4,,2.7,False,0.14,1,0,0,0,0,1,0,0,1,,2.84
+4,2A,,3.3,False,-0.57,-1,-2,-1,-1,-1,0,-1,-1,-2,,2.73
+5,FSSp3,,2.6,False,-0.04,0,-1,0,1,0,0,-1,0,0,,2.56
+6,StSq2,,2.6,False,0.29,1,0,0,1,1,1,1,0,0,,2.89
+7,CCoSp4,,3.5,False,0.5,1,1,1,1,1,1,1,0,1,,4.0
+,,,25.6,,,,,,,,,,,,,26.32
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.5,6.0,7.25,6.5,7.0,7.0,6.25,7.0,,6.71
+,Transitions  ,,,,0.8,6.5,6.25,5.75,7.0,6.25,6.25,6.5,6.0,6.5,,6.32
+,Performance  ,,,,0.8,6.5,6.5,6.0,7.0,6.75,6.75,7.0,6.0,6.75,,6.61
+,Composition  ,,,,0.8,6.75,6.5,6.25,7.25,6.75,6.5,6.75,6.25,6.75,,6.61
+,Interpretation of the Music  ,,,,0.8,6.75,6.25,6.0,7.0,7.0,6.75,7.0,6.0,6.5,,6.61
+,,,,,,,,,,,,,,,,26.3

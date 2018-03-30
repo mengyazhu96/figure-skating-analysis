@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+31,Graham NEWBERRY,GBR,12,62.04,33.9,29.14,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.29,1,1,1,2,2,2,1,1,1,,9.79
+2,3Lz,,6.0,False,-1.9,-2,-3,-2,-3,-3,-3,-2,-3,-3,,4.1
+3,FCSp3,,2.8,False,0.5,1,1,1,1,1,1,1,1,1,,3.3
+4,StSq3,,3.3,False,-0.1,0,0,0,0,-1,-1,1,0,0,,3.2
+5,3Lo+3T,,10.34,True,-1.4,-2,-2,-2,-2,-2,-2,-2,-2,-1,,8.94
+6,CSSp4,,3.0,False,-0.17,0,0,-1,0,-1,-1,0,-1,-1,,2.83
+7,CCoSp2V,,2.0,False,-0.26,0,-1,0,-1,-2,-2,0,-1,-1,,1.74
+,,,35.94,,,,,,,,,,,,,33.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,6.25,6.5,6.0,6.0,6.0,6.25,5.5,5.75,,6.07
+,Transitions  ,,,,1.0,5.75,5.75,6.25,5.5,6.0,4.75,6.0,5.25,5.25,,5.64
+,Performance  ,,,,1.0,5.75,5.75,6.25,5.75,5.5,5.0,6.25,5.5,5.5,,5.71
+,Composition  ,,,,1.0,6.0,6.0,6.5,6.0,5.75,5.0,6.5,5.5,5.75,,5.93
+,Interpretation of the Music  ,,,,1.0,6.0,5.75,6.25,5.75,6.0,5.0,6.5,5.25,5.5,,5.79
+,,,,,,,,,,,,,,,,29.14
+Deduction,Deductions Time violation,-1.0

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Olivia SMART / Adrian DIAZ,ESP,14,63.73,34.27,29.46,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.0,0,0,0,0,0,0,0,0,-1,,6.6
+2,PSt3,,7.1,False,0.94,0,1,0,1,1,2,1,1,1,,8.04
+3,1RH4+kpYYY,,5.0,False,0.6,1,1,1,1,1,2,1,1,1,,5.6
+4,StaLi4,,4.5,False,0.86,2,2,1,1,2,1,2,1,1,,5.36
+5,NtDiSt3,,7.1,False,1.57,1,1,1,2,2,2,2,1,1,,8.67
+,,,30.3,,,,,,,,,,,,,34.27
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,7.5,7.25,7.0,7.75,8.25,6.5,7.25,7.25,,7.32
+,Transitions,,,,0.8,6.75,7.25,7.0,7.0,7.5,8.5,6.25,7.0,7.0,,7.07
+,Performance,,,,0.8,7.5,7.75,7.25,7.25,8.25,8.5,6.5,7.25,7.0,,7.46
+,Composition,,,,0.8,7.75,7.5,7.25,7.25,8.0,8.25,6.75,7.25,7.25,,7.46
+,Interpretation of the Music/Timing,,,,0.8,7.25,7.5,7.5,7.5,8.5,8.75,6.75,7.0,7.25,,7.5
+,,,,,,,,,,,,,,,,29.46

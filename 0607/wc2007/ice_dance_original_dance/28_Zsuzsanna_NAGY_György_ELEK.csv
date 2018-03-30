@@ -1,0 +1,19 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Zsuzsanna NAGY / György ELEK,HUN,0,33.19,21.11,13.08,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,Sp3,,4.0,False,0.21,0,0,1,1,0,0,1,1,1,0,1,0,,4.21
+2,NtMiTw2,,2.5,False,-0.93,-2,-2,-2,-1,-2,-2,-2,-2,-1,-2,-1,-2,,1.57
+3,NtMiSt2,,3.2,False,-0.93,-2,-3,0,-2,-2,-2,-1,0,-3,-2,-2,-2,,2.27
+4,SlLi4,,4.0,False,0.0,0,0,0,0,0,0,0,0,-1,0,0,-1,,4.0
+5,CuLi3,,3.5,False,0.07,0,0,0,1,1,0,0,0,0,0,0,0,,3.57
+6,DiSt3,,6.2,False,-0.71,0,-1,-1,-1,-1,-1,0,0,0,-1,0,-1,,5.49
+,,,23.4,,,,,,,,,,,,,,,,21.11
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,3.75,3.25,3.5,3.5,3.75,3.25,3.75,4.0,4.5,4.0,3.75,3.5,,3.57
+,Linking Footwork / Movement  ,,,,0.8,3.5,3.0,3.5,3.25,3.5,3.0,3.75,3.75,4.5,4.0,3.5,3.25,,3.36
+,Performance  ,,,,0.6,3.75,3.25,3.25,2.75,3.5,3.25,3.75,3.25,4.0,3.75,3.5,3.5,,3.43
+,Choreography  ,,,,0.6,3.75,3.25,3.5,3.25,3.5,3.25,4.0,3.5,4.5,3.75,3.5,3.5,,3.46
+,Interpretation / Timing  ,,,,1.0,3.75,3.25,3.25,3.25,3.0,3.25,4.0,3.75,4.0,3.25,3.75,3.25,,3.39
+,,,,,,,,,,,,,,,,,,,13.08
+Deduction,Falls,-1.0

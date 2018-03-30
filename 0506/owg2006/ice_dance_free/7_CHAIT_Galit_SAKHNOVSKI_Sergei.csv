@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,CHAIT Galit / SAKHNOVSKI Sergei,ISR,0,94.44,49.59,45.85,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,SlLi4+RoLi4,,5.6,False,0.93,1,2,2,1,1,2,2,2,1,2,2,1,,6.53
+2,FSTw3,,4.0,False,0.29,-1,1,1,0,-1,0,1,1,1,0,1,-1,,4.29
+3,Sp4,,4.0,False,0.5,1,1,1,1,0,1,1,1,2,1,2,2,,4.5
+4,CSeSt3,,6.2,False,0.86,0,1,1,0,0,1,1,1,1,1,1,0,,7.06
+5,SlLi4,,4.0,False,0.79,2,1,2,1,1,1,2,2,2,2,2,2,,4.79
+6,BSTw4,,4.7,False,0.21,0,0,1,0,-1,0,0,1,1,1,1,-1,,4.91
+7,SeLi4,,5.6,False,0.71,1,2,1,0,1,2,1,1,2,2,2,0,,6.31
+8,CCiSt3,,6.2,False,0.43,0,1,0,0,0,0,0,1,1,1,1,0,,6.63
+9,RoLi4,,4.0,False,0.57,1,1,2,1,1,0,1,1,1,1,2,2,,4.57
+,,,44.3,,,,,,,,,,,,,,,,49.59
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.5,7.25,8.0,7.5,7.25,7.5,7.5,7.5,7.75,7.75,7.75,7.5,,7.54
+,Transitions / Linking Footwork / Movement  ,,,,1.75,7.25,6.75,8.0,7.5,7.25,7.25,7.75,7.5,7.5,7.75,7.75,7.5,,7.54
+,Performance / Execution  ,,,,1.0,7.75,7.0,8.25,7.75,7.75,7.5,7.5,7.75,7.5,8.0,8.0,7.75,,7.75
+,Choreography / Composition  ,,,,1.0,7.5,7.25,8.0,7.75,7.75,7.5,8.0,7.5,7.5,8.25,8.0,7.5,,7.79
+,Interpretation / Timing  ,,,,1.0,7.5,6.5,8.0,7.75,7.25,7.25,8.0,7.5,7.75,8.0,8.0,7.5,,7.68
+,,,,,,,,,,,,,,,,,,,45.85
+Deduction,Extended Lifts,-1.0

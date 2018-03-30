@@ -1,0 +1,19 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Hye Min KIM / Min Woo KIM,KOR,0,22.54,13.49,12.05,3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt1+STw3,,6.0,False,-1.43,-2,-2,-1,-2,-1,-2,-2,-2,-1,-2,-1,-1,,4.57
+2,CoSp1,,3.0,False,-0.5,0,-1,-2,0,-1,-2,0,-1,-1,-1,-1,-1,,2.5
+3,SlLi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+4,DiSt1,,4.2,False,-1.57,-1,-1,-2,-2,0,-2,-2,-2,-2,-2,-1,-1,,2.63
+5,RoLi4,,4.0,False,-0.21,-1,0,0,0,-1,-1,-1,-2,0,-1,-1,0,,3.79
+,,,17.2,,,,,,,,,,,,,,,,13.49
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,3.0,3.5,3.5,3.0,3.25,3.5,3.25,3.5,2.75,3.5,3.25,3.25,,3.32
+,Linking Footwork / Movement ,,,,0.8,3.0,3.25,3.5,2.75,3.0,3.25,3.0,3.0,3.0,3.25,3.0,3.25,,3.11
+,Performance ,,,,0.6,3.25,3.25,3.25,2.5,3.25,3.0,3.25,3.0,3.0,3.25,3.25,3.0,,3.14
+,Choreography ,,,,0.6,3.25,3.5,3.25,2.75,3.0,3.25,3.0,3.25,3.25,3.5,3.0,3.0,,3.18
+,Interpretation / Timing ,,,,1.0,3.0,3.5,3.25,2.75,3.25,3.5,3.0,2.75,3.0,3.25,3.25,3.0,,3.11
+,,,,,,,,,,,,,,,,,,,12.05
+Deduction,Extended lifts,-1.0
+Deduction,Illegal element,-2.0

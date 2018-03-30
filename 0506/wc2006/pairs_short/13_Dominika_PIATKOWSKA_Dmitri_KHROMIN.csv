@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Dominika PIATKOWSKA / Dmitri KHROMIN,POL,0,44.67,26.24,18.43,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3T,,4.0,False,0.14,0,1,0,0,0,0,0,0,1,0,0,0,,4.14
+2,2Tw3,,4.0,False,0.0,0,0,0,-1,0,0,0,0,0,0,-1,1,,4.0
+3,3Li3,,3.5,False,-0.04,0,0,-1,-1,0,0,0,0,0,0,-1,0,,3.46
+4,3STh,,4.5,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,4.5
+5,FCCoSp2,,2.5,False,-0.13,0,0,-1,0,0,0,-1,0,0,-1,-1,-1,,2.37
+6,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,-1,-1,0,,1.8
+7,FiDs1,,2.8,False,-0.2,0,0,-1,0,1,0,0,-1,0,0,-1,0,,2.6
+8,PCoSp2,,3.5,False,-0.13,0,-1,-1,0,0,-1,0,0,0,-1,-1,0,,3.37
+,,,26.6,,,,,,,,,,,,,,,,26.24
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.0,4.75,4.75,4.75,4.25,4.75,4.75,4.25,5.25,4.5,5.0,5.5,,4.79
+,Transition / Linking Footwork ,,,,0.8,4.75,4.25,4.25,4.5,4.0,4.5,4.5,4.0,4.25,4.0,3.5,5.25,,4.25
+,Performance / Execution ,,,,0.8,5.0,4.5,4.5,4.75,4.5,5.0,4.75,4.75,4.75,4.0,4.75,5.0,,4.71
+,Choreography / Composition ,,,,0.8,5.0,4.5,4.5,4.5,4.25,4.75,4.75,4.75,4.5,4.0,4.5,5.25,,4.61
+,Interpretation ,,,,0.8,4.75,4.5,4.5,4.75,4.0,5.0,4.75,4.25,4.75,4.0,5.0,5.25,,4.68
+,,,,,,,,,,,,,,,,,,,18.43

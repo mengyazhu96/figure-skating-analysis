@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Rena INOUE / John BALDWIN,USA,0,59.5,34.65,25.85,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,2A,,3.3,False,0.0,0,0,0,-,0,0,1,0,0,0,0,0,,3.3
+2,3ATh,,7.5,False,-2.0,-3,-3,-3,-,-3,-3,-3,-3,-3,-2,-3,-3,,5.5
+3,SpSq4,,3.4,False,0.71,1,1,1,-,0,0,1,1,0,0,1,1,,4.11
+4,2LzTw4,,4.5,False,0.07,1,0,0,-,1,0,0,-1,0,0,0,0,,4.57
+5,CCoSp4,,3.5,False,0.5,1,1,1,-,2,1,1,1,1,2,1,0,,4.0
+6,4Li4,,4.0,False,0.17,1,1,0,-,1,0,1,1,0,1,0,0,,4.17
+7,BoDs4,,4.5,False,0.0,0,1,0,-,0,0,0,0,0,0,-1,0,,4.5
+8,PCoSp4,,4.5,False,0.0,0,0,1,-,0,0,0,0,0,0,0,0,,4.5
+,,,35.2,,,,,,,,,,,,,,,,34.65
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.5,6.5,-,6.75,6.5,7.25,6.75,6.5,7.25,6.5,6.5,,6.68
+,Transition / Linking Footwork  ,,,,0.8,7.0,6.25,6.0,-,5.25,6.25,6.5,6.25,6.25,7.0,6.0,6.25,,6.25
+,Performance / Execution  ,,,,0.8,6.75,6.25,6.5,-,7.0,6.25,6.75,6.5,6.25,7.25,6.25,6.5,,6.5
+,Choreography / Composition  ,,,,0.8,6.5,6.25,6.25,-,6.5,6.25,7.0,6.5,6.5,7.0,6.5,6.5,,6.43
+,Interpretation  ,,,,0.8,7.0,6.25,6.0,-,5.75,6.25,7.0,6.75,6.5,7.0,6.25,6.5,,6.46
+,,,,,,,,,,,,,,,,,,,25.85
+Deduction,Falls,-1.0

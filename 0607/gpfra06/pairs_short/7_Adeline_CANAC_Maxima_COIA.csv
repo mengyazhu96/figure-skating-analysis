@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Adeline CANAC / Maxima COIA,FRA,0,44.74,23.9,20.84,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2LzTw1,,3.0,False,-0.06,0,-1,0,-1,0,0,0,-2,1,0,,2.94
+2,3T,,4.0,False,-1.8,-2,-1,-2,-2,-1,-2,-1,-2,-2,-2,,2.2
+3,4Li2,,3.0,False,-0.3,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,,2.7
+4,3LoTh,,5.0,False,-1.12,-2,-1,-2,-2,-1,-2,-1,-1,-2,-2,,3.88
+5,SpSq4,,3.4,False,0.6,0,1,1,1,0,0,1,1,1,0,,4.0
+6,CCoSp1,,2.0,False,-0.12,0,0,0,0,0,-1,0,0,-1,-1,,1.88
+7,PCoSp1,,3.0,False,-0.12,0,-1,-1,0,-1,-1,0,-1,0,0,,2.88
+8,BoDs1,,3.0,False,0.42,0,1,1,0,1,1,1,1,0,0,,3.42
+,,,26.4,,,,,,,,,,,,,,23.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,5.25,5.75,5.5,4.75,4.75,5.75,5.25,5.75,5.25,,5.35
+,Transition / Linking Footwork  ,,,,0.8,4.75,5.0,5.5,5.0,4.5,4.5,5.5,5.0,5.5,4.75,,5.0
+,Performance / Execution  ,,,,0.8,5.0,5.0,5.75,5.5,5.0,4.25,6.0,5.25,5.75,5.0,,5.2
+,Choreography / Composition  ,,,,0.8,5.25,5.0,5.0,5.0,4.5,4.75,5.5,5.25,5.5,5.25,,5.25
+,Interpretation  ,,,,0.8,5.0,5.0,5.5,5.25,4.75,4.5,5.75,5.5,5.75,5.0,,5.25
+,,,,,,,,,,,,,,,,,20.84

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Rikako FUKASE / Aru TATENO,JPN,4,47.15,25.58,21.57,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,-0.29,0.0,0.0,0.0,-1.0,-2.0,0.0,0.0,-1.0,-2.0,,6.31
+2,NtDiSt2,,5.6,False,0.01,-1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,-1.0,,5.61
+3,PSt2,,5.6,False,-0.43,-1.0,-1.0,0.0,0.0,0.0,0.0,0.0,-1.0,-1.0,,5.17
+4,1RH2+kpNYN,,3.8,False,-0.5,-2.0,-1.0,-1.0,-1.0,0.0,1.0,-1.0,-1.0,-2.0,,3.3
+5,RoLi4,,4.5,False,0.69,1.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,1.0,,5.19
+,,,26.1,,,,,,,,,,,,,25.58
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,4.5,5.25,5.5,4.75,6.0,6.25,5.5,4.75,5.75,,5.36
+,Transitions,,,,0.8,4.25,5.0,5.25,5.0,5.75,6.0,5.25,4.75,5.5,,5.21
+,Performance,,,,0.8,4.75,5.25,5.5,5.0,6.75,6.0,5.5,5.0,5.5,,5.39
+,Composition,,,,0.8,4.5,5.25,5.5,4.75,6.5,6.25,5.5,5.0,6.0,,5.46
+,Interpretation of the Music/Timing,,,,0.8,4.5,5.0,5.5,5.5,6.5,6.5,5.25,5.0,6.0,,5.54
+,,,,,,,,,,,,,,,,21.57

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Anna CAPPELLINI / Luca LANOTTE,ITA,9,72.0,36.97,35.03,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,1.11,2,1,2,3,3,2,2,1,1,,7.71
+2,1MB3+kpYTY,,4.4,False,0.86,3,1,1,1,2,1,2,2,1,,5.26
+3,PSt3,,7.1,False,1.89,2,1,2,2,2,1,2,2,1,,8.99
+4,SlLi4,,4.5,False,1.37,3,2,3,2,2,2,2,3,2,,5.87
+5,NtMiSt3,,7.1,False,2.04,3,1,2,2,2,2,2,2,1,,9.14
+,,,29.7,,,,,,,,,,,,,36.97
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,9.0,8.75,8.25,8.0,8.75,8.75,8.5,8.75,8.75,,8.64
+,Transitions  ,,,,0.8,9.25,8.25,8.0,8.0,8.25,8.5,8.5,8.75,8.5,,8.39
+,Performance  ,,,,0.8,9.5,8.75,8.25,8.25,9.0,9.0,9.25,9.0,8.75,,8.86
+,Composition  ,,,,0.8,9.5,8.75,8.0,8.25,9.0,9.0,9.25,9.0,8.75,,8.86
+,Interpretation of the Music / Timing  ,,,,0.8,9.75,9.0,8.0,8.5,9.25,9.25,9.0,9.25,9.0,,9.04
+,,,,,,,,,,,,,,,,35.03

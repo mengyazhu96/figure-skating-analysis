@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Cheng PENG / Yang JIN,CHN,4,73.33,41.29,32.04,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.3,False,1.0,2,1,0,2,1,2,1,2,1,,5.3
+2,3LoTh,,5.0,False,1.4,2,2,1,2,2,2,3,2,2,,6.4
+3,3Tw3,,6.2,False,1.2,2,1,2,2,3,2,2,1,1,,7.4
+4,BiDs4,,3.5,False,1.2,1,2,1,2,1,2,3,2,2,,4.7
+5,StSq4,,3.9,False,1.0,2,1,1,2,1,2,1,2,0,,4.9
+6,FCCoSp4,,3.5,False,0.79,0,2,1,2,2,2,2,1,1,,4.29
+7,5RLi4,,7.5,False,0.8,1,1,1,1,2,1,1,1,2,,8.3
+,,,33.9,,,,,,,,,,,,,41.29
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,9.0,8.0,7.75,7.75,7.75,7.5,8.5,8.0,8.0,,7.96
+,Transitions  ,,,,0.8,9.0,7.5,7.75,7.75,8.0,7.0,8.25,8.0,7.5,,7.82
+,Performance  ,,,,0.8,9.0,7.5,8.0,8.0,8.25,7.5,8.75,8.25,7.75,,8.07
+,Composition  ,,,,0.8,9.25,7.75,7.75,8.0,8.0,7.5,9.0,8.25,8.0,,8.11
+,Interpretation of the Music  ,,,,0.8,9.0,7.75,8.0,8.0,8.25,7.25,8.75,8.25,7.5,,8.07
+,,,,,,,,,,,,,,,,32.04

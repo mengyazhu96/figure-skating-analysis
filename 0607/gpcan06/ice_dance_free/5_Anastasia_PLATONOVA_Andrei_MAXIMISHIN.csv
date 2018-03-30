@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Anastasia PLATONOVA / Andrei MAXIMISHIN,RUS,0,79.98,44.3,36.68,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.3,1,0,-1,2,0,1,0,1,1,,5.0
+2,SeLi4,,6.4,False,0.4,1,0,1,1,1,1,0,0,1,,6.8
+3,CiSt2,,6.4,False,0.4,1,0,0,0,0,1,0,1,1,,6.8
+4,STw4,,4.7,False,0.3,1,0,0,0,1,0,1,1,1,,5.0
+5,SlLi4,,4.0,False,0.5,1,1,1,1,2,1,1,1,1,,4.5
+6,CuLi4+RoLi4,,6.4,False,0.2,2,0,0,0,0,1,1,0,2,,6.6
+7,MiSt2,,5.4,False,0.0,0,0,0,0,0,0,0,0,0,,5.4
+8,RoLi4,,4.0,False,0.2,1,0,1,0,0,0,0,0,1,,4.2
+,,,42.0,,,,,,,,,,,,,44.3
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.75,5.25,6.0,6.75,5.75,6.5,6.0,6.5,6.5,,6.3
+,Linking Footwork / Movement  ,,,,1.75,6.5,5.0,5.25,6.5,4.0,6.0,5.75,6.0,6.25,,5.8
+,Performance  ,,,,1.0,7.0,5.25,6.0,6.5,6.5,6.75,6.0,6.25,6.75,,6.4
+,Choreography  ,,,,1.0,6.75,5.25,5.5,6.5,6.0,6.25,5.75,6.25,6.5,,6.15
+,Interpretation / Timing  ,,,,1.0,7.0,5.0,5.75,6.5,4.75,6.5,6.25,6.5,6.75,,6.1
+,,,,,,,,,,,,,,,,36.68
+Deduction,Extended lifts,-1.0

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Wenjing SUI / Cong HAN,CHN,12,80.75,44.83,35.92,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.3,False,1.4,2,2,2,2,2,2,2,2,3,,5.7
+2,3FTh,,5.5,False,2.0,3,2,3,3,3,3,2,3,3,,7.5
+3,3Tw4,,6.6,False,1.6,3,2,2,3,2,2,2,3,2,,8.2
+4,BiDs4,,3.5,False,1.4,3,2,2,2,2,2,1,2,2,,4.9
+5,FCCoSp3,,3.0,False,0.93,2,2,1,2,1,2,2,2,2,,3.93
+6,StSq4,,3.9,False,1.7,3,3,2,3,3,2,2,2,2,,5.6
+7,5RLi4,,7.5,False,1.5,2,2,2,3,2,2,2,3,2,,9.0
+,,,34.3,,,,,,,,,,,,,44.83
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,9.0,8.75,8.75,9.0,8.75,8.0,8.75,9.0,9.25,,8.86
+,Transitions  ,,,,0.8,9.25,8.5,9.25,9.0,9.0,8.25,8.5,9.0,9.0,,8.89
+,Performance  ,,,,0.8,9.0,8.75,9.25,9.0,9.25,8.5,9.0,9.25,9.5,,9.07
+,Composition  ,,,,0.8,9.0,8.75,9.0,9.0,9.0,8.5,9.0,9.5,9.25,,9.0
+,Interpretation of the Music  ,,,,0.8,9.5,9.0,8.75,9.25,9.0,8.75,9.0,9.25,9.25,,9.07
+,,,,,,,,,,,,,,,,35.92

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Brittany JONES / Joshua REAGAN,CAN,7,54.23,27.8,26.43,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3TwB,,5.0,False,-1.2,0,-2,-1,-2,-2,-2,-2,-1,-2,,3.8
+2,3T,,4.3,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-3,-2,,2.9
+3,5ALi4,,7.5,False,0.9,1,1,2,1,1,1,2,2,1,,8.4
+4,3LoTh,,5.0,False,-1.4,-2,-2,-2,-2,-2,-2,-2,-3,-2,,3.6
+5,FCCoSp3,,3.0,False,-0.17,0,-1,0,-1,-1,-1,-1,0,1,,2.83
+6,StSq3,,3.3,False,0.07,0,0,1,0,-1,0,0,1,0,,3.37
+7,BiDsB,,2.6,False,0.3,0,0,1,1,1,0,1,0,0,,2.9
+,,,30.7,,,,,,,,,,,,,27.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,7.0,6.25,7.0,5.75,7.0,7.0,7.25,6.5,,6.79
+,Transitions  ,,,,0.8,6.5,6.25,6.5,6.25,4.75,6.75,6.5,7.0,6.25,,6.43
+,Performance  ,,,,0.8,6.5,6.5,6.75,6.5,5.25,7.0,6.75,7.0,6.0,,6.57
+,Composition  ,,,,0.8,6.75,7.0,6.5,6.75,5.5,7.0,6.5,7.25,6.75,,6.75
+,Interpretation of the Music  ,,,,0.8,6.25,6.5,6.75,6.5,5.0,7.0,6.5,7.25,6.0,,6.5
+,,,,,,,,,,,,,,,,26.43

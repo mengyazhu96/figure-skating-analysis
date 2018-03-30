@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Aljona SAVCHENKO / Bruno MASSOT,GER,7,72.55,37.09,36.46,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw4,,6.6,False,2.0,3.0,3.0,3.0,1.0,2.0,3.0,3.0,3.0,3.0,,8.6
+2,3LzTh,,5.5,False,1.3,2.0,2.0,2.0,1.0,3.0,2.0,1.0,2.0,2.0,,6.8
+3,3S,,4.4,False,-2.1,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,,2.3
+4,FiDs3,,3.2,False,1.6,1.0,3.0,3.0,1.0,3.0,3.0,2.0,2.0,2.0,,4.8
+5,PCoSp2,,3.5,False,0.79,2.0,2.0,1.0,1.0,2.0,2.0,0.0,1.0,2.0,,4.29
+6,StSq3,,3.3,False,1.14,2.0,2.0,2.0,2.0,3.0,3.0,1.0,2.0,3.0,,4.44
+7,3Li4,,4.5,False,1.36,2.0,3.0,3.0,1.0,3.0,3.0,2.0,3.0,3.0,,5.86
+,,,31.0,,,,,,,,,,,,,37.09
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.0,9.0,9.5,8.75,9.25,9.25,8.5,8.75,9.25,,9.04
+,Transitions,,,,0.8,8.75,9.25,9.5,9.0,9.5,9.25,8.25,8.75,9.0,,9.07
+,Performance,,,,0.8,9.0,9.0,9.5,8.5,9.0,9.0,8.5,8.75,9.0,,8.89
+,Composition,,,,0.8,9.5,9.25,9.75,9.0,9.5,9.75,8.25,9.0,9.25,,9.32
+,Interpretation of the Music,,,,0.8,9.5,9.5,9.75,8.75,9.5,9.5,8.25,9.0,9.0,,9.25
+,,,,,,,,,,,,,,,,36.46
+Deduction,Deductions Falls,-1.0

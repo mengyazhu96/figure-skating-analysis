@@ -1,0 +1,17 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Megan WING / Aaron LOWE,CAN,0,31.49,16.52,14.97,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,1S1,,1.7,False,0.3,1,1,1,1,1,1,0,0,,2.0
+2,1S2,,2.2,False,0.2,0,0,1,1,0,1,0,0,,2.4
+3,1S3,,2.6,False,0.1,0,1,1,0,0,0,-1,-1,,2.7
+4,2S1,,2.5,False,0.0,-1,0,0,0,1,0,0,0,,2.5
+5,2S2,,3.0,False,0.42,0,1,1,0,1,1,0,0,,3.42
+6,2S3,,3.5,False,0.0,0,0,0,0,0,0,-1,0,,3.5
+,,,15.5,,,,,,,,,,,,16.52
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.75,6.25,6.5,6.0,6.25,5.75,6.5,5.75,6.25,,6.15
+,Timing ,,,,0.75,5.75,6.0,5.25,5.75,5.5,5.75,5.75,6.0,,5.7
+,Performance / Execution ,,,,0.5,6.25,6.25,5.75,6.25,5.75,6.25,6.0,5.75,,6.1
+,Interpretation ,,,,0.5,6.0,6.25,6.0,6.25,6.0,6.0,6.0,5.75,,6.05
+,,,,,,,,,,,,,,,14.97

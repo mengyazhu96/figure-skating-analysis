@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Margarita DROBIAZKO / Povilas VANAGAS,LTU,0,59.6,30.54,29.06,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt4+STw4,,8.2,False,0.43,0,0,0,1,1,0,1,1,1,1,0,-1,,8.63
+2,CoSp4,,4.7,False,0.36,0,0,1,0,1,0,1,1,1,2,1,1,,5.06
+3,SlLi4,,4.0,False,0.93,2,2,2,1,2,1,2,1,2,2,2,1,,4.93
+4,DiSt4,,6.2,False,0.86,0,1,2,1,1,0,1,1,1,1,0,1,,7.06
+5,RoLi4,,4.0,False,0.86,2,1,2,1,2,1,1,2,2,1,2,2,,4.86
+,,,27.1,,,,,,,,,,,,,,,,30.54
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,7.5,7.75,7.75,7.75,7.25,7.5,7.75,8.0,7.5,8.0,7.5,7.5,,7.61
+,Linking Footwork / Movement ,,,,0.8,7.5,7.75,7.75,7.5,7.0,7.25,7.75,7.75,7.5,7.75,7.25,7.25,,7.5
+,Performance ,,,,0.6,7.5,8.0,8.0,7.5,7.25,7.25,8.0,8.0,7.75,8.0,7.5,7.0,,7.64
+,Choreography ,,,,0.6,7.5,8.0,7.75,7.5,7.5,7.5,7.75,7.75,7.75,8.0,7.25,7.0,,7.61
+,Interpretation / Timing ,,,,1.0,7.75,8.25,8.0,7.75,7.75,7.5,7.75,8.0,7.75,8.25,7.5,7.5,,7.82
+,,,,,,,,,,,,,,,,,,,29.06

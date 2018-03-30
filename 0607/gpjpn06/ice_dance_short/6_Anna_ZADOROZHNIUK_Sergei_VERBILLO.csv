@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Anna ZADOROZHNIUK / Sergei VERBILLO,UKR,0,27.4,14.7,12.7,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.4,False,0.0,0,0,0,0,0,-1,0,0,1,,1.4
+2,1S2,,1.7,False,-0.18,0,-1,0,-1,1,-1,-1,-2,0,,1.52
+3,2S1,,1.5,False,0.0,0,-1,0,0,0,0,0,0,0,,1.5
+4,2S2,,2.0,False,-0.2,0,-1,0,0,1,0,-2,-1,-1,,1.8
+5,3S1,,1.7,False,0.06,0,0,0,0,0,-1,0,1,1,,1.76
+6,3S2,,2.3,False,-0.12,0,0,0,-1,0,0,-1,-2,0,,2.18
+7,4S1,,2.2,False,0.0,0,0,0,0,0,-1,0,0,0,,2.2
+8,4S2,,2.7,False,-0.36,0,-1,0,-1,0,-1,-2,-1,0,,2.34
+,,,15.5,,,,,,,,,,,,,14.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,5.25,5.5,5.75,4.75,5.5,4.75,4.25,5.0,5.5,,5.25
+,Timing  ,,,,0.75,5.0,5.25,5.5,4.0,5.25,4.5,3.5,4.25,5.25,,4.9
+,Performance / Execution  ,,,,0.5,5.25,4.75,5.5,4.75,5.25,4.5,4.0,4.5,5.5,,4.95
+,Interpretation  ,,,,0.5,5.25,5.0,5.75,4.5,5.5,4.75,4.0,5.25,5.5,,5.2
+,,,,,,,,,,,,,,,,12.7

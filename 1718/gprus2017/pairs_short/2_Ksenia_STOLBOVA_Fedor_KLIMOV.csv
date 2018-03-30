@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Ksenia STOLBOVA / Fedor KLIMOV,RUS,7,71.39,36.36,36.03,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.8,False,-0.6,0.0,-2.0,-1.0,-1.0,0.0,0.0,0.0,-2.0,-2.0,,5.2
+2,3FTh,,5.5,False,2.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,3.0,2.0,,7.5
+3,3T,,4.3,False,-2.1,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,,2.2
+4,FiDs4,,3.5,False,1.4,3.0,0.0,2.0,2.0,2.0,1.0,2.0,3.0,2.0,,4.9
+5,PCoSp4,,4.5,False,0.86,2.0,1.0,2.0,2.0,1.0,2.0,2.0,3.0,1.0,,5.36
+6,3Li4,,4.5,False,1.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,,5.5
+7,StSq4,,3.9,False,1.8,3.0,2.0,2.0,3.0,3.0,2.0,3.0,3.0,2.0,,5.7
+,,,32.0,,,,,,,,,,,,,36.36
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.25,9.0,8.25,9.25,9.25,9.25,9.25,9.25,8.75,,9.14
+,Transitions,,,,0.8,9.0,8.75,8.0,9.0,9.0,9.0,9.0,9.0,8.5,,8.89
+,Performance,,,,0.8,9.25,8.75,8.5,9.0,8.75,8.5,9.25,9.0,8.5,,8.82
+,Composition,,,,0.8,9.5,9.0,8.5,9.25,9.25,8.75,9.25,9.25,8.75,,9.07
+,Interpretation of the Music,,,,0.8,9.25,8.75,8.75,9.25,9.25,9.0,9.5,9.5,8.75,,9.11
+,,,,,,,,,,,,,,,,36.03
+Deduction,Deductions Falls,-1.0

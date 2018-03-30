@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Michaela-Lucie HANZLIKOVA,CZE,7,85.84,40.15,46.69,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3S,,4.4,False,0.7,1,1,1,1,1,1,1,1,1,,5.1
+2,2A+3T<<+SEQ+2T*,*,3.68,False,-1.36,-3,-3,-2,-2,-3,-3,-3,-2,-3,,2.32
+3,3T,,4.3,False,0.5,0,1,0,1,1,1,1,0,1,,4.8
+4,2Lo,,1.8,False,-0.9,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+5,FCCoSp3,,3.0,False,-0.09,-1,0,-1,0,0,0,0,-1,0,,2.91
+6,2A,,3.3,False,0.14,0,1,0,0,1,0,1,0,0,,3.44
+7,StSq2,,2.6,False,0.0,0,0,0,0,0,0,0,-1,0,,2.6
+8,3Lo,,5.61,True,0.5,0,1,1,1,1,1,0,0,1,,6.11
+9,2Lz+2T,,3.74,True,0.13,1,0,0,0,1,1,1,0,0,,3.87
+10,CCoSp4,,3.5,False,0.21,0,1,1,1,1,0,0,-1,0,,3.71
+11,LSp3,,2.4,False,-0.01,-1,-1,0,-1,0,1,1,0,0,,2.39
+12,ChSq1,,2.0,False,0.0,0,0,0,0,0,1,0,0,0,,2.0
+,,,40.33,,,,,,,,,,,,,40.15
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.0,6.25,7.0,6.25,6.0,5.75,5.75,4.5,5.75,,5.96
+,Transitions  ,,,,1.6,5.5,6.5,6.25,6.25,6.0,5.25,5.0,4.25,5.5,,5.68
+,Performance  ,,,,1.6,5.25,6.0,6.75,6.0,6.25,5.5,5.5,4.5,6.0,,5.79
+,Composition  ,,,,1.6,5.5,6.5,6.5,6.5,6.0,5.75,5.25,4.75,5.75,,5.89
+,Interpretation of the Music  ,,,,1.6,5.25,6.0,6.75,6.5,6.25,5.75,5.25,4.0,6.0,,5.86
+,,,,,,,,,,,,,,,,46.69
+Deduction,Deductions Falls,-1.0

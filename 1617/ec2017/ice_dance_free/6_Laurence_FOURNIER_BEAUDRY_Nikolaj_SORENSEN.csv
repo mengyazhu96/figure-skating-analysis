@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Laurence FOURNIER BEAUDRY / Nikolaj SORENSEN,DEN,15,94.66,48.92,46.74,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.94,1,1,1,2,2,2,2,1,2,,5.44
+2,STw4,,6.6,False,1.2,2,2,2,3,3,2,1,1,2,,7.8
+3,CiSt3,,7.1,False,1.26,1,1,1,2,1,1,2,0,1,,8.36
+4,StaLi4,,4.5,False,0.94,0,1,2,2,3,1,2,1,2,,5.44
+5,CoSp2,,3.6,False,0.77,1,1,1,2,2,-1,2,1,1,,4.37
+6,RoLi4,>,4.5,False,0.94,1,2,2,2,2,1,1,1,3,,5.44
+7,DiSt3,,7.1,False,1.57,1,1,2,2,2,1,1,0,2,,8.67
+8,ChLi1,,0.7,False,1.1,0,2,2,2,2,1,1,1,2,,1.8
+9,ChSp1,,0.7,False,0.9,1,2,1,1,2,1,2,1,1,,1.6
+,,,39.3,,,,,,,,,,,,,48.92
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,8.0,8.0,7.5,8.25,8.0,7.75,7.5,7.25,8.0,,7.82
+,Transitions  ,,,,1.2,7.5,7.75,7.25,8.25,7.75,7.5,7.25,7.0,8.0,,7.57
+,Performance  ,,,,1.2,8.0,8.0,7.75,8.5,8.25,7.5,7.75,7.0,8.5,,7.96
+,Composition  ,,,,1.2,7.75,8.0,7.5,8.25,8.0,7.75,7.5,6.75,8.25,,7.82
+,Interpretation of the Music / Timing  ,,,,1.2,7.75,8.25,7.75,8.75,8.0,7.5,7.0,6.75,8.25,,7.79
+,,,,,,,,,,,,,,,,46.74
+Deduction,Deductions Extended lifts,-1.0

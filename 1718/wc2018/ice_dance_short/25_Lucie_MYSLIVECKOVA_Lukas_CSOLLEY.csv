@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+25,Lucie MYSLIVECKOVA / Lukas CSOLLEY,SVK,10,55.54,29.33,26.21,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH1+kpNNN,,3.2,False,0.26,1,0,1,0,0,1,0,1,0,,3.46
+2,PSt3,,7.1,False,0.31,0,1,0,0,0,0,1,1,0,,7.41
+3,SlLi4,,4.5,False,0.86,2,1,1,2,2,1,1,1,2,,5.36
+4,STw4,,6.6,False,0.43,1,0,1,1,1,0,0,1,1,,7.03
+5,NtDiSt2,,5.6,False,0.47,-1,0,0,0,1,1,1,0,1,,6.07
+,,,27.0,,,,,,,,,,,,,29.33
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.5,7.0,7.0,6.5,6.25,6.5,6.0,6.75,6.5,,6.57
+,Transitions,,,,0.8,6.0,6.75,6.25,6.5,6.25,6.25,5.75,6.5,6.5,,6.32
+,Performance,,,,0.8,6.75,7.25,6.5,6.75,6.25,6.75,5.75,7.0,6.75,,6.68
+,Composition,,,,0.8,6.25,7.25,6.5,6.5,6.5,6.5,6.0,7.0,6.75,,6.57
+,Interpretation of the Music/Timing,,,,0.8,6.5,7.0,6.75,6.5,6.5,6.75,6.25,7.0,6.25,,6.61
+,,,,,,,,,,,,,,,,26.21

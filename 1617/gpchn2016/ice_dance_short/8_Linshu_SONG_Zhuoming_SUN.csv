@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Linshu SONG / Zhuoming SUN,CHN,7,53.2,27.25,25.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1MB4+kpYYY,,5.0,False,0.17,0,0,0,0,-1,0,1,1,1,,5.17
+2,PSt1,,4.1,False,0.26,0,0,0,0,0,1,1,1,1,,4.36
+3,STw4,,6.6,False,-0.04,0,-1,1,-1,-1,0,-1,1,1,,6.56
+4,NtMiSt2,,5.6,False,0.79,1,1,1,0,0,1,1,0,1,,6.39
+5,RoLi3,,4.0,False,0.77,1,1,1,0,1,2,1,2,2,,4.77
+,,,25.3,,,,,,,,,,,,,27.25
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.25,6.25,6.5,6.5,6.25,7.0,6.5,6.75,7.5,,6.54
+,Transitions  ,,,,0.8,5.25,6.25,6.25,5.75,6.0,6.75,6.25,6.5,7.25,,6.25
+,Performance  ,,,,0.8,5.5,6.5,6.5,6.25,6.0,7.25,7.0,6.75,7.5,,6.61
+,Composition  ,,,,0.8,5.5,6.5,6.5,6.0,6.25,7.0,6.75,6.75,7.25,,6.54
+,Interpretation of the Music / Timing  ,,,,0.8,5.25,6.25,6.25,6.25,6.25,7.0,7.0,6.5,7.5,,6.5
+,,,,,,,,,,,,,,,,25.95

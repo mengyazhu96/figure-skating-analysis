@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Matilda FRIEND / William BADAOUI,AUS,5,33.09,17.08,17.01,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH2+kpNNY,,3.8,False,-0.57,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,-1.0,-2.0,,3.23
+2,PSt1,,4.1,False,-0.43,-2.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0.0,-1.0,,3.67
+3,STw1,,3.1,False,-0.09,0.0,0.0,-1.0,0.0,-1.0,0.0,0.0,-1.0,0.0,,3.01
+4,NtDiSt1,,4.1,False,-0.5,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,,3.6
+5,RoLi3,,4.0,False,-0.43,-1.0,-2.0,-1.0,-1.0,0.0,-1.0,0.0,-1.0,-1.0,,3.57
+,,,19.1,,,,,,,,,,,,,17.08
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,4.75,4.0,3.75,3.5,5.0,4.75,4.25,4.25,4.75,,4.36
+,Transitions,,,,0.8,4.25,3.5,3.5,3.75,4.5,4.0,4.0,4.5,4.75,,4.07
+,Performance,,,,0.8,4.25,3.5,3.75,4.0,5.0,4.25,4.25,4.75,5.0,,4.32
+,Composition,,,,0.8,4.5,3.75,3.75,4.0,4.5,4.25,4.5,5.0,5.25,,4.36
+,Interpretation of the Music/Timing,,,,0.8,4.25,3.5,3.5,3.75,4.25,4.5,4.25,4.5,5.25,,4.14
+,,,,,,,,,,,,,,,,17.01
+Deduction,Deductions Extended lifts,-1.0

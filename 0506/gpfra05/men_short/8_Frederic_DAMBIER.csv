@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Frederic DAMBIER,FRA,0,52.38,21.48,31.9,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3S+COMBO,,4.5,False,-3.0,-3,-3,-2,-3,-3,-3,-3,-3,-3,-3,,1.5
+2,3A,,7.5,False,-0.8,-1,0,-1,0,-1,-1,-1,-1,-2,-1,,6.7
+3,CSSp2,,1.7,False,0.1,1,0,-1,1,-1,0,0,0,0,0,,1.8
+4,SlSt1,,1.8,False,0.1,0,0,1,0,0,1,0,1,0,1,,1.9
+5,FSSp3,,2.3,False,0.0,0,0,0,0,0,1,0,0,0,0,,2.3
+6,3F,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+7,CiSt2,,2.3,False,0.1,1,0,1,1,-1,0,0,1,1,0,,2.4
+8,CCoSp2,,2.5,False,-0.12,-1,0,0,0,0,-1,-1,0,0,0,,2.38
+,,,28.1,,,,,,,,,,,,,,21.48
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.25,7.0,6.5,7.0,5.5,6.25,6.5,6.5,6.0,6.75,,6.55
+,Transition / Linking Footwork ,,,,1.0,5.25,6.5,6.0,6.0,5.0,5.75,6.5,6.25,5.5,6.5,,6.0
+,Performance / Execution ,,,,1.0,6.0,6.75,6.5,6.75,5.0,6.0,7.0,6.5,5.0,6.5,,6.4
+,Choreography / Composition ,,,,1.0,6.0,6.75,6.5,7.0,5.5,6.0,6.75,6.5,6.0,6.75,,6.45
+,Interpretation ,,,,1.0,6.0,7.0,6.25,6.75,5.0,6.0,7.0,6.25,5.75,6.75,,6.5
+,,,,,,,,,,,,,,,,,31.9
+Deduction,Falls,-1.0

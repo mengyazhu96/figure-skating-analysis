@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,CHAIT Galit / SAKHNOVSKI Sergei,ISR,0,31.07,14.8,17.27,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,1S1,,1.7,False,0.13,0,0,0,1,1,1,1,0,1,0,0,0,,1.83
+2,1S2,,2.2,False,0.43,0,0,1,1,1,1,1,0,1,1,-1,1,,2.63
+3,1S3,,2.6,False,0.14,0,0,1,1,0,1,0,0,0,0,0,0,,2.74
+4,2S1,,2.5,False,0.4,0,-1,1,1,1,1,1,0,1,0,0,0,,2.9
+5,2S2,,3.0,False,-1.5,-2,-2,-2,-2,-2,-1,-2,-2,-2,-2,-2,-3,,1.5
+6,2S3,,3.5,False,-0.3,-1,-1,-1,1,0,0,0,-1,-1,0,-1,0,,3.2
+,,,15.5,,,,,,,,,,,,,,,,14.8
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,7.0,6.25,6.5,7.75,7.0,7.5,7.25,6.75,7.5,7.0,6.75,7.0,,7.07
+,Timing  ,,,,0.75,6.5,6.0,6.0,7.25,6.75,7.0,7.5,6.5,7.25,6.5,6.5,7.0,,6.79
+,Performance / Execution  ,,,,0.5,6.5,6.0,6.5,7.5,7.25,6.5,7.25,6.75,7.25,6.75,6.5,6.75,,6.82
+,Interpretation  ,,,,0.5,7.0,6.0,6.5,7.5,7.25,7.0,7.5,7.0,7.25,6.5,6.5,7.0,,6.93
+,,,,,,,,,,,,,,,,,,,17.27
+Deduction,Falls,-1.0

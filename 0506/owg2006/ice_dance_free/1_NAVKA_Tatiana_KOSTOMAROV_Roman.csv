@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,NAVKA Tatiana / KOSTOMAROV Roman,RUS,0,101.37,51.73,49.64,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.71,2,1,2,1,1,2,2,1,1,2,1,2,,5.41
+2,BSTw4,,4.7,False,0.5,0,1,1,2,0,0,1,1,1,1,2,0,,5.2
+3,SlLi4,,4.0,False,0.86,1,2,1,2,1,1,2,2,2,2,2,1,,4.86
+4,CSeSt3,,6.2,False,1.14,0,0,1,1,0,2,1,1,2,2,2,0,,7.34
+5,CuLi4,,4.0,False,0.86,2,1,2,2,1,1,2,2,2,2,2,1,,4.86
+6,FSTw4,,4.7,False,0.57,1,1,1,2,-1,0,2,1,1,2,1,0,,5.27
+7,CCiSt2,,5.3,False,0.86,0,0,1,1,0,2,1,1,2,1,1,0,,6.16
+8,SeLi4,,5.6,False,0.79,1,1,1,2,0,1,2,2,2,2,2,2,,6.39
+9,CuLi4+RoLi4,,5.6,False,0.64,0,1,2,2,0,1,1,1,2,1,2,2,,6.24
+,,,44.8,,,,,,,,,,,,,,,,51.73
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.75,7.75,8.5,8.5,7.75,8.5,8.5,7.75,8.5,8.5,8.25,8.5,,8.25
+,Transitions / Linking Footwork / Movement  ,,,,1.75,7.75,7.5,8.5,8.25,7.5,8.25,8.5,7.75,8.25,8.25,8.25,8.25,,8.11
+,Performance / Execution  ,,,,1.0,7.5,7.75,9.0,8.5,7.75,8.5,8.5,8.25,8.5,8.5,8.5,8.5,,8.36
+,Choreography / Composition  ,,,,1.0,7.75,7.75,8.75,8.5,7.75,8.25,8.75,7.75,8.5,8.75,8.5,8.5,,8.32
+,Interpretation / Timing  ,,,,1.0,8.0,7.75,9.0,8.5,8.0,8.5,8.75,8.25,8.75,8.75,8.5,8.5,,8.46
+,,,,,,,,,,,,,,,,,,,49.64

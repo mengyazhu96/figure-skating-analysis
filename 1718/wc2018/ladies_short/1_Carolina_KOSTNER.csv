@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Carolina KOSTNER,ITA,33,80.27,41.3,38.97,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F+3T,,9.6,False,1.8,3,3,2,3,2,3,3,2,2,,11.4
+2,3Lo,,5.1,False,1.4,2,3,1,2,2,2,3,2,1,,6.5
+3,FCSp4,,3.2,False,0.93,3,2,1,1,2,2,2,2,2,,4.13
+4,2A,,3.63,True,1.14,2,3,2,2,2,3,3,2,1,,4.77
+5,LSp4,,2.7,False,1.29,3,3,2,2,3,2,3,3,2,,3.99
+6,StSq4,,3.9,False,1.9,3,3,2,2,3,3,3,3,2,,5.8
+7,CCoSp4,,3.5,False,1.21,3,3,1,2,3,2,2,3,2,,4.71
+,,,31.63,,,,,,,,,,,,,41.3
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.75,10.0,9.5,9.25,9.75,9.5,9.75,9.75,9.25,,9.61
+,Transitions,,,,0.8,9.5,10.0,9.25,9.0,9.5,9.5,9.75,9.75,9.0,,9.46
+,Performance,,,,0.8,10.0,10.0,9.75,9.5,10.0,10.0,10.0,10.0,9.5,,9.89
+,Composition,,,,0.8,10.0,10.0,9.75,9.5,10.0,9.75,10.0,10.0,9.25,,9.86
+,Interpretation of the Music,,,,0.8,10.0,10.0,9.75,9.5,10.0,10.0,10.0,10.0,9.25,,9.89
+,,,,,,,,,,,,,,,,38.97

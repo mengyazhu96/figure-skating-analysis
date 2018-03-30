@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,Camille RUEST / Andrew WOLFE,CAN,10,59.98,31.89,28.09,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,2Tw2,,3.4,False,0.3,-1,1,1,2,2,1,1,1,0,,3.7
+2,3T,,4.3,False,-1.4,-2,-2,-2,-3,-2,-2,-2,-2,-2,,2.9
+3,3LoTh,,5.0,False,0.1,0,0,0,-1,1,1,0,0,0,,5.1
+4,3Li4,,4.5,False,0.79,1,2,1,2,2,2,1,2,1,,5.29
+5,StSq4,,3.9,False,0.9,1,1,1,2,2,1,1,2,1,,4.8
+6,FiDs4,,3.5,False,1.1,1,2,1,2,2,2,1,2,1,,4.6
+7,PCoSp4,,4.5,False,1.0,2,2,2,2,2,2,2,2,1,,5.5
+,,,29.1,,,,,,,,,,,,,31.89
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,7.0,6.75,7.5,6.75,7.5,7.25,7.25,6.75,,7.11
+,Transitions,,,,0.8,7.25,7.25,6.5,7.25,6.75,7.25,7.0,6.75,6.5,,6.96
+,Performance,,,,0.8,7.0,6.75,6.25,7.0,7.0,7.75,7.0,7.0,6.5,,6.89
+,Composition,,,,0.8,7.0,7.0,6.75,7.5,7.0,8.0,7.0,6.75,7.0,,7.04
+,Interpretation of the Music,,,,0.8,7.25,7.25,6.75,7.5,6.75,7.75,7.25,7.0,6.75,,7.11
+,,,,,,,,,,,,,,,,28.09

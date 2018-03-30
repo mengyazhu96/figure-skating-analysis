@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+22,KAUC Alexandra / ZYCH Michal,POL,0,42.06,23.82,18.24,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp3,,4.0,False,0.14,1,-1,1,1,0,0,0,0,0,1,-1,0,,4.14
+2,CuLi4,,4.0,False,0.07,0,0,1,0,0,0,1,0,0,1,0,0,,4.07
+3,DiSt2,,4.8,False,-0.29,-1,-1,0,0,-1,0,0,0,0,0,-1,0,,4.51
+4,NtMiSt3+STw4,,7.6,False,-0.57,-1,-1,0,0,-1,0,-1,0,0,0,-1,-1,,7.03
+5,RoLi4,,4.0,False,0.07,0,0,0,1,0,1,0,0,0,1,0,0,,4.07
+,,,24.4,,,,,,,,,,,,,,,,23.82
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,4.25,5.0,4.75,4.5,4.75,5.25,4.75,5.25,5.0,4.75,5.25,,4.86
+,Transitions / Linking Footwork / Movement  ,,,,0.8,4.25,4.25,5.0,4.75,4.5,4.5,5.25,4.75,5.0,4.75,4.75,5.25,,4.75
+,Performance / Execution  ,,,,0.6,4.5,4.5,5.25,4.75,4.75,4.5,5.5,4.75,4.75,5.25,5.0,5.25,,4.82
+,Choreography / Composition  ,,,,0.6,4.5,4.5,5.0,4.75,4.5,4.5,5.25,4.5,5.0,5.0,5.0,5.5,,4.79
+,Interpretation / Timing  ,,,,1.0,4.0,4.25,5.25,5.0,4.5,4.5,5.25,4.75,4.75,5.0,5.0,5.25,,4.79
+,,,,,,,,,,,,,,,,,,,18.24

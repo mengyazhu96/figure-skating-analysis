@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Alisa STOMAKHINA,AUT,8,48.71,26.26,22.45,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,0.1,-1,1,0,1,1,0,0,0,-1,,6.1
+2,3T+2T,,5.6,False,0.0,0,0,0,0,0,-1,0,0,0,,5.6
+3,FSSp4,,3.0,False,0.21,0,1,0,1,1,-1,1,0,0,,3.21
+4,StSq2,,2.6,False,0.14,0,-1,1,1,0,0,1,0,0,,2.74
+5,2A,,3.63,True,-0.21,-1,-1,-1,0,0,-1,0,0,0,,3.42
+6,CCoSp4,,3.5,False,0.0,0,-1,0,0,0,0,0,0,0,,3.5
+7,LSp2,,1.9,False,-0.21,0,-2,-1,-1,-1,-1,0,-1,0,,1.69
+,,,26.23,,,,,,,,,,,,,26.26
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,5.5,4.75,6.75,6.25,5.75,5.75,5.5,6.0,5.5,,5.75
+,Transitions,,,,0.8,5.0,4.25,6.25,6.0,5.25,5.5,5.0,5.75,5.25,,5.39
+,Performance,,,,0.8,5.75,4.5,6.5,6.0,6.0,5.75,5.5,5.75,5.5,,5.75
+,Composition,,,,0.8,5.5,4.0,6.5,6.25,5.75,5.75,5.5,5.75,5.25,,5.68
+,Interpretation of the Music,,,,0.8,5.5,4.25,6.5,6.0,5.5,5.5,5.25,5.5,5.25,,5.5
+,,,,,,,,,,,,,,,,22.45

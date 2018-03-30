@@ -1,0 +1,26 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Tiffany VISE / Derek TRENT,USA,0,100.96,55.48,46.48,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2LzTw3,,4.0,False,0.4,1,0,0,1,1,1,1,1,1,0,,4.4
+2,2T,,1.3,False,0.0,0,0,0,0,0,0,0,0,0,0,,1.3
+3,2Lz+2T+SEQ,,2.56,False,0.0,0,0,0,1,0,0,-1,0,0,0,,2.56
+4,3Li4,,4.0,False,0.24,1,1,1,1,1,0,1,1,0,1,,4.24
+5,3LoTh,,5.0,False,0.7,0,1,1,2,2,1,1,1,1,1,,5.7
+6,5ALi4,,6.5,False,0.8,1,0,0,1,1,1,0,0,1,1,,7.3
+7,PCoSp4,,4.5,False,0.3,1,1,0,1,0,1,0,0,1,0,,4.8
+8,4STh,,8.8,True,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.8
+9,SpSq4,,3.4,False,0.0,0,0,0,-1,1,0,0,0,0,0,,3.4
+10,FCCoSp2,,2.5,False,-0.3,-1,-1,-2,0,-1,-1,-1,-2,-1,-2,,2.2
+11,5SLi4,,6.0,False,0.18,1,1,0,0,1,0,0,0,0,1,,6.18
+12,SlSt3,,3.1,False,0.0,-1,0,0,0,1,0,0,0,0,0,,3.1
+13,FiDs4,,3.5,False,0.0,1,0,0,-1,0,0,0,0,0,-1,,3.5
+,,,55.16,,,,,,,,,,,,,,55.48
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,6.5,5.75,5.75,6.5,6.25,6.0,6.0,5.5,5.75,5.5,,5.95
+,Transition / Linking Footwork  ,,,,1.6,6.25,5.25,5.25,6.0,6.0,5.75,5.5,5.0,5.5,5.25,,5.6
+,Performance / Execution  ,,,,1.6,6.5,5.5,5.5,6.25,6.25,6.0,5.75,5.5,5.75,5.25,,5.85
+,Choreography / Composition  ,,,,1.6,6.5,5.5,5.5,6.25,6.5,6.25,5.5,5.75,5.75,5.75,,5.95
+,Interpretation  ,,,,1.6,6.25,5.25,5.25,6.5,6.0,6.0,5.5,5.25,5.75,5.25,,5.7
+,,,,,,,,,,,,,,,,,46.48
+Deduction,Falls,-1.0

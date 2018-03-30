@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Yuzuru HANYU,JPN,9,103.89,57.35,46.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Lo,,12.0,False,-2.63,-1,-2,-2,-2,-2,-2,-2,-3,-3,,9.37
+2,4S+3T,,14.8,False,2.29,3,2,2,2,3,2,2,2,3,,17.09
+3,FCSp4,,3.2,False,0.93,2,2,2,2,1,2,1,2,3,,4.13
+4,3A,,9.35,True,3.0,3,3,3,3,3,3,2,3,3,,12.35
+5,CSSp4,,3.0,False,1.14,3,2,2,2,2,2,2,3,3,,4.14
+6,StSq4,,3.9,False,1.8,3,2,2,3,2,3,3,2,3,,5.7
+7,CCoSp4,,3.5,False,1.07,2,2,2,2,3,2,2,2,3,,4.57
+,,,49.75,,,,,,,,,,,,,57.35
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,9.5,9.25,9.5,9.5,9.25,9.25,9.75,8.5,9.5,,9.39
+,Transitions  ,,,,1.0,9.25,9.0,9.25,9.0,8.5,9.0,10.0,8.5,9.25,,9.04
+,Performance  ,,,,1.0,9.25,9.25,9.75,9.5,9.0,9.0,9.75,9.0,9.25,,9.29
+,Composition  ,,,,1.0,9.5,9.5,9.5,9.5,8.75,9.25,9.75,8.75,9.5,,9.36
+,Interpretation of the Music  ,,,,1.0,9.5,9.0,10.0,9.5,9.25,9.25,10.0,9.25,9.5,,9.46
+,,,,,,,,,,,,,,,,46.54

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Xue SHEN / Hongbo ZHAO,CHN,0,68.9,37.18,31.72,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T,,4.0,False,1.0,1,0,1,0,1,1,1,1,2,2,,5.0
+2,3LoTh,,5.0,False,1.4,2,2,3,2,2,2,2,2,2,2,,6.4
+3,SpSq4,,3.4,False,1.2,1,0,1,0,1,1,2,1,1,2,,4.6
+4,BoDs3,,4.0,False,0.84,0,1,1,1,2,1,1,2,1,1,,4.84
+5,FCCoSp2,,2.5,False,0.3,0,-1,0,0,0,1,1,1,1,1,,2.8
+6,3LzTw2,,5.0,False,0.84,1,1,2,1,2,1,0,2,1,1,,5.84
+7,4Li4,,4.0,False,0.3,1,1,1,0,1,1,1,2,1,1,,4.3
+8,PCoSp1,,3.0,False,0.4,0,0,0,1,1,1,0,2,1,1,,3.4
+,,,30.9,,,,,,,,,,,,,,37.18
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,7.25,7.75,8.0,8.25,8.0,7.5,8.25,7.5,7.75,,8.0
+,Transition / Linking Footwork  ,,,,0.8,7.75,7.0,7.5,7.5,8.0,7.75,7.5,8.0,7.25,7.5,,7.7
+,Performance / Execution  ,,,,0.8,7.75,7.25,7.5,7.75,8.25,7.75,7.5,8.25,7.5,8.0,,7.9
+,Choreography / Composition  ,,,,0.8,8.0,7.25,7.5,8.0,8.0,8.0,7.75,8.0,7.5,8.25,,8.0
+,Interpretation  ,,,,0.8,8.0,7.5,7.5,7.75,8.25,8.0,7.75,8.25,7.75,8.25,,8.05
+,,,,,,,,,,,,,,,,,31.72

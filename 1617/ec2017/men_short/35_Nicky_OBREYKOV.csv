@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+35,Nicky OBREYKOV,BUL,14,44.83,19.5,25.33,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1F*+3T,*,4.3,False,-2.0,-3,-3,-3,-3,-3,-3,-3,-2,0,,2.3
+2,3A,,8.5,False,-1.0,-1,-1,-1,-1,-1,-1,-2,-1,-1,,7.5
+3,CSSp4,,3.0,False,0.0,0,0,0,0,-2,0,0,0,0,,3.0
+4,1Lo*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,StSq2,,2.6,False,0.07,0,1,1,0,0,0,0,0,0,,2.67
+6,FCSp2,,2.3,False,-0.17,0,0,0,-1,-2,-1,-1,-1,0,,2.13
+7,CCoSp3V,,2.5,False,-0.6,-2,-2,-1,-2,-2,-2,-2,-2,-2,,1.9
+,,,23.2,,,,,,,,,,,,,19.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.0,5.5,5.5,5.0,5.25,5.25,5.25,5.5,5.25,,5.29
+,Transitions  ,,,,1.0,4.5,5.0,5.25,4.75,5.25,5.0,5.0,4.5,4.5,,4.86
+,Performance  ,,,,1.0,4.75,5.0,5.25,5.0,5.0,5.0,5.0,4.75,4.75,,4.93
+,Composition  ,,,,1.0,5.0,5.25,5.25,5.25,5.25,5.25,5.25,5.0,4.75,,5.18
+,Interpretation of the Music  ,,,,1.0,4.5,5.5,5.25,5.0,5.5,5.25,4.75,5.25,4.25,,5.07
+,,,,,,,,,,,,,,,,25.33

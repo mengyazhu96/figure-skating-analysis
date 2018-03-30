@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Na HOU,CHN,0,44.88,25.0,19.88,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2A,,3.3,False,0.8,1,1,0,1,0,1,1,1,1,2,,4.1
+2,3Lz+2T,,7.3,False,0.0,0,0,0,0,-1,1,1,1,-1,1,,7.3
+3,3T,,4.0,False,0.0,-1,1,0,1,0,0,0,0,0,0,,4.0
+4,FCSp2,,2.0,False,-0.24,-1,-1,0,-1,-1,-1,-1,0,0,0,,1.76
+5,SpSt2,,2.3,False,0.0,0,0,0,1,0,0,0,0,0,0,,2.3
+6,CCoSp1,,2.0,False,0.0,0,0,0,0,-1,0,0,1,0,0,,2.0
+7,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,0,,1.8
+8,LSp3,,1.8,False,-0.06,-1,1,0,-1,0,0,0,0,1,0,,1.74
+,,,24.5,,,,,,,,,,,,,,25.0
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.5,5.0,5.0,5.0,5.0,5.25,6.0,5.25,5.0,5.0,,5.15
+,Transition / Linking Footwork ,,,,0.8,5.25,4.0,4.75,4.5,4.5,4.75,5.5,5.0,4.75,4.0,,4.8
+,Performance / Execution ,,,,0.8,5.0,5.0,5.25,4.5,4.75,5.0,5.75,5.25,4.75,4.5,,4.95
+,Choreography / Composition ,,,,0.8,5.25,4.25,5.0,4.25,5.0,5.0,5.75,5.0,5.0,4.25,,5.05
+,Interpretation ,,,,0.8,5.0,4.25,5.0,4.5,4.75,5.0,5.75,5.25,4.75,4.25,,4.9
+,,,,,,,,,,,,,,,,,19.88

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Kristin FRASER / Igor LUKANIN,AZE,0,79.63,42.4,37.23,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,Sp4,,4.7,False,0.3,1,0,0,1,1,0,0,1,0,1,,5.0
+2,SlLi4,,4.0,False,0.6,1,0,0,0,1,1,0,2,1,2,,4.6
+3,CiSt3,,7.2,False,0.0,1,0,0,0,0,0,0,0,0,0,,7.2
+4,CuLi4,,4.0,False,0.4,0,0,1,1,1,1,1,2,1,0,,4.4
+5,STw3,,4.0,False,-0.4,-1,-2,-2,-1,-1,-1,-1,0,0,-2,,3.6
+6,SlLi4+RoLi4,,6.4,False,0.4,1,0,1,0,0,1,1,1,0,1,,6.8
+7,MiSt2,,5.4,False,-0.4,0,-1,-1,-1,0,-1,-1,0,0,-1,,5.0
+8,RRoLi3,,5.6,False,0.2,1,0,0,1,0,0,1,1,0,0,,5.8
+,,,41.3,,,,,,,,,,,,,,42.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.75,5.75,5.5,6.0,6.25,5.75,5.5,6.75,6.5,6.25,,6.3
+,Linking Footwork / Movement  ,,,,1.75,6.5,6.0,5.75,6.25,6.0,5.75,5.25,6.5,6.25,5.5,,6.0
+,Performance  ,,,,1.0,7.0,5.75,6.0,6.25,6.0,5.5,5.25,7.0,6.25,5.75,,6.1
+,Choreography  ,,,,1.0,6.75,6.0,6.0,6.0,6.25,6.25,5.5,6.75,6.5,5.75,,6.3
+,Interpretation / Timing  ,,,,1.0,7.25,5.75,6.0,6.5,6.25,6.5,5.25,7.0,6.5,6.0,,6.45
+,,,,,,,,,,,,,,,,,37.23

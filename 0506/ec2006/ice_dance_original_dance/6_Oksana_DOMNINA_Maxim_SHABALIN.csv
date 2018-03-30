@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Oksana DOMNINA / Maxim SHABALIN,RUS,0,53.31,27.68,25.63,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt3+STw4,,7.6,False,1.0,0,2,1,1,1,1,1,1,1,1,1,1,,8.6
+2,SlLi3,,3.5,False,0.57,1,2,1,1,1,1,1,1,1,1,2,2,,4.07
+3,CoSp4,,4.7,False,0.29,1,1,1,1,0,1,0,0,2,0,1,0,,4.99
+4,DiSt2,,4.8,False,0.86,1,0,1,1,0,1,0,0,1,1,1,1,,5.66
+5,RoLi4,,4.0,False,0.36,1,0,0,1,1,1,0,1,1,1,1,0,,4.36
+,,,24.6,,,,,,,,,,,,,,,,27.68
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.75,6.75,6.75,7.25,7.25,6.5,6.5,7.0,6.75,6.75,6.75,6.5,,6.71
+,Linking Footwork / Movement ,,,,0.8,6.5,6.75,6.5,7.0,6.75,6.75,6.25,7.0,6.75,6.5,6.25,6.25,,6.57
+,Performance ,,,,0.6,6.5,7.0,6.75,7.25,7.25,6.75,6.5,7.25,7.0,6.75,6.5,6.5,,6.79
+,Choreography ,,,,0.6,6.5,6.75,6.75,7.5,7.5,6.75,6.75,7.25,7.0,6.5,6.5,6.5,,6.79
+,Interpretation / Timing ,,,,1.0,6.5,7.0,6.75,7.25,7.25,7.0,6.75,7.25,7.0,6.75,6.5,6.5,,6.86
+,,,,,,,,,,,,,,,,,,,25.63

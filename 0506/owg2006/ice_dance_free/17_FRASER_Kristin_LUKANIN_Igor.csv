@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+17,FRASER Kristin / LUKANIN Igor,AZE,0,77.14,45.26,31.88,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.07,0,1,0,0,0,-1,1,0,0,0,0,-1,,4.77
+2,BSTw4,,4.7,False,-0.21,-1,-1,-1,-1,-1,0,0,0,-1,0,0,-1,,4.49
+3,SlLi4,,4.0,False,0.5,2,2,0,1,0,1,1,1,0,2,1,1,,4.5
+4,CCiSt2,,5.3,False,0.0,0,0,-1,0,0,0,0,0,-1,0,1,0,,5.3
+5,CuLi4,,4.0,False,0.21,0,1,0,1,0,0,1,1,0,0,0,1,,4.21
+6,FSTw4,,4.7,False,-0.07,0,-1,0,0,-1,0,0,0,-1,0,0,-1,,4.63
+7,SeLi4,,5.6,False,0.57,1,2,1,1,0,1,1,1,0,2,1,1,,6.17
+8,CSeSt2,,5.3,False,-0.14,-1,-1,0,0,-1,0,0,0,0,0,0,0,,5.16
+9,SlLi4+CuLi4,,5.6,False,0.43,-1,1,1,0,0,1,1,1,1,1,1,0,,6.03
+,,,43.9,,,,,,,,,,,,,,,,45.26
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.75,5.25,4.75,5.25,5.25,5.5,5.5,5.25,5.25,6.25,5.75,5.25,,5.39
+,Transitions / Linking Footwork / Movement  ,,,,1.75,5.0,5.0,4.5,5.0,5.25,5.0,5.25,5.25,5.0,6.0,5.5,5.0,,5.18
+,Performance / Execution  ,,,,1.0,5.5,5.5,4.75,5.25,5.25,5.5,5.25,5.5,5.25,6.25,5.5,5.25,,5.39
+,Choreography / Composition  ,,,,1.0,5.5,5.75,4.75,5.25,5.25,5.25,5.5,5.5,5.25,6.25,5.5,5.0,,5.43
+,Interpretation / Timing  ,,,,1.0,5.5,5.5,4.5,5.0,4.75,4.75,5.5,5.5,5.25,6.25,5.75,5.25,,5.25
+,,,,,,,,,,,,,,,,,,,31.88

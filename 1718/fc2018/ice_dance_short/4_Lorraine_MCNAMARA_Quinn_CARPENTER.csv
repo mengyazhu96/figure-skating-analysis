@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Lorraine MCNAMARA / Quinn CARPENTER,USA,10,62.83,33.57,29.26,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH4+kpYYY,,5.0,False,0.69,0.0,1.0,2.0,2.0,2.0,1.0,0.0,1.0,1.0,,5.69
+2,STw4,,6.6,False,0.69,1.0,0.0,2.0,1.0,1.0,2.0,1.0,0.0,2.0,,7.29
+3,PSt2,,5.6,False,1.26,0.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,,6.86
+4,CuLi4,,4.5,False,1.03,1.0,2.0,2.0,2.0,3.0,2.0,1.0,2.0,1.0,,5.53
+5,NtMiSt3,,7.1,False,1.1,0.0,0.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,,8.2
+,,,28.8,,,,,,,,,,,,,33.57
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.0,7.25,8.0,7.75,7.25,7.25,7.0,7.25,7.5,,7.32
+,Transitions,,,,0.8,7.0,6.75,7.75,7.75,7.0,7.0,7.0,7.25,7.0,,7.14
+,Performance,,,,0.8,7.25,6.75,8.0,7.25,7.5,7.25,7.0,7.25,7.5,,7.29
+,Composition,,,,0.8,7.25,7.25,8.0,7.5,7.75,7.5,7.25,7.5,7.5,,7.46
+,Interpretation of the Music/Timing,,,,0.8,7.0,7.0,7.75,7.5,7.5,7.5,7.0,7.5,7.5,,7.36
+,,,,,,,,,,,,,,,,29.26

@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Jeffrey BUTTLE,CAN,0,73.3,36.3,38.0,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3F+3T,,9.5,False,1.0,1,1,1,1,1,1,1,1,1,1,1,2,,10.5
+2,3A,,7.5,False,-1.0,-1,-1,1,-1,-1,-1,-1,-1,-1,0,-1,-1,,6.5
+3,FSSp4,,3.0,False,0.07,1,1,1,0,0,0,0,0,1,0,0,0,,3.07
+4,CiSt3,,3.1,False,0.5,2,2,2,0,0,1,1,0,2,1,1,2,,3.6
+5,CSSp3,,2.1,False,0.36,1,1,0,1,1,0,0,1,1,0,1,0,,2.46
+6,3Lz,,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+7,SlSt3,,3.1,False,0.64,1,2,2,1,0,1,1,1,2,1,1,2,,3.74
+8,CCoSp3,,3.0,False,0.43,2,2,2,1,0,1,1,1,1,1,1,0,,3.43
+,,,37.3,,,,,,,,,,,,,,,,36.3
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,7.75,7.75,8.0,7.75,7.5,7.75,7.5,7.75,7.75,7.5,7.75,7.5,,7.68
+,Transition / Linking Footwork ,,,,1.0,7.75,7.25,7.0,7.5,7.5,7.5,7.5,7.25,8.0,7.75,7.5,7.5,,7.5
+,Performance / Execution ,,,,1.0,7.75,7.25,8.0,7.5,7.25,7.5,7.75,7.5,7.75,7.75,7.5,7.5,,7.5
+,Choreography / Composition ,,,,1.0,8.0,7.5,7.75,7.5,7.5,7.75,8.25,7.5,8.0,8.0,7.75,7.5,,7.64
+,Interpretation ,,,,1.0,8.25,7.5,8.0,7.75,7.5,7.75,8.5,7.5,8.25,7.75,7.5,8.0,,7.68
+,,,,,,,,,,,,,,,,,,,38.0
+Deduction,Falls,-1.0

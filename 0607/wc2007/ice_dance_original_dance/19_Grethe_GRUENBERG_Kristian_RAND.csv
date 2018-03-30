@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Grethe GRUENBERG / Kristian RAND,EST,0,45.13,28.23,16.9,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiTw4,,3.3,False,-0.07,0,0,0,0,-1,-1,0,0,0,0,0,0,,3.23
+2,NtMiSt4,,4.3,False,0.21,0,0,1,1,0,0,0,1,0,1,1,1,,4.51
+3,SlLi4,,4.0,False,0.36,1,0,1,1,1,0,1,0,1,0,0,1,,4.36
+4,Sp4,,4.7,False,0.43,1,0,1,1,1,0,1,1,1,0,1,1,,5.13
+5,DiSt4,,7.0,False,-0.29,0,0,0,0,-1,0,0,0,0,-1,-1,-1,,6.71
+6,RoLi4,,4.0,False,0.29,0,1,1,1,1,0,0,0,1,1,1,0,,4.29
+,,,27.3,,,,,,,,,,,,,,,,28.23
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,4.5,3.75,4.5,4.5,4.25,4.25,4.75,5.25,4.75,4.5,4.75,,4.46
+,Linking Footwork / Movement  ,,,,0.8,4.5,4.25,3.75,4.5,4.25,4.0,4.25,4.75,5.0,4.75,4.25,5.0,,4.29
+,Performance  ,,,,0.6,4.75,4.5,3.5,4.75,4.75,4.25,4.75,4.5,5.25,4.5,4.25,4.75,,4.57
+,Choreography  ,,,,0.6,5.0,4.5,3.75,4.75,4.5,4.0,4.5,4.5,5.25,4.25,4.25,5.25,,4.5
+,Interpretation / Timing  ,,,,1.0,4.75,4.25,3.75,5.0,4.25,4.25,4.5,4.75,5.0,4.5,4.5,4.75,,4.46
+,,,,,,,,,,,,,,,,,,,16.9

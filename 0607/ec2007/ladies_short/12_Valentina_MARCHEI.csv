@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Valentina MARCHEI,ITA,0,46.43,26.23,21.2,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3Lz+COMBO,,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+2,2A,,3.3,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,3.3
+3,CCoSp4,,3.5,False,0.29,0,1,0,0,1,1,1,0,1,0,1,0,,3.79
+4,3S,,4.5,False,-0.86,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,0,,3.64
+5,SpSq4,,3.4,False,1.0,0,1,1,1,1,1,1,1,1,1,1,0,,4.4
+6,LSp2,,1.8,False,0.5,0,1,2,1,1,2,0,0,1,1,2,1,,2.3
+7,SlSt2,,2.3,False,0.5,1,1,1,1,0,1,1,1,1,1,1,1,,2.8
+8,FSSp4,,3.0,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,3.0
+,,,27.8,,,,,,,,,,,,,,,,26.23
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.75,5.5,6.0,5.5,5.5,5.25,5.25,5.0,5.25,5.0,5.75,5.25,,5.29
+,Transition / Linking Footwork ,,,,0.8,4.5,5.0,6.5,5.0,5.25,5.0,4.75,4.75,4.75,4.5,5.5,5.0,,4.93
+,Performance / Execution ,,,,0.8,5.0,5.75,6.25,5.25,5.25,5.75,5.0,5.75,5.0,5.5,5.75,5.5,,5.5
+,Choreography / Composition ,,,,0.8,4.75,5.5,6.0,5.25,5.25,5.25,5.0,5.25,5.0,5.25,5.75,5.5,,5.29
+,Interpretation ,,,,0.8,5.0,5.75,6.75,5.5,5.0,6.0,5.25,5.5,5.25,5.5,5.5,5.25,,5.5
+,,,,,,,,,,,,,,,,,,,21.2
+Deduction,Falls,-1.0

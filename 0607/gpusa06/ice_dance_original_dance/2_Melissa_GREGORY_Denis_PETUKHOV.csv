@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Melissa GREGORY / Denis PETUKHOV,USA,0,55.61,28.8,26.81,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiTw4,,3.3,False,0.0,0,-1,0,0,0,2,-1,0,0,,3.3
+2,NtMiSt3,,3.8,False,0.4,1,0,1,1,1,1,0,1,0,,4.2
+3,SlLi4,,4.0,False,0.6,0,0,2,1,1,1,1,1,2,,4.6
+4,Sp4,,4.7,False,0.4,0,1,1,1,1,1,0,1,1,,5.1
+5,DiSt3,,6.2,False,1.0,1,1,1,1,0,1,1,1,2,,7.2
+6,RoLi4,,4.0,False,0.4,0,1,1,1,1,1,0,1,1,,4.4
+,,,26.0,,,,,,,,,,,,,28.8
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.75,6.75,7.5,7.25,6.75,7.0,7.0,7.0,7.25,,7.05
+,Linking Footwork / Movement ,,,,0.8,6.25,6.25,7.25,7.25,6.75,6.75,6.75,6.5,7.0,,6.85
+,Performance ,,,,0.6,6.5,6.5,7.25,7.5,7.0,6.75,7.0,6.75,7.5,,7.1
+,Choreography ,,,,0.6,6.5,6.75,7.5,7.5,7.0,7.25,6.75,6.5,7.5,,7.05
+,Interpretation / Timing ,,,,1.0,6.75,6.5,7.5,7.75,7.0,7.25,7.0,7.0,7.5,,7.2
+,,,,,,,,,,,,,,,,26.81

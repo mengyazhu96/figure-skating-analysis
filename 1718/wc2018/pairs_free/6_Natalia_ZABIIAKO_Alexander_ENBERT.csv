@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Natalia ZABIIAKO / Alexander ENBERT,RUS,13,133.5,64.07,69.43,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,0.9,2,0,1,-1,2,1,2,1,2,,7.1
+2,3T+2T+1Lo,,6.1,False,-1.3,-2,-2,-2,-2,-1,-1,-2,-2,-2,,4.8
+3,3S<,<,3.1,False,-1.8,-2,-3,-3,-2,-3,-2,-2,-3,-3,,1.3
+4,3FTh,,5.5,False,1.3,2,2,2,2,1,2,2,2,1,,6.8
+5,3Li4,,4.5,False,0.93,1,1,2,2,2,2,2,2,2,,5.43
+6,FCCoSp4,,3.5,False,0.64,1,2,1,1,1,2,1,1,2,,4.14
+7,3LoTh,,5.0,False,-0.7,-2,-1,-1,-1,-1,-1,-1,-1,-1,,4.3
+8,BoDs2,,3.5,False,0.7,-1,1,2,2,2,0,1,1,0,,4.2
+9,ChSq1,,2.0,False,1.3,2,3,2,2,1,1,2,2,2,,3.3
+10,5RLi4,,7.5,False,1.3,1,2,3,1,2,2,2,2,2,,8.8
+11,5ALi4,,7.5,False,1.4,2,2,2,2,2,1,2,2,2,,8.9
+12,PCoSp4,,4.5,False,0.5,0,1,2,2,1,1,1,1,0,,5.0
+,,,58.9,,,,,,,,,,,,,64.07
+,Program Components,,,,Factor
+,Skating Skills,,,,1.6,8.75,9.0,8.75,8.5,8.75,9.0,8.5,8.75,8.75,,8.75
+,Transitions,,,,1.6,9.0,8.75,8.75,8.0,8.25,8.75,8.5,8.5,9.0,,8.64
+,Performance,,,,1.6,8.75,8.75,8.5,8.25,8.25,8.75,8.5,8.5,8.5,,8.54
+,Composition,,,,1.6,9.0,9.0,8.75,8.75,8.5,9.0,8.75,8.75,8.5,,8.79
+,Interpretation of the Music,,,,1.6,9.0,9.0,8.75,8.5,8.5,9.0,8.5,8.5,8.5,,8.68
+,,,,,,,,,,,,,,,,69.43

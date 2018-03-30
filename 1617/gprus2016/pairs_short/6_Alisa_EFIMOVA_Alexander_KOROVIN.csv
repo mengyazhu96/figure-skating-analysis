@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Alisa EFIMOVA / Alexander KOROVIN,RUS,5,61.27,34.15,27.12,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,1.1,2,2,2,1,2,2,1,1,1,,7.3
+2,3S,,4.4,False,-1.6,-2,-2,-3,-2,-2,-2,-3,-2,-3,,2.8
+3,3LoTh,,5.0,False,1.2,1,1,1,2,3,2,2,2,2,,6.2
+4,BiDs2,,3.0,False,0.6,2,0,2,0,2,1,1,0,0,,3.6
+5,5ALi4,,7.5,False,0.6,1,1,2,1,1,1,1,0,0,,8.1
+6,FCCoSp2,,2.5,False,0.21,1,0,0,0,1,1,0,0,1,,2.71
+7,StSq3,,3.3,False,0.14,1,0,1,0,1,0,0,0,0,,3.44
+,,,31.9,,,,,,,,,,,,,34.15
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.5,6.75,6.75,6.75,7.25,6.75,6.25,6.75,6.75,,6.82
+,Transitions  ,,,,0.8,7.0,6.5,6.5,6.5,6.75,6.5,6.0,6.5,6.75,,6.57
+,Performance  ,,,,0.8,7.25,6.75,6.75,6.75,7.25,6.75,6.5,7.0,7.25,,6.93
+,Composition  ,,,,0.8,7.5,6.5,6.5,6.75,7.25,6.75,6.25,6.75,7.0,,6.79
+,Interpretation of the Music  ,,,,0.8,7.25,6.25,6.5,7.0,7.25,6.25,5.5,7.25,7.0,,6.79
+,,,,,,,,,,,,,,,,27.12

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Roman SEROV,ISR,0,58.91,33.76,25.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3F+3T,,9.5,False,-0.2,0,0,1,-1,0,-1,0,0,1,-1,,9.3
+2,3A,,7.5,False,0.0,-1,1,0,0,0,-1,0,0,0,0,,7.5
+3,CSSp3,,2.1,False,-0.24,0,0,-1,-1,0,0,-1,-1,-1,-1,,1.86
+4,3Lz,,6.0,False,-1.2,-2,-1,-1,-1,-1,-1,-1,-1,-2,-2,,4.8
+5,SlSt3,,3.1,False,0.0,1,1,0,0,0,0,0,0,0,0,,3.1
+6,FSSp3,,2.3,False,0.0,0,0,0,0,0,-1,0,1,0,0,,2.3
+7,CiSt2,,2.3,False,0.0,-1,1,0,0,0,0,0,0,-1,0,,2.3
+8,CCoSp2,,2.5,False,0.1,0,1,0,1,1,0,0,0,1,0,,2.6
+,,,35.3,,,,,,,,,,,,,,33.76
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.0,6.25,5.75,5.0,5.0,4.5,5.5,4.75,5.5,4.75,,5.2
+,Transition / Linking Footwork ,,,,1.0,6.25,5.75,5.5,5.0,4.75,4.0,4.75,4.25,5.5,4.5,,4.9
+,Performance / Execution ,,,,1.0,5.75,6.0,5.5,4.75,4.75,4.25,5.5,5.0,5.25,4.5,,5.1
+,Choreography / Composition ,,,,1.0,5.75,6.0,5.5,4.75,4.75,4.75,5.25,5.0,5.25,4.75,,5.05
+,Interpretation ,,,,1.0,6.0,5.75,5.5,4.5,4.5,4.5,5.25,4.75,5.5,4.5,,4.9
+,,,,,,,,,,,,,,,,,25.15

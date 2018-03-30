@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Max AARON,USA,9,81.67,43.9,37.77,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4S+3T,,14.8,False,0.09,-1,1,0,-1,1,1,0,1,-1,,14.89
+2,3A,,8.5,False,1.71,2,2,1,1,2,2,2,2,1,,10.21
+3,CCSp2,,2.3,False,0.5,1,1,1,1,1,1,2,1,0,,2.8
+4,3Lz,,6.6,True,-1.0,-1,-2,-2,-2,-1,-1,-2,-1,-1,,5.6
+5,FSSp3,,2.6,False,0.0,0,0,0,0,0,0,0,1,0,,2.6
+6,StSq3,,3.3,False,0.5,1,1,1,1,1,1,1,1,0,,3.8
+7,CCoSp4,,3.5,False,0.5,1,1,1,1,1,1,2,1,1,,4.0
+,,,41.6,,,,,,,,,,,,,43.9
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.75,7.5,7.25,7.5,7.25,8.25,8.0,8.0,7.5,,7.64
+,Transitions  ,,,,1.0,7.5,7.0,6.75,7.25,7.0,7.75,7.5,7.75,7.25,,7.32
+,Performance  ,,,,1.0,7.75,7.75,7.0,7.5,7.5,8.0,7.75,8.25,7.75,,7.71
+,Composition  ,,,,1.0,7.25,7.25,7.0,7.5,7.25,7.75,8.0,8.0,7.25,,7.46
+,Interpretation of the Music  ,,,,1.0,7.25,7.5,6.75,7.75,7.5,8.0,8.25,8.0,7.5,,7.64
+,,,,,,,,,,,,,,,,37.77

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Tatiana KOZMAVA / Alexei SHUMSKI,GEO,7,43.8,21.6,22.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.43,1,0,0,1,1,0,1,2,1,,4.93
+2,1MB2+kpNNY,,3.8,False,-0.14,0,-1,0,0,0,-1,0,1,-1,,3.66
+3,PSt1,,4.1,False,-0.29,-1,-1,-1,0,0,-1,0,-1,0,,3.81
+4,STw3,,5.6,False,-0.14,-1,0,0,0,0,0,0,-2,-1,,5.46
+5,NtMiSt1,,4.1,False,-0.36,-1,-2,0,0,0,-2,-1,-1,0,,3.74
+,,,22.1,,,,,,,,,,,,,21.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.75,5.5,5.75,5.75,6.25,5.5,6.25,5.5,6.0,,5.75
+,Transitions  ,,,,0.8,4.5,5.0,5.5,5.5,6.0,5.0,6.0,5.0,5.75,,5.39
+,Performance  ,,,,0.8,5.0,5.25,5.75,5.75,6.25,4.75,5.75,5.5,5.75,,5.54
+,Composition  ,,,,0.8,4.5,5.5,6.0,6.5,6.5,5.0,6.0,5.5,6.0,,5.79
+,Interpretation of the Music / Timing  ,,,,0.8,4.5,5.0,5.5,6.0,6.25,4.75,5.5,4.5,5.75,,5.29
+,,,,,,,,,,,,,,,,22.2

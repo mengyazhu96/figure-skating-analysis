@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Julia SEBESTYEN,HUN,0,43.38,20.66,22.72,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2F,,1.7,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.7
+2,3Lz+2T,,7.3,False,-1.0,-1,0,-1,-1,-1,-1,0,-1,-1,-1,,6.3
+3,FCSp3,,2.3,False,0.0,0,1,0,0,0,0,1,0,1,-1,,2.3
+4,SpSt3,,3.1,False,0.0,1,-1,0,0,0,0,0,0,0,0,,3.1
+5,2A,,3.3,False,-0.98,-2,0,-1,-2,-2,-2,-1,-1,-2,-1,,2.32
+6,LSp1,,1.2,False,-0.12,-1,0,0,0,0,0,0,-1,-1,-1,,1.08
+7,CiSt3,,3.1,False,0.0,0,0,0,0,0,0,0,0,1,0,,3.1
+8,CCoSp1,,2.0,False,-0.24,-1,0,-1,0,-1,-1,0,-1,1,0,,1.76
+,,,24.0,,,,,,,,,,,,,,20.66
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.25,4.75,6.5,7.75,5.5,6.0,6.5,6.5,6.75,6.0,,6.05
+,Transition / Linking Footwork ,,,,0.8,5.25,4.5,6.25,7.25,5.0,5.5,5.75,5.5,6.25,5.5,,5.35
+,Performance / Execution ,,,,0.8,5.25,4.25,6.5,6.5,5.25,5.75,6.0,6.5,6.5,5.75,,5.7
+,Choreography / Composition ,,,,0.8,5.75,4.75,6.5,6.0,5.5,5.75,6.0,6.0,6.5,5.75,,5.75
+,Interpretation ,,,,0.8,5.5,4.5,6.25,6.5,5.25,5.5,6.25,5.75,7.0,5.75,,5.55
+,,,,,,,,,,,,,,,,,22.72

@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Ilia KLIMKIN,RUS,0,59.55,28.9,31.65,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3A,,7.5,False,0.6,1,1,0,1,0,1,1,1,0,0,,8.1
+2,4T+COMBO,,9.0,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,6.0
+3,FCSp3,,2.3,False,0.4,1,1,0,2,0,2,2,1,0,1,,2.7
+4,CiSt3,,3.1,False,0.0,0,0,0,2,0,1,1,0,0,0,,3.1
+5,3Lo,,5.0,False,-2.0,-2,-2,-2,-2,-2,-1,-2,-2,-2,-2,,3.0
+6,CCSp2,,1.7,False,0.0,0,0,0,1,0,1,0,-1,0,0,,1.7
+7,SlSt1,,1.8,False,0.0,0,0,0,1,0,0,0,0,0,0,,1.8
+8,CCoSp1,,2.0,False,0.5,1,1,0,1,0,1,2,1,0,2,,2.5
+,,,32.4,,,,,,,,,,,,,,28.9
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,6.75,6.25,6.0,7.25,5.75,7.25,7.0,6.5,6.75,6.5,,6.55
+,Transition / Linking Footwork ,,,,1.0,6.25,5.75,5.75,7.0,5.75,7.0,7.0,6.25,6.25,6.0,,6.1
+,Performance / Execution ,,,,1.0,6.25,6.0,6.0,7.25,5.75,7.25,6.75,6.5,6.25,6.5,,6.3
+,Choreography / Composition ,,,,1.0,6.5,6.0,6.0,7.0,5.75,7.0,6.75,6.5,6.5,6.25,,6.35
+,Interpretation ,,,,1.0,6.5,6.25,5.75,7.0,6.0,7.25,6.5,6.5,6.0,6.5,,6.35
+,,,,,,,,,,,,,,,,,31.65
+Deduction,Falls,-1.0

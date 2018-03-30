@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Elliana POGREBINSKY / Alex BENOIT,USA,10,58.18,29.66,28.52,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CuLi4,,4.5,False,0.86,1,2,2,2,1,1,2,1,1,,5.36
+2,1MB4+kpYYY,,5.0,False,0.34,0,1,0,1,0,0,1,1,1,,5.34
+3,PSt3,,7.1,False,0.94,0,2,1,1,1,0,1,1,1,,8.04
+4,STw3,,5.6,False,-0.29,-1,-1,-1,0,0,-1,-1,0,0,,5.31
+5,NtMiSt2,,5.6,False,0.01,0,0,-1,1,-1,1,0,0,0,,5.61
+,,,27.8,,,,,,,,,,,,,29.66
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,7.75,7.25,7.5,7.0,7.0,6.75,7.0,6.5,,7.04
+,Transitions  ,,,,0.8,6.75,7.5,7.5,7.5,6.75,6.75,7.0,6.75,6.5,,7.0
+,Performance  ,,,,0.8,7.0,7.5,6.75,8.0,7.25,7.25,7.0,7.0,6.75,,7.11
+,Composition  ,,,,0.8,7.25,8.0,7.5,7.75,7.0,7.0,7.5,7.0,6.5,,7.29
+,Interpretation of the Music / Timing  ,,,,0.8,7.25,7.75,7.5,7.75,6.75,7.0,7.25,7.0,6.75,,7.21
+,,,,,,,,,,,,,,,,28.52

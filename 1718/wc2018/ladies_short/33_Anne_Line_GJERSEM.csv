@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+33,Anne Line GJERSEM,NOR,12,45.25,23.03,22.22,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo+2T,,6.4,False,-0.6,-1,-1,-1,0,0,-2,-1,-1,-1,,5.8
+2,3F<,!,3.7,False,-1.7,-3,-3,-2,-2,-2,-3,-3,-2,-2,,2.0
+3,CCoSp2V,,2.0,False,-0.04,0,-1,0,-1,0,0,0,0,0,,1.96
+4,2A,,3.63,True,0.0,0,0,0,0,0,-1,0,0,0,,3.63
+5,FCSp4,,3.2,False,0.14,1,0,0,0,1,0,0,1,0,,3.34
+6,StSq3,,3.3,False,0.14,1,1,1,0,0,0,0,0,0,,3.44
+7,SSp4,,2.5,False,0.36,0,1,0,1,1,0,1,1,1,,2.86
+,,,24.73,,,,,,,,,,,,,23.03
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.25,5.0,7.0,5.25,5.5,6.0,5.25,6.0,5.5,,5.68
+,Transitions,,,,0.8,5.5,4.75,6.5,5.0,5.75,5.75,5.0,6.0,5.25,,5.46
+,Performance,,,,0.8,5.5,5.0,6.75,5.25,6.0,6.0,5.5,5.75,5.5,,5.64
+,Composition,,,,0.8,5.5,4.75,6.75,5.5,5.5,6.0,5.25,6.0,5.25,,5.57
+,Interpretation of the Music,,,,0.8,5.5,4.5,6.75,5.25,5.25,5.75,5.0,6.0,5.25,,5.43
+,,,,,,,,,,,,,,,,22.22

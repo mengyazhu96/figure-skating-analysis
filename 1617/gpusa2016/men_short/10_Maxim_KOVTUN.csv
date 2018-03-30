@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Maxim KOVTUN,RUS,6,67.43,30.44,36.99,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4S+3T,,14.8,False,1.57,1,1,2,2,0,2,2,1,2,,16.37
+2,2T*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,FCSp4,,3.2,False,0.0,0,0,0,0,-1,1,0,0,0,,3.2
+4,1A*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,CCoSp4,,3.5,False,0.21,0,0,1,1,0,2,0,0,1,,3.71
+6,StSq3,,3.3,False,0.5,0,1,2,1,0,1,2,1,1,,3.8
+7,CSSp4,,3.0,False,0.36,0,1,1,1,0,2,0,1,1,,3.36
+,,,27.8,,,,,,,,,,,,,30.44
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.0,7.0,8.25,7.5,7.0,8.0,7.75,8.25,7.5,,7.57
+,Transitions  ,,,,1.0,6.25,7.25,7.5,6.25,6.5,7.75,7.5,7.5,7.0,,7.07
+,Performance  ,,,,1.0,6.5,6.75,7.75,7.0,6.75,7.5,7.75,7.75,7.0,,7.21
+,Composition  ,,,,1.0,6.5,7.25,8.25,7.25,7.5,8.0,8.0,8.25,7.25,,7.64
+,Interpretation of the Music  ,,,,1.0,6.25,7.75,8.0,7.0,7.25,7.75,7.75,8.0,7.0,,7.5
+,,,,,,,,,,,,,,,,36.99

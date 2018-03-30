@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+19,Elena ROMANOVSKAYA / Alexander GRACHEV,RUS,0,45.17,25.46,19.71,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp3,,4.0,False,0.29,0,0,1,1,1,1,1,1,0,1,0,1,,4.29
+2,NtMiSt3+STw4,,7.6,False,0.29,1,0,1,0,0,1,0,0,0,1,-1,0,,7.89
+3,SlLi3,,3.5,False,0.07,-1,0,0,0,1,0,0,0,1,0,0,0,,3.57
+4,DiSt3,,5.5,False,0.14,1,0,0,0,0,0,0,0,1,0,0,0,,5.64
+5,CuLi4,,4.0,False,0.07,1,0,0,0,0,0,0,1,1,0,0,0,,4.07
+,,,24.6,,,,,,,,,,,,,,,,25.46
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.0,5.25,5.0,5.5,5.5,5.5,5.5,5.5,5.5,5.0,5.25,5.25,,5.25
+,Linking Footwork / Movement ,,,,0.8,5.25,5.0,4.75,5.5,5.5,5.5,5.25,5.25,5.5,4.75,4.75,5.0,,5.11
+,Performance ,,,,0.6,5.0,5.0,4.75,5.75,5.5,6.0,5.25,5.5,5.75,5.0,5.0,5.0,,5.18
+,Choreography ,,,,0.6,5.0,5.25,4.5,5.25,5.75,5.75,5.5,5.5,5.75,5.0,5.0,5.25,,5.21
+,Interpretation / Timing ,,,,1.0,5.25,5.0,4.75,5.5,5.75,6.0,5.5,5.5,5.5,5.0,5.0,5.0,,5.18
+,,,,,,,,,,,,,,,,,,,19.71

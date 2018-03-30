@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Valentina MARCHEI / Ondrej HOTAREK,ITA,1,62.49,33.97,28.52,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.17,-2,-2,-2,-1,-1,-,-2,-1,-2,,4.83
+2,3Tw1,,5.4,False,-0.93,-2,-2,-2,-1,-1,-,0,-1,-1,,4.47
+3,5RLi4,,7.5,False,-0.47,-1,-1,0,0,0,-,-2,-2,0,,7.03
+4,3LzTh,,5.5,False,0.7,1,0,1,1,1,-,1,1,1,,6.2
+5,FCCoSp4,,3.5,False,0.03,-1,0,0,-1,1,-,0,1,0,,3.53
+6,StSq4,,3.9,False,0.93,1,0,1,1,2,-,2,2,1,,4.83
+7,BiDs3,,3.2,False,-0.12,1,-1,0,0,0,-,-1,0,0,,3.08
+,,,35.0,,,,,,,,,,,,,33.97
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,6.75,6.75,7.25,7.25,-,7.75,7.25,7.25,,7.17
+,Transitions  ,,,,0.8,6.75,6.75,6.25,6.75,7.0,-,7.0,7.0,7.0,,6.88
+,Performance  ,,,,0.8,7.25,7.0,6.5,7.0,7.25,-,7.5,7.5,7.25,,7.21
+,Composition  ,,,,0.8,7.0,6.75,6.5,7.25,7.25,-,7.75,7.25,7.5,,7.17
+,Interpretation of the Music  ,,,,0.8,7.0,7.0,6.5,7.0,7.5,-,7.5,7.5,7.25,,7.21
+,,,,,,,,,,,,,,,,28.52

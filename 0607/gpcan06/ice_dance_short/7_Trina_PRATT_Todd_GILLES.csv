@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Trina PRATT / Todd GILLES,USA,0,25.78,13.68,12.1,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,1.4,False,0.0,-1,0,0,0,-1,-1,0,0,0,,1.4
+2,1S2,,1.9,False,0.0,0,0,0,0,0,0,-1,0,1,,1.9
+3,1S3,,2.3,False,-0.1,0,0,0,0,0,-1,-1,0,0,,2.2
+4,1S4,,1.4,False,-0.06,0,-1,0,0,-1,0,0,-1,0,,1.34
+5,2S1,,1.6,False,-0.2,0,-1,0,-1,0,-1,0,0,0,,1.4
+6,2S2,,2.2,False,0.0,-1,0,0,0,-1,0,-1,0,1,,2.2
+7,2S3,,2.6,False,-0.56,-1,-1,-1,0,-1,-1,-1,0,-1,,2.04
+8,2S4,,1.6,False,-0.4,0,-1,0,-1,-1,-1,0,-1,-1,,1.2
+,,,15.0,,,,,,,,,,,,,13.68
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,6.0,4.0,4.75,5.25,4.75,4.5,5.0,6.0,5.25,,4.95
+,Timing  ,,,,0.75,5.0,4.0,4.5,4.75,4.5,4.5,4.75,5.75,5.0,,4.7
+,Performance / Execution  ,,,,0.5,5.25,4.25,4.75,5.0,4.5,4.25,4.75,5.75,5.0,,4.75
+,Interpretation  ,,,,0.5,4.75,4.25,4.75,5.25,4.75,4.25,5.25,5.5,5.25,,4.95
+,,,,,,,,,,,,,,,,12.1

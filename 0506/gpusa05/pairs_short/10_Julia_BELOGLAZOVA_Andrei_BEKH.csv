@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Julia BELOGLAZOVA / Andrei BEKH,UKR,0,36.84,20.56,18.28,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,2Tw2,,3.5,False,-0.06,-1,-1,0,0,0,0,0,-1,0,0,,3.44
+2,3S,,4.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,1.5
+3,3LoTh,,5.0,False,-0.42,-1,-1,-1,-1,-1,0,0,0,-1,-1,,4.58
+4,3Li1,,2.5,False,0.0,0,0,0,0,0,0,0,0,0,0,,2.5
+5,CCoSp1,,2.0,False,0.0,0,0,0,0,0,0,1,0,0,0,,2.0
+6,SlSt1,,1.8,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.8
+7,FiDs1,,2.8,False,0.0,0,0,0,0,0,0,0,0,0,-1,,2.8
+8,PCoSp1,,3.0,False,-0.06,0,0,-1,0,0,0,0,0,-1,-1,,2.94
+,,,25.1,,,,,,,,,,,,,,20.56
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.75,4.75,4.75,5.0,4.5,5.0,5.25,4.75,4.25,4.25,,4.85
+,Transition / Linking Footwork ,,,,0.8,4.5,4.5,4.5,4.75,4.25,4.25,4.75,4.5,4.0,4.0,,4.5
+,Performance / Execution ,,,,0.8,4.75,4.25,4.25,4.75,4.25,4.5,4.75,4.5,4.5,4.0,,4.5
+,Choreography / Composition ,,,,0.8,4.5,4.5,4.25,4.75,4.5,4.5,5.0,4.25,4.75,4.0,,4.55
+,Interpretation ,,,,0.8,4.5,4.25,4.25,4.75,4.0,4.25,5.0,4.5,4.5,3.5,,4.45
+,,,,,,,,,,,,,,,,,18.28
+Deduction,Falls,-2.0

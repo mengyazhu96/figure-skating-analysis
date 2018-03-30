@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+23,Sondre ODDVOLL BOE,NOR,17,55.24,25.63,29.61,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lo,,5.1,False,0.0,0,1,0,0,0,0,0,0,0,,5.1
+2,3F+2T,,6.6,False,0.0,0,0,0,0,0,0,0,0,0,,6.6
+3,CCoSp3,,3.0,False,0.43,1,-1,0,1,1,1,1,1,1,,3.43
+4,CSSp4,,3.0,False,0.29,0,0,1,2,1,1,0,1,-1,,3.29
+5,1A*,*,0.0,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,StSq3,,3.3,False,0.71,0,1,1,1,2,2,2,2,1,,4.01
+7,FCSp4,,3.2,False,0.0,0,0,0,0,0,0,0,0,0,,3.2
+,,,24.2,,,,,,,,,,,,,25.63
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.5,6.0,5.5,6.25,6.0,5.75,6.0,6.0,5.75,,5.86
+,Transitions  ,,,,1.0,5.25,5.75,5.25,6.25,6.0,5.5,5.5,6.0,5.5,,5.64
+,Performance  ,,,,1.0,5.5,6.0,5.5,6.25,6.5,5.75,6.5,6.75,5.25,,6.0
+,Composition  ,,,,1.0,5.5,6.0,5.25,6.75,6.5,5.75,6.25,6.5,5.5,,6.0
+,Interpretation of the Music  ,,,,1.0,5.25,6.25,5.5,6.75,6.75,6.0,6.25,6.75,5.25,,6.11
+,,,,,,,,,,,,,,,,29.61

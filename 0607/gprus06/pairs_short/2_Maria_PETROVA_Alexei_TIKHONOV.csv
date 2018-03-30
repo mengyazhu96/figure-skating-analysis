@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Maria PETROVA / Alexei TIKHONOV,RUS,0,62.28,34.08,28.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3LzTw1,,4.5,False,0.0,0,0,-1,0,0,0,0,1,0,0,,4.5
+2,3T,,4.0,False,-1.4,-2,-2,-3,-1,-1,-2,-2,-2,-1,-1,,2.6
+3,3LoTh,,5.0,False,0.98,1,1,1,2,2,1,0,1,1,2,,5.98
+4,FCCoSp4,,3.5,False,0.4,1,1,0,0,1,1,-1,1,1,1,,3.9
+5,SpSq4,,3.4,False,0.2,0,0,0,0,1,0,0,0,0,1,,3.6
+6,4Li4,,4.0,False,0.18,2,1,0,1,1,1,0,0,0,1,,4.18
+7,BoDs4,,4.5,False,0.28,1,0,1,1,1,1,0,0,0,0,,4.78
+8,PCoSp4,,4.5,False,0.04,0,0,0,0,1,-1,-1,0,0,1,,4.54
+,,,33.4,,,,,,,,,,,,,,34.08
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.25,7.0,7.5,8.0,7.5,6.5,7.25,7.0,7.25,,7.3
+,Transition / Linking Footwork  ,,,,0.8,7.25,7.0,6.75,7.0,7.25,7.25,6.25,6.5,6.0,6.75,,6.75
+,Performance / Execution  ,,,,0.8,7.5,7.25,7.0,7.5,7.75,7.5,6.0,7.0,6.5,7.0,,7.1
+,Choreography / Composition  ,,,,0.8,7.75,7.25,6.75,7.5,7.5,7.5,6.0,7.0,6.75,7.0,,7.15
+,Interpretation  ,,,,0.8,7.75,7.0,6.5,7.0,7.75,7.5,6.25,6.75,6.5,7.0,,6.95
+,,,,,,,,,,,,,,,,,28.2

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Adel TANKOVA / Ronald ZILBERBERG,ISR,13,40.2,18.95,21.25,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw1,,3.1,False,-0.13,-1.0,-1.0,0.0,0.0,-1.0,0.0,1.0,0.0,-1.0,,2.97
+2,1RH1+kpNTN,,3.2,False,-0.29,0.0,-1.0,0.0,-1.0,-2.0,0.0,0.0,-1.0,-1.0,,2.91
+3,PSt1,,4.1,False,-0.14,0.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0.0,,3.96
+4,NtMiSt1,,4.1,False,0.0,0.0,0.0,0.0,-1.0,0.0,1.0,0.0,0.0,0.0,,4.1
+5,RoLi4,,4.5,False,0.51,-1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,,5.01
+,,,19.0,,,,,,,,,,,,,18.95
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,5.75,5.0,5.5,6.5,5.0,5.75,5.5,5.5,4.75,,5.43
+,Transitions,,,,0.8,5.5,4.5,5.25,6.25,4.75,5.5,5.5,5.0,4.5,,5.14
+,Performance,,,,0.8,5.75,5.0,5.5,6.5,4.75,5.75,5.75,5.0,4.5,,5.36
+,Composition,,,,0.8,5.5,5.0,5.75,6.25,5.0,5.75,6.0,5.25,4.5,,5.46
+,Interpretation of the Music/Timing,,,,0.8,5.5,4.75,5.0,6.25,4.75,5.5,5.75,5.0,4.25,,5.18
+,,,,,,,,,,,,,,,,21.25

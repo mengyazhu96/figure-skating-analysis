@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Tae Ok RYOM / Ju Sik KIM,PRK,1,105.13,54.46,51.67,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw2,,5.8,False,0.5,2,1,0,-1,1,1,1,0,1,,6.3
+2,3T<,<,3.0,False,-2.1,-3,-3,-2,-3,-3,-3,-3,-3,-3,,0.9
+3,3STh,,4.5,False,1.0,1,2,1,1,2,2,1,1,2,,5.5
+4,5RLi4,,7.5,False,0.6,1,0,1,1,1,1,1,1,0,,8.1
+5,BoDs1,,3.0,False,0.3,0,0,1,1,0,0,1,0,1,,3.3
+6,FCCoSp3,,3.0,False,0.5,2,1,0,1,1,1,1,1,1,,3.5
+7,2Lo+1T+1T,,2.6,False,-0.73,-3,-2,-2,-2,-3,-2,-3,-2,-3,,1.87
+8,5ALi4,,7.5,False,0.5,2,1,0,0,1,1,1,0,1,,8.0
+9,3LoTh,,5.0,False,0.0,1,0,0,0,0,0,0,0,-1,,5.0
+10,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,1,1,1,,2.7
+11,3Li3,,4.0,False,0.36,2,1,1,1,0,1,0,0,1,,4.36
+12,PCoSp4,,4.5,False,0.43,1,1,1,1,0,1,1,1,0,,4.93
+,,,52.4,,,,,,,,,,,,,54.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.0,6.75,6.25,7.25,6.5,6.75,6.75,6.5,6.75,,6.71
+,Transitions  ,,,,1.6,6.25,6.25,5.75,6.5,6.0,6.25,5.75,6.25,5.5,,6.07
+,Performance  ,,,,1.6,7.5,6.5,6.25,7.0,6.5,6.75,6.5,6.75,6.0,,6.61
+,Composition  ,,,,1.6,6.75,6.75,6.25,6.75,6.5,6.5,6.0,6.5,6.5,,6.54
+,Interpretation of the Music  ,,,,1.6,7.0,6.5,6.0,6.5,6.0,6.5,6.5,6.5,5.75,,6.36
+,,,,,,,,,,,,,,,,51.67
+Deduction,Deductions Falls,-1.0

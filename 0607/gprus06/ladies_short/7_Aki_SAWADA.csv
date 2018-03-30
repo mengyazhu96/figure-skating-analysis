@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Aki SAWADA,JPN,0,45.56,22.96,22.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,-0.6,-1,-1,0,1,-1,-1,-1,0,-1,-1,,6.7
+2,3F,,5.5,False,-0.2,-2,0,0,0,-1,0,-1,0,-1,0,,5.3
+3,FSSp3,,2.3,False,0.0,1,0,0,0,1,0,-1,0,1,0,,2.3
+4,SpSq2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,0,,2.3
+5,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,-1,0,0,0,,1.8
+6,CCoSp3,,3.0,False,0.0,0,0,0,1,1,0,-1,0,0,0,,3.0
+7,1A,,0.8,False,-0.5,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+8,LSp1,,1.5,False,-0.24,-1,-1,-1,-1,-1,-1,0,-1,-1,0,,1.26
+,,,24.5,,,,,,,,,,,,,,22.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,6.5,5.75,6.5,6.5,5.0,4.75,5.75,5.5,5.5,,5.9
+,Transition / Linking Footwork  ,,,,0.8,5.5,6.0,5.5,6.0,6.25,4.75,4.5,5.25,5.0,5.0,,5.45
+,Performance / Execution  ,,,,0.8,5.5,6.5,5.5,6.25,6.5,4.75,4.5,5.5,5.75,5.25,,5.6
+,Choreography / Composition  ,,,,0.8,5.25,6.25,5.75,6.25,6.5,5.0,4.25,5.5,5.5,5.25,,5.6
+,Interpretation  ,,,,0.8,5.5,6.25,5.5,6.5,6.5,5.5,4.25,5.75,5.75,5.5,,5.7
+,,,,,,,,,,,,,,,,,22.6

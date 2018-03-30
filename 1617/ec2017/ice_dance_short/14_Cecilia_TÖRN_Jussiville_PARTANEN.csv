@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Cecilia TÖRN / Jussiville PARTANEN,FIN,20,54.99,28.85,27.14,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.51,1,1,1,1,0,1,1,0,1,,7.11
+2,1MB1+kpNNN,,3.2,False,0.17,1,0,1,1,0,0,0,0,0,,3.37
+3,PSt2,,5.6,False,1.1,1,1,1,1,0,1,1,1,1,,6.7
+4,NtMiSt2,,5.6,False,0.63,0,1,0,1,0,0,1,1,1,,6.23
+5,RoLi4,,4.5,False,0.94,2,1,1,2,1,1,2,2,2,,5.44
+,,,25.5,,,,,,,,,,,,,28.85
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.5,6.5,7.0,7.25,7.0,6.5,6.5,6.75,6.75,,6.71
+,Transitions  ,,,,0.8,6.25,6.5,6.75,7.0,6.75,6.25,6.25,6.25,7.0,,6.54
+,Performance  ,,,,0.8,6.5,7.0,7.0,7.25,7.25,6.5,6.0,7.0,7.5,,6.93
+,Composition  ,,,,0.8,6.75,7.25,6.75,7.5,7.0,6.5,6.5,7.0,7.0,,6.89
+,Interpretation of the Music / Timing  ,,,,0.8,6.75,6.75,7.0,7.25,6.75,6.5,6.25,7.25,7.0,,6.86
+,,,,,,,,,,,,,,,,27.14
+Deduction,Deductions Music tempo,-1.0

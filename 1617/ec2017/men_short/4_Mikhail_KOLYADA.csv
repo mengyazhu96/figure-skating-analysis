@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Mikhail KOLYADA,RUS,26,83.96,41.89,42.07,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T+3T,,14.6,False,1.71,3,2,1,1,2,2,1,2,2,,16.31
+2,1A*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,FSSp4,,3.0,False,1.07,2,2,2,3,3,2,1,2,2,,4.07
+4,3Lz,,6.6,True,1.7,3,3,3,2,3,2,2,2,2,,8.3
+5,StSq3,,3.3,False,1.0,2,2,2,2,2,2,1,2,2,,4.3
+6,CCSp4,,3.2,False,1.14,2,2,3,3,3,2,2,1,2,,4.34
+7,CCoSp4,,3.5,False,1.07,3,2,2,3,2,2,2,2,1,,4.57
+,,,34.2,,,,,,,,,,,,,41.89
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,9.0,9.0,8.25,8.75,9.0,8.0,8.0,8.0,7.5,,8.43
+,Transitions  ,,,,1.0,8.5,8.75,8.0,8.25,8.0,8.0,7.5,8.25,8.0,,8.14
+,Performance  ,,,,1.0,8.75,9.0,8.25,8.75,9.0,8.25,8.0,8.5,7.75,,8.5
+,Composition  ,,,,1.0,9.0,9.0,8.25,9.0,8.75,8.25,8.0,8.0,8.0,,8.46
+,Interpretation of the Music  ,,,,1.0,8.75,9.0,8.5,9.0,8.75,8.25,7.75,8.5,8.0,,8.54
+,,,,,,,,,,,,,,,,42.07

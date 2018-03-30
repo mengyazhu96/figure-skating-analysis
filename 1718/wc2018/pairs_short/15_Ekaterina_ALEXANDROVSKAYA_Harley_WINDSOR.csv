@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+15,Ekaterina ALEXANDROVSKAYA / Harley WINDSOR,AUS,17,65.02,36.37,28.65,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw4,,6.6,False,1.2,1,2,2,3,1,2,1,3,1,,7.8
+2,3T,,4.3,False,1.2,1,2,2,2,1,2,1,2,2,,5.5
+3,3Li4,,4.5,False,0.43,0,1,1,1,1,1,1,2,0,,4.93
+4,3FTh,,5.5,False,-0.5,-1,-1,-1,-1,0,0,-1,0,-1,,5.0
+5,StSq4,,3.9,False,0.4,1,1,1,0,0,1,0,2,0,,4.3
+6,FiDs3,,3.2,False,0.5,0,1,1,1,0,1,0,2,1,,3.7
+7,PCoSp4,,4.5,False,0.64,1,2,1,2,1,1,1,2,1,,5.14
+,,,32.5,,,,,,,,,,,,,36.37
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,7.25,7.5,8.25,6.75,7.25,7.5,7.75,7.25,,7.39
+,Transitions,,,,0.8,6.75,6.75,7.0,6.75,6.5,7.25,7.0,7.25,6.75,,6.89
+,Performance,,,,0.8,7.0,7.25,7.5,8.0,6.5,7.0,7.5,7.5,6.75,,7.21
+,Composition,,,,0.8,7.0,7.25,7.5,7.75,6.75,7.75,7.25,7.25,7.0,,7.29
+,Interpretation of the Music,,,,0.8,7.25,7.0,7.25,7.25,6.5,7.0,7.0,7.5,6.5,,7.04
+,,,,,,,,,,,,,,,,28.65

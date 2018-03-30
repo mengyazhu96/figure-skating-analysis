@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Dan ZHANG / Hao ZHANG,CHN,0,64.18,34.66,29.52,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3LzTw3,,5.5,False,1.26,1,2,3,2,2,2,1,2,2,1,,6.76
+2,3LoTh,,5.0,False,0.98,1,1,2,1,2,1,2,1,2,1,,5.98
+3,3S,,4.5,False,0.0,0,1,0,0,0,0,0,0,1,0,,4.5
+4,4Li4,,4.0,False,0.3,1,0,1,1,1,1,2,1,1,1,,4.3
+5,BoDs1,,3.0,False,-0.98,0,0,1,-1,-2,-2,-1,-2,-2,-1,,2.02
+6,FCCoSp3,,3.0,False,0.1,0,-1,1,0,1,0,1,0,-1,0,,3.1
+7,SpSq4,,3.4,False,0.4,0,-1,0,0,0,0,1,1,1,0,,3.8
+8,PCoSp3,,4.0,False,0.2,1,0,0,0,1,0,1,0,1,1,,4.2
+,,,32.4,,,,,,,,,,,,,,34.66
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,7.75,7.25,8.0,7.5,7.75,7.5,7.75,7.5,8.0,8.5,,7.75
+,Transition / Linking Footwork ,,,,0.8,7.5,7.0,7.0,7.0,7.25,7.0,7.25,7.0,7.0,7.75,,7.05
+,Performance / Execution ,,,,0.8,7.75,7.5,7.5,7.5,7.5,7.25,7.5,7.25,7.5,8.0,,7.45
+,Choreography / Composition ,,,,0.8,7.5,7.0,7.25,7.5,7.5,7.25,7.25,7.25,7.25,8.25,,7.3
+,Interpretation ,,,,0.8,7.5,6.75,7.25,7.5,7.5,7.25,7.5,7.25,7.25,8.25,,7.35
+,,,,,,,,,,,,,,,,,29.52

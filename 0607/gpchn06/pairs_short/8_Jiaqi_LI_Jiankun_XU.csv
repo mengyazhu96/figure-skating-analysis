@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Jiaqi LI / Jiankun XU,CHN,0,41.7,23.7,20.0,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3LzTw1,,4.5,False,0.84,1,1,2,1,2,2,1,0,2,1,,5.34
+2,3LoTh,,5.0,False,-2.0,-3,-2,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+3,3T<,,1.3,False,-1.0,-3,-3,-3,-3,-1,-3,-3,-3,-3,-3,,0.3
+4,SpSq4,,3.4,False,0.2,0,0,0,0,1,0,0,1,-1,0,,3.6
+5,FCCoSp2,,2.5,False,-0.18,-1,-1,-1,-1,0,0,0,-1,-1,-1,,2.32
+6,BoDs1,,3.0,False,-0.56,0,-1,-1,-2,0,-1,-1,-1,0,-1,,2.44
+7,4Li4,,4.0,False,0.0,0,0,0,-1,0,1,0,0,0,0,,4.0
+8,PCoSp1,,3.0,False,-0.3,-1,0,-2,-1,0,-1,-1,-1,-2,-2,,2.7
+,,,26.7,,,,,,,,,,,,,,23.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.25,7.0,5.0,5.25,7.25,5.25,4.5,4.5,4.5,6.25,,5.15
+,Transition / Linking Footwork  ,,,,0.8,3.75,6.5,4.5,4.25,7.0,5.0,4.5,4.25,3.75,6.0,,4.8
+,Performance / Execution  ,,,,0.8,3.75,6.75,5.0,4.75,7.0,4.75,5.0,4.25,3.75,6.25,,5.0
+,Choreography / Composition  ,,,,0.8,4.0,6.75,4.75,5.0,7.0,5.0,5.0,4.25,4.0,6.25,,5.1
+,Interpretation  ,,,,0.8,4.0,6.5,5.0,4.75,7.0,5.0,5.0,4.0,4.0,6.0,,4.95
+,,,,,,,,,,,,,,,,,20.0
+Deduction,Falls,-2.0

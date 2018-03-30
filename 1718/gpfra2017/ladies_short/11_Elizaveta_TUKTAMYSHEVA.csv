@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Elizaveta TUKTAMYSHEVA,RUS,7,53.03,24.91,29.12,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,,5.5
+2,1Lz*,*,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+3,LSp3,,2.4,False,0.5,1.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0,2.0,,2.9
+4,3T+2T,,5.6,False,0.3,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,,5.9
+5,StSq3,,3.3,False,0.57,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,,3.87
+6,FSSp4,,3.0,False,0.17,0.0,-1.0,1.0,0.0,1.0,-1.0,1.0,0.0,2.0,,3.17
+7,CCoSp4,,3.5,False,0.07,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,,3.57
+,,,26.3,,,,,,,,,,,,,24.91
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.75,7.5,7.5,7.75,8.0,6.75,7.25,7.5,8.5,,7.61
+,Transitions,,,,0.8,6.75,6.5,6.75,7.25,7.25,7.0,6.5,7.25,7.75,,6.96
+,Performance,,,,0.8,7.5,7.0,7.0,7.25,7.5,6.75,6.75,6.75,7.75,,7.11
+,Composition,,,,0.8,7.5,7.25,7.25,7.5,7.5,7.0,7.0,7.0,8.0,,7.29
+,Interpretation of the Music,,,,0.8,7.75,7.25,7.25,7.75,8.0,6.75,6.75,7.5,7.75,,7.43
+,,,,,,,,,,,,,,,,29.12
+Deduction,Deductions Falls,-1.0

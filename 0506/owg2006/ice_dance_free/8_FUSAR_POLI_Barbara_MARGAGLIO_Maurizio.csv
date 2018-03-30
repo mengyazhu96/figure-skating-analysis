@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,FUSAR POLI Barbara / MARGAGLIO Maurizio,ITA,0,92.95,47.93,46.02,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,FSTw4,,4.7,False,0.29,0,1,0,0,0,1,1,1,1,1,-1,0,,4.99
+2,RoLi4,,4.0,False,0.5,0,1,1,1,1,1,1,1,1,1,1,1,,4.5
+3,CSeSt3,,6.2,False,0.29,0,0,0,1,0,1,1,-1,1,0,0,0,,6.49
+4,SlLi4+CuLi4,,5.6,False,0.71,2,2,1,1,1,2,2,1,2,2,1,2,,6.31
+5,Sp4,,4.0,False,0.43,1,1,0,0,1,1,1,1,0,1,1,1,,4.43
+6,SeLi4,,5.6,False,0.0,0,0,0,0,0,0,1,0,1,0,0,0,,5.6
+7,BSTw4,,4.7,False,0.14,0,0,-1,0,0,1,1,0,2,0,1,0,,4.84
+8,CCiSt3,,6.2,False,0.14,0,0,0,0,0,1,1,0,1,0,0,0,,6.34
+9,SlLi4,,4.0,False,0.43,0,1,0,0,0,2,2,1,2,1,1,2,,4.43
+,,,45.0,,,,,,,,,,,,,,,,47.93
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.25,7.25,7.25,7.75,7.25,8.0,7.75,7.25,8.0,7.75,7.75,8.0,,7.54
+,Transitions / Linking Footwork / Movement  ,,,,1.75,7.25,7.5,7.0,7.5,7.5,8.0,8.25,7.25,8.0,7.75,7.25,7.75,,7.54
+,Performance / Execution  ,,,,1.0,7.5,7.25,7.75,7.75,7.5,8.0,8.0,7.5,8.25,7.75,7.75,7.75,,7.71
+,Choreography / Composition  ,,,,1.0,7.5,7.75,7.75,7.75,7.75,8.0,8.5,7.5,8.0,8.25,8.0,7.75,,7.89
+,Interpretation / Timing  ,,,,1.0,7.5,7.5,7.5,7.75,7.75,8.25,8.5,7.5,8.25,8.0,7.75,7.75,,7.79
+,,,,,,,,,,,,,,,,,,,46.02
+Deduction,Extended Lifts,-1.0

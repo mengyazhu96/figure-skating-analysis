@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Alaine CHARTRAND,CAN,1,58.72,29.44,29.28,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.8,-2,-3,-3,-3,-2,-3,-3,-2,-2,,4.2
+2,FSSp2,,2.3,False,0.43,1,1,0,1,1,1,1,0,1,,2.73
+3,LSp4,,2.7,False,0.01,1,0,1,-1,1,-1,-1,-1,0,,2.71
+4,3Lo+2T,,7.04,True,0.0,0,1,0,0,0,0,-1,0,0,,7.04
+5,2A,,3.63,True,0.29,0,1,1,0,1,1,0,1,0,,3.92
+6,StSq4,,3.9,False,0.8,1,2,1,2,1,1,1,1,1,,4.7
+7,CCoSp4,,3.5,False,0.64,1,1,2,1,2,1,2,1,1,,4.14
+,,,29.07,,,,,,,,,,,,,29.44
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,7.0,8.0,7.5,7.25,7.5,7.0,7.5,6.5,,7.29
+,Transitions  ,,,,0.8,6.75,7.25,7.75,7.25,7.5,7.25,7.0,7.25,6.0,,7.18
+,Performance  ,,,,0.8,6.75,7.0,7.75,7.0,7.25,7.5,7.5,7.5,6.5,,7.21
+,Composition  ,,,,0.8,7.0,7.5,8.0,7.5,7.5,7.75,7.25,7.5,6.75,,7.43
+,Interpretation of the Music  ,,,,0.8,7.0,7.75,7.5,7.25,7.75,7.5,7.75,7.75,7.0,,7.5
+,,,,,,,,,,,,,,,,29.28

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Amy LIN,TPE,12,51.86,28.03,23.83,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Lz,,6.0,False,-1.5,-2,-2,-2,-2,-2,-3,-2,-2,-3,,4.5
+2,3T+2T,,5.6,False,0.0,0,0,1,0,0,0,0,0,0,,5.6
+3,FCSp3,,2.8,False,0.29,1,0,1,1,1,0,0,1,0,,3.09
+4,2A,,3.63,True,0.0,0,0,0,0,0,0,0,0,0,,3.63
+5,StSq3,,3.3,False,0.57,1,1,1,2,0,2,1,1,1,,3.87
+6,CCoSp4,,3.5,False,0.5,0,1,1,1,1,1,1,1,1,,4.0
+7,LSp4,,2.7,False,0.64,2,1,1,1,2,1,1,2,1,,3.34
+,,,27.53,,,,,,,,,,,,,28.03
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.0,6.5,5.75,6.25,5.5,6.5,5.75,6.25,5.75,,6.04
+,Transitions  ,,,,0.8,5.5,6.5,5.25,5.75,5.5,5.5,6.0,6.0,5.25,,5.64
+,Performance  ,,,,0.8,6.0,6.25,5.75,6.75,5.25,6.5,5.75,6.5,5.5,,6.04
+,Composition  ,,,,0.8,5.75,6.5,5.75,6.25,5.5,6.25,6.0,6.5,5.5,,6.0
+,Interpretation of the Music  ,,,,0.8,6.0,6.25,5.5,6.5,5.75,6.5,6.0,6.5,5.5,,6.07
+,,,,,,,,,,,,,,,,23.83

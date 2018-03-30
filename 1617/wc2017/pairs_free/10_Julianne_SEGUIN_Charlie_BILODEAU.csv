@@ -1,0 +1,24 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Julianne SEGUIN / Charlie BILODEAU,CAN,7,131.9,67.96,63.94,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,0.9,3,1,2,2,0,1,0,1,2,,7.1
+2,3T+2T,,5.6,False,0.8,2,1,1,1,1,1,1,1,2,,6.4
+3,3Li4,,4.5,False,0.93,2,1,0,2,2,2,2,2,2,,5.43
+4,3S,,4.4,False,1.1,2,1,1,1,2,2,2,1,2,,5.5
+5,FCCoSp4,,3.5,False,-0.1,-1,-1,1,0,1,-1,0,-1,-1,,3.4
+6,5SLi4,,6.5,False,0.86,3,1,2,1,2,2,1,2,2,,7.36
+7,ChSq1,,2.0,False,0.9,1,1,1,2,2,1,1,1,2,,2.9
+8,3FTh,,5.5,False,0.4,1,0,1,1,0,1,0,0,2,,5.9
+9,FiDs3,,3.2,False,1.0,2,1,1,2,1,2,1,2,1,,4.2
+10,3LoTh,,5.0,False,1.1,2,2,2,2,1,1,1,1,2,,6.1
+11,5ALi3,,7.0,False,1.1,3,2,0,2,2,1,1,1,2,,8.1
+12,PCoSp4,,4.5,False,1.07,3,1,1,2,3,2,2,2,3,,5.57
+,,,57.9,,,,,,,,,,,,,67.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,8.5,7.75,7.75,8.0,8.0,8.0,7.5,7.75,8.5,,7.96
+,Transitions  ,,,,1.6,8.75,7.5,7.25,7.75,8.75,7.5,7.75,7.75,7.5,,7.79
+,Performance  ,,,,1.6,9.0,7.75,7.5,8.25,8.0,8.0,8.0,8.0,8.5,,8.07
+,Composition  ,,,,1.6,8.75,7.75,7.75,8.0,8.75,7.75,8.0,7.75,7.75,,7.96
+,Interpretation of the Music  ,,,,1.6,9.25,7.75,7.75,8.5,8.5,8.0,7.75,8.0,8.75,,8.18
+,,,,,,,,,,,,,,,,63.94

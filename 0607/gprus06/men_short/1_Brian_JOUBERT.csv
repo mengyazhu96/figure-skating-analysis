@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Brian JOUBERT,FRA,0,77.7,41.5,36.2,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,4T+3T,,13.0,False,-0.4,2,-1,0,0,0,0,0,-1,-1,0,,12.6
+2,3A,,7.5,False,-2.0,-1,-2,-2,-2,-2,-2,-2,-2,-2,-1,,5.5
+3,FSSp4,,3.0,False,0.4,1,1,1,0,1,1,0,1,1,2,,3.4
+4,3F,,5.5,False,0.0,2,1,1,-1,2,-1,0,1,-1,1,,5.5
+5,CiSt3,,3.1,False,0.5,2,1,2,0,1,1,1,0,2,2,,3.6
+6,CCoSp4,,3.5,False,0.5,1,1,1,1,0,2,1,1,0,2,,4.0
+7,SlSt3,,3.1,False,0.5,1,1,1,0,1,2,1,1,1,2,,3.6
+8,CSSp4,,3.0,False,0.3,1,1,0,0,0,1,1,0,1,2,,3.3
+,,,41.7,,,,,,,,,,,,,,41.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,7.75,7.75,7.5,7.25,8.0,6.75,7.25,7.25,8.25,,7.5
+,Transition / Linking Footwork  ,,,,1.0,7.0,7.5,6.5,7.0,6.5,7.0,6.5,6.0,6.75,7.5,,6.75
+,Performance / Execution  ,,,,1.0,7.25,7.5,7.5,7.25,7.5,7.75,7.0,7.5,7.0,8.25,,7.35
+,Choreography / Composition  ,,,,1.0,7.25,7.75,7.5,7.5,7.75,7.0,7.25,7.25,7.0,8.0,,7.3
+,Interpretation  ,,,,1.0,7.25,7.75,7.5,7.25,7.5,7.25,7.25,7.25,6.75,8.25,,7.3
+,,,,,,,,,,,,,,,,,36.2

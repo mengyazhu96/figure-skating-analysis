@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,CHAN Patrick,CAN,21,90.01,45.08,45.93,-1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,1.0,-1,0,1,2,0,0,3,2,2,,11.3
+2,3Lz+3T,,10.3,False,1.4,3,2,2,2,1,2,2,2,2,,11.7
+3,CCSp4,,3.2,False,1.07,2,2,2,2,2,2,3,3,2,,4.27
+4,3A<,<,6.49,True,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.49
+5,StSq4,,3.9,False,1.9,3,3,3,3,2,2,3,3,2,,5.8
+6,FSSp3,,2.6,False,1.21,2,3,3,3,2,1,2,3,2,,3.81
+7,CCoSp4,,3.5,False,1.21,3,3,2,2,2,2,3,3,2,,4.71
+,,,40.29,,,,,,,,,,,,,45.08
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,9.5,9.5,9.5,9.25,9.25,9.25,9.25,9.5,9.0,,9.36
+,Transitions,,,,1.0,9.0,9.0,9.25,9.25,9.0,8.75,9.75,9.25,8.75,,9.07
+,Performance,,,,1.0,9.0,9.0,9.25,9.0,9.0,8.5,9.5,9.0,8.75,,9.0
+,Composition,,,,1.0,9.75,9.25,9.25,9.25,9.25,9.0,9.5,9.5,9.0,,9.29
+,Interpretation of the Music,,,,1.0,9.25,9.25,9.5,9.0,9.0,8.75,9.5,9.5,9.0,,9.21
+,,,,,,,,,,,,,,,,45.93
+Deduction,Falls,-1.0

@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Trina PRATT / Todd GILLES,USA,0,74.85,43.5,32.35,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.4,0,2,1,1,1,0,1,0,1,,4.4
+2,CuLi4,,4.0,False,0.8,2,2,2,2,1,1,2,1,1,,4.8
+3,DiSt2,,5.4,False,0.2,0,1,0,0,1,0,0,0,0,,5.6
+4,SlLi4+RoLi4,,6.4,False,0.4,1,1,1,0,0,1,1,1,1,,6.8
+5,CoSp4,,4.7,False,0.3,1,1,1,0,1,0,2,0,0,,5.0
+6,CiSt2,,6.4,False,0.0,0,0,0,0,0,0,0,0,0,,6.4
+7,SeLi4,,6.4,False,0.0,0,0,0,0,0,0,0,0,0,,6.4
+8,STw4,,4.7,False,-0.6,-1,-2,-1,-1,-2,-1,-1,-1,-1,,4.1
+9,STw+TRANS,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+,,,42.0,,,,,,,,,,,,,43.5
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,5.75,6.0,5.5,5.0,5.0,5.5,5.25,5.25,,5.45
+,Linking Footwork / Movement  ,,,,1.75,5.0,4.75,6.25,5.5,6.0,4.5,5.25,5.0,4.75,,5.25
+,Performance  ,,,,1.0,5.25,6.0,5.75,5.5,6.25,5.0,5.75,5.25,5.0,,5.55
+,Choreography  ,,,,1.0,5.25,5.75,6.0,6.0,5.75,4.75,5.75,5.25,4.75,,5.6
+,Interpretation / Timing  ,,,,1.0,5.0,5.5,5.5,5.5,4.75,4.75,6.0,5.0,5.0,,5.2
+,,,,,,,,,,,,,,,,32.35
+Deduction,Extended lifts,-1.0

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Charlene GUIGNARD / Marco FABBRI,ITA,6,64.79,32.25,32.54,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,1.2,2,2,3,2,2,2,2,2,2,,7.8
+2,1MB3+kpYNY,,4.4,False,0.6,1,1,1,1,1,1,1,1,2,,5.0
+3,PSt1,,4.1,False,0.77,1,2,0,1,2,1,1,1,2,,4.87
+4,CuLi4,,4.5,False,0.94,2,2,1,1,2,1,1,2,2,,5.44
+5,NtMiSt3,,7.1,False,2.04,2,2,2,2,1,2,1,2,2,,9.14
+,,,26.7,,,,,,,,,,,,,32.25
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,8.0,8.75,7.5,8.25,8.25,8.0,8.0,8.0,,8.07
+,Transitions  ,,,,0.8,8.0,8.0,8.5,7.75,8.0,8.25,7.75,7.75,7.75,,7.93
+,Performance  ,,,,0.8,8.25,8.25,8.75,8.0,8.5,8.5,8.0,8.25,8.0,,8.25
+,Composition  ,,,,0.8,8.5,8.0,8.5,7.75,8.25,8.25,8.25,8.25,7.75,,8.18
+,Interpretation of the Music / Timing  ,,,,0.8,8.5,8.0,9.0,8.0,8.5,8.5,8.25,8.0,8.0,,8.25
+,,,,,,,,,,,,,,,,32.54

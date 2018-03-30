@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Natalia MIKHAILOVA / Arkadi SERGEEV,RUS,0,25.8,13.88,11.92,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.0,False,-0.1,-2,0,-1,0,0,0,0,0,0,,1.9
+2,1S2,,2.6,False,0.0,0,0,0,0,0,-1,0,0,1,,2.6
+3,1S3,,1.6,False,-0.12,-1,0,0,0,0,0,-1,-1,-1,,1.48
+4,2S1,,3.1,False,-0.28,-1,0,-1,-1,0,0,0,0,0,,2.82
+5,2S2,,3.6,False,-0.7,-2,-1,-1,0,-1,-1,-1,-1,0,,2.9
+6,2S3,,2.6,False,-0.42,-2,0,0,-1,0,0,-1,-1,-1,,2.18
+,,,15.5,,,,,,,,,,,,,13.88
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,4.75,5.5,5.0,5.25,4.75,4.5,5.0,5.0,5.25,,4.9
+,Timing  ,,,,0.75,4.0,5.25,4.5,4.75,4.75,4.25,4.5,4.75,4.75,,4.55
+,Performance / Execution  ,,,,0.5,4.75,5.5,4.5,5.0,4.75,4.5,5.0,5.0,5.25,,4.8
+,Interpretation  ,,,,0.5,4.5,5.25,4.75,5.0,5.0,4.5,5.0,5.25,5.5,,4.85
+,,,,,,,,,,,,,,,,11.92

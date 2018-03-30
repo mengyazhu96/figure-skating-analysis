@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Kaitlin HAWAYEK / Jea-Luc BAKER,USA,5,63.1,32.47,30.63,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiSt3,,7.1,False,1.89,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,,8.99
+2,1RH4+kpYYY,,5.0,False,0.51,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,,5.51
+3,PSt3,,7.1,False,1.26,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,,8.36
+4,CuLi4,,4.5,False,0.94,1.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,,5.44
+5,STw2,,4.6,False,-0.43,-2.0,-1.0,0.0,-1.0,0.0,0.0,-2.0,-1.0,-1.0,,4.17
+,,,28.3,,,,,,,,,,,,,32.47
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.5,8.0,7.5,8.5,8.0,7.5,7.5,7.5,7.0,,7.57
+,Transitions,,,,0.8,6.5,7.5,7.5,8.5,8.0,7.5,7.25,7.5,6.75,,7.43
+,Performance,,,,0.8,6.5,8.25,7.75,8.0,8.25,8.25,7.0,7.75,7.25,,7.75
+,Composition,,,,0.8,6.25,7.75,7.75,8.5,8.25,8.0,7.5,7.5,7.0,,7.68
+,Interpretation of the Music/Timing,,,,0.8,6.5,8.0,8.0,8.5,8.5,8.5,7.25,7.75,7.0,,7.86
+,,,,,,,,,,,,,,,,30.63

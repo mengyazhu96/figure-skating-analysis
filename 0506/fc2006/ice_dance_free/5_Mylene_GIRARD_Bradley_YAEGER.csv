@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Mylene GIRARD / Bradley YAEGER,CAN,0,79.44,47.16,33.28,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CCiSt4,,7.0,False,0.0,0,0,0,0,0,0,0,0,0,1,0,0,,7.0
+2,CuLi4+RoLi4,,5.6,False,0.5,1,0,1,1,1,1,1,1,1,1,1,1,,6.1
+3,BSTw4,,4.7,False,0.07,0,-1,1,0,1,1,1,-1,-1,0,0,0,,4.77
+4,CoSp3,,4.0,False,0.43,1,0,1,1,1,1,1,1,0,1,1,1,,4.43
+5,CSeSt3,,6.2,False,-0.29,-1,-1,-1,0,0,0,0,-1,0,0,0,0,,5.91
+6,CuLi4,,4.0,False,0.29,0,0,1,0,1,1,1,1,0,1,1,1,,4.29
+7,FSTw4,,4.7,False,0.07,0,0,0,0,1,1,-1,0,0,0,0,0,,4.77
+8,RRoLi4,,5.6,False,0.29,1,-1,0,1,1,1,0,1,0,1,1,0,,5.89
+9,RoLi3,,3.5,False,0.5,0,-1,1,2,2,2,1,2,0,1,1,1,,4.0
+,,,45.3,,,,,,,,,,,,,,,,47.16
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,5.5,5.5,5.5,5.75,5.75,5.5,5.5,5.5,5.5,5.75,5.75,5.5,,5.57
+,Linking Footwork / Movement ,,,,1.75,5.0,5.25,5.25,5.75,5.5,5.5,5.25,5.25,5.25,5.5,5.75,5.5,,5.39
+,Performance ,,,,1.0,5.25,5.5,5.5,5.75,5.75,5.25,5.25,5.5,5.5,5.75,6.0,5.75,,5.57
+,Choreography ,,,,1.0,5.5,5.75,5.75,5.75,5.75,5.25,5.5,5.25,5.5,5.75,6.0,5.75,,5.68
+,Interpretation / Timing ,,,,1.0,5.25,5.75,5.5,6.0,5.75,5.5,5.5,5.5,5.5,5.75,6.0,5.75,,5.64
+,,,,,,,,,,,,,,,,,,,33.28
+Deduction,Extended lifts,-1.0

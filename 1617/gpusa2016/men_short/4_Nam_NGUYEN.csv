@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Nam NGUYEN,CAN,5,79.62,42.18,37.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4S+3T,,14.8,False,1.14,2,1,1,2,0,1,1,1,1,,15.94
+2,3A,,8.5,False,0.29,0,0,1,1,0,0,2,0,0,,8.79
+3,FCSp3,,2.8,False,0.07,0,0,0,0,-1,1,1,0,0,,2.87
+4,3Lz,,6.6,True,0.4,1,0,0,1,0,0,1,1,1,,7.0
+5,StSq3,,3.3,False,0.64,2,2,1,2,0,1,2,1,0,,3.94
+6,CSSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,CCoSp4,,3.5,False,0.14,0,0,1,1,0,0,1,0,0,,3.64
+,,,39.5,,,,,,,,,,,,,42.18
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.25,7.25,7.5,7.5,7.0,7.25,7.75,7.5,6.75,,7.32
+,Transitions  ,,,,1.0,7.75,7.0,7.5,7.5,6.75,7.25,7.75,7.25,6.75,,7.29
+,Performance  ,,,,1.0,7.75,7.5,7.75,7.75,7.5,7.5,8.25,8.0,7.0,,7.68
+,Composition  ,,,,1.0,7.5,7.25,7.5,7.75,7.25,7.5,8.0,8.25,7.25,,7.54
+,Interpretation of the Music  ,,,,1.0,7.75,7.5,7.75,8.0,7.25,7.0,8.0,8.25,7.0,,7.61
+,,,,,,,,,,,,,,,,37.44

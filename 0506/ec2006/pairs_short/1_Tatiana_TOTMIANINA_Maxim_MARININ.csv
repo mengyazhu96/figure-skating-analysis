@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Tatiana TOTMIANINA / Maxim MARININ,RUS,0,68.04,35.95,32.09,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,FiDs4,,3.5,False,1.2,2,1,2,2,2,2,2,2,1,1,2,1,,4.7
+2,3LoTh,,5.0,False,1.0,2,1,1,1,2,2,2,1,1,0,2,1,,6.0
+3,3T,,4.0,False,0.86,1,1,1,1,1,1,1,0,1,0,2,1,,4.86
+4,2Tw3,,4.0,False,0.64,1,0,1,1,2,2,2,1,1,1,1,1,,4.64
+5,3Li4,,4.0,False,0.29,1,0,1,0,1,1,1,0,0,1,0,0,,4.29
+6,CiSt3,,3.1,False,0.43,1,0,1,0,1,1,1,1,1,0,1,0,,3.53
+7,FCCoSp3,,3.0,False,0.43,1,1,0,1,1,1,1,1,1,0,1,0,,3.43
+8,PCoSp3,,4.0,False,0.5,0,0,1,1,1,1,2,1,2,0,1,0,,4.5
+,,,30.6,,,,,,,,,,,,,,,,35.95
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,7.75,8.25,7.75,8.25,8.25,8.25,8.0,8.25,8.25,8.0,8.0,8.5,,8.14
+,Transition / Linking Footwork ,,,,0.8,7.0,8.0,7.5,8.0,7.75,7.75,8.25,7.75,8.0,8.0,7.75,8.25,,7.86
+,Performance / Execution ,,,,0.8,7.25,8.25,7.5,8.25,8.5,8.0,8.25,8.0,8.25,8.0,8.0,8.5,,8.11
+,Choreography / Composition ,,,,0.8,7.75,8.0,7.75,8.25,8.0,8.25,7.75,8.25,8.0,8.0,8.0,8.0,,8.0
+,Interpretation ,,,,0.8,7.5,8.25,7.25,8.5,8.25,8.0,8.0,8.0,8.0,8.0,7.75,8.0,,8.0
+,,,,,,,,,,,,,,,,,,,32.09

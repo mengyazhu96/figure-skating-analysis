@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Madison HUBBELL / Zachary DONOHUE,USA,20,116.22,59.68,56.54,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,1.54,3,2,3,3,3,2,2,3,2,,8.14
+2,SeSt4,,8.6,False,2.2,2,2,2,2,2,2,2,3,2,,10.8
+3,CoSp4,,5.6,False,1.37,2,2,2,3,2,3,3,2,2,,6.97
+4,DiSt4,,8.6,False,2.2,2,2,2,2,2,2,2,2,2,,10.8
+5,CuLi4,,4.5,False,1.54,2,3,2,3,3,3,3,2,2,,6.04
+6,StaLi4,,4.5,False,1.29,2,2,3,2,3,2,2,2,2,,5.79
+7,SlLi4,,4.5,False,1.54,3,3,2,3,2,2,3,3,2,,6.04
+8,ChTw1,,1.0,False,1.7,3,2,2,2,2,1,3,3,3,,2.7
+9,ChSp1,,1.0,False,1.4,2,2,2,2,2,1,2,2,2,,2.4
+,,,44.9,,,,,,,,,,,,,59.68
+,Program Components,,,,Factor
+,Skating Skills,,,,1.2,9.5,9.75,9.5,9.75,9.5,9.25,9.25,9.25,9.25,,9.43
+,Transitions,,,,1.2,9.25,9.5,9.5,9.5,9.5,8.75,9.0,9.0,9.0,,9.25
+,Performance,,,,1.2,9.5,9.75,9.75,9.5,9.5,9.25,9.5,9.5,9.25,,9.5
+,Composition,,,,1.2,9.25,9.75,9.5,9.5,9.75,9.0,9.5,9.5,9.5,,9.5
+,Interpretation of the Music/Timing,,,,1.2,9.25,9.5,9.75,9.5,9.5,9.0,9.5,9.5,9.25,,9.43
+,,,,,,,,,,,,,,,,56.54

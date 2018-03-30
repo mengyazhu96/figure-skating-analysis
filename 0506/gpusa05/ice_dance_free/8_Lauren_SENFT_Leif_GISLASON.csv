@@ -1,0 +1,22 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Lauren SENFT / Leif GISLASON,CAN,0,73.39,45.1,30.29,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,FSTw4,,4.7,False,0.0,0,0,-1,0,0,1,0,0,,4.7
+2,CSeSt3,,6.2,False,0.0,0,0,0,0,0,0,0,0,,6.2
+3,CoSp3,,4.0,False,0.0,-1,0,0,0,0,1,-1,0,,4.0
+4,CuLi4+RoLi4,,5.6,False,0.0,-1,0,1,0,1,-1,-1,0,,5.6
+5,BSTw3,,4.0,False,0.1,-1,0,1,0,1,0,0,0,,4.1
+6,CCiSt3,,6.2,False,0.0,0,0,0,0,0,0,-1,0,,6.2
+7,RoLi4,,4.0,False,0.5,0,1,1,1,1,1,1,1,,4.5
+8,SeLi4,,5.6,False,0.1,-1,0,1,0,1,0,0,0,,5.7
+9,SlLi4,,4.0,False,0.1,1,0,1,0,1,0,0,-1,,4.1
+,,,44.3,,,,,,,,,,,,45.1
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,4.75,4.25,5.0,5.0,4.75,6.0,5.5,5.25,,5.1
+,Linking Footwork / Movement ,,,,1.75,4.75,5.0,5.25,4.5,4.75,5.5,4.75,5.0,,4.95
+,Performance ,,,,1.0,4.75,4.75,5.25,4.75,4.75,5.75,5.25,5.0,,5.0
+,Choreography ,,,,1.0,4.5,4.75,5.5,5.0,4.75,5.25,5.25,5.25,,5.1
+,Interpretation / Timing ,,,,1.0,4.25,4.75,5.25,4.75,5.0,5.75,5.5,5.25,,5.15
+,,,,,,,,,,,,,,,30.29
+Deduction,Extended lifts,-2.0

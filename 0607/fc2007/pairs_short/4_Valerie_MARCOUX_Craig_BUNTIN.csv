@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Valerie MARCOUX / Craig BUNTIN,CAN,0,60.43,33.58,26.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3T,,4.0,False,1.0,1,1,1,0,1,1,1,1,2,1,1,1,,5.0
+2,2FTw4,,4.5,False,0.14,1,0,0,1,1,0,0,0,1,0,0,0,,4.64
+3,SpSq4,,3.4,False,0.57,1,1,1,1,0,0,1,0,1,1,0,0,,3.97
+4,FCCoSp4,,3.5,False,-0.09,0,0,0,0,0,-2,-1,0,0,1,-1,0,,3.41
+5,PCoSp4,,4.5,False,0.0,0,-1,0,0,0,0,0,0,0,0,0,1,,4.5
+6,4Li4,,4.0,False,-0.04,0,0,0,0,1,0,-1,-1,-1,1,-1,0,,3.96
+7,3LoTh,,5.0,False,-0.5,-1,0,0,-1,0,-1,-1,-1,-1,0,-1,0,,4.5
+8,BoDs2,,3.5,False,0.1,0,0,0,0,0,0,1,0,1,1,0,0,,3.6
+,,,32.4,,,,,,,,,,,,,,,,33.58
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.75,6.75,6.75,6.5,7.25,6.75,7.0,6.75,7.25,6.75,6.75,7.0,,6.79
+,Transition / Linking Footwork ,,,,0.8,6.75,6.5,6.5,6.25,6.75,6.5,6.5,6.5,6.5,6.5,6.25,6.75,,6.5
+,Performance / Execution ,,,,0.8,7.0,6.5,7.0,6.5,6.5,6.75,6.75,6.75,7.0,6.75,6.5,6.75,,6.64
+,Choreography / Composition ,,,,0.8,6.75,6.75,6.75,6.25,6.75,6.5,7.0,6.75,7.25,6.75,7.0,6.5,,6.75
+,Interpretation ,,,,0.8,7.0,7.0,7.0,6.5,7.0,6.5,7.0,6.75,7.25,7.0,7.0,7.0,,6.89
+,,,,,,,,,,,,,,,,,,,26.85

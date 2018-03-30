@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Kamila HAJKOVA / David VINCOUR,CZE,0,64.81,37.4,27.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi3+CuLi4,,6.0,False,0.2,1,1,0,0,1,1,0,0,0,,6.2
+2,CoSp3,,4.0,False,0.0,0,0,0,0,0,1,0,-1,0,,4.0
+3,SeLi3,,5.6,False,0.2,1,0,0,0,1,0,1,0,1,,5.8
+4,CiSt1,,5.6,False,-0.2,0,-1,0,0,0,0,-1,-1,0,,5.4
+5,STw4,,4.7,False,-0.4,0,-2,0,0,-2,-1,-1,-1,-1,,4.3
+6,SlLi3,,3.5,False,0.0,0,0,0,0,1,0,0,0,0,,3.5
+7,DiSt1,,4.6,False,-0.4,-1,0,-1,0,0,0,-1,-1,0,,4.2
+8,RoLi4,,4.0,False,0.0,0,0,1,0,-1,1,-1,0,0,,4.0
+,,,38.0,,,,,,,,,,,,,37.4
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,4.75,4.5,4.75,4.5,4.75,5.0,4.5,5.0,4.75,,4.7
+,Linking Footwork / Movement  ,,,,1.75,4.25,4.0,4.5,4.0,3.25,4.75,3.75,4.75,4.75,,4.3
+,Performance  ,,,,1.0,4.5,4.75,5.0,4.75,5.0,5.25,4.25,5.0,5.25,,4.9
+,Choreography  ,,,,1.0,4.5,4.75,4.75,4.25,4.0,4.75,4.75,5.0,4.75,,4.6
+,Interpretation / Timing  ,,,,1.0,4.0,4.5,4.5,4.5,3.5,5.0,4.0,5.25,5.0,,4.5
+,,,,,,,,,,,,,,,,27.41

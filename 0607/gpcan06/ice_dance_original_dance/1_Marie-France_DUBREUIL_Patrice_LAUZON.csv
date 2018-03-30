@@ -1,0 +1,18 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Marie-France DUBREUIL / Patrice LAUZON,CAN,0,59.04,28.6,30.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,NtMiTw3,,2.8,False,-0.6,-1,-1,-2,-2,-1,-1,-2,0,-1,,2.2
+2,NtMiSt4,,4.3,False,0.6,2,1,1,1,1,1,1,2,0,,4.9
+3,CuLi4,,4.0,False,0.9,1,2,1,1,2,2,2,2,2,,4.9
+4,Sp4,,4.7,False,0.4,1,0,1,0,2,1,1,1,2,,5.1
+5,DiSt3,,6.2,False,0.8,0,1,0,0,1,1,1,1,1,,7.0
+6,RoLi4,,4.0,False,0.5,2,1,0,0,2,1,1,1,1,,4.5
+,,,26.0,,,,,,,,,,,,,28.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.75,7.75,7.5,8.0,8.5,8.0,8.0,8.25,8.25,,8.0
+,Linking Footwork / Movement  ,,,,0.8,7.75,7.75,6.0,7.75,8.25,7.75,8.0,8.25,8.0,,7.85
+,Performance  ,,,,0.6,7.5,8.0,8.0,7.75,8.5,7.75,7.75,8.25,8.5,,7.9
+,Choreography  ,,,,0.6,8.0,7.75,7.25,8.5,8.25,7.75,8.25,8.5,8.5,,8.2
+,Interpretation / Timing  ,,,,1.0,7.5,8.0,6.75,8.25,8.5,8.0,8.0,8.5,8.25,,8.1
+,,,,,,,,,,,,,,,,30.44

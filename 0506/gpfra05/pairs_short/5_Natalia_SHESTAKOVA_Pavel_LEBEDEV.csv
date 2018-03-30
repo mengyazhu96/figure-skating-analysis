@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Natalia SHESTAKOVA / Pavel LEBEDEV,RUS,0,50.24,27.68,22.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T,,4.0,False,0.0,0,1,0,0,0,0,2,0,0,0,,4.0
+2,3LoTh,,5.0,False,0.0,0,0,0,0,0,0,1,0,0,0,,5.0
+3,2Tw3,,4.0,False,0.0,0,0,0,1,1,0,0,0,0,0,,4.0
+4,3Li3,,3.5,False,-0.06,0,0,-1,0,1,1,0,-1,0,0,,3.44
+5,FCCoSp2,,2.5,False,0.0,0,1,0,0,1,0,1,0,-1,0,,2.5
+6,SlSt2,,2.3,False,0.0,0,0,0,0,1,0,0,0,0,0,,2.3
+7,FiDs2,,3.0,False,0.0,0,1,-1,1,2,0,0,-1,0,0,,3.0
+8,PCoSp2,,3.5,False,-0.06,0,0,-1,0,1,0,0,0,-1,0,,3.44
+,,,27.8,,,,,,,,,,,,,,27.68
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.25,6.0,5.5,6.0,6.75,6.0,6.0,5.0,6.0,5.75,,5.9
+,Transition / Linking Footwork ,,,,0.8,5.75,5.5,5.0,5.0,6.25,5.5,6.25,4.5,5.5,5.25,,5.3
+,Performance / Execution ,,,,0.8,6.0,6.0,5.75,6.25,7.0,5.75,6.0,4.75,5.25,5.5,,5.75
+,Choreography / Composition ,,,,0.8,5.75,5.75,5.5,6.0,6.5,6.0,6.25,4.75,5.5,5.75,,5.7
+,Interpretation ,,,,0.8,5.75,5.75,5.5,6.0,6.25,5.25,6.25,4.25,5.5,5.5,,5.55
+,,,,,,,,,,,,,,,,,22.56

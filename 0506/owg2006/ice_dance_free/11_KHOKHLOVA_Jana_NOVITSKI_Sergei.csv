@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,KHOKHLOVA Jana / NOVITSKI Sergei,RUS,0,86.43,47.75,38.68,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.64,1,2,2,0,1,1,2,1,1,1,1,0,,5.34
+2,FSTw3,,4.0,False,0.5,1,1,1,1,0,1,1,1,1,1,1,1,,4.5
+3,SlLi4+CuLi4,,5.6,False,0.57,1,2,1,1,1,1,1,1,1,1,2,1,,6.17
+4,BSTw4,,4.7,False,0.29,0,0,1,0,0,0,1,1,1,1,1,1,,4.99
+5,CCiSt2,,5.3,False,0.43,0,1,1,0,0,0,0,0,0,1,1,1,,5.73
+6,SlLi4,,4.0,False,0.29,0,0,0,0,0,1,1,1,1,1,1,1,,4.29
+7,CSeSt3,,6.2,False,0.0,0,0,1,0,0,-1,0,0,0,0,0,0,,6.2
+8,SeLi4,,5.6,False,0.43,0,1,1,0,0,1,1,1,1,1,1,1,,6.03
+9,RoLi4,,4.0,False,0.5,0,1,1,1,1,1,1,1,1,1,1,1,,4.5
+,,,44.1,,,,,,,,,,,,,,,,47.75
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,6.25,6.5,6.75,6.25,6.25,6.75,6.25,6.25,6.5,6.5,6.5,6.5,,6.43
+,Transitions / Linking Footwork / Movement  ,,,,1.75,6.25,6.0,6.75,6.25,6.0,6.5,6.5,6.25,6.75,6.25,6.5,6.25,,6.32
+,Performance / Execution  ,,,,1.0,6.25,6.5,7.0,6.5,6.0,6.5,6.5,6.5,6.75,6.75,6.5,6.5,,6.54
+,Choreography / Composition  ,,,,1.0,6.5,6.25,7.0,6.25,6.25,6.75,6.75,6.25,7.0,6.75,6.75,6.25,,6.54
+,Interpretation / Timing  ,,,,1.0,6.25,6.0,7.0,6.5,6.25,6.75,6.5,6.25,7.0,6.5,6.75,6.5,,6.5
+,,,,,,,,,,,,,,,,,,,38.68

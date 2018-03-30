@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Kimberley HEW-LOW / Timothy MCKERNAN,AUS,4,51.43,26.55,25.88,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,Sp2,,3.6,False,-0.21,0,-1,-1,0,0,-1,-1,0,0,,3.39
+2,STw2,,4.6,False,-0.21,0,0,-1,0,-1,0,0,-1,-1,,4.39
+3,CiSt1,,4.1,False,-0.5,-1,-1,-1,-1,-1,-1,0,-1,-1,,3.6
+4,CuLi2,,3.0,False,-0.07,0,-1,-1,0,0,0,0,0,1,,2.93
+5,RoLi2,,3.0,False,0.09,0,1,0,0,0,0,0,0,1,,3.09
+6,ChSp1,,0.7,False,-0.17,-1,-1,-1,-1,-1,-2,1,0,-1,,0.53
+7,SlLi4,,4.5,False,-0.14,0,0,0,0,1,-1,-1,0,-1,,4.36
+8,DiSt1,,4.1,False,-0.43,-1,0,-1,-1,-1,0,-1,-1,-1,,3.67
+9,ChTw1,,0.7,False,-0.11,0,-2,-1,-1,-1,-1,0,0,0,,0.59
+,,,28.3,,,,,,,,,,,,,26.55
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,4.5,3.75,4.25,4.25,4.5,5.25,4.75,4.5,4.25,,4.43
+,Transitions  ,,,,1.2,4.0,4.0,4.25,4.0,4.0,5.25,4.25,4.0,4.0,,4.07
+,Performance  ,,,,1.2,4.25,3.75,4.25,4.25,4.5,5.0,5.25,4.25,4.25,,4.39
+,Composition  ,,,,1.2,4.75,4.0,4.0,4.0,4.0,5.25,5.0,4.25,4.5,,4.36
+,Interpretation of the Music / Timing  ,,,,1.2,4.5,4.25,4.0,4.25,4.25,5.0,4.75,4.25,4.0,,4.32
+,,,,,,,,,,,,,,,,25.88
+Deduction,Deductions Extended lifts,-1.0

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+20,Taylor TRAN / Saulius AMBRULEVICIUS,LTU,15,49.87,26.58,23.29,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.43,1,1,1,1,0,0,0,1,1,,7.03
+2,1MB4+kpYYY,,5.0,False,0.0,0,0,0,0,0,0,0,0,0,,5.0
+3,PSt2,,5.6,False,0.0,0,0,0,1,0,0,0,0,0,,5.6
+4,NtMiSt1,,4.1,False,0.09,0,0,0,1,0,0,1,0,0,,4.19
+5,RoLi4,,4.5,False,0.26,0,0,0,0,0,1,1,2,1,,4.76
+,,,25.8,,,,,,,,,,,,,26.58
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.5,6.25,5.5,6.0,5.75,6.0,5.25,6.0,6.0,,5.82
+,Transitions  ,,,,0.8,5.25,5.75,5.0,6.0,5.75,5.75,5.5,5.5,6.5,,5.64
+,Performance  ,,,,0.8,5.5,6.0,5.5,6.25,6.0,6.25,5.0,6.0,6.25,,5.93
+,Composition  ,,,,0.8,5.25,5.75,5.5,6.25,5.5,6.25,5.75,6.0,6.25,,5.86
+,Interpretation of the Music / Timing  ,,,,0.8,5.5,6.0,5.5,6.25,5.75,6.0,5.25,6.0,6.25,,5.86
+,,,,,,,,,,,,,,,,23.29

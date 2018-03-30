@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+16,Kavita LORENZ / Joti POLIZOAKIS,GER,4,94.94,49.78,45.16,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.69,2,1,1,0,1,2,0,1,2,,7.29
+2,CiSt3,,7.1,False,1.1,1,1,1,0,1,1,1,1,1,,8.2
+3,ChSp1,,1.0,False,1.1,2,2,1,1,0,2,2,1,2,,2.1
+4,RoLi4,,4.5,False,1.11,2,2,1,2,2,1,2,2,2,,5.61
+5,SlLi4,,4.5,False,0.94,2,1,1,2,2,2,1,1,2,,5.44
+6,CoSp4,,5.6,False,1.03,2,1,2,1,2,2,2,1,2,,6.63
+7,DiSt2,,5.6,False,1.1,1,1,1,0,1,1,1,1,1,,6.7
+8,CuLi4,,4.5,False,1.11,2,2,2,1,2,2,2,1,2,,5.61
+9,ChLi1,,1.0,False,1.2,3,1,2,1,2,2,2,1,2,,2.2
+,,,40.4,,,,,,,,,,,,,49.78
+,Program Components,,,,Factor
+,Skating Skills,,,,1.2,7.5,8.0,7.5,7.75,7.75,7.5,7.25,7.25,7.5,,7.54
+,Transitions,,,,1.2,7.5,7.5,7.25,7.25,7.5,7.0,7.25,7.0,7.5,,7.32
+,Performance,,,,1.2,7.75,7.75,7.5,7.5,7.5,7.75,7.0,7.25,7.75,,7.57
+,Composition,,,,1.2,7.5,8.0,7.5,7.0,7.75,7.5,7.5,7.25,8.0,,7.57
+,Interpretation of the Music/Timing,,,,1.2,7.75,7.75,7.5,7.75,7.75,7.75,7.5,7.5,7.5,,7.64
+,,,,,,,,,,,,,,,,45.16

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Daniel SAMOHIN,ISR,4,74.62,37.13,37.49,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,-1.89,-3,-1,-1,0,-2,-2,-1,-2,-2,,8.41
+2,4S+2T,,11.8,False,-1.71,-2,-2,-1,-1,-2,-1,-2,-1,-1,,10.09
+3,FCSp2,,2.3,False,0.14,0,0,3,0,-1,0,0,1,1,,2.44
+4,CCoSp4,,3.5,False,0.71,1,2,2,1,1,1,1,2,2,,4.21
+5,3A,,9.35,True,-1.0,-1,-1,-1,-1,-1,-1,-1,-1,0,,8.35
+6,CSSp,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,StSq3,,3.3,False,0.33,1,1,-1,1,-1,1,0,2,2,,3.63
+,,,40.55,,,,,,,,,,,,,37.13
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,8.75,8.0,8.25,7.5,7.0,7.0,7.75,8.0,,7.71
+,Transitions  ,,,,1.0,6.5,8.0,7.5,7.5,6.5,6.75,6.75,7.5,7.5,,7.14
+,Performance  ,,,,1.0,7.25,9.0,8.0,8.0,7.25,7.0,7.0,8.0,8.0,,7.64
+,Composition  ,,,,1.0,7.0,8.75,7.75,7.75,6.25,6.75,7.0,7.75,7.75,,7.39
+,Interpretation of the Music  ,,,,1.0,7.5,9.0,8.0,7.75,6.0,7.25,7.0,7.75,8.0,,7.61
+,,,,,,,,,,,,,,,,37.49

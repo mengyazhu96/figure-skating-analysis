@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+29,Aurelija IPOLITO / Malcolm JONES,LAT,2,37.47,21.27,16.2,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,-0.5,-2.0,-2.0,-1.0,-2.0,0.0,0.0,0.0,-1.0,-1.0,,6.1
+2,NtSeSt1,,4.1,False,-0.43,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0.0,,3.67
+3,1RH2+kpNYN,,3.8,False,-0.64,-1.0,-2.0,-1.0,-1.0,0.0,-1.0,-1.0,-2.0,-2.0,,3.16
+4,PSt1,,4.1,False,-0.36,-1.0,-1.0,-2.0,0.0,-1.0,0.0,0.0,-1.0,-1.0,,3.74
+5,RoLi4,,4.5,False,0.1,-1.0,0.0,-1.0,1.0,1.0,0.0,0.0,0.0,1.0,,4.6
+,,,23.1,,,,,,,,,,,,,21.27
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,4.0,4.0,4.5,4.75,4.75,4.25,3.75,4.0,3.75,,4.18
+,Transitions,,,,0.8,3.5,3.75,4.0,4.5,4.75,3.75,3.5,3.75,3.75,,3.86
+,Performance,,,,0.8,3.75,4.0,4.25,5.0,4.5,4.0,3.75,3.75,4.0,,4.04
+,Composition,,,,0.8,4.0,4.25,4.5,5.0,4.75,4.25,4.0,4.0,4.25,,4.29
+,Interpretation of the Music/Timing,,,,0.8,3.75,4.0,3.75,4.75,4.0,4.0,3.5,4.0,3.75,,3.89
+,,,,,,,,,,,,,,,,16.2

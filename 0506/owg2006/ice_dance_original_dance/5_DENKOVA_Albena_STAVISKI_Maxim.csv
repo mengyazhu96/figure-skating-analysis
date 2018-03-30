@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,DENKOVA Albena / STAVISKI Maxim,BUL,0,55.85,26.62,29.23,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt4+STw4,,8.2,False,0.71,0,0,1,1,1,1,0,1,1,0,2,1,,8.91
+2,DiSt3,,5.5,False,1.0,1,1,1,1,1,0,1,1,1,1,1,1,,6.5
+3,SlLi4,,4.0,False,0.86,2,1,2,2,1,1,2,2,2,2,1,2,,4.86
+4,CoSp1,,3.0,False,-0.86,-2,-2,-2,-1,-2,-1,-3,-1,-2,-1,-2,-1,,2.14
+5,RoLi4,,4.0,False,0.21,0,0,1,2,-1,1,-1,0,0,0,0,2,,4.21
+,,,24.7,,,,,,,,,,,,,,,,26.62
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,8.0,7.25,7.75,8.25,7.5,7.5,8.0,7.75,7.75,7.25,8.0,8.25,,7.82
+,Transitions / Linking Footwork / Movement  ,,,,0.8,8.0,7.0,7.5,8.25,7.5,7.5,7.75,8.0,7.25,7.25,7.75,8.5,,7.68
+,Performance / Execution  ,,,,0.6,7.75,7.25,7.25,8.0,7.5,7.0,7.5,7.75,7.5,7.25,7.5,8.25,,7.54
+,Choreography / Composition  ,,,,0.6,7.75,7.5,7.5,8.25,7.5,7.0,8.0,8.25,7.5,7.5,8.0,8.25,,7.71
+,Interpretation / Timing  ,,,,1.0,7.75,7.25,7.5,8.25,7.5,7.25,8.0,8.25,7.5,7.25,8.0,8.5,,7.68
+,,,,,,,,,,,,,,,,,,,29.23

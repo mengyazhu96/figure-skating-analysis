@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+27,Zoe JONES / Christopher BOYADJI,GBR,8,42.02,20.88,22.14,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3TwB,,5.0,False,-2.0,-2,-3,-3,-3,-2,-3,-3,-3,-3,,3.0
+2,3T<,<,3.0,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.9
+3,3Li4,,4.5,False,-0.29,0,-1,-1,-1,-1,0,0,-1,0,,4.21
+4,3FTh,,5.5,False,-1.8,-2,-3,-3,-2,-3,-3,-2,-3,-2,,3.7
+5,FiDs2,,3.0,False,0.1,0,0,0,1,0,0,0,-1,1,,3.1
+6,StSq2,,2.6,False,0.0,0,0,1,-1,0,1,0,-1,0,,2.6
+7,PCoSp2,,3.5,False,-0.13,-1,0,0,-1,0,0,-1,-1,0,,3.37
+,,,27.1,,,,,,,,,,,,,20.88
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.5,6.0,5.75,5.5,5.25,6.5,4.5,4.5,6.0,,5.64
+,Transitions,,,,0.8,6.25,6.0,5.25,5.0,5.25,6.75,4.5,4.25,5.75,,5.43
+,Performance,,,,0.8,6.25,5.5,5.25,4.5,5.25,6.25,4.25,4.75,5.5,,5.29
+,Composition,,,,0.8,6.5,6.0,5.5,6.0,5.5,6.75,4.75,4.5,6.0,,5.75
+,Interpretation of the Music,,,,0.8,6.25,6.25,5.5,5.5,5.0,6.5,5.0,4.5,5.5,,5.57
+,,,,,,,,,,,,,,,,22.14
+Deduction,Falls,-1.0

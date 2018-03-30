@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Jorik HENDRICKX,BEL,20,73.68,36.72,37.96,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,1.0,0,0,1,2,1,2,1,1,1,,9.5
+2,CSSp3,,2.6,False,0.5,1,1,1,1,2,1,1,1,1,,3.1
+3,CCoSp3,,3.0,False,0.93,2,1,2,2,2,2,1,2,2,,3.93
+4,3Lz,,6.6,True,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.5
+5,3Lo+2T,,7.04,True,0.5,0,1,1,1,2,0,1,0,1,,7.54
+6,StSq3,,3.3,False,0.79,1,2,2,2,2,2,1,1,1,,4.09
+7,FCSp4,,3.2,False,0.86,2,1,2,2,2,2,1,1,2,,4.06
+,,,34.24,,,,,,,,,,,,,36.72
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.5,8.0,8.0,7.25,8.0,7.75,7.25,7.75,7.5,,7.68
+,Transitions  ,,,,1.0,7.25,7.75,7.75,7.25,7.75,7.25,7.25,7.75,7.25,,7.46
+,Performance  ,,,,1.0,7.25,7.75,8.0,7.0,7.5,7.75,7.5,7.5,7.25,,7.5
+,Composition  ,,,,1.0,7.5,7.75,8.0,7.5,7.75,7.5,7.25,7.75,7.5,,7.61
+,Interpretation of the Music  ,,,,1.0,7.5,8.0,7.75,7.75,8.0,8.0,7.5,7.5,7.5,,7.71
+,,,,,,,,,,,,,,,,37.96
+Deduction,Deductions Falls,-1.0

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Haven DENNEY / Brandon FRAZIER,USA,6,66.5,36.33,30.17,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,1.0,2,0,2,2,2,2,0,1,1,,7.2
+2,3LoTh,,5.0,False,1.2,2,1,2,2,2,1,2,1,2,,6.2
+3,3S,,4.4,False,-1.6,-2,-2,-3,-2,-2,-2,-3,-3,-2,,2.8
+4,BiDs3,,3.2,False,0.7,0,1,1,2,1,2,1,1,0,,3.9
+5,FCCoSp3,,3.0,False,0.57,0,0,2,1,1,1,1,2,2,,3.57
+6,StSq3,,3.3,False,0.86,1,1,1,2,2,2,2,2,2,,4.16
+7,5ALi4,,7.5,False,1.0,1,1,2,1,1,2,2,2,1,,8.5
+,,,32.6,,,,,,,,,,,,,36.33
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,7.25,7.75,7.75,8.25,7.5,8.25,7.5,7.25,7.5,,7.64
+,Transitions  ,,,,0.8,7.5,7.25,7.25,8.0,7.25,8.0,7.25,6.75,7.0,,7.36
+,Performance  ,,,,0.8,7.25,7.5,7.75,7.5,7.5,8.25,6.75,7.25,8.0,,7.54
+,Composition  ,,,,0.8,7.25,7.5,7.5,7.75,7.5,8.25,7.5,7.25,7.5,,7.5
+,Interpretation of the Music  ,,,,0.8,7.5,7.25,7.75,8.0,7.75,8.25,7.5,7.5,7.75,,7.68
+,,,,,,,,,,,,,,,,30.17

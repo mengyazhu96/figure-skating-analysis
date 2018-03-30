@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Nathalie PECHALAT / Fabian BOURZAT,FRA,0,32.38,16.96,15.42,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1S1,,2.0,False,0.4,1,1,1,1,0,0,1,1,0,,2.4
+2,1S2,,2.6,False,0.3,2,1,1,0,1,0,0,1,-1,,2.9
+3,1S3,,1.6,False,0.06,0,0,0,0,0,0,1,1,0,,1.66
+4,2S1,,3.1,False,0.14,0,1,0,1,0,0,1,0,0,,3.24
+5,2S2,,3.6,False,0.42,1,0,1,0,1,0,0,1,-1,,4.02
+6,2S3,,2.6,False,0.14,0,0,1,0,0,0,0,1,0,,2.74
+,,,15.5,,,,,,,,,,,,,16.96
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.75,7.25,6.5,5.75,6.5,6.25,5.0,6.0,6.75,5.25,,6.25
+,Timing  ,,,,0.75,6.75,6.25,5.25,6.25,6.25,5.0,5.5,7.0,4.75,,6.0
+,Performance / Execution  ,,,,0.5,6.75,6.5,5.5,6.5,6.25,5.25,5.75,7.0,5.25,,6.15
+,Interpretation  ,,,,0.5,7.25,6.75,5.75,6.25,6.5,5.25,6.0,7.0,5.0,,6.3
+,,,,,,,,,,,,,,,,15.42

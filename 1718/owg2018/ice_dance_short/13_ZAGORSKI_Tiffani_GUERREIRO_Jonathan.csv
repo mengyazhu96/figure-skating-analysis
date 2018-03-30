@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,ZAGORSKI Tiffani / GUERREIRO Jonathan,OAR,5,66.47,34.15,32.32,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw3,,5.6,False,0.6,1,1,1,1,1,2,0,-1,2,,6.2
+2,1RH3+kpYNY,,4.4,False,0.6,0,1,2,1,1,1,1,1,1,,5.0
+3,StaLi4,,4.5,False,1.11,2,2,2,2,2,2,1,1,2,,5.61
+4,PSt3,,7.1,False,1.1,1,1,1,1,1,1,2,1,1,,8.2
+5,NtMiSt3,,7.1,False,2.04,2,2,2,2,2,2,1,2,1,,9.14
+,,,28.7,,,,,,,,,,,,,34.15
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.75,8.0,8.0,8.25,7.75,8.0,8.0,8.25,8.5,,8.04
+,Transitions,,,,0.8,7.25,8.0,7.75,7.75,7.5,7.75,7.5,8.25,8.25,,7.79
+,Performance,,,,0.8,7.5,8.5,8.5,8.5,8.0,8.25,7.75,8.0,8.5,,8.21
+,Composition,,,,0.8,7.5,8.25,8.25,8.0,8.0,8.0,7.75,8.25,8.5,,8.07
+,Interpretation of the Music/Timing,,,,0.8,7.75,8.5,8.25,8.5,8.0,8.5,8.0,8.5,8.25,,8.29
+,,,,,,,,,,,,,,,,32.32

@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Nora HOFFMANN / Attila ELEK,HUN,0,45.64,24.69,20.95,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt3+STw4,,7.6,False,-0.57,0,0,0,-1,-1,0,0,-1,0,-1,-1,-1,,7.03
+2,RoLi3,,3.5,False,0.36,1,0,0,1,0,1,1,1,1,1,0,0,,3.86
+3,Sp4,,4.0,False,0.5,1,1,1,1,1,1,1,1,1,0,1,1,,4.5
+4,CuLi4,,4.0,False,0.5,1,1,1,1,0,1,1,1,1,1,1,0,,4.5
+5,DiSt2,,4.8,False,0.0,0,0,0,0,0,0,1,0,0,0,-1,0,,4.8
+,,,23.9,,,,,,,,,,,,,,,,24.69
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.25,4.5,5.25,5.75,5.5,5.75,5.5,6.0,5.5,5.5,5.25,5.0,,5.5
+,Linking Footwork / Movement ,,,,0.8,5.25,4.25,5.25,5.75,5.5,5.5,5.5,5.75,5.25,5.0,5.0,4.75,,5.32
+,Performance ,,,,0.6,5.25,4.0,5.5,6.0,5.75,6.0,5.75,6.0,5.5,5.25,5.25,4.5,,5.61
+,Choreography ,,,,0.6,5.5,4.25,5.25,6.0,5.75,5.75,5.75,5.75,5.25,5.25,5.25,5.0,,5.46
+,Interpretation / Timing ,,,,1.0,5.5,4.25,5.5,5.75,5.5,6.0,5.75,6.0,5.75,5.5,5.25,5.0,,5.64
+,,,,,,,,,,,,,,,,,,,20.95

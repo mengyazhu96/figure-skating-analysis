@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Nathalie PECHALAT / Fabian BOURZAT,FRA,0,82.02,43.7,40.32,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,4.7,False,0.3,1,1,0,0,1,0,0,1,1,,5.0
+2,DiSt4,,7.0,False,1.0,1,1,1,1,1,1,1,1,1,,8.0
+3,CuLi,,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+4,SeLi4,,6.4,False,0.7,2,1,2,1,1,2,2,1,2,,7.1
+5,RoLi4+SlLi4,,6.4,False,0.5,0,1,1,1,1,1,2,1,2,,6.9
+6,CiSt3,,7.2,False,1.0,1,1,1,0,1,2,1,1,1,,8.2
+7,Sp3,,4.0,False,-0.2,0,-1,0,0,-1,0,-1,0,0,,3.8
+8,RoLi4,,4.0,False,0.7,1,1,2,1,2,1,2,1,2,,4.7
+,,,39.7,,,,,,,,,,,,,43.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.0,6.5,7.25,6.75,6.75,6.75,6.75,6.25,7.0,,6.75
+,Linking Footwork / Movement  ,,,,1.75,7.0,6.5,7.25,6.5,6.25,6.5,6.25,6.25,6.75,,6.5
+,Performance  ,,,,1.0,7.0,6.75,7.25,6.5,6.75,7.0,6.5,6.25,7.25,,6.7
+,Choreography  ,,,,1.0,7.25,7.0,7.5,7.0,6.75,7.0,6.5,6.5,7.25,,6.9
+,Interpretation / Timing  ,,,,1.0,7.25,7.0,7.5,6.75,6.75,7.25,6.75,6.5,7.5,,6.9
+,,,,,,,,,,,,,,,,40.32
+Deduction,Illegal element,-2.0

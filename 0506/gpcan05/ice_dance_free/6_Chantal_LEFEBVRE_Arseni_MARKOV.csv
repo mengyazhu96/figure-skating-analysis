@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Chantal LEFEBVRE / Arseni MARKOV,CAN,0,73.45,40.6,32.85,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,FSTw4,,4.7,False,0.2,0,0,1,1,0,0,2,0,1,,4.9
+2,CCiSt2,,5.3,False,0.0,0,0,0,0,0,0,0,0,0,,5.3
+3,RoLi4,,4.0,False,0.5,1,1,1,1,1,0,1,1,1,,4.5
+4,SeLi3,,4.9,False,0.4,1,0,1,1,1,1,0,1,0,,5.3
+5,CuLi4,,4.0,False,0.3,1,0,0,1,1,1,1,0,1,,4.3
+6,CoSp1,,3.0,False,-0.5,0,0,-1,-1,-1,-1,-2,-1,0,,2.5
+7,BSTw4,,4.7,False,0.0,1,0,0,0,0,0,2,0,1,,4.7
+8,CSeSt2,,5.3,False,-0.4,0,0,0,0,-1,-1,0,-1,-1,,4.9
+9,RRoLi2,,4.2,False,0.0,1,0,0,0,0,0,0,1,0,,4.2
+,,,40.1,,,,,,,,,,,,,40.6
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,6.0,5.25,5.5,6.0,5.25,5.75,5.25,5.25,5.75,,5.4
+,Linking Footwork / Movement ,,,,1.75,5.75,5.25,5.5,5.75,5.75,5.25,5.0,5.25,6.0,,5.4
+,Performance ,,,,1.0,6.25,5.25,6.0,6.25,5.75,5.25,4.5,5.75,5.75,,5.6
+,Choreography ,,,,1.0,6.0,5.25,5.75,6.0,5.5,5.75,5.25,5.0,6.25,,5.5
+,Interpretation / Timing ,,,,1.0,6.25,5.5,5.75,6.0,5.5,5.75,5.0,5.25,6.0,,5.55
+,,,,,,,,,,,,,,,,32.85

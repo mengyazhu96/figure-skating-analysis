@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Colette Coco KAMINSKI,POL,1,39.83,21.62,18.21,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T+2T,,5.6,False,-1.1,-2,-1,-1,-2,-2,-1,-1,-2,-2,,4.5
+2,3S,,4.4,False,-0.6,-1,-1,-1,-1,0,-1,-1,-1,0,,3.8
+3,CCoSp4,,3.5,False,-0.13,0,-1,0,-1,0,-1,0,-1,0,,3.37
+4,StSq3,,3.3,False,0.0,0,0,0,-1,0,0,0,0,0,,3.3
+5,LSp3,,2.4,False,-0.09,0,-1,0,-2,-1,0,0,0,0,,2.31
+6,2A,,3.63,True,-1.5,-2,-3,-3,-3,-3,-3,-3,-3,-3,,2.13
+7,FSSp2,,2.3,False,-0.09,0,-1,0,-1,0,0,0,0,-1,,2.21
+,,,25.13,,,,,,,,,,,,,21.62
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,4.5,5.0,4.75,4.0,5.0,4.25,5.0,4.5,4.25,,4.61
+,Transitions  ,,,,0.8,4.25,5.25,4.25,4.25,5.0,4.25,4.75,4.75,4.5,,4.54
+,Performance  ,,,,0.8,4.5,4.25,4.75,4.0,4.75,4.5,4.75,4.75,4.75,,4.61
+,Composition  ,,,,0.8,4.75,4.75,4.5,4.25,5.0,4.5,4.5,4.75,4.25,,4.57
+,Interpretation of the Music  ,,,,0.8,4.5,4.5,4.5,4.0,4.75,4.25,4.75,4.5,4.0,,4.43
+,,,,,,,,,,,,,,,,18.21

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+1,Boyang JIN,CHN,7,96.17,57.02,39.15,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4Lz+3T,,17.9,False,0.86,0,1,2,0,1,1,1,1,1,,18.76
+2,FCSp3,,2.8,False,0.29,0,1,1,0,1,0,1,1,0,,3.09
+3,3A,,8.5,False,2.0,2,2,2,2,2,2,2,2,1,,10.5
+4,4T,,11.33,True,1.0,1,0,2,-1,2,2,1,0,1,,12.33
+5,CSSp4,,3.0,False,0.64,1,1,1,1,1,1,2,2,2,,3.64
+6,CCoSp4,,3.5,False,0.5,1,1,1,1,1,1,2,1,1,,4.0
+7,StSq4,,3.9,False,0.8,1,1,1,1,1,2,1,2,1,,4.7
+,,,50.93,,,,,,,,,,,,,57.02
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,7.25,7.25,8.5,7.0,7.75,9.25,8.25,7.75,7.75,,7.79
+,Transitions  ,,,,1.0,7.25,7.0,8.0,7.0,7.5,7.75,7.75,7.5,7.5,,7.46
+,Performance  ,,,,1.0,8.25,8.0,8.5,8.0,8.0,8.25,8.0,8.25,8.0,,8.11
+,Composition  ,,,,1.0,8.0,7.5,8.25,7.75,8.0,7.75,8.0,8.0,8.0,,7.93
+,Interpretation of the Music  ,,,,1.0,7.75,7.75,8.0,7.5,7.75,8.0,8.25,7.75,8.0,,7.86
+,,,,,,,,,,,,,,,,39.15

@@ -1,0 +1,17 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Elena GRUSHINA / Ruslan GONCHAROV,UKR,0,58.79,28.38,30.41,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt2+STw4,,7.0,False,1.29,1,1,1,1,1,1,1,2,2,2,1,1,,8.29
+2,SlLi4,,4.0,False,1.0,2,1,2,2,2,2,2,2,2,2,2,2,,5.0
+3,CoSp3,,4.0,False,0.64,1,1,1,0,1,2,1,2,2,1,1,1,,4.64
+4,DiSt2,,4.8,False,0.86,1,0,1,1,0,1,1,1,1,1,0,-1,,5.66
+5,RoLi4,,4.0,False,0.79,2,1,2,1,1,2,1,2,2,2,1,1,,4.79
+,,,23.8,,,,,,,,,,,,,,,,28.38
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,7.75,7.5,7.75,7.5,8.5,8.25,8.0,8.5,8.0,8.0,7.5,8.0,,7.93
+,Linking Footwork / Movement ,,,,0.8,7.5,7.75,7.75,7.5,8.5,8.0,8.25,8.25,7.75,7.75,7.5,8.0,,7.86
+,Performance ,,,,0.6,7.75,8.0,8.0,7.75,8.75,8.5,8.0,8.5,8.25,8.0,7.5,8.25,,8.11
+,Choreography ,,,,0.6,7.75,7.75,8.0,7.75,8.5,8.0,8.5,8.5,8.0,8.0,7.75,8.25,,8.07
+,Interpretation / Timing ,,,,1.0,8.0,7.75,8.0,7.5,8.5,8.25,8.0,8.5,8.0,8.25,7.75,8.25,,8.07
+,,,,,,,,,,,,,,,,,,,30.41

@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Constanze PAULINUS,GER,0,40.52,20.96,19.56,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,LSp1,,1.2,False,-0.24,0,0,-1,-1,-1,0,0,-1,-1,-1,,0.96
+2,3Lz+COMBO,,6.0,False,-3.0,-3,-3,-3,-3,-3,-3,-2,-3,-3,-3,,3.0
+3,CCoSp3,,3.0,False,0.0,0,0,0,-1,-1,0,0,0,0,0,,3.0
+4,3S,,4.5,False,-0.2,0,-1,0,0,-1,0,0,0,0,0,,4.3
+5,CiSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,0,0,,1.8
+6,2A,,3.3,False,0.0,0,0,0,0,0,0,0,0,0,0,,3.3
+7,SpSt2,,2.3,False,0.0,0,1,0,1,0,0,0,0,0,0,,2.3
+8,FCSp3,,2.3,False,0.0,1,0,0,-2,0,0,0,0,0,0,,2.3
+,,,24.4,,,,,,,,,,,,,,20.96
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.25,5.5,4.75,5.0,4.75,4.5,5.25,5.5,5.0,4.5,,5.05
+,Transition / Linking Footwork ,,,,0.8,5.0,5.25,4.25,5.0,4.5,4.25,4.5,5.0,4.75,4.0,,4.6
+,Performance / Execution ,,,,0.8,5.25,5.5,4.5,5.5,5.0,4.5,5.25,5.25,4.75,4.5,,4.95
+,Choreography / Composition ,,,,0.8,5.0,5.5,4.5,5.25,4.75,4.25,5.0,5.5,4.75,4.25,,4.9
+,Interpretation ,,,,0.8,5.0,5.5,4.5,5.75,5.25,4.5,5.0,5.25,4.75,4.5,,4.95
+,,,,,,,,,,,,,,,,,19.56

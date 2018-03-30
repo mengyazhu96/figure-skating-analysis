@@ -1,0 +1,22 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Misato KOMATSUBARA / Timothy KOLETO,JPN,1,78.58,41.33,39.25,2.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,ChSp1,,1.0,False,0.5,0.0,1.0,1.0,1.0,0.0,2.0,0.0,1.0,1.0,,1.5
+2,SeSt2,,5.6,False,0.16,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,1.0,1.0,,5.76
+3,CuLi4,,4.5,False,0.69,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,,5.19
+4,STw4,,6.6,False,0.26,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,,6.86
+5,RoLi4,,4.5,False,0.6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,5.1
+6,CoSp4,,5.6,False,0.43,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,,6.03
+7,SlLi4,,4.5,False,0.6,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,,5.1
+8,DiSt1,,4.1,False,0.09,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,4.19
+9,ChLi1,,1.0,False,0.6,-2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,,1.6
+,,,37.4,,,,,,,,,,,,,41.33
+,Program Components,,,,Factor
+,Skating Skills,,,,1.2,6.5,6.75,6.5,6.5,6.75,7.0,6.5,6.75,7.0,,6.68
+,Transitions,,,,1.2,6.25,6.5,6.0,6.25,6.5,6.5,6.25,6.0,7.0,,6.32
+,Performance,,,,1.2,6.5,7.0,6.0,6.75,7.0,6.75,6.5,6.75,7.25,,6.75
+,Composition,,,,1.2,6.0,6.75,6.5,7.0,6.5,6.75,6.5,6.5,7.0,,6.64
+,Interpretation of the Music/Timing,,,,1.2,5.25,6.5,6.0,6.0,6.5,6.5,6.25,6.5,7.25,,6.32
+,,,,,,,,,,,,,,,,39.25
+Deduction,Music requirements,-2.0

@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Dorota ZAGORSKA / Mariusz SIUDEK,POL,0,55.05,29.45,25.6,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,3T,,4.0,False,-1.14,-1,-2,-1,-1,-1,-1,-2,-1,-1,-1,-1,-1,,2.86
+2,3STh,,4.5,False,0.7,1,1,2,1,2,1,0,1,1,1,0,1,,5.2
+3,CCoSp2,,2.5,False,-0.01,0,1,0,-1,0,-1,0,1,0,0,-1,-1,,2.49
+4,2Tw3,,4.0,False,0.43,1,0,1,0,2,0,0,1,2,1,0,2,,4.43
+5,PCoSp3,,4.0,False,0.0,1,0,1,0,0,0,0,0,0,0,-1,0,,4.0
+6,SlSt1,,1.8,False,0.0,0,0,0,0,0,0,0,0,1,0,-1,0,,1.8
+7,3Li4,,4.0,False,0.57,2,2,1,1,1,1,1,1,1,2,1,2,,4.57
+8,FiDs4,,3.5,False,0.6,1,0,2,1,1,0,0,1,1,1,1,2,,4.1
+,,,28.3,,,,,,,,,,,,,,,,29.45
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,6.5,6.75,7.0,6.5,6.5,6.5,6.5,6.5,6.5,7.0,5.75,6.25,,6.5
+,Transition / Linking Footwork ,,,,0.8,6.25,6.5,6.75,6.25,6.25,6.25,6.25,6.75,5.75,6.5,5.25,6.0,,6.25
+,Performance / Execution ,,,,0.8,6.25,6.75,6.5,6.5,6.5,5.75,6.75,7.0,6.25,7.0,5.75,5.75,,6.32
+,Choreography / Composition ,,,,0.8,6.0,6.5,6.75,6.5,6.75,6.0,6.5,6.75,6.75,7.0,6.25,6.0,,6.5
+,Interpretation ,,,,0.8,6.25,6.75,7.0,6.5,6.25,6.0,6.5,7.0,6.5,7.0,5.75,6.0,,6.43
+,,,,,,,,,,,,,,,,,,,25.6

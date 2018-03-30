@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+8,Yura MIN / Alexander GAMELIN,KOR,9,85.68,44.28,41.4,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp4,,5.6,False,0.77,3,2,1,1,1,1,2,1,1,,6.37
+2,CuLi4,,4.5,False,0.69,1,2,1,1,2,0,1,1,1,,5.19
+3,SeSt3,,7.1,False,0.47,1,2,0,1,1,0,0,0,0,,7.57
+4,StaLi4,,4.5,False,0.77,2,1,1,1,1,1,1,2,2,,5.27
+5,STw4,,6.6,False,0.43,1,1,0,1,0,1,0,1,1,,7.03
+6,DiSt2,,5.6,False,0.31,1,1,0,0,0,0,0,0,1,,5.91
+7,RoLi4,,4.5,False,0.34,1,1,1,0,0,0,0,1,1,,4.84
+8,ChTw1,,0.7,False,0.2,0,0,0,0,1,0,0,1,1,,0.9
+9,ChLi1,,0.7,False,0.5,1,2,0,1,0,1,1,1,0,,1.2
+,,,39.8,,,,,,,,,,,,,44.28
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,6.75,6.75,7.0,7.0,6.5,7.25,6.5,7.0,6.75,,6.82
+,Transitions  ,,,,1.2,6.25,6.75,7.0,6.75,6.25,7.25,6.5,6.75,6.75,,6.68
+,Performance  ,,,,1.2,6.75,7.25,7.25,6.75,6.75,7.5,6.75,7.0,7.25,,7.0
+,Composition  ,,,,1.2,7.0,6.5,7.25,7.0,6.5,7.25,6.75,7.0,7.0,,6.93
+,Interpretation of the Music / Timing  ,,,,1.2,7.0,7.0,7.25,7.25,6.75,7.5,6.5,7.0,7.25,,7.07
+,,,,,,,,,,,,,,,,41.4

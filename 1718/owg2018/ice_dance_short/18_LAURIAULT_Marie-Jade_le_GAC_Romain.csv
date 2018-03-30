@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+18,LAURIAULT Marie-Jade / le GAC Romain,FRA,6,59.97,31.18,28.79,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,0.69,2,1,1,1,2,1,0,0,2,,7.29
+2,PSt2,,5.6,False,0.63,1,0,0,1,1,1,0,0,1,,6.23
+3,1RH2+kpNNY,,3.8,False,0.34,1,1,0,0,0,1,1,0,1,,4.14
+4,NtMiSt3,,7.1,False,0.63,1,0,0,1,1,0,0,1,1,,7.73
+5,RoLi4,,4.5,False,1.29,2,2,2,2,2,2,2,3,3,,5.79
+,,,27.6,,,,,,,,,,,,,31.18
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,7.25,7.25,7.5,7.5,7.25,7.75,6.75,7.75,,7.39
+,Transitions,,,,0.8,6.75,6.75,6.5,6.75,7.25,6.75,7.5,7.25,7.75,,7.0
+,Performance,,,,0.8,7.0,7.25,7.25,7.25,7.5,7.0,7.75,7.0,8.0,,7.29
+,Composition,,,,0.8,6.75,6.75,7.0,7.25,7.5,6.75,7.5,7.25,8.0,,7.14
+,Interpretation of the Music/Timing,,,,0.8,7.0,6.75,7.25,7.0,7.25,7.25,7.75,6.75,8.0,,7.18
+,,,,,,,,,,,,,,,,28.79

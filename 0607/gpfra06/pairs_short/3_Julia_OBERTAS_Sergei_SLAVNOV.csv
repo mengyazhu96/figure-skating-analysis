@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Julia OBERTAS / Sergei SLAVNOV,RUS,0,55.3,29.34,26.96,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3T,,4.0,False,0.0,0,0,-1,0,0,0,0,-1,0,1,,4.0
+2,3LoTh,,5.0,False,-2.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.0
+3,4Li4,,4.0,False,0.42,1,2,1,1,1,1,1,1,2,2,,4.42
+4,2LzTw2,,3.5,False,0.5,1,0,1,1,1,1,1,1,1,1,,4.0
+5,SpSq1,,1.8,False,0.1,1,0,1,-1,0,0,1,0,0,0,,1.9
+6,FCCoSp4,,3.5,False,-0.12,0,-1,-1,-1,0,-1,0,-1,0,0,,3.38
+7,PCoSp4,,4.5,False,0.0,0,0,0,0,0,0,0,1,0,0,,4.5
+8,BoDs3,,4.0,False,0.14,0,0,0,0,0,1,1,-1,0,0,,4.14
+,,,30.3,,,,,,,,,,,,,,29.34
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.75,6.75,6.75,6.5,6.75,7.0,7.0,6.5,7.25,7.25,,6.95
+,Transition / Linking Footwork  ,,,,0.8,6.25,6.5,6.5,6.0,6.5,7.25,6.5,6.25,6.5,6.75,,6.5
+,Performance / Execution  ,,,,0.8,6.75,6.5,6.5,6.75,6.5,7.0,6.5,6.5,6.75,7.0,,6.7
+,Choreography / Composition  ,,,,0.8,6.5,6.75,6.75,6.25,6.5,7.25,7.0,6.5,6.75,7.25,,6.85
+,Interpretation  ,,,,0.8,6.75,6.5,6.5,6.75,6.5,7.0,6.75,6.25,6.5,7.0,,6.7
+,,,,,,,,,,,,,,,,,26.96
+Deduction,Falls,-1.0

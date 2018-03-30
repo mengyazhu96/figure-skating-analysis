@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Malin MALMBERG / Thomas NORDAHL,SWE,3,34.95,19.17,15.78,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH2+kpNYN,,3.8,False,-0.5,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,,3.3
+2,PSt1,,4.1,False,-0.5,-1.0,-2.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,,3.6
+3,STw2,,4.6,False,-0.79,-2.0,-2.0,-2.0,-2.0,-2.0,0.0,-1.0,-1.0,-1.0,,3.81
+4,RoLi4,,4.5,False,0.43,0.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,,4.93
+5,NtMiSt1,,4.1,False,-0.57,-2.0,-2.0,-1.0,-2.0,-1.0,0.0,-1.0,-1.0,1.0,,3.53
+,,,21.1,,,,,,,,,,,,,19.17
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,3.75,3.75,4.25,4.25,4.0,4.0,3.5,4.5,3.5,,3.93
+,Transitions,,,,0.8,3.5,3.5,4.25,4.25,3.75,4.0,2.75,4.25,3.5,,3.82
+,Performance,,,,0.8,3.25,4.0,4.5,4.5,3.75,4.25,3.25,4.25,4.25,,4.04
+,Composition,,,,0.8,3.5,4.25,4.75,4.5,4.0,4.25,3.5,4.25,4.0,,4.11
+,Interpretation of the Music/Timing,,,,0.8,3.25,3.75,4.0,4.0,3.75,4.0,2.75,4.5,4.0,,3.82
+,,,,,,,,,,,,,,,,15.78

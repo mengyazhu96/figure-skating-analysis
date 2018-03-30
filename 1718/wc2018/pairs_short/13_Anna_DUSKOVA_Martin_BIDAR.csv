@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+13,Anna DUSKOVA / Martin BIDAR,CZE,5,66.29,37.35,28.94,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3T,,4.3,False,0.8,1,1,2,1,1,1,1,0,2,,5.1
+2,3Tw3,,6.2,False,1.1,0,2,2,1,2,2,1,2,1,,7.3
+3,3Li3,,4.0,False,0.71,1,2,1,1,1,1,2,2,2,,4.71
+4,3FTh,,5.5,False,0.5,0,0,1,1,1,1,0,1,1,,6.0
+5,FiDs4,,3.5,False,1.0,1,1,2,2,1,2,0,2,1,,4.5
+6,PCoSp4,,4.5,False,0.64,0,1,2,2,1,1,1,2,1,,5.14
+7,StSq4,,3.9,False,0.7,1,1,1,2,1,1,1,1,1,,4.6
+,,,31.9,,,,,,,,,,,,,37.35
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.25,6.75,7.5,7.5,7.25,7.25,7.0,7.25,7.25,,7.25
+,Transitions,,,,0.8,7.0,6.5,7.25,7.75,7.25,7.25,7.25,6.75,7.0,,7.11
+,Performance,,,,0.8,7.25,6.75,7.5,7.5,7.5,7.75,7.25,7.25,7.5,,7.39
+,Composition,,,,0.8,7.0,6.5,7.5,8.0,7.25,7.5,7.0,6.75,7.25,,7.18
+,Interpretation of the Music,,,,0.8,7.0,7.0,7.5,7.75,7.5,7.25,7.0,7.0,7.5,,7.25
+,,,,,,,,,,,,,,,,28.94

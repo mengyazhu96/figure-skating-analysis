@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+30,Matteo RIZZO,ITA,21,63.14,31.47,31.67,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3A,,8.5,False,-2.14,-2,-3,-2,-2,-2,-2,-3,-2,-2,,6.36
+2,3F+3T<,<,8.3,False,-1.0,-3,-1,-2,-1,-2,-2,-1,-1,-1,,7.3
+3,FCSp2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,,2.3
+4,3Lz,,6.6,True,-0.1,0,-1,0,1,0,-2,0,0,0,,6.5
+5,CSSp4,,3.0,False,0.07,0,0,0,0,0,0,1,1,0,,3.07
+6,StSq1,,1.8,False,0.5,0,1,0,2,2,1,1,1,1,,2.3
+7,CCoSp4,,3.5,False,0.14,0,0,1,0,0,0,1,1,0,,3.64
+,,,34.0,,,,,,,,,,,,,31.47
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,6.25,6.5,6.5,6.0,6.5,6.0,6.25,6.75,6.75,,6.39
+,Transitions  ,,,,1.0,6.0,6.25,6.0,5.5,6.0,5.75,6.0,6.5,6.5,,6.07
+,Performance  ,,,,1.0,6.0,6.75,6.25,6.0,6.75,6.25,6.5,6.75,6.5,,6.43
+,Composition  ,,,,1.0,6.25,6.5,6.5,6.25,6.5,5.5,6.25,6.5,6.75,,6.39
+,Interpretation of the Music  ,,,,1.0,6.25,6.75,6.25,6.0,6.75,5.5,6.25,6.75,6.5,,6.39
+,,,,,,,,,,,,,,,,31.67

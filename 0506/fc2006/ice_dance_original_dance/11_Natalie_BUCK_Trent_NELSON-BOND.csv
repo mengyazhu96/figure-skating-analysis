@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Natalie BUCK / Trent NELSON-BOND,AUS,0,37.58,22.55,16.03,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiSt2+STw3,,6.5,False,0.0,0,0,0,1,0,0,1,0,0,0,0,0,,6.5
+2,CoSp2,,3.5,False,0.14,0,0,0,1,0,0,0,0,0,1,1,0,,3.64
+3,RoLi4,,4.0,False,0.07,0,1,0,0,0,0,1,0,0,1,0,0,,4.07
+4,DiSt1,,4.2,False,0.0,0,0,0,0,0,-1,-1,0,0,0,0,0,,4.2
+5,CuLi4,,4.0,False,0.14,0,1,0,1,1,0,0,0,0,0,0,0,,4.14
+,,,22.2,,,,,,,,,,,,,,,,22.55
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.0,4.75,4.5,4.25,4.0,4.5,4.0,4.0,3.75,4.75,4.0,4.25,,4.25
+,Linking Footwork / Movement ,,,,0.8,3.5,4.5,4.25,4.0,3.75,4.25,3.75,3.25,4.0,4.75,3.75,4.25,,4.07
+,Performance ,,,,0.6,3.75,4.75,4.5,4.0,4.0,4.5,4.25,4.0,4.25,5.0,4.25,4.25,,4.29
+,Choreography ,,,,0.6,3.75,4.5,4.5,4.0,4.0,4.25,4.0,4.0,4.0,5.0,4.0,4.25,,4.18
+,Interpretation / Timing ,,,,1.0,4.0,4.75,4.25,4.25,4.0,4.25,4.0,4.5,4.0,5.0,4.0,4.25,,4.29
+,,,,,,,,,,,,,,,,,,,16.03
+Deduction,Extended lifts,-1.0

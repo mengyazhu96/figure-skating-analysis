@@ -1,0 +1,17 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Laura MUNANA / Luke MUNANA,MEX,0,22.43,12.26,10.17,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,1S1,,1.7,False,-0.12,-1,0,-1,0,-1,0,0,0,,1.58
+2,1S2,,2.2,False,-0.4,-2,-1,-1,0,0,-1,-1,-1,,1.8
+3,1S3,,2.6,False,-0.6,-2,-1,-2,-1,-1,0,-1,-1,,2.0
+4,2S1,,2.5,False,-0.7,-1,-1,-1,-1,-1,0,-1,-1,,1.8
+5,2S2,,3.0,False,-0.56,-1,-1,-1,0,-1,-1,0,-1,,2.44
+6,2S3,,3.5,False,-0.86,-1,-2,-2,-1,-1,-1,-1,-1,,2.64
+,,,15.5,,,,,,,,,,,,12.26
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.75,4.0,4.25,3.5,4.5,4.0,4.5,4.25,4.0,,4.2
+,Timing ,,,,0.75,3.5,4.5,2.75,4.0,3.75,3.75,4.25,4.0,,3.85
+,Performance / Execution ,,,,0.5,4.0,4.5,3.0,4.25,4.0,3.75,4.25,4.0,,4.05
+,Interpretation ,,,,0.5,4.0,4.75,3.5,4.5,4.25,4.0,4.25,4.25,,4.2
+,,,,,,,,,,,,,,,10.17

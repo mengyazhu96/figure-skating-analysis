@@ -1,0 +1,20 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+28,Jiri BELOHRADSKY,CZE,8,58.3,29.81,29.49,1.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F,,5.3,False,-1.1,-2.0,-1.0,-1.0,-2.0,-1.0,-2.0,-2.0,-1.0,-2.0,,4.2
+2,2A,,3.3,False,0.21,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,,3.51
+3,FSSp4,,3.0,False,0.29,0.0,0.0,2.0,1.0,0.0,1.0,1.0,0.0,1.0,,3.29
+4,3Lz+2T,,7.3,False,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,7.3
+5,CCSp4,,3.2,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,3.2
+6,StSq4,,3.9,False,0.7,0.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,,4.6
+7,CCoSp4,,3.5,False,0.21,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,,3.71
+,,,29.5,,,,,,,,,,,,,29.81
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,5.0,6.25,6.25,6.0,6.0,6.25,6.75,5.5,6.25,,6.07
+,Transitions,,,,1.0,4.25,6.0,5.5,6.25,5.5,6.0,6.5,5.0,5.75,,5.71
+,Performance,,,,1.0,5.0,6.25,6.0,6.0,5.5,5.75,6.5,5.25,6.0,,5.82
+,Composition,,,,1.0,4.75,6.0,5.75,6.5,6.0,6.25,6.75,5.0,6.0,,5.93
+,Interpretation of the Music,,,,1.0,5.0,6.25,5.75,6.5,5.75,6.0,6.75,5.75,5.75,,5.96
+,,,,,,,,,,,,,,,,29.49
+Deduction,Deductions Time violation,-1.0

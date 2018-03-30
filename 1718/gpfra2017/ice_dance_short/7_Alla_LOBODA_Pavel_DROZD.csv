@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Alla LOBODA / Pavel DROZD,RUS,5,60.43,30.22,30.21,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw3,,5.6,False,0.51,0.0,2.0,1.0,1.0,1.0,1.0,1.0,-1.0,1.0,,6.11
+2,PSt3,,7.1,False,0.16,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,,7.26
+3,1RH4+kpYYY,,5.0,False,0.19,1.0,1.0,1.0,0.0,-1.0,0.0,1.0,-1.0,0.0,,5.19
+4,NtMiSt2,,5.6,False,0.79,1.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,,6.39
+5,SlLi4,,4.5,False,0.77,2.0,2.0,1.0,1.0,1.0,2.0,2.0,0.0,0.0,,5.27
+,,,27.8,,,,,,,,,,,,,30.22
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,7.5,8.0,7.5,7.75,7.25,7.25,8.0,7.5,7.75,,7.61
+,Transitions,,,,0.8,7.5,7.5,7.25,7.75,6.75,7.25,7.5,7.0,7.5,,7.36
+,Performance,,,,0.8,7.75,7.75,7.75,8.0,7.25,7.0,7.75,7.5,7.75,,7.64
+,Composition,,,,0.8,7.25,8.0,7.5,7.75,7.5,7.25,8.0,7.0,7.5,,7.54
+,Interpretation of the Music/Timing,,,,0.8,7.5,8.25,7.5,8.0,7.25,7.0,8.0,7.25,7.75,,7.61
+,,,,,,,,,,,,,,,,30.21

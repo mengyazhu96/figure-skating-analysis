@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Madison CHOCK / Evan BATES,USA,10,73.55,37.07,36.48,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,1.03,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,,7.63
+2,PSt3,,7.1,False,2.04,2.0,2.0,2.0,3.0,1.0,2.0,1.0,2.0,2.0,,9.14
+3,1RH3+kpYYN,,4.4,False,1.2,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,,5.6
+4,CuLi4,,4.5,False,1.37,3.0,2.0,3.0,2.0,2.0,2.0,3.0,2.0,2.0,,5.87
+5,NtMiSt3,,7.1,False,1.73,2.0,1.0,3.0,2.0,1.0,1.0,1.0,2.0,2.0,,8.83
+,,,29.7,,,,,,,,,,,,,37.07
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.25,9.25,9.25,9.25,8.75,9.0,9.0,8.75,9.0,,9.07
+,Transitions,,,,0.8,9.25,9.0,9.5,9.25,8.5,9.0,8.75,8.75,8.75,,8.96
+,Performance,,,,0.8,9.5,9.0,9.25,9.5,8.75,9.25,9.0,9.0,9.25,,9.18
+,Composition,,,,0.8,9.25,9.25,9.5,9.5,9.0,9.25,9.0,8.75,9.0,,9.18
+,Interpretation of the Music/Timing,,,,0.8,9.5,9.25,9.5,9.5,9.0,9.25,9.0,9.0,9.0,,9.21
+,,,,,,,,,,,,,,,,36.48

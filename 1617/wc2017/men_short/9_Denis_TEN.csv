@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Denis TEN,KAZ,27,90.18,47.59,42.59,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T,,10.3,False,-0.2,0,0,1,-1,0,-2,1,0,-1,,10.1
+2,3Lz+3T,,10.3,False,0.7,1,1,2,1,0,1,1,1,1,,11.0
+3,CCSp4,,3.2,False,0.31,1,-1,1,0,-1,1,1,1,2,,3.51
+4,3A,,9.35,True,0.29,1,0,1,0,0,0,0,0,1,,9.64
+5,StSq4,,3.9,False,1.8,2,3,2,2,3,3,2,3,3,,5.7
+6,FSSp4,,3.0,False,0.64,1,1,1,2,1,1,2,1,2,,3.64
+7,CCoSp4,,3.5,False,0.5,1,1,1,1,0,1,1,1,2,,4.0
+,,,43.55,,,,,,,,,,,,,47.59
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.75,8.75,8.25,8.5,8.5,9.0,8.75,8.75,8.5,,8.64
+,Transitions  ,,,,1.0,8.0,8.25,8.0,7.5,8.0,8.75,8.5,8.5,8.25,,8.21
+,Performance  ,,,,1.0,8.75,8.75,8.0,8.75,8.25,8.75,8.75,9.0,8.5,,8.64
+,Composition  ,,,,1.0,8.5,8.5,8.0,8.0,8.25,8.75,8.5,8.75,8.75,,8.46
+,Interpretation of the Music  ,,,,1.0,8.75,8.75,8.0,8.0,8.75,9.25,8.75,9.0,8.5,,8.64
+,,,,,,,,,,,,,,,,42.59

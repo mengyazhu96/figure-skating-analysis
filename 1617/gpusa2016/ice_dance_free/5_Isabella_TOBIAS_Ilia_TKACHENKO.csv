@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+5,Isabella TOBIAS / Ilia TKACHENKO,ISR,3,98.66,51.22,47.44,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,STw4,,6.6,False,1.03,2,1,1,2,2,1,2,2,3,,7.63
+2,SlLi4,,4.5,False,1.03,2,2,2,2,1,2,1,1,2,,5.53
+3,CiSt3,,7.1,False,1.41,1,1,2,2,1,2,1,0,1,,8.51
+4,Sp4,,5.6,False,0.77,1,1,2,2,1,2,1,1,1,,6.37
+5,RoLi4,,4.5,False,1.11,2,1,2,2,2,2,0,2,2,,5.61
+6,DiSt3,,7.1,False,1.26,1,1,1,2,1,2,1,0,1,,8.36
+7,CuLi4,,4.5,False,1.11,2,2,3,2,2,2,1,1,2,,5.61
+8,ChLi1,,0.7,False,1.2,2,2,2,2,2,1,0,1,2,,1.9
+9,ChTw1,,0.7,False,1.0,2,2,2,2,1,1,1,1,0,,1.7
+,,,41.3,,,,,,,,,,,,,51.22
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,7.75,7.5,7.75,8.0,7.75,8.0,7.25,8.0,8.0,,7.82
+,Transitions  ,,,,1.2,7.25,7.25,7.75,8.25,7.5,7.75,6.5,7.75,7.5,,7.54
+,Performance  ,,,,1.2,8.0,7.75,8.0,8.5,8.25,8.25,7.25,8.0,8.5,,8.11
+,Composition  ,,,,1.2,7.75,7.75,8.0,8.75,8.0,8.0,7.0,8.0,8.25,,7.96
+,Interpretation of the Music / Timing  ,,,,1.2,7.75,7.75,8.25,8.5,8.0,8.25,7.25,8.25,8.5,,8.11
+,,,,,,,,,,,,,,,,47.44

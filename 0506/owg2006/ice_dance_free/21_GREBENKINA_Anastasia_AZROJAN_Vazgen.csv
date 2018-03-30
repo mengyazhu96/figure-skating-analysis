@@ -1,0 +1,22 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,GREBENKINA Anastasia / AZROJAN Vazgen,ARM,0,69.88,42.14,28.74,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,BSTw3,,4.0,False,0.07,0,0,0,0,0,0,1,0,-1,1,0,1,,4.07
+2,SlLi4,,4.0,False,0.5,1,1,1,1,1,1,1,1,0,1,1,1,,4.5
+3,RoLi4+SlLi3,,5.3,False,0.0,0,0,-1,0,1,0,0,0,0,0,0,1,,5.3
+4,CoSp3,,4.0,False,0.0,0,0,0,-1,0,0,0,0,0,0,0,0,,4.0
+5,CCiSt2,,5.3,False,-0.14,0,0,0,-1,-1,0,0,0,0,0,0,0,,5.16
+6,SeLi3,,4.9,False,0.29,1,0,1,0,0,1,1,1,1,1,0,1,,5.19
+7,FSTw4,,4.7,False,0.0,0,0,0,0,-1,0,1,0,0,0,0,0,,4.7
+8,CSeSt2,,5.3,False,-0.29,-1,-1,0,0,-1,0,0,-1,-1,1,0,0,,5.01
+9,RoLi4,,4.0,False,0.21,0,1,0,0,0,0,1,0,0,1,1,1,,4.21
+,,,41.5,,,,,,,,,,,,,,,,42.14
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,5.5,5.0,4.5,5.25,4.75,4.5,4.75,4.75,5.25,5.25,5.0,5.25,,4.86
+,Transitions / Linking Footwork / Movement  ,,,,1.75,4.5,4.75,4.5,4.75,4.75,4.0,4.75,4.5,5.0,5.25,4.75,5.0,,4.68
+,Performance / Execution  ,,,,1.0,5.0,5.25,4.75,4.75,4.75,4.5,4.75,4.75,5.25,5.5,5.0,5.25,,4.86
+,Choreography / Composition  ,,,,1.0,5.25,5.0,4.75,5.0,4.75,4.25,4.75,4.5,5.0,5.5,5.0,5.25,,4.82
+,Interpretation / Timing  ,,,,1.0,5.25,5.0,4.25,4.75,4.5,4.25,5.0,4.75,5.25,5.5,5.25,5.25,,4.79
+,,,,,,,,,,,,,,,,,,,28.74
+Deduction,Extended Lifts,-1.0

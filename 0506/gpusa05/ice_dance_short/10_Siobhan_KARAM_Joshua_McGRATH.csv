@@ -1,0 +1,17 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Siobhan KARAM / Joshua McGRATH,CAN,0,24.04,13.38,10.66,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,1S1,,1.7,False,-0.12,-1,0,0,0,-1,-1,0,0,,1.58
+2,1S2,,2.2,False,-0.3,-1,-1,-1,0,0,0,-1,-1,,1.9
+3,1S3,,2.6,False,-0.3,-1,0,0,0,-1,-1,-1,0,,2.3
+4,2S1,,2.5,False,-0.28,-1,-1,-1,0,0,0,0,0,,2.22
+5,2S2,,3.0,False,-0.56,-2,-1,-1,-1,0,0,-1,-1,,2.44
+6,2S3,,3.5,False,-0.56,-2,0,0,-1,-1,-1,-1,-1,,2.94
+,,,15.5,,,,,,,,,,,,13.38
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.75,4.25,4.25,5.0,5.25,4.25,4.5,4.25,4.5,,4.45
+,Timing ,,,,0.75,3.75,4.5,3.75,4.75,4.0,3.75,4.25,4.25,,4.05
+,Performance / Execution ,,,,0.5,4.25,4.25,4.5,5.0,4.5,4.0,4.25,4.5,,4.35
+,Interpretation ,,,,0.5,4.25,4.0,4.25,5.25,4.25,3.75,4.25,4.25,,4.2
+,,,,,,,,,,,,,,,10.66

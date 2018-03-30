@@ -1,0 +1,22 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Siobhan KARAM / Joshua McGRATH,CAN,0,66.1,39.9,28.2,2.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,CoSp4,,4.7,False,0.4,1,1,1,0,0,0,0,1,1,1,,5.1
+2,BSTw1,,3.0,False,-0.7,-1,-2,-2,-1,-2,-1,-2,-2,-1,-1,,2.3
+3,SeLi4,,5.6,False,0.0,0,-1,0,0,0,0,0,0,0,0,,5.6
+4,CSeSt2,,5.3,False,-0.4,0,-1,0,-1,0,0,-1,0,0,-1,,4.9
+5,CuLi4,,4.0,False,0.0,0,0,0,0,0,0,0,0,1,0,,4.0
+6,SlLi4+RoLi3,,5.3,False,0.2,1,0,1,0,0,0,-1,0,1,0,,5.5
+7,FSTw4,,4.7,False,-0.1,0,-1,0,-1,0,1,0,-1,0,-1,,4.6
+8,CCiSt3,,6.2,False,0.0,0,0,0,0,0,0,0,0,-1,0,,6.2
+9,RoLi2,,3.0,False,-1.3,-3,-3,-2,-3,-3,-3,-3,-3,-3,-3,,1.7
+,,,41.8,,,,,,,,,,,,,,39.9
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,4.75,4.75,4.75,4.75,4.75,5.0,4.75,5.25,4.5,4.75,,4.75
+,Linking Footwork / Movement ,,,,1.75,4.75,4.75,4.75,4.5,4.5,5.0,5.5,4.75,4.25,4.5,,4.75
+,Performance ,,,,1.0,5.0,4.25,4.25,4.5,4.5,4.75,4.75,4.75,4.5,4.5,,4.55
+,Choreography ,,,,1.0,5.0,5.0,4.5,4.75,4.5,4.5,5.5,5.0,4.75,4.75,,4.8
+,Interpretation / Timing ,,,,1.0,5.25,4.75,4.75,5.0,4.75,4.0,4.75,4.75,4.5,4.25,,4.6
+,,,,,,,,,,,,,,,,,28.2
+Deduction,Falls,-2.0

@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,FERNANDEZ Javier,ESP,29,107.58,59.79,47.79,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,4T+3T,,14.6,False,2.0,2,2,2,2,2,2,2,2,2,,16.6
+2,4S,,10.5,False,2.71,3,3,2,3,3,3,2,3,2,,13.21
+3,FUSp4,,2.9,False,0.5,2,1,2,1,0,2,0,1,0,,3.4
+4,3A,,9.35,True,2.43,3,3,2,3,2,2,2,3,2,,11.78
+5,CSSp4,,3.0,False,1.29,3,2,3,3,2,3,2,3,2,,4.29
+6,StSq4,,3.9,False,1.9,3,2,3,3,2,3,3,3,2,,5.8
+7,CCoSp4,,3.5,False,1.21,3,3,2,2,2,2,3,3,2,,4.71
+,,,47.75,,,,,,,,,,,,,59.79
+,Program Components,,,,Factor
+,Skating Skills,,,,1.0,10.0,9.5,9.5,9.5,9.25,9.5,9.0,9.25,9.0,,9.36
+,Transitions,,,,1.0,9.5,9.5,9.5,9.5,9.0,9.5,9.0,9.25,9.25,,9.36
+,Performance,,,,1.0,10.0,9.75,10.0,10.0,9.25,9.5,9.5,9.75,9.5,,9.71
+,Composition,,,,1.0,10.0,10.0,9.5,10.0,9.5,9.75,9.25,9.5,9.5,,9.68
+,Interpretation of the Music,,,,1.0,10.0,9.75,10.0,9.75,9.5,9.75,9.5,9.5,9.25,,9.68
+,,,,,,,,,,,,,,,,47.79

@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,SHIBUTANI Maia / SHIBUTANI Alex,USA,18,77.73,40.33,37.4,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH2+kpNYN,,3.8,False,1.2,1,2,3,2,2,2,2,2,2,,5.0
+2,PSt3,,7.1,False,2.2,2,2,2,2,2,2,3,2,2,,9.3
+3,STw4,,6.6,False,1.71,3,3,3,3,3,2,3,3,2,,8.31
+4,NtMiSt4,,8.6,False,2.99,3,2,3,3,3,2,3,3,2,,11.59
+5,RoLi4,,4.5,False,1.63,3,3,3,3,3,2,2,2,3,,6.13
+,,,30.6,,,,,,,,,,,,,40.33
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.0,9.25,9.75,9.5,9.5,9.25,9.5,9.25,9.25,,9.36
+,Transitions,,,,0.8,8.75,9.0,9.25,9.5,9.5,9.0,9.25,9.0,9.25,,9.18
+,Performance,,,,0.8,9.25,9.25,10.0,9.5,9.75,9.25,9.75,9.25,9.5,,9.46
+,Composition,,,,0.8,9.25,9.0,9.5,9.5,9.5,8.75,9.5,9.5,9.25,,9.36
+,Interpretation of the Music/Timing,,,,0.8,9.0,9.25,9.75,9.5,9.5,9.0,9.75,9.5,9.25,,9.39
+,,,,,,,,,,,,,,,,37.4

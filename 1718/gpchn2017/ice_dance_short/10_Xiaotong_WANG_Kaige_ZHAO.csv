@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Xiaotong WANG / Kaige ZHAO,CHN,1,38.74,18.21,20.53,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,SlLi4,,4.5,False,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,4.5
+2,1RH1+kpNTN,,3.2,False,-0.5,0.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,-1.0,,2.7
+3,PSt1,,4.1,False,-0.36,-1.0,-1.0,0.0,-1.0,0.0,-1.0,0.0,-1.0,-1.0,,3.74
+4,STw2,,4.6,False,-1.0,-2.0,-2.0,-2.0,-2.0,-1.0,-2.0,-2.0,-2.0,-2.0,,3.6
+5,NtDiSt1,,4.1,False,-0.43,-1.0,-1.0,0.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,,3.67
+,,,20.5,,,,,,,,,,,,,18.21
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,4.75,5.25,5.5,5.75,5.75,4.75,5.0,4.75,5.25,,5.18
+,Transitions,,,,0.8,4.5,5.25,5.25,4.75,5.25,4.75,5.0,4.5,5.0,,4.93
+,Performance,,,,0.8,5.0,5.5,5.25,5.25,5.5,5.0,5.0,5.0,5.25,,5.18
+,Composition,,,,0.8,4.75,5.75,5.5,5.75,5.5,5.25,5.0,5.25,5.5,,5.39
+,Interpretation of the Music/Timing,,,,0.8,4.5,5.5,5.0,5.0,5.5,4.75,5.0,4.75,5.0,,5.0
+,,,,,,,,,,,,,,,,20.53

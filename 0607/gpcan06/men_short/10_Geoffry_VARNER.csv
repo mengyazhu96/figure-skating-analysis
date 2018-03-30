@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Geoffry VARNER,USA,0,57.15,30.7,26.45,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+3T,,10.0,False,-0.6,0,0,-1,0,-1,-1,0,-1,-1,-1,,9.4
+2,2A,,3.3,False,0.2,1,0,0,1,0,0,0,0,0,0,,3.5
+3,CiSt2,,2.3,False,0.3,1,0,0,0,0,0,1,1,1,0,,2.6
+4,CCoSp3,,3.0,False,-0.06,0,0,0,0,0,-1,0,1,-1,-1,,2.94
+5,CSSp4,,3.0,False,0.0,0,-1,-1,0,0,0,0,0,0,0,,3.0
+6,3F,,5.5,False,0.2,1,-1,0,0,0,0,0,1,0,0,,5.7
+7,FSSp3,,2.3,False,-0.3,-1,-2,-1,-1,-1,-1,-1,-1,-1,0,,2.0
+8,SlSt1,,1.8,False,-0.24,-1,-1,-1,0,-1,-1,-1,0,-1,-1,,1.56
+,,,31.2,,,,,,,,,,,,,,30.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,5.5,5.75,5.25,5.25,5.5,5.5,6.0,5.5,5.25,5.25,,5.4
+,Transition / Linking Footwork  ,,,,1.0,5.25,4.5,4.75,5.0,5.0,5.0,4.25,5.5,5.0,5.0,,5.05
+,Performance / Execution  ,,,,1.0,5.25,4.75,5.0,5.25,5.25,5.0,6.0,5.75,5.25,5.25,,5.35
+,Choreography / Composition  ,,,,1.0,5.75,6.5,5.25,5.0,5.5,5.25,5.25,5.25,5.25,5.25,,5.3
+,Interpretation  ,,,,1.0,5.5,5.5,4.75,5.25,5.25,5.25,5.0,5.75,5.25,5.5,,5.35
+,,,,,,,,,,,,,,,,,26.45

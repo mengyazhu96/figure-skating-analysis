@@ -1,0 +1,20 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Miki ANDO,JPN,0,65.02,36.7,28.32,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+3Lo,,11.0,False,0.4,2,1,0,0,1,0,0,1,1,0,,11.4
+2,3F,,5.5,False,0.0,-1,-1,0,0,0,1,0,0,-1,0,,5.5
+3,LSp2,,1.8,False,0.0,-1,1,0,0,-1,0,0,0,0,0,,1.8
+4,2A,,3.3,False,0.2,0,0,1,0,0,1,0,0,1,0,,3.5
+5,SpSq4,,3.4,False,1.2,0,2,2,1,1,2,1,1,2,1,,4.6
+6,FSSp4,,3.0,False,0.3,0,0,1,1,1,0,0,0,0,1,,3.3
+7,SlSt2,,2.3,False,0.5,2,1,1,1,1,2,1,1,1,1,,2.8
+8,CCoSp4,,3.5,False,0.3,1,1,1,0,1,1,0,1,1,0,,3.8
+,,,33.8,,,,,,,,,,,,,,36.7
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,8.0,7.25,7.0,7.5,7.25,7.0,7.25,7.25,7.0,,7.15
+,Transition / Linking Footwork  ,,,,0.8,5.75,7.25,6.75,6.5,7.0,7.25,6.75,7.0,7.0,7.0,,6.9
+,Performance / Execution  ,,,,0.8,7.0,7.75,7.0,7.25,7.5,7.25,7.0,7.25,7.25,7.0,,7.15
+,Choreography / Composition  ,,,,0.8,7.25,7.5,7.0,6.75,7.5,7.0,7.0,7.0,7.0,7.25,,7.05
+,Interpretation  ,,,,0.8,7.75,7.75,7.0,7.25,7.25,7.25,7.0,7.25,7.25,7.0,,7.15
+,,,,,,,,,,,,,,,,,28.32

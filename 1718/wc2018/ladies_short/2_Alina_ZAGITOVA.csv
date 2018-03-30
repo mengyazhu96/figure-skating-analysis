@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+2,Alina ZAGITOVA,RUS,34,79.51,42.51,37.0,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,FCSp4,,3.2,False,1.07,2,2,2,2,3,2,3,2,2,,4.27
+2,StSq4,,3.9,False,1.7,2,3,2,3,3,2,3,2,2,,5.6
+3,3Lz+3Lo,,12.21,True,-0.2,0,-1,0,1,-1,-1,0,0,0,,12.01
+4,3F,,5.83,True,1.4,2,3,1,2,1,2,3,2,2,,7.23
+5,2A,,3.63,True,1.0,2,2,2,2,1,2,3,2,2,,4.63
+6,LSp4,,2.7,False,1.36,3,3,2,2,3,3,3,2,3,,4.06
+7,CCoSp4,,3.5,False,1.21,2,3,2,3,3,2,3,2,2,,4.71
+,,,34.97,,,,,,,,,,,,,42.51
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,9.0,8.75,9.25,9.25,9.25,9.0,9.25,9.5,9.5,,9.21
+,Transitions,,,,0.8,8.75,9.0,9.0,9.0,9.0,8.75,9.0,9.25,9.5,,9.0
+,Performance,,,,0.8,8.75,9.25,9.5,9.5,9.25,9.25,9.5,9.5,9.75,,9.39
+,Composition,,,,0.8,8.75,9.5,9.25,9.75,9.0,9.0,9.25,9.5,9.5,,9.29
+,Interpretation of the Music,,,,0.8,9.0,9.5,9.25,9.75,9.25,9.25,9.25,9.5,9.5,,9.36
+,,,,,,,,,,,,,,,,37.0

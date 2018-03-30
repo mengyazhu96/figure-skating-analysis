@@ -1,0 +1,18 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Pernelle CARRON / Mathieu JOST,FRA,0,39.19,22.4,17.79,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,NtMiSt3+FSTw4,,7.6,False,-2.0,-3,-2,-2,-2,-2,-2,-2,-2,-2,-2,,5.6
+2,CoSp2,,3.5,False,-0.3,0,0,-1,-2,-1,-1,0,0,-1,0,,3.2
+3,CuLi4,,4.0,False,0.2,1,0,0,0,0,1,0,0,1,1,,4.2
+4,DiSt3,,5.5,False,-0.2,0,0,0,0,0,1,-1,-1,0,0,,5.3
+5,RoLi4,,4.0,False,0.1,0,0,0,0,0,0,0,1,1,0,,4.1
+,,,24.6,,,,,,,,,,,,,,22.4
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.75,4.5,4.5,4.5,4.5,4.5,4.75,4.75,4.75,5.0,,4.65
+,Linking Footwork / Movement ,,,,0.8,4.75,4.25,4.25,4.25,4.5,5.5,5.0,4.5,4.75,4.75,,4.7
+,Performance ,,,,0.6,4.75,4.5,4.25,3.75,4.75,5.0,4.5,4.75,4.25,4.75,,4.6
+,Choreography ,,,,0.6,4.75,4.5,4.5,4.5,4.5,5.25,5.0,4.75,4.75,5.0,,4.75
+,Interpretation / Timing ,,,,1.0,4.75,4.75,4.5,4.25,4.25,5.0,5.0,4.75,4.5,4.75,,4.7
+,,,,,,,,,,,,,,,,,17.79
+Deduction,Falls,-1.0

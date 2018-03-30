@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,Marina AGANINA / Artem KNYAZEV,UZB,0,40.6,23.22,17.38,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,2A,,3.3,False,-0.1,0,0,-1,-,0,0,0,-1,0,0,-1,0,,3.2
+2,2ATh,,4.0,False,0.0,0,1,0,-,0,0,0,0,0,0,0,0,,4.0
+3,2LzTw1,,3.0,False,-0.13,-1,0,0,-,-1,0,-1,0,-1,0,-1,0,,2.87
+4,SpSq3,,3.1,False,0.0,0,0,0,-,0,0,0,0,0,0,0,0,,3.1
+5,FCCoSp2,,2.5,False,-0.09,0,0,-1,-,1,0,0,-1,-1,-1,-1,0,,2.41
+6,4Li1,,2.5,False,-0.26,-1,-1,-1,-,-1,-1,-2,-1,0,-1,-2,0,,2.24
+7,BoDs1,,3.0,False,-0.6,-1,-1,0,-,-1,0,-1,-1,-1,-2,-2,-2,,2.4
+8,PCoSp1,,3.0,False,0.0,0,0,-1,-,0,0,0,0,0,-1,0,0,,3.0
+,,,24.4,,,,,,,,,,,,,,,,23.22
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,4.5,4.5,5.0,-,4.5,4.5,4.5,5.25,4.25,4.5,4.5,4.5,,4.57
+,Transition / Linking Footwork ,,,,0.8,4.25,4.25,4.75,-,3.75,4.25,4.0,4.75,4.0,4.25,4.25,4.25,,4.25
+,Performance / Execution ,,,,0.8,3.75,4.0,5.0,-,4.0,4.5,4.25,4.75,4.0,4.5,4.5,4.0,,4.21
+,Choreography / Composition ,,,,0.8,4.0,4.25,4.75,-,4.0,4.5,4.25,5.0,4.25,4.25,4.25,4.25,,4.32
+,Interpretation ,,,,0.8,4.0,4.25,5.0,-,3.5,4.5,4.25,5.0,4.0,4.75,4.0,4.5,,4.36
+,,,,,,,,,,,,,,,,,,,17.38

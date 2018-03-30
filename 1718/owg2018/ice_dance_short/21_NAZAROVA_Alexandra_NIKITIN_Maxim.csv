@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+21,NAZAROVA Alexandra / NIKITIN Maxim,UKR,2,57.97,27.26,30.71,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,1RH2+kpTTY,,3.8,False,0.6,0,1,2,1,1,1,1,1,1,,4.4
+2,PSt2,,5.6,False,0.63,-1,0,1,1,1,1,0,0,1,,6.23
+3,SlLi4,,4.5,False,0.86,0,1,2,2,2,2,1,0,2,,5.36
+4,STw2,,4.6,False,-0.03,-1,1,1,-1,-1,-1,1,-1,1,,4.57
+5,NtMiSt2,,5.6,False,1.1,0,1,2,1,1,1,1,1,1,,6.7
+,,,24.1,,,,,,,,,,,,,27.26
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,6.5,7.75,8.0,7.75,7.5,7.75,7.5,7.25,8.0,,7.64
+,Transitions,,,,0.8,6.0,7.75,8.0,8.0,7.0,7.25,7.0,7.5,7.75,,7.46
+,Performance,,,,0.8,6.5,8.25,8.25,8.25,7.5,7.5,7.5,7.25,8.0,,7.75
+,Composition,,,,0.8,6.25,8.0,8.25,8.25,7.75,7.5,7.25,7.5,8.25,,7.79
+,Interpretation of the Music/Timing,,,,0.8,6.5,8.25,8.25,8.25,7.5,7.25,7.5,7.5,8.0,,7.75
+,,,,,,,,,,,,,,,,30.71

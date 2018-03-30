@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Sofia EVDOKIMOVA / Egor BAZIN,RUS,1,77.54,38.41,39.13,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,CoSp4,,5.6,False,0.6,1,2,1,1,1,1,1,0,1,,6.2
+2,SeSt2,,5.6,False,0.0,0,1,0,0,0,-1,0,0,0,,5.6
+3,CuLi2,,3.0,False,-0.86,-2,-2,-1,-2,-2,-1,-2,-2,-1,,2.14
+4,DiSt2,,5.6,False,0.0,0,0,0,0,0,0,0,0,0,,5.6
+5,SlLi4,,4.5,False,0.6,2,1,2,-1,1,1,1,0,1,,5.1
+6,STw4,,6.6,False,0.43,1,1,2,0,0,1,1,-1,1,,7.03
+7,RoLi4,,4.5,False,0.34,1,1,0,0,1,1,1,0,0,,4.84
+8,ChSp1,,0.7,False,0.2,0,0,1,-1,0,1,1,0,0,,0.9
+9,ChLi1,,0.7,False,0.3,0,0,1,-1,0,1,1,1,0,,1.0
+,,,36.8,,,,,,,,,,,,,38.41
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.2,7.0,7.0,6.5,6.0,6.5,6.25,6.5,5.75,7.0,,6.54
+,Transitions  ,,,,1.2,6.75,6.75,6.75,5.5,6.0,6.25,6.25,6.5,6.75,,6.46
+,Performance  ,,,,1.2,7.25,7.0,7.0,5.75,6.25,6.0,6.75,5.75,6.75,,6.5
+,Composition  ,,,,1.2,7.25,7.25,6.75,6.0,6.25,6.25,6.5,6.0,7.0,,6.57
+,Interpretation of the Music / Timing  ,,,,1.2,7.0,7.25,6.75,5.5,6.0,6.0,6.5,6.5,7.0,,6.54
+,,,,,,,,,,,,,,,,39.13

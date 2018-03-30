@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+11,Christopher MABEE,CAN,0,42.4,20.8,24.6,3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3A,,7.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,4.5
+2,3Lz+2T,,7.3,False,-2.0,-2,-2,-2,-2,-1,-2,-2,-2,0,-2,,5.3
+3,CiSt1,,1.8,False,-0.06,0,0,-1,0,0,0,0,0,-1,-1,,1.74
+4,CSSp2,,1.7,False,0.0,0,0,-1,0,0,0,0,0,0,1,,1.7
+5,3F,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+6,CCoSp2,,2.5,False,0.0,0,1,-1,0,0,0,0,0,0,0,,2.5
+7,SlSt1,,1.8,False,-1.0,-3,-3,-3,-3,-3,-3,-2,-2,-3,-3,,0.8
+8,FSSp2,,2.0,False,-0.24,-1,0,-1,0,-1,-1,0,-1,-1,0,,1.76
+,,,30.1,,,,,,,,,,,,,,20.8
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.0,5.25,5.0,4.0,5.0,5.25,6.5,5.75,5.25,5.5,5.25,,5.2
+,Transition / Linking Footwork ,,,,1.0,4.5,4.75,3.75,4.5,5.0,6.5,5.5,5.0,5.25,5.0,,4.85
+,Performance / Execution ,,,,1.0,4.75,4.5,4.75,4.5,5.0,6.25,4.75,4.75,5.25,4.75,,4.8
+,Choreography / Composition ,,,,1.0,4.75,4.5,4.75,5.0,5.25,6.25,5.0,5.0,5.25,5.0,,4.95
+,Interpretation ,,,,1.0,4.5,4.75,4.0,5.0,5.0,6.25,5.25,4.75,5.25,5.0,,4.8
+,,,,,,,,,,,,,,,,,24.6
+Deduction,Falls,-3.0

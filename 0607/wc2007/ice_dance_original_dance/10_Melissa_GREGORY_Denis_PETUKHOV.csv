@@ -1,0 +1,18 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,Melissa GREGORY / Denis PETUKHOV,USA,0,53.15,29.45,23.7,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,NtMiTw4,,3.3,False,-0.07,0,-1,0,-1,0,1,0,1,1,0,0,0,,3.23
+2,NtMiSt4,,4.3,False,0.43,0,0,1,1,1,1,1,1,0,1,1,1,,4.73
+3,SlLi4,,4.0,False,0.5,1,1,1,1,1,1,1,0,1,0,1,1,,4.5
+4,Sp4,,4.7,False,0.43,1,1,0,1,0,1,1,2,1,1,1,1,,5.13
+5,DiSt4,,7.0,False,0.57,1,0,0,1,1,1,0,1,1,1,0,1,,7.57
+6,RoLi4,,4.0,False,0.29,0,1,1,1,1,0,1,0,0,0,0,0,,4.29
+,,,27.3,,,,,,,,,,,,,,,,29.45
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,6.25,6.25,6.0,6.25,6.5,6.5,6.5,6.25,6.0,6.0,6.5,6.75,,6.39
+,Linking Footwork / Movement  ,,,,0.8,5.75,6.0,5.75,5.75,6.25,6.25,6.0,6.0,5.75,5.75,6.0,6.5,,6.0
+,Performance  ,,,,0.6,6.0,6.25,5.75,6.0,7.0,6.25,6.25,6.25,6.0,6.25,6.25,6.75,,6.25
+,Choreography  ,,,,0.6,6.25,6.25,5.75,6.0,6.75,6.5,6.5,6.0,6.0,6.25,6.0,6.75,,6.32
+,Interpretation / Timing  ,,,,1.0,6.0,6.5,5.5,6.0,6.5,6.25,6.25,6.5,6.0,6.25,6.25,7.0,,6.25
+,,,,,,,,,,,,,,,,,,,23.7

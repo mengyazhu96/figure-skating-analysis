@@ -1,0 +1,23 @@
+8
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+12,Julia GOLOVINA / Oleg VOIKO,UKR,0,57.29,34.68,25.61,3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,Ref,Scores of Panel
+1,CoSp2,,3.5,False,-0.5,1,0,-1,-1,-1,0,-2,-2,,3.0
+2,FSTw4,,4.7,False,-0.5,-1,-1,-1,-1,-1,-1,-1,0,,4.2
+3,CuLi4+RoLi2,,4.9,False,-0.1,0,0,0,0,0,0,-1,-1,,4.8
+4,CSeSt2,,5.3,False,-0.2,-2,0,0,0,0,0,-1,-1,,5.1
+5,BSTw4,,4.7,False,-0.3,0,0,-1,0,-1,0,-1,-1,,4.4
+6,SeLi3,,4.9,False,-0.4,1,0,-1,-1,-1,0,-2,-1,,4.5
+7,SlLi4,,4.0,False,-1.12,-3,-2,-2,-3,-2,-2,-3,-3,,2.88
+8,CCiSt1,,4.5,False,-1.6,-2,0,-1,-2,-1,-2,-2,-2,,2.9
+9,RoLi2,,3.0,False,-0.1,0,0,0,-1,0,0,-1,0,,2.9
+,,,39.5,,,,,,,,,,,,34.68
+,Program Components,,,,Factor
+,Skating Skills ,,,,1.25,4.5,4.5,4.25,4.5,4.25,5.0,4.0,4.0,,4.3
+,Linking Footwork / Movement ,,,,1.75,4.5,4.75,4.5,4.0,4.25,4.5,4.25,3.75,,4.3
+,Performance ,,,,1.0,4.25,4.75,4.25,4.0,4.0,4.5,4.0,4.0,,4.15
+,Choreography ,,,,1.0,4.25,5.0,4.5,4.25,4.0,4.75,4.25,4.0,,4.35
+,Interpretation / Timing ,,,,1.0,3.75,4.75,4.25,4.25,4.25,4.25,4.0,3.75,,4.2
+,,,,,,,,,,,,,,,25.61
+Deduction,Extended lifts,-2.0
+Deduction,Falls,-1.0

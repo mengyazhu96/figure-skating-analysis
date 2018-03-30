@@ -1,0 +1,21 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+14,Marylin PLA / Yannick BONHEUR,FRA,0,44.55,24.64,20.91,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,2T,,1.3,False,-1.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,0.3
+2,3STh,,4.5,False,0.1,0,0,1,0,1,1,0,0,0,0,-1,-1,,4.6
+3,FCCoSp2,,2.5,False,0.1,0,0,0,0,1,-1,0,1,0,0,-1,1,,2.6
+4,2Tw3,,4.0,False,0.21,0,0,0,0,1,1,0,0,1,0,0,1,,4.21
+5,3Li4,,4.0,False,-0.13,0,0,0,-1,0,-1,-1,1,-1,0,-1,0,,3.87
+6,SlSt2,,2.3,False,0.0,0,0,0,0,0,0,0,0,0,0,0,0,,2.3
+7,FiDs1,,2.8,False,0.0,0,0,0,0,0,0,0,0,0,0,-1,0,,2.8
+8,PCoSp3,,4.0,False,-0.04,0,0,-1,0,0,-1,0,0,0,0,0,0,,3.96
+,,,25.4,,,,,,,,,,,,,,,,24.64
+,Program Components,,,,Factor
+,Skating Skills ,,,,0.8,5.5,5.5,5.25,5.5,5.25,5.5,5.25,5.5,5.75,5.25,5.25,6.0,,5.43
+,Transition / Linking Footwork ,,,,0.8,5.25,5.25,4.75,5.0,4.75,5.0,5.0,5.25,5.25,4.5,4.25,5.75,,5.04
+,Performance / Execution ,,,,0.8,5.25,5.75,5.0,5.25,5.0,5.25,5.25,6.0,5.5,4.75,5.25,5.5,,5.36
+,Choreography / Composition ,,,,0.8,5.25,5.5,5.0,5.0,4.75,5.0,5.0,5.75,5.25,4.75,5.0,5.5,,5.18
+,Interpretation ,,,,0.8,5.0,5.75,4.75,5.25,4.75,5.25,5.25,6.0,5.0,4.75,4.5,5.25,,5.14
+,,,,,,,,,,,,,,,,,,,20.91
+Deduction,Falls,-1.0

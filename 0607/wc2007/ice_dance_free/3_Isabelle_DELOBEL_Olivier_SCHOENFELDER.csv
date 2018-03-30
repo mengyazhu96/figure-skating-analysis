@@ -1,0 +1,20 @@
+12
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+3,Isabelle DELOBEL / Olivier SCHOENFELDER,FRA,0,99.17,52.2,46.97,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,11,12,Ref,Scores of Panel
+1,RoLi4,,4.0,False,0.5,1,1,2,1,1,1,2,1,1,1,1,1,,4.5
+2,CiSt4,,8.0,False,1.86,1,1,2,1,2,2,2,1,2,2,2,2,,9.86
+3,STw4,,4.7,False,0.5,1,0,1,1,0,1,1,1,1,2,2,0,,5.2
+4,SeLi4,,6.4,False,1.07,3,2,2,2,2,2,2,2,1,2,2,3,,7.47
+5,Sp4,,4.7,False,0.64,0,0,1,1,1,2,1,1,1,2,2,1,,5.34
+6,CuLi3,,3.5,False,0.64,2,2,1,2,1,2,2,1,1,1,1,1,,4.14
+7,MiSt4,,7.0,False,1.29,1,1,1,0,1,1,2,1,1,2,2,1,,8.29
+8,SlLi4+RoLi4,,6.4,False,1.0,2,2,1,2,1,2,2,2,2,2,2,2,,7.4
+,,,44.7,,,,,,,,,,,,,,,,52.2
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.25,7.75,8.0,8.25,7.5,8.0,8.0,8.0,7.75,8.0,7.75,8.0,7.75,,7.89
+,Linking Footwork / Movement  ,,,,1.75,7.5,8.0,7.75,7.5,7.75,7.75,7.75,7.75,7.5,7.75,7.75,7.0,,7.68
+,Performance  ,,,,1.0,7.75,7.5,7.75,8.0,8.0,7.75,7.75,7.75,8.0,7.75,8.0,7.5,,7.82
+,Choreography  ,,,,1.0,8.0,7.5,8.25,7.75,7.75,8.0,7.75,8.0,8.0,8.0,7.75,7.25,,7.89
+,Interpretation / Timing  ,,,,1.0,8.0,7.75,7.5,7.5,8.0,8.0,8.0,8.0,8.25,8.0,7.75,7.75,,7.96
+,,,,,,,,,,,,,,,,,,,46.97

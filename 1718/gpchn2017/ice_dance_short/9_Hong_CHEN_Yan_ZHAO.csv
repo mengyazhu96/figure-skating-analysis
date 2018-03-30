@@ -1,0 +1,17 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+9,Hong CHEN / Yan ZHAO,CHN,2,47.39,23.14,24.25,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,PSt1,,4.1,False,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,,4.1
+2,1RH1+kpNNN,,3.2,False,-0.21,-1.0,0.0,-1.0,0.0,0.0,-1.0,0.0,-1.0,0.0,,2.99
+3,CuLi4,,4.5,False,0.34,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,,4.84
+4,NtMiSt1,,4.1,False,0.17,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,,4.27
+5,STw4,,6.6,False,0.34,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,,6.94
+,,,22.5,,,,,,,,,,,,,23.14
+,Program Components,,,,Factor
+,Skating Skills,,,,0.8,5.5,5.75,6.25,6.25,6.25,6.25,6.25,6.0,6.25,,6.14
+,Transitions,,,,0.8,4.75,5.5,6.0,5.75,5.75,5.75,5.75,6.0,6.25,,5.79
+,Performance,,,,0.8,5.25,6.0,6.5,6.0,6.5,6.25,6.25,6.25,6.25,,6.21
+,Composition,,,,0.8,5.25,5.75,6.25,6.25,6.25,6.25,6.0,6.25,6.5,,6.14
+,Interpretation of the Music/Timing,,,,0.8,4.5,6.0,6.25,5.75,6.25,5.75,6.5,6.0,6.25,,6.04
+,,,,,,,,,,,,,,,,24.25

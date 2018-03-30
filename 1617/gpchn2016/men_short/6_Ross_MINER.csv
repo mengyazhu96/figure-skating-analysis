@@ -1,0 +1,19 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+6,Ross MINER,USA,2,76.73,38.74,37.99,0.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3F,!,5.3,False,0.4,1,0,-1,1,0,1,1,0,1,,5.7
+2,3A,,8.5,False,0.71,-1,1,1,0,0,2,1,1,1,,9.21
+3,StSq4,,3.9,False,0.9,1,2,1,1,1,2,2,1,1,,4.8
+4,CCSp3,,2.8,False,0.36,1,1,0,0,-1,1,1,1,1,,3.16
+5,3Lz+2T,,8.03,True,0.2,0,0,0,1,0,1,1,0,0,,8.23
+6,FSSp4,,3.0,False,0.57,2,2,1,1,1,1,1,1,1,,3.57
+7,CCoSp4,,3.5,False,0.57,1,1,1,1,2,2,1,1,1,,4.07
+,,,35.03,,,,,,,,,,,,,38.74
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.0,8.0,7.75,7.5,8.0,7.25,7.75,7.5,7.5,8.0,,7.71
+,Transitions  ,,,,1.0,7.75,7.5,7.25,7.75,7.0,7.5,7.5,7.0,7.75,,7.46
+,Performance  ,,,,1.0,7.75,7.25,7.0,8.0,7.5,7.75,7.5,7.5,8.0,,7.61
+,Composition  ,,,,1.0,8.25,7.5,7.5,7.75,7.5,7.75,7.75,7.5,7.75,,7.64
+,Interpretation of the Music  ,,,,1.0,7.5,7.75,7.25,7.75,7.25,8.0,7.5,7.25,8.0,,7.57
+,,,,,,,,,,,,,,,,37.99

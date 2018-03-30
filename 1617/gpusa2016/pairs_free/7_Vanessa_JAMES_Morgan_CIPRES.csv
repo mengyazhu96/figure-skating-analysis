@@ -1,0 +1,25 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+7,Vanessa JAMES / Morgan CIPRES,FRA,6,108.87,52.6,59.27,3.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,3Tw3,,6.2,False,1.0,1,1,1,1,2,2,1,2,2,,7.2
+2,3T+COMBO,,4.3,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.2
+3,4STh,,8.2,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,,5.2
+4,5BLi4,,7.0,False,0.1,0,0,1,-1,0,1,0,-1,1,,7.1
+5,2S,,1.3,False,-0.4,-2,-2,-2,-2,-2,-2,-2,-2,-2,,0.9
+6,PCoSp2,,3.5,False,0.43,1,2,0,0,1,1,1,0,2,,3.93
+7,ChSq1,,2.0,False,0.7,1,1,1,1,1,1,1,1,1,,2.7
+8,5ALi4,,7.5,False,1.1,1,2,1,1,2,2,2,1,2,,8.6
+9,3FTh,,5.5,False,-2.1,-3,-3,-3,-3,-3,-3,-3,-3,-3,,3.4
+10,FiDs4,,3.5,False,0.3,0,2,0,-1,1,0,1,0,1,,3.8
+11,FCCoSp2,,2.5,False,0.07,0,0,0,0,0,1,0,0,1,,2.57
+12,3Li4,,4.5,False,0.5,1,1,0,1,2,1,1,0,2,,5.0
+,,,56.0,,,,,,,,,,,,,52.6
+,Program Components,,,,Factor
+,Skating Skills  ,,,,1.6,7.25,8.25,7.25,7.0,7.75,7.5,7.5,7.5,7.75,,7.5
+,Transitions  ,,,,1.6,7.0,8.0,7.0,7.0,7.25,7.25,7.75,7.0,7.5,,7.25
+,Performance  ,,,,1.6,6.5,7.75,7.25,7.25,7.0,6.75,6.75,7.25,7.5,,7.11
+,Composition  ,,,,1.6,7.0,8.25,8.0,7.0,8.0,7.25,7.75,7.75,8.0,,7.68
+,Interpretation of the Music  ,,,,1.6,6.75,8.25,8.0,7.0,7.5,7.5,7.25,7.5,7.75,,7.5
+,,,,,,,,,,,,,,,,59.27
+Deduction,Deductions Falls,-3.0

@@ -1,0 +1,21 @@
+9
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+10,COOMES Penny / BUCKLAND Nicholas,GBR,12,101.96,51.66,50.3,0.0
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,Ref,Scores of Panel
+1,ChSp1,,1.0,False,1.7,1,3,2,3,3,3,1,2,3,,2.7
+2,CuLi4,,4.5,False,1.29,2,3,2,3,1,3,2,1,2,,5.79
+3,CiSt3,,7.1,False,1.1,1,1,1,2,0,2,1,0,1,,8.2
+4,RoLi4,,4.5,False,1.46,2,3,2,2,3,3,3,2,1,,5.96
+5,STw4,,6.6,False,0.34,0,0,1,2,0,1,1,0,1,,6.94
+6,CoSp4,,5.6,False,0.86,1,1,1,2,1,2,2,1,2,,6.46
+7,SlLi4,,4.5,False,1.37,2,3,3,2,2,2,3,0,2,,5.87
+8,DiSt3,,7.1,False,0.94,1,1,2,1,0,1,1,0,1,,8.04
+9,ChLi1,,1.0,False,0.7,0,2,1,1,0,2,2,-1,1,,1.7
+,,,41.9,,,,,,,,,,,,,51.66
+,Program Components,,,,Factor
+,Skating Skills,,,,1.2,8.5,8.5,8.5,8.25,8.0,8.5,8.5,7.5,8.0,,8.32
+,Transitions,,,,1.2,8.25,8.5,8.0,8.0,8.5,8.5,8.75,7.5,7.75,,8.21
+,Performance,,,,1.2,8.25,8.75,8.75,8.5,8.0,8.75,8.75,7.5,7.75,,8.39
+,Composition,,,,1.2,8.5,8.5,8.5,8.75,8.75,9.0,8.75,7.75,8.25,,8.57
+,Interpretation of the Music/Timing,,,,1.2,8.5,8.5,8.5,8.5,8.5,8.75,8.5,7.75,8.0,,8.43
+,,,,,,,,,,,,,,,,50.3

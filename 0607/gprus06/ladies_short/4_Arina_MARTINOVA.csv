@@ -1,0 +1,21 @@
+10
+Rank,Name,Nation,Starting Number,Total Segment Score,Total Element Score,Total Program Component Score (factored),Total Deductions
+4,Arina MARTINOVA,RUS,0,49.46,27.46,23.0,1.00
+#,Executed Elements,Info,Base Value,Bonus,GOE,1,2,3,4,5,6,7,8,9,10,Ref,Scores of Panel
+1,3Lz+2T,,7.3,False,0.4,1,-1,0,1,-1,-1,0,0,1,1,,7.7
+2,3F,,5.5,False,-3.0,-3,-3,-3,-3,-3,-3,-3,-3,-3,-3,,2.5
+3,SpSq4,,3.4,False,0.6,1,1,0,0,1,1,0,1,2,1,,4.0
+4,2A,,3.3,False,0.0,0,0,0,1,1,0,0,0,0,0,,3.3
+5,CCoSp4,,3.5,False,0.1,0,1,0,1,1,0,0,0,0,0,,3.6
+6,CiSt2,,2.3,False,0.1,1,0,0,0,0,1,0,1,0,0,,2.4
+7,FCSp2,,2.0,False,-0.24,-1,-1,-1,-1,-1,-2,-2,0,-1,0,,1.76
+8,LSp2,,1.8,False,0.4,1,1,0,1,1,1,0,1,1,1,,2.2
+,,,29.1,,,,,,,,,,,,,,27.46
+,Program Components,,,,Factor
+,Skating Skills  ,,,,0.8,5.75,6.0,6.0,6.25,6.75,5.5,5.5,5.75,6.75,5.75,,5.85
+,Transition / Linking Footwork  ,,,,0.8,6.25,5.5,5.75,5.75,6.5,5.75,5.5,5.5,6.25,5.5,,5.6
+,Performance / Execution  ,,,,0.8,6.5,5.75,6.0,6.0,6.5,5.75,5.5,5.5,6.5,5.75,,5.8
+,Choreography / Composition  ,,,,0.8,6.5,5.5,6.0,5.75,6.5,5.75,5.5,5.5,6.75,5.75,,5.7
+,Interpretation  ,,,,0.8,6.5,5.75,6.0,5.75,6.5,5.75,5.25,5.75,7.0,5.75,,5.8
+,,,,,,,,,,,,,,,,,23.0
+Deduction,Falls,-1.0
